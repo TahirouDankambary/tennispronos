@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Cfmuniversitateacluj.png",
-    "name1": "Cluj-Napoca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
-    "name2": "Valencia",
-    "champ": "Eurocup",
-    "heure": "16H00",
-    "date": "09/10/2024",
-    "pro": "Total 2 (80)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/800px-Logo_AS_Monaco_Basket.svg.png",
-    "name1": "Monaco",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaFqZpbppHD_IKQgLnqUbL9uC6VlFrTEz84g&s",
-    "name2": "Maccabi Tel Aviv",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/800px-Anadolu_Efes_SK_logo.svg.png",
+    "name1": "Anadolu Efes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/1200px-Fenerbah%C3%A7e.svg.png",
+    "name2": "Fenerbahce",
     "champ": "Euroligue",
-    "heure": "17H00",
-    "date": "09/10/2024",
+    "heure": "17H30",
+    "date": "10/10/2024",
     "pro": "Total (160)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1f/%C5%BDFK_Crvena_zvezda_logo.png",
-    "name1": "Crvena zvezda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6a/Saski_Baskonia.png",
-    "name2": "Baskonia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Panathinaikos_BC_logo.svg/1200px-Panathinaikos_BC_logo.svg.png",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+    "name2": "Bayern",
     "champ": "Euroligue",
-    "heure": "18H00",
-    "date": "09/10/2024",
+    "heure": "18H15",
+    "date": "10/10/2024",
+    "pro": "Total (160)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/FK_Partizan.svg/1200px-FK_Partizan.svg.png",
+    "name2": "Partizan",
+    "champ": "Euroligue",
+    "heure": "18H45",
+    "date": "10/10/2024",
     "pro": "Total (162)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/59/Aquila_Basket_Trento_logo.svg",
-    "name1": "Trento",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/KK_Budu%C4%87nost_logo.svg/1200px-KK_Budu%C4%87nost_logo.svg.png",
-    "name2": "Buducnost",
-    "champ": "Eurocup",
-    "heure": "18H00",
-    "date": "09/10/2024",
-    "pro": "Total (162)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
+    "name1": "Cavaliers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/1200px-Indiana_Pacers.svg.png",
+    "name2": "Pacers",
+    "champ": "NBA",
+    "heure": "23H00",
+    "date": "10/10/2024",
+    "pro": "Total (225)"
   }
 ]
