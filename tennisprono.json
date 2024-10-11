@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/800px-Anadolu_Efes_SK_logo.svg.png",
-    "name1": "Anadolu Efes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/1200px-Fenerbah%C3%A7e.svg.png",
-    "name2": "Fenerbahce",
-    "champ": "Euroligue",
-    "heure": "17H30",
-    "date": "10/10/2024",
-    "pro": "Total (160)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Panathinaikos_BC_logo.svg/1200px-Panathinaikos_BC_logo.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-    "name2": "Bayern",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
+    "name1": "Olympiacos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/0e/BC_%C5%BDalgiris_logo.svg",
+    "name2": "Zalgiris",
     "champ": "Euroligue",
     "heure": "18H15",
-    "date": "10/10/2024",
-    "pro": "Total (160)"
+    "date": "11/10/2024",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/FK_Partizan.svg/1200px-FK_Partizan.svg.png",
-    "name2": "Partizan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/7/76/Logo_ALBA_Berlin.svg/936px-Logo_ALBA_Berlin.svg.png",
+    "name2": "ALBA Berlin",
     "champ": "Euroligue",
-    "heure": "18H45",
-    "date": "10/10/2024",
-    "pro": "Total (162)"
+    "heure": "18H30",
+    "date": "11/10/2024",
+    "pro": "Total (170)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name2": "Paris Basket",
+    "champ": "Euroligue",
+    "heure": "18H30",
+    "date": "11/10/2024",
+    "pro": "Handicap 2 (10)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
-    "name1": "Cavaliers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/1200px-Indiana_Pacers.svg.png",
-    "name2": "Pacers",
-    "champ": "NBA",
-    "heure": "23H00",
-    "date": "10/10/2024",
-    "pro": "Total (225)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/29/Caledonia_Gladiators_logo.png",
+    "name1": "Caledonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Newcastle_Eagles_logo.svg/1200px-Newcastle_Eagles_logo.svg.png",
+    "name2": "Newcastle",
+    "champ": "Angleterre SBL",
+    "heure": "18H30",
+    "date": "11/10/2024",
+    "pro": "Total 2 (87)"
   }
 ]
