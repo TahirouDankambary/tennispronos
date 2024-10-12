@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name1": "Olympiacos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1743px-BC_%C5%BDalgiris_logo.svg.png",
-    "name2": "Zalgiris",
-    "champ": "Euroligue",
-    "heure": "18H15",
-    "date": "11/10/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Bursaspor_logo.svg/1200px-Bursaspor_logo.svg.png",
+    "name1": "Bursaspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/800px-Anadolu_Efes_SK_logo.svg.png",
+    "name2": "Anadolu Efes",
+    "champ": "Basket Super Ligi",
+    "heure": "17H30",
+    "date": "12/10/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/7/76/Logo_ALBA_Berlin.svg/936px-Logo_ALBA_Berlin.svg.png",
-    "name2": "ALBA Berlin",
-    "champ": "Euroligue",
-    "heure": "18H30",
-    "date": "11/10/2024",
-    "pro": "Total (170)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqPsQfPsuIlCgztT1r8VrFld8L2D6-1iP1Zg&s",
+    "name1": "Bamberg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Ratiopharm_Ulm_%28logo%29.svg/1200px-Ratiopharm_Ulm_%28logo%29.svg.png",
+    "name2": "ulm",
+    "champ": "BBL Polka",
+    "heure": "16H30",
+    "date": "12/10/2024",
+    "pro": "Total 2 (82)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
-    "name1": "Olimpia Milano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bc/Paris_Basketball_%28logo%29.svg/2048px-Paris_Basketball_%28logo%29.svg.png",
-    "name2": "Paris Basket",
-    "champ": "Euroligue",
-    "heure": "18H30",
-    "date": "11/10/2024",
-    "pro": " Handicap 2 (10)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/4a/Neptunas2020.png",
+    "name1": "Neptunas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/BC_Wolves_logo.svg/1200px-BC_Wolves_logo.svg.png",
+    "name2": "BC Wolves",
+    "champ": "LKL",
+    "heure": "16H00",
+    "date": "12/10/2024",
+    "pro": "V2"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/29/Caledonia_Gladiators_logo.png",
-    "name1": "Caledonia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Newcastle_Eagles_logo.svg/1200px-Newcastle_Eagles_logo.svg.png",
-    "name2": "Newcastle",
-    "champ": "Angleterre SBL",
-    "heure": "18H30",
-    "date": "11/10/2024",
-    "pro": "Total 2 (87)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
+    "name1": "Lietkabelis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
+    "name2": "Rytas",
+    "champ": "LKL",
+    "heure": "13H50",
+    "date": "12/10/2024",
+    "pro": "V2"
   }
 ]
