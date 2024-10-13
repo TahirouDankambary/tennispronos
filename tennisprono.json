@@ -1,42 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Bursaspor_logo.svg/1200px-Bursaspor_logo.svg.png",
-    "name1": "Bursaspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/800px-Anadolu_Efes_SK_logo.svg.png",
-    "name2": "Anadolu Efes",
-    "champ": "Basket Super Ligi",
-    "heure": "17H30",
-    "date": "12/10/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqPsQfPsuIlCgztT1r8VrFld8L2D6-1iP1Zg&s",
-    "name1": "Bamberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Ratiopharm_Ulm_%28logo%29.svg/1200px-Ratiopharm_Ulm_%28logo%29.svg.png",
-    "name2": "ulm",
-    "champ": "BBL Polka",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/Logo_of_CB_1939_Canarias.png",
+    "name1": "Lenovo Tenerife",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "Liga ACB",
     "heure": "16H30",
-    "date": "12/10/2024",
-    "pro": "Total 2 (82)"
+    "date": "13/10/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/4a/Neptunas2020.png",
-    "name1": "Neptunas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/BC_Wolves_logo.svg/1200px-BC_Wolves_logo.svg.png",
-    "name2": "BC Wolves",
-    "champ": "LKL",
-    "heure": "16H00",
-    "date": "12/10/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_JDA_Dijon_Basket.svg/313px-Logo_JDA_Dijon_Basket.svg.png",
+    "name1": "Dijon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name2": "Paris Basket",
+    "champ": "Elite Ligue",
+    "heure": "17H00",
+    "date": "13/10/2024",
+    "pro": "Equipe 2 Gagne 2 quart-temps"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
-    "name1": "Lietkabelis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
-    "name2": "Rytas",
-    "champ": "LKL",
-    "heure": "13H50",
-    "date": "12/10/2024",
-    "pro": "V2"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+    "name1": "Celtics",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/640px-Toronto_Raptors_logo.svg.png",
+    "name2": "Raptors",
+    "champ": "NBA",
+    "heure": "23H00",
+    "date": "13/10/2024",
+    "pro": "Equipe 1 gagne 2 quart-temps"
   }
 ]
