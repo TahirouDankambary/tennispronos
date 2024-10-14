@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/Logo_of_CB_1939_Canarias.png",
-    "name1": "Lenovo Tenerife",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "Liga ACB",
-    "heure": "16H30",
-    "date": "13/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Besiktas_Jimnastik_Kulubu_logo.svg/1200px-Besiktas_Jimnastik_Kulubu_logo.svg.png",
+    "name1": "Besiktas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Ratiopharm_Ulm_%28logo%29.svg/1200px-Ratiopharm_Ulm_%28logo%29.svg.png",
+    "name2": "Ulm",
+    "champ": "Eurocup",
+    "heure": "17H00",
+    "date": "14/10/2024",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_JDA_Dijon_Basket.svg/313px-Logo_JDA_Dijon_Basket.svg.png",
-    "name1": "Dijon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
-    "name2": "Paris Basket",
-    "champ": "Elite Ligue",
-    "heure": "17H00",
-    "date": "13/10/2024",
-    "pro": "Equipe 2 Gagne 2 quart-temps"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
-    "name1": "Celtics",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/640px-Toronto_Raptors_logo.svg.png",
-    "name2": "Raptors",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
+    "name1": "Hawks",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png",
+    "name2": "76ers",
     "champ": "NBA",
     "heure": "23H00",
-    "date": "13/10/2024",
-    "pro": "Equipe 1 gagne 2 quart-temps"
+    "date": "14/10/2024",
+    "pro": "Chaque Equipe marque (+110.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1200px-Pacers_de_l%27Indiana_logo.svg.png",
+    "name1": "Pacers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/640px-Memphis_Grizzlies.svg.png",
+    "name2": "Grizzlies",
+    "champ": "NBA",
+    "heure": "23H00",
+    "date": "14/10/2024",
+    "pro": "Total (230)"
   }
 ]
