@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Besiktas_Jimnastik_Kulubu_logo.svg/1200px-Besiktas_Jimnastik_Kulubu_logo.svg.png",
-    "name1": "Besiktas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Ratiopharm_Ulm_%28logo%29.svg/1200px-Ratiopharm_Ulm_%28logo%29.svg.png",
-    "name2": "Ulm",
-    "champ": "Eurocup",
-    "heure": "17H00",
-    "date": "14/10/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name2": "Etoile Rouge",
+    "champ": "Euro Ligue",
+    "heure": "17H45",
+    "date": "15/10/2024",
+    "pro": "Total (165)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
-    "name1": "Hawks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png",
-    "name2": "76ers",
-    "champ": "NBA",
-    "heure": "23H00",
-    "date": "14/10/2024",
-    "pro": "Chaque Equipe marque (+110.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/640px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+    "name1": "Maccabi Tel Aviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1200px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
+    "name2": "Anadolu Efes",
+    "champ": "Euro Ligue",
+    "heure": "18H05",
+    "date": "15/10/2024",
+    "pro": "Chaque Equipe marque (75.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1200px-Pacers_de_l%27Indiana_logo.svg.png",
-    "name1": "Pacers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/640px-Memphis_Grizzlies.svg.png",
-    "name2": "Grizzlies",
-    "champ": "NBA",
-    "heure": "23H00",
-    "date": "14/10/2024",
-    "pro": "Total (230)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name1": "Baskonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png",
+    "name2": "Real Madrid",
+    "champ": "EuroLigue",
+    "heure": "18H45",
+    "date": "15/10/2024",
+    "pro": "Total 2 (83.5)"
   }
 ]
