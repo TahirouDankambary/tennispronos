@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name2": "Etoile Rouge",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
+    "name2": "Monaco basket",
     "champ": "Euro Ligue",
-    "heure": "17H45",
-    "date": "15/10/2024",
-    "pro": "Total (165)"
+    "heure": "18H30",
+    "date": "16/10/2024",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/640px-Maccabi_Tel_Aviv_BC_logo.svg.png",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1200px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
-    "name2": "Anadolu Efes",
-    "champ": "Euro Ligue",
-    "heure": "18H05",
-    "date": "15/10/2024",
-    "pro": "Chaque Equipe marque (75.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThUfGzR6DZErTRMdZAkHzc4BENkzA-HMjyjA&s",
+    "name1": "Buducnost",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Logo_Trefl_Sopot_2015.png",
+    "name2": "Sopot",
+    "champ": "EuroCup",
+    "heure": "17H00",
+    "date": "16/10/2024",
+    "pro": "Total 1 (82)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
-    "name1": "Baskonia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "EuroLigue",
-    "heure": "18H45",
-    "date": "15/10/2024",
-    "pro": "Total 2 (83.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/23/Joventut_Badalona_logo.png",
+    "name1": "Juventut",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/BC_Wolves_logo.svg/1200px-BC_Wolves_logo.svg.png",
+    "name2": "BC Wolves",
+    "champ": "EuroCup",
+    "heure": "18H30",
+    "date": "16/10/2024",
+    "pro": "Handicap 2 (12)"
   }
 ]
