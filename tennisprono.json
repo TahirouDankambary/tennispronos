@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
-    "name2": "Monaco basket",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Alba_Berlin_logo.svg/1200px-Alba_Berlin_logo.svg.png",
+    "name1": "ALBA Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name2": "Fenerbahce",
     "champ": "Euro Ligue",
-    "heure": "18H30",
-    "date": "16/10/2024",
-    "pro": "V1"
+    "heure": "17H30",
+    "date": "17/10/2024",
+    "pro": "Total 2 (82)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThUfGzR6DZErTRMdZAkHzc4BENkzA-HMjyjA&s",
-    "name1": "Buducnost",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Logo_Trefl_Sopot_2015.png",
-    "name2": "Sopot",
-    "champ": "EuroCup",
-    "heure": "17H00",
-    "date": "16/10/2024",
-    "pro": "Total 1 (82)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/640px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+    "name1": "Maccabi Tel Aviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
+    "name2": "Partizan",
+    "champ": "Euro Ligue",
+    "heure": "18H05",
+    "date": "17/10/2024",
+    "pro": "Total (162)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/23/Joventut_Badalona_logo.png",
-    "name1": "Juventut",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/BC_Wolves_logo.svg/1200px-BC_Wolves_logo.svg.png",
-    "name2": "BC Wolves",
-    "champ": "EuroCup",
-    "heure": "18H30",
-    "date": "16/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+    "name1": "Bayern",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name2": "Paris Basket",
+    "champ": "Euro Ligue",
+    "heure": "18H45",
+    "date": "17/10/2024",
     "pro": "Handicap 2 (12)"
   }
 ]
