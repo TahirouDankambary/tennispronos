@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
-    "name1": "Monaco Basket",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
-    "name2": "Virtus Bologna",
-    "champ": "Euro Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/B%C3%A1squet_Coru%C3%B1a.svg/1200px-B%C3%A1squet_Coru%C3%B1a.svg.png",
+    "name1": "Basquet Coruna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/Unicaja.svg",
+    "name2": "Unicaja",
+    "champ": "Liga ACB",
     "heure": "17H00",
-    "date": "18/10/2024",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name1": "Etoile Rouge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "Euro Ligue",
-    "heure": "18H00",
-    "date": "17/10/2024",
-    "pro": "Total 2 (79.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Igokea-logo.png/200px-Igokea-logo.png",
-    "name1": "Igokea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Cedevita_Olimpija_Ljubljana_logo.png/200px-Cedevita_Olimpija_Ljubljana_logo.png",
-    "name2": "Cedevita Olimpija",
-    "champ": "ABA Ligue",
-    "heure": "15H00",
-    "date": "18/10/2024",
+    "date": "19/10/2024",
     "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/EWE_Baskets_Oldenburg_logo.svg/220px-EWE_Baskets_Oldenburg_logo.svg.png",
+    "name1": "Oldenburg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK2TOBDqzqHImeRLhWUXo-yEhzaVtQGA6fw&s",
+    "name2": "Ulm",
+    "champ": "BBL",
+    "heure": "16H30",
+    "date": "19/10/2024",
+    "pro": "Handicap 2 (9.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1200px-Logo_JL_Bourg_Basket_-_2017.svg.png",
+    "name1": "JL Bourg",
+    "photo2": "https://www.jdadijon.com/wp-content/uploads/2019/06/LOGO_JDA_BASKET_BLANC.png",
+    "name2": "Dijon",
+    "champ": "Elite Ligue",
+    "heure": "16H00",
+    "date": "19/10/2024",
+    "pro": "Total 1 (80)"
   }
 ]
