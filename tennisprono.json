@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/B%C3%A1squet_Coru%C3%B1a.svg/1200px-B%C3%A1squet_Coru%C3%B1a.svg.png",
-    "name1": "Basquet Coruna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/Unicaja.svg",
-    "name2": "Unicaja",
-    "champ": "Liga ACB",
-    "heure": "17H00",
-    "date": "19/10/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/EWE_Baskets_Oldenburg_logo.svg/220px-EWE_Baskets_Oldenburg_logo.svg.png",
-    "name1": "Oldenburg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK2TOBDqzqHImeRLhWUXo-yEhzaVtQGA6fw&s",
-    "name2": "Ulm",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Y4XrMxwUfXlEPg0ITSeTfypv_EvseWwKRA&s",
+    "name1": "ALBA Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Niners_Chemnitz.png",
+    "name2": "Chemnitz",
     "champ": "BBL",
-    "heure": "16H30",
-    "date": "19/10/2024",
-    "pro": "Handicap 2 (9.5)"
+    "heure": "14H30",
+    "date": "20/10/2024",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1200px-Logo_JL_Bourg_Basket_-_2017.svg.png",
-    "name1": "JL Bourg",
-    "photo2": "https://www.jdadijon.com/wp-content/uploads/2019/06/LOGO_JDA_BASKET_BLANC.png",
-    "name2": "Dijon",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9c/Bristol_Flyers.png",
+    "name1": "Bristol Flyers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b5/London_Lions_logo_%282021%29.png",
+    "name2": "London Lions",
+    "champ": "SBL Trophy",
+    "heure": "14H00",
+    "date": "20/10/2024",
+    "pro": "Total 2 (84)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_Elan_Chalon_2018.svg/1200px-Logo_Elan_Chalon_2018.svg.png",
+    "name1": "Chalon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name2": "ASVEL",
     "champ": "Elite Ligue",
-    "heure": "16H00",
-    "date": "19/10/2024",
-    "pro": "Total 1 (80)"
+    "heure": "14H30",
+    "date": "20/10/2024",
+    "pro": "V2"
   }
 ]
