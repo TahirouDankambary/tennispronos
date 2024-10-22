@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Y4XrMxwUfXlEPg0ITSeTfypv_EvseWwKRA&s",
-    "name1": "ALBA Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Niners_Chemnitz.png",
-    "name2": "Chemnitz",
-    "champ": "BBL",
-    "heure": "14H30",
-    "date": "20/10/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Logo_KK_Lietkabelis.svg/1200px-Logo_KK_Lietkabelis.svg.png",
+    "name1": "Leikabelis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1200px-Logo_JL_Bourg_Basket_-_2017.svg.png",
+    "name2": "JL Bourg",
+    "champ": "Euro Cup",
+    "heure": "16H00",
+    "date": "22/10/2024",
+    "pro": "Total (159.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9c/Bristol_Flyers.png",
-    "name1": "Bristol Flyers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b5/London_Lions_logo_%282021%29.png",
-    "name2": "London Lions",
-    "champ": "SBL Trophy",
-    "heure": "14H00",
-    "date": "20/10/2024",
-    "pro": "Total 2 (84)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Logo_Trefl_Sopot_2015.png",
+    "name1": "Trefl Sopot",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/BC_Wolves_logo.svg/1200px-BC_Wolves_logo.svg.png",
+    "name2": "Wolves Vilnius",
+    "champ": "Euro Cup",
+    "heure": "17H45",
+    "date": "22/10/2024",
+    "pro": "Chaque Equipe Marque (72.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_Elan_Chalon_2018.svg/1200px-Logo_Elan_Chalon_2018.svg.png",
-    "name1": "Chalon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name2": "ASVEL",
-    "champ": "Elite Ligue",
-    "heure": "14H30",
-    "date": "20/10/2024",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kL2tvUBlTJDVNJK83eeAbp_aVW2FsTYyaw&s",
+    "name1": "Gran Canaria",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRGjdRUtw5MqZmfD4VBmu2qDlVcGZBtc7c_A&s",
+    "name2": "Ulm",
+    "champ": "Euro Cup",
+    "heure": "19H00",
+    "date": "22/10/2024",
+    "pro": "Total 2 (71)"
   }
 ]
