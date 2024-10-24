@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
-    "name1": "KK Partizan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
-    "name2": "Virtus Bologna",
-    "champ": "EurLigue",
-    "heure": "18H30",
-    "date": "23/10/2024",
-    "pro": "Total (154.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/Aris_Thessaloniki_F.C._%28logo%29.svg/1200px-Aris_Thessaloniki_F.C._%28logo%29.svg.png",
-    "name1": "Aris Salonique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Cedevita_Olimpija_Ljubljana_logo.png/200px-Cedevita_Olimpija_Ljubljana_logo.png",
-    "name2": "Cedevita Olimpija",
-    "champ": "Euro Cup",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1200px-Logo_%C5%BDalgiris_Kaunas.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/640px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+    "name2": "Maccabi Tel AViv",
+    "champ": "EuroLigue",
     "heure": "17H00",
-    "date": "23/10/2024",
-    "pro": "Chaque Equipe Marque (69.5)"
+    "date": "24/10/2024",
+    "pro": "Total (159.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kL2tvUBlTJDVNJK83eeAbp_aVW2FsTYyaw&s",
-    "name1": "Gran Canaria",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRGjdRUtw5MqZmfD4VBmu2qDlVcGZBtc7c_A&s",
-    "name2": "Ulm",
-    "champ": "Basket LDC",
-    "heure": "18H00",
-    "date": "23/10/2024",
-    "pro": "Chaque Equipe marque (72.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
+    "name1": "Monaco Basket",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name2": "Paris Basket",
+    "champ": "EuroLigie",
+    "heure": "17H00",
+    "date": "24/10/2024",
+    "pro": "Quart-temps plus élevé (49.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/800px-Anadolu_Efes_SK_logo.svg.png",
+    "name2": "Anadolu Efes",
+    "champ": "EuroLigue",
+    "heure": "18H30",
+    "date": "24/10/2024",
+    "pro": "Equipe 2 gagne deux quart-temps"
   }
 ]
