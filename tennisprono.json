@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1200px-Logo_%C5%BDalgiris_Kaunas.svg.png",
-    "name1": "Zalgiris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/640px-Maccabi_Tel_Aviv_BC_logo.svg.png",
-    "name2": "Maccabi Tel AViv",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAhUcfU8nM6Rd5jDd2uRuletIDRnCsFB9E5R2CtQnGZYY_qzhxTsss5703rZVNZxlye2M&usqp=CAU",
+    "name2": "Panathinaikos",
     "champ": "EuroLigue",
-    "heure": "17H00",
-    "date": "24/10/2024",
+    "heure": "17H45",
+    "date": "25/10/2024",
+    "pro": "Equipe 2 gagne deux quart-temps"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name2": "ASVEL",
+    "champ": "EuroLigie",
+    "heure": "18H30",
+    "date": "25/10/2024",
     "pro": "Total (159.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
-    "name1": "Monaco Basket",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
-    "name2": "Paris Basket",
-    "champ": "EuroLigie",
-    "heure": "17H00",
-    "date": "24/10/2024",
-    "pro": "Quart-temps plus élevé (49.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
-    "name1": "Olimpia Milano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/800px-Anadolu_Efes_SK_logo.svg.png",
-    "name2": "Anadolu Efes",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
+    "name2": "Olympiacos",
     "champ": "EuroLigue",
-    "heure": "18H30",
-    "date": "24/10/2024",
-    "pro": "Equipe 2 gagne deux quart-temps"
+    "heure": "18H45",
+    "date": "25/10/2024",
+    "pro": "V2"
   }
 ]
