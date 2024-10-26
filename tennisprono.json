@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAhUcfU8nM6Rd5jDd2uRuletIDRnCsFB9E5R2CtQnGZYY_qzhxTsss5703rZVNZxlye2M&usqp=CAU",
-    "name2": "Panathinaikos",
-    "champ": "EuroLigue",
-    "heure": "17H45",
-    "date": "25/10/2024",
-    "pro": "Equipe 2 gagne deux quart-temps"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK2TOBDqzqHImeRLhWUXo-yEhzaVtQGA6fw&s",
+    "name1": "Ulm",
+    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/SC_Rasta_Vechta_logo.svg/2560px-SC_Rasta_Vechta_logo.svg.png",
+    "name2": "Vechta",
+    "champ": "BBL",
+    "heure": "16H30",
+    "date": "26/10/2024",
+    "pro": "Handicap 2 (11)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name2": "ASVEL",
-    "champ": "EuroLigie",
-    "heure": "18H30",
-    "date": "25/10/2024",
-    "pro": "Total (159.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name2": "Olympiacos",
-    "champ": "EuroLigue",
-    "heure": "18H45",
-    "date": "25/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/tr/archive/e/eb/20220830165248%21Petkim_spor_logo.png",
+    "name1": "Petkim Spor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1200px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
+    "name2": "Anadolu Efes",
+    "champ": "Trurquie Superligi",
+    "heure": "12H30",
+    "date": "26/10/2024",
     "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Logo_Cholet_Basket_2019.svg",
+    "name1": "Cholet",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name2": "Paris Basket",
+    "champ": "Elite Ligue",
+    "heure": "18H30",
+    "date": "26/10/2024",
+    "pro": "Total 2 (82)"
   }
 ]
