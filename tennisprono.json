@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/42/Unicaja.svg",
-    "name1": "Unicaja",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/800px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "Liga ACB",
-    "heure": "17H30",
-    "date": "27/10/2024",
-    "pro": "Equipe 2 Gagne deux quart-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Orlando_Magic_logo_2010.png/640px-Orlando_Magic_logo_2010.png",
+    "name1": "Magic D'Orlando",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/1200px-Indiana_Pacers.svg.png",
+    "name2": "Pacers",
+    "champ": "NBA",
+    "heure": "23H00",
+    "date": "28/10/2024",
+    "pro": "Chaque Equipe marque (101.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name1": "Olympiacos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/2230px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
-    "name2": "Panathinaikos",
-    "champ": "Grece Championnat",
-    "heure": "18H45",
-    "date": "27/10/2024",
-    "pro": "Handicap 2 (10)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/640px-Toronto_Raptors_logo.svg.png",
+    "name1": "Raptors",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name2": "Nuggets",
+    "champ": "NBA",
+    "heure": "23H00",
+    "date": "28/10/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Logo_Cholet_Basket_2019.svg",
-    "name1": "Cholet",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
-    "name2": "Paris Basket",
-    "champ": "Elite Ligue",
-    "heure": "18H30",
-    "date": "26/10/2024",
-    "pro": "Total 2 (82)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+    "name1": "Celtics",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/800px-Milwaukee_Bucks_logo.svg.png",
+    "name2": "Bucks",
+    "champ": "NBA",
+    "heure": "23H30",
+    "date": "28/10/2024",
+    "pro": "Total 1 (119.5)"
   }
 ]
