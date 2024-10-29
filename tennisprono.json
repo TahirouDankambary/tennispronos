@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Orlando_Magic_logo_2010.png/640px-Orlando_Magic_logo_2010.png",
-    "name1": "Magic D'Orlando",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/1200px-Indiana_Pacers.svg.png",
-    "name2": "Pacers",
-    "champ": "NBA",
-    "heure": "23H00",
-    "date": "28/10/2024",
-    "pro": "Chaque Equipe marque (101.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1200px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
+    "name1": "Anadolu Efes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "Euroligue",
+    "heure": "17H30",
+    "date": "29/10/2024",
+    "pro": "Total (163)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/640px-Toronto_Raptors_logo.svg.png",
-    "name1": "Raptors",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
-    "name2": "Nuggets",
-    "champ": "NBA",
-    "heure": "23H00",
-    "date": "28/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/7/76/Logo_ALBA_Berlin.svg/936px-Logo_ALBA_Berlin.svg.png",
+    "name1": "Alba Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name2": "Paris",
+    "champ": "Euroligue",
+    "heure": "18H30",
+    "date": "29/10/2024",
+    "pro": "Total (163.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Fribourg_Olympic_Basket_%28logo%29.svg/1200px-Fribourg_Olympic_Basket_%28logo%29.svg.png",
+    "name1": "Fribourg Olympic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/640px-Logo_Cholet_Basket_2019.svg.png",
+    "name2": "Cholet",
+    "champ": "Europa FIBA",
+    "heure": "18H00",
+    "date": "29/10/2024",
     "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
-    "name1": "Celtics",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/800px-Milwaukee_Bucks_logo.svg.png",
-    "name2": "Bucks",
-    "champ": "NBA",
-    "heure": "23H30",
-    "date": "28/10/2024",
-    "pro": "Total 1 (119.5)"
   }
 ]
