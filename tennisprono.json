@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name1": "Olympiakos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "Euroligue",
-    "heure": "19H15",
-    "date": "31/10/2024",
-    "pro": "Equipe 2 gagne deux quart-temps"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Alba_Berlin_logo.svg/1200px-Alba_Berlin_logo.svg.png",
-    "name1": "ALBA Berlin",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJM87Rtet7sZofvJie4GULTRo1vbBuzK_tw&s",
-    "name2": "Anadolu Efes",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name1": "Etoile Rouge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/2230px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
+    "name2": "Panathinaikos",
     "champ": "Euroligue",
     "heure": "19H00",
-    "date": "31/10/2024",
+    "date": "01/11/2024",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/640px-Maccabi_Tel_Aviv_BC_logo.svg.png",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
-    "name2": "Real Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1200px-Logo_%C5%BDalgiris_Kaunas.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/800px-Logo_AS_Monaco_Basket.svg.png",
+    "name2": "Monaco Basket",
     "champ": "Euroligue",
-    "heure": "19H05",
-    "date": "31/10/2024",
-    "pro": "V2"
+    "heure": "18H00",
+    "date": "01/11/2024",
+    "pro": "Total 2 (79.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Logo_Partizan_1958.png",
+    "name2": "Partizan",
+    "champ": "Euroligue",
+    "heure": "17H45",
+    "date": "01/11/2024",
+    "pro": "Chaque Equipe marque (71.5)"
   }
 ]
