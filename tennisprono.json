@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name1": "Etoile Rouge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/2230px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
-    "name2": "Panathinaikos",
-    "champ": "Euroligue",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK2TOBDqzqHImeRLhWUXo-yEhzaVtQGA6fw&s",
+    "name1": "Ulm",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Hamburg_Towers_logo.png/220px-Hamburg_Towers_logo.png",
+    "name2": "Hamburg Towers",
+    "champ": "BBL",
     "heure": "19H00",
-    "date": "01/11/2024",
+    "date": "02/11/2024",
+    "pro": "Total (165.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/46/Baxi_Manresa_logo.png",
+    "name1": "Manresa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/Unicaja.svg",
+    "name2": "Unicaja",
+    "champ": "Liga ACB",
+    "heure": "19H45",
+    "date": "02/11/2024",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1200px-Logo_%C5%BDalgiris_Kaunas.svg.png",
-    "name1": "Zalgiris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/800px-Logo_AS_Monaco_Basket.svg.png",
-    "name2": "Monaco Basket",
-    "champ": "Euroligue",
-    "heure": "18H00",
-    "date": "01/11/2024",
-    "pro": "Total 2 (79.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Logo_Partizan_1958.png",
-    "name2": "Partizan",
-    "champ": "Euroligue",
-    "heure": "17H45",
-    "date": "01/11/2024",
-    "pro": "Chaque Equipe marque (71.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1200px-Logo_JL_Bourg_Basket_-_2017.svg.png",
+    "name1": "JL Bourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b0/Logo_SIG_Strasbourg_-_2015.svg",
+    "name2": "Strasbourg IG",
+    "champ": "Elite Ligue",
+    "heure": "17H00",
+    "date": "02/11/2024",
+    "pro": "Total (159/5)"
   }
 ]
