@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK2TOBDqzqHImeRLhWUXo-yEhzaVtQGA6fw&s",
-    "name1": "Ulm",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Hamburg_Towers_logo.png/220px-Hamburg_Towers_logo.png",
-    "name2": "Hamburg Towers",
-    "champ": "BBL",
-    "heure": "19H00",
-    "date": "02/11/2024",
-    "pro": "Total (165.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/Logo_AJ_Auxerre.svg/1200px-Logo_AJ_Auxerre.svg.png",
+    "name1": "Auxerre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_Stade_Rennais_FC.svg/1679px-Logo_Stade_Rennais_FC.svg.png",
+    "name2": "Stade Rennais",
+    "champ": "France. Ligue 1",
+    "heure": "16H00",
+    "date": "03/11/2024",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/46/Baxi_Manresa_logo.png",
-    "name1": "Manresa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/Unicaja.svg",
-    "name2": "Unicaja",
-    "champ": "Liga ACB",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/1200px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+    "name1": "Nantes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png",
+    "name2": "Marseille",
+    "champ": "France. Ligue 1",
     "heure": "19H45",
-    "date": "02/11/2024",
-    "pro": "V2"
+    "date": "03/11/2024",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1200px-Logo_JL_Bourg_Basket_-_2017.svg.png",
-    "name1": "JL Bourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b0/Logo_SIG_Strasbourg_-_2015.svg",
-    "name2": "Strasbourg IG",
-    "champ": "Elite Ligue",
-    "heure": "17H00",
-    "date": "02/11/2024",
-    "pro": "Total (159/5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/04/NEC_Nim%C3%A8gue.png",
+    "name1": "N.E.C.",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Groningen_logo.svg/1200px-FC_Groningen_logo.svg.png",
+    "name2": "Groningen",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "13H30",
+    "date": "03/11/2024",
+    "pro": "1X"
   }
 ]
