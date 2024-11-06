@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/SC_Rasta_Vechta_logo.svg/1200px-SC_Rasta_Vechta_logo.svg.png",
-    "name1": "SC Rasta Vechta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/%C4%8CEZ_Basketball_Nymburk.png/220px-%C4%8CEZ_Basketball_Nymburk.png",
-    "name2": "Era Nymburk",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
+    "name1": "Zaragoza",
+    "photo2": "https://www.patriotilevice.sk/wp-content/uploads/2019/09/patrioti_levice_hlava.png.webp",
+    "name2": "Levicki Patrioti",
     "champ": "LDC Basket",
     "heure": "19H00",
-    "date": "05/11/2024",
-    "pro": "Total 2 (83.5)"
+    "date": "06/11/2024",
+    "pro": "Handicap 2 (19.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Aquila_Basket_Trento_logo.svg/1200px-Aquila_Basket_Trento_logo.svg.png",
-    "name1": "Dolomiti Trentino",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/23/Joventut_Badalona_logo.png",
-    "name2": "FIATC Joventut",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThUfGzR6DZErTRMdZAkHzc4BENkzA-HMjyjA&s",
+    "name1": "Buducnost",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK2TOBDqzqHImeRLhWUXo-yEhzaVtQGA6fw&s",
+    "name2": "Ulm",
     "champ": "Eurocup",
-    "heure": "19H00",
-    "date": "04511/2024",
+    "heure": "18H15",
+    "date": "06/11/2024",
     "pro": "Equipe 2 gagne 2 quart-tempos"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/he/b/b7/Bahcesehir_Koleji_Logo.png",
-    "name1": "Bahcesehir Koleji",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
-    "name2": "Hapoel Tel-Aviv",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/86/Lcbgrancanaria.jpg",
+    "name1": "Gran Canaria",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/BC_Wolves_logo.svg/1200px-BC_Wolves_logo.svg.png",
+    "name2": "Wolves Vilnius",
     "champ": "Eurocup",
-    "heure": "19H00",
-    "date": "05/11/2024",
-    "pro": "Total 2 (77.5)"
+    "heure": "20H00",
+    "date": "06/11/2024",
+    "pro": "Total 2 (71.5)"
   }
 ]
