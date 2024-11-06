@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
-    "name1": "Zaragoza",
-    "photo2": "https://www.patriotilevice.sk/wp-content/uploads/2019/09/patrioti_levice_hlava.png.webp",
-    "name2": "Levicki Patrioti",
-    "champ": "LDC Basket",
-    "heure": "19H00",
-    "date": "06/11/2024",
-    "pro": "Handicap 2 (19.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
+    "name2": "Real Madrid",
+    "champ": "Euro Ligue",
+    "heure": "19H30",
+    "date": "07/11/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThUfGzR6DZErTRMdZAkHzc4BENkzA-HMjyjA&s",
-    "name1": "Buducnost",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK2TOBDqzqHImeRLhWUXo-yEhzaVtQGA6fw&s",
-    "name2": "Ulm",
-    "champ": "Eurocup",
-    "heure": "18H15",
-    "date": "06/11/2024",
-    "pro": "Equipe 2 gagne 2 quart-tempos"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/2048px-Paris_Saint-Germain_Logo.svg.png",
+    "name1": "Paris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
+    "name2": "Partizan",
+    "champ": "Euro Ligue",
+    "heure": "19H45",
+    "date": "07/11/2024",
+    "pro": "Quart'temps plus Eleve (48.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/86/Lcbgrancanaria.jpg",
-    "name1": "Gran Canaria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/BC_Wolves_logo.svg/1200px-BC_Wolves_logo.svg.png",
-    "name2": "Wolves Vilnius",
-    "champ": "Eurocup",
-    "heure": "20H00",
-    "date": "06/11/2024",
-    "pro": "Total 2 (71.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name2": "Zalgiris",
+    "champ": "Euro Ligue",
+    "heure": "19H45",
+    "date": "07/11/2024",
+    "pro": "Total (159.5)"
   }
 ]
