@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
-    "name1": "Olimpia Milano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
-    "name2": "Real Madrid",
-    "champ": "Euro Ligue",
-    "heure": "19H30",
-    "date": "07/11/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Eintracht_Braunschweig_%28logo%29.svg/800px-Eintracht_Braunschweig_%28logo%29.svg.png",
+    "name1": "Eintracht",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfGBTH-WmDrgPfgG6Oc5DiyYUx2gupTRd-g&s",
+    "name2": "Hambourg",
+    "champ": "Allemagne. 2",
+    "heure": "17H30",
+    "date": "08/11/2024",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/2048px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "Paris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
-    "name2": "Partizan",
-    "champ": "Euro Ligue",
-    "heure": "19H45",
-    "date": "07/11/2024",
-    "pro": "Quart'temps plus Eleve (48.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_N%C3%BCrnberg_logo.svg/1200px-1._FC_N%C3%BCrnberg_logo.svg.png",
+    "name1": "Nurnberg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_1_FC_Kaiserslautern.svg/2048px-Logo_1_FC_Kaiserslautern.svg.png",
+    "name2": "Kaiserslautern",
+    "champ": "Allemagne. 2",
+    "heure": "17H30",
+    "date": "08/11/2024",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name2": "Zalgiris",
-    "champ": "Euro Ligue",
-    "heure": "19H45",
-    "date": "07/11/2024",
-    "pro": "Total (159.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Logo_Vejle_BK_2023.svg/1200px-Logo_Vejle_BK_2023.svg.png",
+    "name1": "Vejle",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMZaXGEvWi5POm-kWHUF74YTfopLlkaR8_w&s",
+    "name2": "Sonderjysk",
+    "champ": "Danemark. Superliga",
+    "heure": "18H00",
+    "date": "08/11/2024",
+    "pro": "12"
   }
 ]
