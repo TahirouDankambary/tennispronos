@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Zverev_MCM23_%2820%29.jpg",
-    "name1": "Zverev",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rublev_MCM23_%2843%29_%2852883593833%29.jpg/1200px-Rublev_MCM23_%2843%29_%2852883593833%29.jpg",
-    "name2": "Andrey Rublev",
-    "champ": "ATP Turin",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name1": "Saski Baskonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1200px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
+    "name2": "Anadolu Efes",
+    "champ": "  EuroLigue",
     "heure": "19H30",
-    "date": "11/11/2024",
-    "pro": "V1"
+    "date": "12/11/2024",
+    "pro": "Total (159.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/af/Krka_basket.png",
-    "name1": "Krka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d7/KK_FMP_Beograd.png",
-    "name2": "FMP",
-    "champ": "Ligue Adriatique",
-    "heure": "17H00",
-    "date": "11/11/2024",
-    "pro": "Total (160.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/89/Logo_Panathinaikos_Basketball_-_2024.svg",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/640px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+    "name2": "Maccabi Tel Aviv",
+    "champ": "EUroLigue",
+    "heure": "19H15",
+    "date": "12/11/2024",
+    "pro": "Total (159.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alcaraz_MCM22_%2827%29_%2852036462443%29_%28edited%29.jpg/360px-Alcaraz_MCM22_%2827%29_%2852036462443%29_%28edited%29.jpg",
-    "name1": "AlCaraz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ruud_RG22_%2858%29_%2852144535415%29.jpg",
-    "name2": "Casper Ruud",
-    "champ": "ATP Turin",
-    "heure": "13H00",
-    "date": "11/11/2024",
-    "pro": "Total (18)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/1200px-LogoASMonacoFC2021.svg.png",
+    "name1": "Monaco",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name2": "Etoile Rouge",
+    "champ": "Euroligue",
+    "heure": "18H00",
+    "date": "12/11/2024",
+    "pro": "Total (159.5)"
   }
 ]
