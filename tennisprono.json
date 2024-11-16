@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
-    "name2": "Paris Basket",
-    "champ": "EuroLigue",
-    "heure": "19H30",
-    "date": "15/11/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a8/Levick%C3%AD_Patrioti_logo.png",
+    "name1": "levicki",
+    "photo2": "https://bckomarno.club/wp-content/uploads/2021/07/bc-komarno-final-logo-kontur-200.png",
+    "name2": "BC Komarno",
+    "champ": "Slovaquie SBL",
+    "heure": "17H00",
+    "date": "16/11/2024",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name1": "Zalgiris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name2": "Fenerbahce",
-    "champ": "EUroLigue",
-    "heure": "18H00",
-    "date": "15/11/2024",
-    "pro": "Total (75.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f8/Hapo%C3%ABl_Holon.jpg",
+    "name1": "Hapoel Holon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
+    "name2": "Hapoel Tel Aviv",
+    "champ": "Israel Championnat",
+    "heure": "19H00",
+    "date": "16/11/2024",
+    "pro": "Total 2 (79.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
-    "name1": "Virtus Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Panathinaikos_BC_logo.svg/1200px-Panathinaikos_BC_logo.svg.png",
-    "name2": "Panathinaikos",
-    "champ": "EuroLigue",
-    "heure": "19H30",
-    "date": "15/11/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Cedevita_Olimpija_Ljubljana_logo.png/200px-Cedevita_Olimpija_Ljubljana_logo.png",
+    "name1": "Cedevita Olimpija",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpfLqmhow5CeeMA8E_geSMmnxhZMoVZkqTqw&s",
+    "name2": "Mega MIS",
+    "champ": "Ligue Adriatique",
+    "heure": "18H00",
+    "date": "16/11/2024",
+    "pro": "Total (161.5)"
   }
 ]
