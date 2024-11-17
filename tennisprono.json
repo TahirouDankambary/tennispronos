@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a8/Levick%C3%AD_Patrioti_logo.png",
-    "name1": "levicki",
-    "photo2": "https://bckomarno.club/wp-content/uploads/2021/07/bc-komarno-final-logo-kontur-200.png",
-    "name2": "BC Komarno",
-    "champ": "Slovaquie SBL",
-    "heure": "17H00",
-    "date": "16/11/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/SC_Rasta_Vechta_logo.svg/800px-SC_Rasta_Vechta_logo.svg.png",
+    "name1": "Rasta Vechta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Alba_Berlin_logo.svg/1200px-Alba_Berlin_logo.svg.png",
+    "name2": "ALBA Berlin",
+    "champ": "Allemagne BBL",
+    "heure": "15H30",
+    "date": "17/11/2024",
+    "pro": "Equipe 2 Gagne 2 quar-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f8/Hapo%C3%ABl_Holon.jpg",
-    "name1": "Hapoel Holon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
-    "name2": "Hapoel Tel Aviv",
-    "champ": "Israel Championnat",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1200px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
+    "name2": "Anadolu Efes",
+    "champ": "Turquie Championnat",
     "heure": "19H00",
-    "date": "16/11/2024",
-    "pro": "Total 2 (79.5)"
+    "date": "17/11/2024",
+    "pro": "Chaque Equipe marque (72.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Cedevita_Olimpija_Ljubljana_logo.png/200px-Cedevita_Olimpija_Ljubljana_logo.png",
-    "name1": "Cedevita Olimpija",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpfLqmhow5CeeMA8E_geSMmnxhZMoVZkqTqw&s",
-    "name2": "Mega MIS",
-    "champ": "Ligue Adriatique",
-    "heure": "18H00",
-    "date": "16/11/2024",
-    "pro": "Total (161.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9b/BCM_Gravelines_logo.png",
+    "name1": "BCM Graveline",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name2": "ASVEL",
+    "champ": "Elite Ligue",
+    "heure": "15H30",
+    "date": "17/11/2024",
+    "pro": "Equipe 2 Gagne 2 quar-temps"
   }
 ]
