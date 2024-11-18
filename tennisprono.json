@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/SC_Rasta_Vechta_logo.svg/800px-SC_Rasta_Vechta_logo.svg.png",
-    "name1": "Rasta Vechta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Alba_Berlin_logo.svg/1200px-Alba_Berlin_logo.svg.png",
-    "name2": "ALBA Berlin",
-    "champ": "Allemagne BBL",
-    "heure": "15H30",
-    "date": "17/11/2024",
-    "pro": "Equipe 2 Gagne 2 quar-temps"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHu-1uWS9egFmXeWjtWLGxSuAXvZP0Y8_BZg&s",
+    "name1": "Heat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/3a/76ers_1977.png",
+    "name2": "76ers",
+    "champ": "NBA",
+    "heure": "00H30",
+    "date": "19/11/2024",
+    "pro": "Chaque Equipe marque (99.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1200px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
-    "name2": "Anadolu Efes",
-    "champ": "Turquie Championnat",
-    "heure": "19H00",
-    "date": "17/11/2024",
-    "pro": "Chaque Equipe marque (72.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1200px-Milwaukee_Bucks_logo.svg.png",
+    "name1": "Bucks",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/1200px-Houston_Rockets.svg.png",
+    "name2": "Rockets",
+    "champ": "NBA",
+    "heure": "01H00",
+    "date": "19/11/2024",
+    "pro": "Total (225.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9b/BCM_Gravelines_logo.png",
-    "name1": "BCM Graveline",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name2": "ASVEL",
-    "champ": "Elite Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/1200px-Phoenix_Suns_logo.svg.png",
+    "name1": "Suns",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png",
+    "name2": "Magic d'Orlando",
+    "champ": "NBA",
     "heure": "15H30",
-    "date": "17/11/2024",
-    "pro": "Equipe 2 Gagne 2 quar-temps"
+    "date": "19/11/2024",
+    "pro": "Total 1 (99.5)"
   }
 ]
