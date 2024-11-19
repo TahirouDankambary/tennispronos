@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHu-1uWS9egFmXeWjtWLGxSuAXvZP0Y8_BZg&s",
-    "name1": "Heat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/3a/76ers_1977.png",
-    "name2": "76ers",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png",
+    "name1": "Celtics",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
+    "name2": "Cavaliers",
     "champ": "NBA",
-    "heure": "00H30",
-    "date": "19/11/2024",
-    "pro": "Chaque Equipe marque (99.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1200px-Milwaukee_Bucks_logo.svg.png",
-    "name1": "Bucks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/1200px-Houston_Rockets.svg.png",
-    "name2": "Rockets",
-    "champ": "NBA",
-    "heure": "01H00",
-    "date": "19/11/2024",
+    "heure": "00H00",
+    "date": "20/11/2024",
     "pro": "Total (225.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/1200px-Phoenix_Suns_logo.svg.png",
-    "name1": "Suns",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png",
-    "name2": "Magic d'Orlando",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
+    "name1": "Lakers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png",
+    "name2": "Utah Jazz",
+    "champ": "NBA",
+    "heure": "03H30",
+    "date": "20/11/2024",
+    "pro": "LeBron James Double-Double (OUI)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png",
+    "name1": "Grizzlies",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name2": "Nuggets",
     "champ": "NBA",
     "heure": "15H30",
     "date": "19/11/2024",
-    "pro": "Total 1 (99.5)"
+    "pro": "Nikola Jokic Total(29.5)"
   }
 ]
