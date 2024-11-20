@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png",
-    "name1": "Celtics",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
-    "name2": "Cavaliers",
-    "champ": "NBA",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a3/Logo_Valencia_Basket_Club.png/800px-Logo_Valencia_Basket_Club.png",
+    "name1": "Velencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/eb/Reyer_Venezia_logo_2022.png",
+    "name2": "Reyer Venezia",
+    "champ": "Euroligue Femmes",
+    "heure": "19H00",
     "date": "20/11/2024",
-    "pro": "Total (225.5)"
+    "pro": "Total (139.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
-    "name1": "Lakers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png",
-    "name2": "Utah Jazz",
-    "champ": "NBA",
-    "heure": "03H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
+    "name1": "Zaragoza",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name2": "Fenerbahce",
+    "champ": "Euroligue Femmes",
+    "heure": "19H00",
     "date": "20/11/2024",
-    "pro": "LeBron James Double-Double (OUI)"
+    "pro": "Total 2 (81.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png",
-    "name1": "Grizzlies",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
-    "name2": "Nuggets",
-    "champ": "NBA",
-    "heure": "15H30",
-    "date": "19/11/2024",
-    "pro": "Nikola Jokic Total(29.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
+    "name1": "Virtus Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name2": "Fenerbahce",
+    "champ": "Euroligue",
+    "heure": "19H30",
+    "date": "20/11/2024",
+    "pro": "Equipe 2 gagne Deux quart-temps"
   }
 ]
