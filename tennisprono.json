@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/640px-Logo_AS_Monaco_Basket.svg.png",
-    "name1": "Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name2": "ASVEL",
-    "champ": "Euroligue",
-    "heure": "18H00",
-    "date": "21/11/2024",
-    "pro": "Chaque Equipe marque (72.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/640px-Flag_of_Mali.svg.png",
+    "name1": "Mali",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
+    "name2": "Soudan du Sud",
+    "champ": "Afro Basket",
+    "heure": "12H00",
+    "date": "23/11/2024",
+    "pro": "Total 2 (79.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name1": "Etoile Rouge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
-    "name2": "Partizan",
-    "champ": "Euroligue",
-    "heure": "19H00",
-    "date": "21/11/2024",
-    "pro": "Chaque Equipe marque (72.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/langfr-225px-Flag_of_Morocco.svg.png",
+    "name1": "Maroc",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/800px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+    "name2": "RD Congo",
+    "champ": "Afro Basket",
+    "heure": "15H00",
+    "date": "23/11/2024",
+    "pro": "Total 1 (67.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1507px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
-    "name1": "Anadolu Efes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
-    "name2": "Paris Basket",
-    "champ": "Euroligue",
-    "heure": "19H30",
-    "date": "21/11/2024",
-    "pro": "Equipe 1 gagne Deux quart-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png",
+    "name1": "Utah Jazz",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu4UREq7bL1ZpWSE71GEcRucAEongBIHlebA&s",
+    "name2": "knicks",
+    "champ": "NBA",
+    "heure": "22H00",
+    "date": "23/11/2024",
+    "pro": "Total (224.5)"
   }
 ]
