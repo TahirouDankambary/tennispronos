@@ -1,31 +1,31 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",
-    "name1": "Charlotte Hornets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
-    "name2": "Heat",
-    "champ": "NBA",
-    "heure": "00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name2": "Saski Baskonia",
+    "champ": "Euroligue",
+    "heure": "19H00",
     "date": "28/11/2024",
-    "pro": "Chaque Equipe marque (98.5)"
+    "pro": "Chaque Equipe marque (69.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
-    "name1": "Cavalieres",
-    "photo2": "https://e1.pngegg.com/pngimages/940/189/png-clipart-mascotte-logo-atlanta-hawks-nba-basketball-atlanta-hawks-basketball-club-symbole-logo-wikipedia-rouge-thumbnail.png",
-    "name2": "Atlanta",
-    "champ": "NBA",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Logo_Partizan_1958.png",
+    "name1": "Partizan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1200px-Logo_Olympiacos_Basketball_-_2009.svg.png",
+    "name2": "Olympiacos",
+    "champ": "Euroligue",
+    "heure": "19H30",
     "date": "28/11/2024",
-    "pro": "Total (231.5)"
+    "pro": "Equipe 2 gagne deux quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1200px-Dallas_Mavericks_logo.svg.png",
-    "name1": "Dallas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png",
-    "name2": "Knicks",
-    "champ": "NBA",
-    "heure": "00H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20181006143652%21Logo_Real_Madrid.svg",
+    "name2": "Real Madrid",
+    "champ": "Euroligue",
+    "heure": "19H45",
     "date": "28/11/2024",
     "pro": "KyrieIrving Total (27.5)"
   }
