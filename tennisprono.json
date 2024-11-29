@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name1": "Zalgiris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
-    "name2": "Saski Baskonia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name1": "Etoile Rouge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern",
     "champ": "Euroligue",
     "heure": "19H00",
-    "date": "28/11/2024",
-    "pro": "Chaque Equipe marque (69.5)"
+    "date": "29/11/2024",
+    "pro": "Total (159.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Logo_Partizan_1958.png",
-    "name1": "Partizan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1200px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name2": "Olympiacos",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+    "name2": "OLimpia milano",
     "champ": "Euroligue",
-    "heure": "19H30",
-    "date": "28/11/2024",
-    "pro": "Equipe 2 gagne deux quart-temps"
+    "heure": "17H45",
+    "date": "29/11/2024",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20181006143652%21Logo_Real_Madrid.svg",
-    "name2": "Real Madrid",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQII3s5a_0Fly_XM4PC4I5cGJoX-hNJmLsKnQ&s",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/640px-Logo_AS_Monaco_Basket.svg.png",
+    "name2": "Monaco",
     "champ": "Euroligue",
-    "heure": "19H45",
-    "date": "28/11/2024",
-    "pro": "KyrieIrving Total (27.5)"
+    "heure": "19H15",
+    "date": "29/11/2024",
+    "pro": "Chaque Equipe marque (73.5)"
   }
 ]
