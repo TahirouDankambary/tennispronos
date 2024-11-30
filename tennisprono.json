@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name1": "Etoile Rouge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "Euroligue",
-    "heure": "19H00",
-    "date": "29/11/2024",
-    "pro": "Total (159.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",
+    "name1": "Charlotte Hornets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/e/ee/20161212034124%21Hawks_2016.png",
+    "name2": "Atlanta",
+    "champ": "NBA",
+    "heure": "23H00",
+    "date": "30/11/2024",
+    "pro": "Melo Ball Total (32.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
-    "name2": "OLimpia milano",
-    "champ": "Euroligue",
-    "heure": "17H45",
-    "date": "29/11/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/Logo_ESSM_Le_Portel_C%C3%B4te_d%27Opale_-_2015.svg/1775px-Logo_ESSM_Le_Portel_C%C3%B4te_d%27Opale_-_2015.svg.png",
+    "name1": "ESSM Le Portel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name2": "Paris Basket",
+    "champ": "France Championnat",
+    "heure": "19H30",
+    "date": "30/11/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQII3s5a_0Fly_XM4PC4I5cGJoX-hNJmLsKnQ&s",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/640px-Logo_AS_Monaco_Basket.svg.png",
-    "name2": "Monaco",
-    "champ": "Euroligue",
-    "heure": "19H15",
-    "date": "29/11/2024",
-    "pro": "Chaque Equipe marque (73.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynAW_w4kkXEfplO_2pq2RlS_-xGs0kbR6Kw&s",
+    "name1": "Nitra Blue Wings",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a8/Levick%C3%AD_Patrioti_logo.png",
+    "name2": "Levicki",
+    "champ": "Slovaquie Championnat",
+    "heure": "17H00",
+    "date": "30/11/2024",
+    "pro": "Total 2 (74.5)"
   }
 ]
