@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/2048px-Celtics_de_Boston_logo.svg.png",
-    "name1": "Boston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
-    "name2": "Heat",
-    "champ": "NBA",
-    "heure": "00H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+    "name1": "Maccabi Tel AViv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/800px-Logo_Paris_Basketball_-_2024.svg.png",
+    "name2": "Paris",
+    "champ": "EuroLigue",
+    "heure": "19H05",
     "date": "03/12/2024",
-    "pro": "Total 1 (109.5)"
+    "pro": "Equipe 2 gagne 2 quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png",
-    "name1": "Timberwolves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
-    "name2": "Lakers",
-    "champ": "NBA",
-    "heure": "01H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name1": "Saski Baskonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name2": "Fenerbahce",
+    "champ": "EuroLigue",
+    "heure": "19H30",
     "date": "03/12/2024",
-    "pro": "Total 2 (106.5)"
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png",
-    "name1": "Bulls",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/49/Nets_de_Brooklyn_2024.png",
-    "name2": "Nets",
-    "champ": "NBA",
-    "heure": "01H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/%C4%8CEZ_Basketball_Nymburk.png/220px-%C4%8CEZ_Basketball_Nymburk.png",
+    "name1": "ERA Nymburk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/04/Logo-Galatasaray.png",
+    "name2": "Galatasaray",
+    "champ": "Basket LDC",
+    "heure": "17H30",
     "date": "03/12/2024",
-    "pro": "Chaque Equpe marque (106.5)"
+    "pro": "Total 1 (83.5)"
   }
 ]
