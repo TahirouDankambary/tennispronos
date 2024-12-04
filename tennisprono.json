@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png",
-    "name1": "Maccabi Tel AViv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/800px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name2": "Paris",
-    "champ": "EuroLigue",
-    "heure": "19H05",
-    "date": "03/12/2024",
-    "pro": "Equipe 2 gagne 2 quart-temps"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSaF5kLL0aLFPoN_hj7u7FcQQxSbifDRUH7w&s",
+    "name1": "Panevezys",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4KAiYG77fwwjzdmCi4wA1rz6uB_XuwTHVg&s",
+    "name2": "Turk Telekom",
+    "champ": "Eurocup",
+    "heure": "17H00",
+    "date": "04/12/2024",
+    "pro": "Chaque Equipe va marqué (70.5à"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
-    "name1": "Saski Baskonia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name2": "Fenerbahce",
-    "champ": "EuroLigue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bah%C3%A7e%C5%9Fehir_Koleji_Spor_Kul%C3%BCb%C3%BC_logo.png",
+    "name1": "Bahcesehir",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/BC_Wolves_logo.svg/1200px-BC_Wolves_logo.svg.png",
+    "name2": "Wolves vilnius",
+    "champ": "EuroCup",
+    "heure": "16H00",
+    "date": "04/12/2024",
+    "pro": "Total 2 (71.)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Olimpia_Milano_-_2016.svg/1200px-Logo_Olimpia_Milano_-_2016.svg.png",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name2": "Etoile Rouge",
+    "champ": "Euroligue",
     "heure": "19H30",
-    "date": "03/12/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/%C4%8CEZ_Basketball_Nymburk.png/220px-%C4%8CEZ_Basketball_Nymburk.png",
-    "name1": "ERA Nymburk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/04/Logo-Galatasaray.png",
-    "name2": "Galatasaray",
-    "champ": "Basket LDC",
-    "heure": "17H30",
-    "date": "03/12/2024",
-    "pro": "Total 1 (83.5)"
+    "date": "04/12/2024",
+    "pro": "Equipe 2 gagne deux quart-temps"
   }
 ]
