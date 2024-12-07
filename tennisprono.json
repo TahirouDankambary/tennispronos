@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
-    "name1": "Virtus Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name2": "Etoile Rouge",
-    "champ": "Euroligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/ab/Strasbourg_IG_logo.jpg/220px-Strasbourg_IG_logo.jpg",
+    "name1": "Strasbourg IG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/936px-Logo_Cholet_Basket_2019.svg.png",
+    "name2": "Cholet",
+    "champ": "Elite Ligue",
     "heure": "19H30",
-    "date": "06/12/2024",
+    "date": "07/12/2024",
     "pro": "Equipe 2 gagne deux quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Olimpia_Milano_-_2016.svg/1200px-Logo_Olimpia_Milano_-_2016.svg.png",
-    "name1": "Olimpia Milano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name2": "ASVEL",
-    "champ": "EuroLigue",
-    "heure": "19H45",
-    "date": "06/12/2024",
-    "pro": "Total (159.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",
+    "name1": "Hornets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
+    "name2": "Cavaliers",
+    "champ": "NBA",
+    "heure": "18H00",
+    "date": "07/12/2024",
+    "pro": "Total 2 (115.5)"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/e/ee/20161212034124%21Hawks_2016.png",
     "name1": "Hawks",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
     "name2": "Lakers",
-    "champ": "Euroligue",
-    "heure": "00H30",
-    "date": "07/12/2024",
-    "pro": "TOtal LeBron James (22.5)"
+    "champ": "NBA",
+    "heure": "00H00",
+    "date": "08/12/2024",
+    "pro": "TOtal NIkola Jikic (29.5)"
   }
 ]
