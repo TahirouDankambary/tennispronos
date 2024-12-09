@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2a4L6r_Xk6grWLPT6mZwsyscaUA7_FNE0g&s",
-    "name1": "Heats",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
-    "name2": "Cavaliers",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/800px-Toronto_Raptors_logo.svg.png",
+    "name1": "Raptors",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png",
+    "name2": "Knicks",
     "champ": "NBA",
-    "heure": "23H00",
-    "date": "08/12/2024",
-    "pro": "Equipe 2 gagne deux quart-temps"
+    "heure": "00H30",
+    "date": "10/12/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png",
-    "name1": "Magic",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/1200px-Phoenix_Suns_logo.svg.png",
-    "name2": "Suns",
-    "champ": "NBA",
-    "heure": "23H30",
-    "date": "08/12/2024",
-    "pro": "Total 2 (99.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern",
+    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/SC_Rasta_Vechta_logo.svg/1200px-SC_Rasta_Vechta_logo.svg.png",
+    "name2": "Rasta Vechta",
+    "champ": "Allemagne Coupe",
+    "heure": "19H00",
+    "date": "09/12/2024",
+    "pro": "Total (163.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/49/Nets_de_Brooklyn_2024.png",
-    "name1": "Nets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1200px-Milwaukee_Bucks_logo.svg.png",
-    "name2": "Bucks",
-    "champ": "NBA",
-    "heure": "20H30",
-    "date": "08/12/2024",
-    "pro": "TOtal Antetokounmpo (30.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Mega-logo-2020.png/230px-Mega-logo-2020.png",
+    "name1": "Mega MIS",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b3/KKBoracCacak.png",
+    "name2": "Borac Cacak",
+    "champ": "Ligue Adriatique",
+    "heure": "17H00",
+    "date": "09/12/2024",
+    "pro": "Total 1 (79.5)"
   }
 ]
