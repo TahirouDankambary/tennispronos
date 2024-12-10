@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/800px-Toronto_Raptors_logo.svg.png",
-    "name1": "Raptors",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png",
-    "name2": "Knicks",
-    "champ": "NBA",
-    "heure": "00H30",
-    "date": "10/12/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/SC_Rasta_Vechta_logo.svg/1200px-SC_Rasta_Vechta_logo.svg.png",
-    "name2": "Rasta Vechta",
-    "champ": "Allemagne Coupe",
+    "photo1": "https://upload.wikimedia.org/wikipedia/he/4/41/Bilbao_Basket_Logo.png",
+    "name1": "Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/936px-Logo_Cholet_Basket_2019.svg.png",
+    "name2": "Cholet",
+    "champ": "Coupe d'Europe",
     "heure": "19H00",
-    "date": "09/12/2024",
-    "pro": "Total (163.5)"
+    "date": "10/12/2024",
+    "pro": "Total 2 (69.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Mega-logo-2020.png/230px-Mega-logo-2020.png",
-    "name1": "Mega MIS",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b3/KKBoracCacak.png",
-    "name2": "Borac Cacak",
-    "champ": "Ligue Adriatique",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/Logo_of_CB_1939_Canarias.png",
+    "name1": "Lenovo Tenerife",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9b/P%C4%B1nar_Kar%C5%9F%C4%B1yaka_logo.png",
+    "name2": "Pinar karsiyaka",
+    "champ": "LDC Basket",
+    "heure": "20H00",
+    "date": "10/12/2024",
+    "pro": "Total (159.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/he/c/c9/Maccabi_ironi_ramat-gan_Women.png",
+    "name1": "Ironi Ramat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/Aek_ath%C3%A8nes.png",
+    "name2": "AEK Athens",
+    "champ": "LDC Basket",
     "heure": "17H00",
-    "date": "09/12/2024",
-    "pro": "Total 1 (79.5)"
+    "date": "10/12/2024",
+    "pro": "Chaque Equipe marque (72.5)"
   }
 ]
