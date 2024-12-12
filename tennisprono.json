@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/lt/thumb/b/bf/BC_Wolves_logo.svg/167px-BC_Wolves_logo.svg.png",
-    "name1": "Wolves Vilnius",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
-    "name2": "Hapoel Tel Aviv",
-    "champ": "Eurocup",
-    "heure": "16H30",
-    "date": "11/12/2024",
-    "pro": "Quart-temps le plus Elevè (48.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
+    "name2": "Monaco Basket",
+    "champ": "EuroLigue",
+    "heure": "17H45",
+    "date": "12/12/2024",
+    "pro": "Chaque Equpe marque (72.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/thumb/8/84/Reyer_Venezia_-_logo_%28Italy%2C_2022%29.png/640px-Reyer_Venezia_-_logo_%28Italy%2C_2022%29.png",
-    "name1": "Reyer Maschile",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d2/Cedevita_Olimpija_Ljubljana_logo.png",
-    "name2": "Cedevita Olimpija",
-    "champ": "EuroCup",
-    "heure": "19H00",
-    "date": "11/12/2024",
-    "pro": "Total 2 (71.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
+    "name1": "Real",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name2": "Zalgiris",
+    "champ": "Euroligue",
+    "heure": "19H45",
+    "date": "12/12/2024",
+    "pro": "Handicap 2 (15.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Cfmuniversitateacluj.png",
-    "name1": "U-BT-Napoca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1792px-Logo_JL_Bourg_Basket_-_2017.svg.png",
-    "name2": "JL Bourg",
-    "champ": "EuroCup",
-    "heure": "17H00",
-    "date": "11/12/2024",
-    "pro": "Equipe 2 gagne deux Quart-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/tr/5/55/USK_Prag_Logo.png",
+    "name2": "USK Future Stars",
+    "champ": "EoroLigue femmes",
+    "heure": "15H30",
+    "date": "12/12/2024",
+    "pro": "V1"
   }
 ]
