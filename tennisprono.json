@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
-    "name2": "Monaco Basket",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1200px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
+    "name1": "Anadolu Efes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/836px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
+    "name2": "Panathinaikos",
     "champ": "EuroLigue",
-    "heure": "17H45",
-    "date": "12/12/2024",
-    "pro": "Chaque Equpe marque (72.5)"
+    "heure": "17H30",
+    "date": "13/12/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name2": "Zalgiris",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+    "name2": "Olimpia Milano",
     "champ": "Euroligue",
-    "heure": "19H45",
-    "date": "12/12/2024",
-    "pro": "Handicap 2 (15.5)"
+    "heure": "19H30",
+    "date": "13/12/2024",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/tr/5/55/USK_Prag_Logo.png",
-    "name2": "USK Future Stars",
-    "champ": "EoroLigue femmes",
-    "heure": "15H30",
-    "date": "12/12/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name1": "ASVEL",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Logo_Paris_Basketball.svg/1200px-Logo_Paris_Basketball.svg.png",
+    "name2": "Paris",
+    "champ": "EoroLigue",
+    "heure": "20H00",
+    "date": "13/12/2024",
+    "pro": "V2"
   }
 ]
