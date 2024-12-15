@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/3/3a/KK_Cibona_logo.png",
-    "name1": "Cibona",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d2/Cedevita_Olimpija_Ljubljana_logo.png",
-    "name2": "Olimpija",
-    "champ": "Ligue Adriatique",
-    "heure": "18H00",
-    "date": "14/12/2024",
-    "pro": "Total 2 (83.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1200px-Milwaukee_Bucks_logo.svg.png",
-    "name1": "Bucks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
-    "name2": "Hawks",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
+    "name1": "Wizards",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+    "name2": "Celtics",
     "champ": "NBA",
-    "heure": "21H30",
-    "date": "14/12/2024",
-    "pro": "Chaque Equipe marque (103.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1200px-Oklahoma_City_Thunder.svg.png",
-    "name1": "Thunder",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/1200px-Houston_Rockets.svg.png",
-    "name2": "Rockets",
-    "champ": "NBA",
-    "heure": "01H30",
+    "heure": "23H00",
     "date": "15/12/2024",
-    "pro": "V1"
+    "pro": "Total Pitchard (13.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png",
+    "name1": "Magic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png",
+    "name2": "Knicks",
+    "champ": "NBA",
+    "heure": "23H00",
+    "date": "15/12/2024",
+    "pro": "Chaque Equipe marque (97.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1200px-Pacers_de_l%27Indiana_logo.svg.png",
+    "name1": "Pacers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/New_Orleans_Pelicans.pngg",
+    "name2": "Pelicans",
+    "champ": "NBA",
+    "heure": "22H00",
+    "date": "15/12/2024",
+    "pro": "Total (224.5)"
   }
 ]
