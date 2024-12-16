@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
-    "name1": "Wizards",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
-    "name2": "Celtics",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/200px-Toronto_Raptors_logo.svg.png",
+    "name1": "Raptors",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png",
+    "name2": "Bulls",
     "champ": "NBA",
-    "heure": "23H00",
-    "date": "15/12/2024",
-    "pro": "Total Pitchard (13.5)"
+    "heure": "00H30",
+    "date": "17/12/2024",
+    "pro": "Total LaVine (22.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png",
-    "name1": "Magic",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png",
-    "name2": "Knicks",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png",
+    "name1": "Kings",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name2": "Nuggets",
     "champ": "NBA",
-    "heure": "23H00",
-    "date": "15/12/2024",
-    "pro": "Chaque Equipe marque (97.5)"
+    "heure": "03H00",
+    "date": "17/12/2024",
+    "pro": "Total Nikola Jokic (22.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1200px-Pacers_de_l%27Indiana_logo.svg.png",
-    "name1": "Pacers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/New_Orleans_Pelicans.pngg",
-    "name2": "Pelicans",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/1200px-Logo_of_the_Detroit_Pistons.svg.png",
+    "name1": "Pistons",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
+    "name2": "Heat",
     "champ": "NBA",
-    "heure": "22H00",
-    "date": "15/12/2024",
-    "pro": "Total (224.5)"
+    "heure": "00H00",
+    "date": "17/12/2024",
+    "pro": "V2"
   }
 ]
