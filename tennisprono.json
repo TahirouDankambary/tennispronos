@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/200px-Toronto_Raptors_logo.svg.png",
-    "name1": "Raptors",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png",
-    "name2": "Bulls",
-    "champ": "NBA",
-    "heure": "00H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
+    "name1": "Monaco Basket",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern",
+    "champ": "Eurligue",
+    "heure": "18H00",
     "date": "17/12/2024",
-    "pro": "Total LaVine (22.5)"
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png",
-    "name1": "Kings",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
-    "name2": "Nuggets",
-    "champ": "NBA",
-    "heure": "03H00",
-    "date": "17/12/2024",
-    "pro": "Total Nikola Jokic (22.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/1200px-Logo_of_the_Detroit_Pistons.svg.png",
-    "name1": "Pistons",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
-    "name2": "Heat",
-    "champ": "NBA",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "name1": "ALBA Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name2": "Zalgiris",
+    "champ": "Eurligue",
+    "heure": "19H45",
     "date": "17/12/2024",
     "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
+    "name1": "Partizan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name2": "ASVEL",
+    "champ": "Eurligue",
+    "heure": "19H45",
+    "date": "17/12/2024",
+    "pro": "Total (160)"
   }
 ]
