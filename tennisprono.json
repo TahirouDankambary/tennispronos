@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
-    "name1": "Monaco Basket",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "Eurligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Reyer_Venezia_logo_2022.png",
+    "name1": "Reyer W",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name2": "Fenerbahce W",
+    "champ": "Eurligue Femmes",
     "heure": "18H00",
-    "date": "17/12/2024",
-    "pro": "V1"
+    "date": "18/12/2024",
+    "pro": "V2 et Total (76.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
-    "name1": "ALBA Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name2": "Zalgiris",
-    "champ": "Eurligue",
-    "heure": "19H45",
-    "date": "17/12/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/Cedevita_Olimpija_Ljubljana_logo.png",
+    "name1": "Olimpija",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/cb/T%C3%BCrk_Telekom_Basketbol_logo.png",
+    "name2": "Turrk Telekom",
+    "champ": "EuroCoupe",
+    "heure": "17H30",
+    "date": "18/12/2024",
+    "pro": "Handicap 2 (9.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
-    "name1": "Partizan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name2": "ASVEL",
-    "champ": "Eurligue",
-    "heure": "19H45",
-    "date": "17/12/2024",
-    "pro": "Total (160)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/1200px-Ratiopharm_Ulm_logo.svg.png",
+    "name1": "Ulm",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/bf/BC_Wolves_logo.svg",
+    "name2": "Wolves Vilnus",
+    "champ": "EuroCoupe",
+    "heure": "18H00",
+    "date": "18/12/2024",
+    "pro": "Quart-temps plus élévé (49.5)"
   }
 ]
