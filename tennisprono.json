@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
-    "name2": "Monaco Basket",
-    "champ": "Eurligue",
-    "heure": "19H45",
-    "date": "19/12/2024",
-    "pro": "Handicap 2 (9.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
+    "name1": "Heat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1200px-Oklahoma_City_Thunder.svg.png",
+    "name2": "Thunder",
+    "champ": "NBA",
+    "heure": "01H00",
+    "date": "21/12/2024",
+    "pro": "Total Shai Alexander (29.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/836px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
-    "name2": "Saski",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
+    "name1": "Virtus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
     "champ": "Eurligue",
     "heure": "17H45",
-    "date": "19/12/2024",
-    "pro": "V1"
+    "date": "20/12/2024",
+    "pro": "Equipe 2 Gagne deux quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/langfr-190px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name1": "Paris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name2": "Fenerbahce",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name2": "ASVEL",
     "champ": "Eurligue",
-    "heure": "19H30",
-    "date": "19/12/2024",
-    "pro": "Total (159.5)"
+    "heure": "18H00",
+    "date": "20/12/2024",
+    "pro": "Chaque Equipe marque (70.5)"
   }
 ]
