@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
-    "name1": "Heat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1200px-Oklahoma_City_Thunder.svg.png",
-    "name2": "Thunder",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png",
+    "name1": "Kings",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1280px-Los_Angeles_Lakers_logo.svg.png",
+    "name2": "Lakers",
     "champ": "NBA",
-    "heure": "01H00",
+    "heure": "23H00",
     "date": "21/12/2024",
-    "pro": "Total Shai Alexander (29.5)"
+    "pro": "Chaque Equipe marque (102.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
-    "name1": "Virtus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "Eurligue",
-    "heure": "17H45",
-    "date": "20/12/2024",
-    "pro": "Equipe 2 Gagne deux quart-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/Fraport_Skyliners_logo.png",
+    "name1": "Skyliners Frankfurt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/1200px-Ratiopharm_Ulm_logo.svg.png",
+    "name2": "Ulm",
+    "champ": "BBl",
+    "heure": "19H00",
+    "date": "21/12/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name1": "Zalgiris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name2": "ASVEL",
-    "champ": "Eurligue",
-    "heure": "18H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Logo_Limoges_Cercle_Saint-Pierre.svg",
+    "name1": "Limoges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
+    "name2": "Monaco Basket",
+    "champ": "Elite Ligue",
+    "heure": "19H30",
     "date": "20/12/2024",
-    "pro": "Chaque Equipe marque (70.5)"
+    "pro": "V2"
   }
 ]
