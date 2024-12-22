@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png",
-    "name1": "Kings",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1280px-Los_Angeles_Lakers_logo.svg.png",
-    "name2": "Lakers",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/200px-Toronto_Raptors_logo.svg.png",
+    "name1": "Raptors",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/1200px-Houston_Rockets.svg.png",
+    "name2": "Rockets",
     "champ": "NBA",
     "heure": "23H00",
-    "date": "21/12/2024",
-    "pro": "Chaque Equipe marque (102.5)"
+    "date": "22/12/2024",
+    "pro": "Total (215.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/Fraport_Skyliners_logo.png",
-    "name1": "Skyliners Frankfurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/1200px-Ratiopharm_Ulm_logo.svg.png",
-    "name2": "Ulm",
-    "champ": "BBl",
-    "heure": "19H00",
-    "date": "21/12/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png",
+    "name1": "Kings",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1200px-Pacers_de_l%27Indiana_logo.svg.png",
+    "name2": "Pacers",
+    "champ": "NBA",
+    "heure": "23H00",
+    "date": "22/12/2024",
+    "pro": "Total Pascal Siakam (20.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Logo_Limoges_Cercle_Saint-Pierre.svg",
-    "name1": "Limoges",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_AS_Monaco_Basket.svg",
-    "name2": "Monaco Basket",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name1": "ASVEL",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name2": "Paris Basket",
     "champ": "Elite Ligue",
-    "heure": "19H30",
-    "date": "20/12/2024",
-    "pro": "V2"
+    "heure": "15H30",
+    "date": "22/12/2024",
+    "pro": "Equipe 2 Gagne deux Quart-temps"
   }
 ]
