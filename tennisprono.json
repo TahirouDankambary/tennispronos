@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png",
-    "name1": "Knicks",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Eoibwy4bqDaxW9L_ZBajFOdDuCrM6iGBxQ&s",
-    "name2": "Spurs",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png",
+    "name1": "Magic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
+    "name2": "Heat",
     "champ": "NBA",
-    "heure": "17H00",
-    "date": "25/12/2024",
-    "pro": "Total: (224.5)"
+    "heure": "00H00",
+    "date": "27/12/2024",
+    "pro": "Total 2 (99.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1200px-Dallas_Mavericks_logo.svg.png",
-    "name1": "Mavericks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png",
-    "name2": "Timberwolves",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
+    "name1": "Wizards",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",
+    "name2": "Hornets",
     "champ": "NBA",
-    "heure": "19H00",
-    "date": "25/12/2024",
-    "pro": "Total Luka Doncic (29.5)"
+    "heure": "00H00",
+    "date": "27/12/2024",
+    "pro": "Total Melo Ball (30.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
-    "name1": "Celtics",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png",
-    "name2": "76ers",
-    "champ": "NBA",
-    "heure": "22H00",
-    "date": "25/12/2024",
-    "pro": "Total 1 (114.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
+    "name2": "Olympakos",
+    "champ": "Eurpoligue",
+    "heure": "19H30",
+    "date": "26/12/2024",
+    "pro": "Equipe 2 Gagne deux Quar-temps"
   }
 ]
