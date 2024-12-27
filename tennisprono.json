@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpM4BSykJMgB0EuYcEv_Gaz1IUj7679uzPiA&s",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name2": "Etoile Rouge",
-    "champ": "Euroligue",
-    "heure": "19H30",
-    "date": "27/12/2024",
-    "pro": "Total (163.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fe/MBC_logo_2019.png",
+    "name1": "Mitteldeutscher",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "name2": "ALBA Berlin",
+    "champ": "BBl",
+    "heure": "17H30",
+    "date": "28/12/2024",
+    "pro": "Total (164.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/512px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/261px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
-    "name2": "Panathinaikos",
-    "champ": "Euroligue",
-    "heure": "19H30",
-    "date": "27/12/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
+    "name1": "Rytas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Logo_KK_Lietkabelis.svg/2048px-Logo_KK_Lietkabelis.svg.png",
+    "name2": "Lietkabelis",
+    "champ": "LKL",
+    "heure": "17H00",
+    "date": "28/12/2024",
+    "pro": "Total 1 (83.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
-    "name1": "Virtus Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name2": "ASVEL",
-    "champ": "Eurpoligue",
-    "heure": "19H30",
-    "date": "27/12/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/36/Hapoel_Galil_Elyon_-_Logo.png",
+    "name1": "Hapoel Galil Elyon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
+    "name2": "Hapoel Tel-Aviv",
+    "champ": "Israel Superligue",
+    "heure": "18H50",
+    "date": "28/12/2024",
     "pro": "total 2 (83.5)"
   }
 ]
