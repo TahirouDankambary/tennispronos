@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fe/MBC_logo_2019.png",
-    "name1": "Mitteldeutscher",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
-    "name2": "ALBA Berlin",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/Fraport_Skyliners_logo.png",
+    "name1": "Skyliners Frankfurt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern",
     "champ": "BBl",
-    "heure": "17H30",
-    "date": "28/12/2024",
-    "pro": "Total (164.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
-    "name1": "Rytas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Logo_KK_Lietkabelis.svg/2048px-Logo_KK_Lietkabelis.svg.png",
-    "name2": "Lietkabelis",
-    "champ": "LKL",
     "heure": "17H00",
-    "date": "28/12/2024",
-    "pro": "Total 1 (83.5)"
+    "date": "29/12/2024",
+    "pro": "Total (160.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/36/Hapoel_Galil_Elyon_-_Logo.png",
-    "name1": "Hapoel Galil Elyon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
-    "name2": "Hapoel Tel-Aviv",
-    "champ": "Israel Superligue",
-    "heure": "18H50",
-    "date": "28/12/2024",
-    "pro": "total 2 (83.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
+    "name1": "Real",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "ACB",
+    "heure": "19H30",
+    "date": "29/12/2024",
+    "pro": "Total 2 (81.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png",
+    "name1": "Celtics",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1200px-Pacers_de_l%27Indiana_logo.svg.png",
+    "name2": "Pacers",
+    "champ": "NBA",
+    "heure": "23H00",
+    "date": "29/12/2024",
+    "pro": "total (225.5)"
   }
 ]
