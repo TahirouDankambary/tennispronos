@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/Fraport_Skyliners_logo.png",
-    "name1": "Skyliners Frankfurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "BBl",
-    "heure": "17H00",
-    "date": "29/12/2024",
-    "pro": "Total (160.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/53/Cobolli_RGQ23_%2852944096963%29.jpg",
+    "name1": "Flavio Cobolli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Humbert_MCM22_%2813%29_%2852036659734%29.jpg/1200px-Humbert_MCM22_%2813%29_%2852036659734%29.jpg",
+    "name2": "Ugo Humbert",
+    "champ": "Tennis United Cup",
+    "heure": "23H30",
+    "date": "30/12/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "ACB",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Leicester_Riders.png/220px-Leicester_Riders.png",
+    "name1": "Leicester Riders",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b5/London_Lions_logo_%282021%29.png",
+    "name2": "London Lions",
+    "champ": "Angleterre Super Ligue",
     "heure": "19H30",
-    "date": "29/12/2024",
+    "date": "30/12/2024",
     "pro": "Total 2 (81.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png",
-    "name1": "Celtics",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1200px-Pacers_de_l%27Indiana_logo.svg.png",
-    "name2": "Pacers",
-    "champ": "NBA",
-    "heure": "23H00",
-    "date": "29/12/2024",
-    "pro": "total (225.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Niners_Chemnitz.png",
+    "name1": "Niners Chemnitz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fe/MBC_logo_2019.png",
+    "name2": "Mitteldeutscher",
+    "champ": "BBL",
+    "heure": "19H00",
+    "date": "30/12/2024",
+    "pro": "total (160.5)"
   }
 ]
