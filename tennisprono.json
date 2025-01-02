@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Portsmouth_FC_logo.svg/1200px-Portsmouth_FC_logo.svg.png",
-    "name1": "Portsmouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Swansea_City_AFC_logo.svg/1200px-Swansea_City_AFC_logo.svg.png",
-    "name2": "Swansea City",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "name1": "ALBA Berlin",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6v4yUKw7gBzYdtfKIXDevHISzVI2rEPRK5A&s",
+    "name2": "Monaco Basket",
+    "champ": "Euroligue",
     "heure": "15H00",
-    "date": "01/01/2025",
-    "pro": "2X"
+    "date": "02/01/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sheffield_Wednesday_badge.svg/1200px-Sheffield_Wednesday_badge.svg.png",
-    "name1": "Sheffield Wednesday",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
-    "name2": "Derby County",
-    "champ": "Angleterre. Championship",
-    "heure": "15H00",
-    "date": "01/01/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1785px-Logo_Olympiacos_Basketball_-_2009.svg.png",
+    "name2": "Olympiacos",
+    "champ": "Euroligue",
+    "heure": 18H00",
+    "date": "02/01/2025",
+    "pro": "Equipe 2 Gagne deux Quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/df/Blackpool_FC_logo.svg/1200px-Blackpool_FC_logo.svg.png",
-    "name1": "Blackpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Shrewsbury_Town_F.C._logo.svg/1200px-Shrewsbury_Town_F.C._logo.svg.png",
-    "name2": "Shrewsbury Town",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "15H00",
-    "date": "01/01/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/Brose_Baskets_Logo.svg/1200px-Brose_Baskets_Logo.svg.png",
+    "name1": "Brose Bamberg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/1200px-Ratiopharm_Ulm_logo.svg.png",
+    "name2": "Ulm",
+    "champ": "BBL",
+    "heure": "19H00",
+    "date": "02/01/2025",
+    "pro": "Equipe 2 Gagne deux Quart-temps"
   }
 ]
