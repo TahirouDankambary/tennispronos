@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
     "name1": "ALBA Berlin",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6v4yUKw7gBzYdtfKIXDevHISzVI2rEPRK5A&s",
-    "name2": "Monaco Basket",
+    "photo2": "Paris Basket",
+    "name2": "Barcelone",
     "champ": "Euroligue",
-    "heure": "15H00",
-    "date": "02/01/2025",
-    "pro": "V2"
+    "heure": "19H15",
+    "date": "03/01/2025",
+    "pro": "Total Jabari Parker (14.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name1": "Zalgiris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1785px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name2": "Olympiacos",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
+    "name1": "Real",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern",
     "champ": "Euroligue",
-    "heure": "18H00",
-    "date": "02/01/2025",
-    "pro": "Equipe 2 Gagne deux Quart-temps"
+    "heure": "20H00",
+    "date": "03/01/2025",
+    "pro": "Total (163.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/Brose_Baskets_Logo.svg/1200px-Brose_Baskets_Logo.svg.png",
-    "name1": "Brose Bamberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/1200px-Ratiopharm_Ulm_logo.svg.png",
-    "name2": "Ulm",
-    "champ": "BBL",
-    "heure": "19H00",
-    "date": "02/01/2025",
-    "pro": "Equipe 2 Gagne deux Quart-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/T%C3%BCrk_Telekomspor.png/320px-T%C3%BCrk_Telekomspor.png",
+    "name1": "Turk Telekom",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9BvjTtT6I-nj8JKSswBuiBd8HrQ556ShZQ&s",
+    "name2": "JL Bourg",
+    "champ": "EuroCup",
+    "heure": "16H30",
+    "date": "03/01/2025",
+    "pro": "Total 2 (77.5)"
   }
 ]
