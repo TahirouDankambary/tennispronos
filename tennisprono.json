@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
-    "name1": "ALBA Berlin",
-    "photo2": "Paris Basket",
-    "name2": "Barcelone",
-    "champ": "Euroligue",
-    "heure": "19H15",
-    "date": "03/01/2025",
-    "pro": "Total Jabari Parker (14.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/4a/Neptunas2020.png",
+    "name1": "Neptunas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
+    "name2": "Rytas",
+    "champ": "LKL",
+    "heure": "17H00",
+    "date": "04/01/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "Euroligue",
-    "heure": "20H00",
-    "date": "03/01/2025",
-    "pro": "Total (163.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fe/MBC_logo_2019.png",
+    "name1": "Mitteldeutscher",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/1200px-Ratiopharm_Ulm_logo.svg.png",
+    "name2": "Ulm",
+    "champ": "BBL",
+    "heure": "19H00",
+    "date": "04/01/2025",
+    "pro": "Equipe 2 Gagne deux Quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/T%C3%BCrk_Telekomspor.png/320px-T%C3%BCrk_Telekomspor.png",
-    "name1": "Turk Telekom",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9BvjTtT6I-nj8JKSswBuiBd8HrQ556ShZQ&s",
-    "name2": "JL Bourg",
-    "champ": "EuroCup",
-    "heure": "16H30",
-    "date": "03/01/2025",
-    "pro": "Total 2 (77.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/Logo_of_CB_1939_Canarias.png",
+    "name1": "Lenovo Tenerife",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/6/6d/Bilbao_Basket_logo.svg",
+    "name2": "Bilbao",
+    "champ": "LIGA ACB",
+    "heure": "20H30",
+    "date": "04/01/2025",
+    "pro": "Total (160.5)"
   }
 ]
