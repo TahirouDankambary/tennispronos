@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/4a/Neptunas2020.png",
-    "name1": "Neptunas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
-    "name2": "Rytas",
-    "champ": "LKL",
-    "heure": "17H00",
-    "date": "04/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1200px-Oklahoma_City_Thunder.svg.png",
+    "name1": "Thunder",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png",
+    "name2": "Celtics",
+    "champ": "NBA",
+    "heure": "20H30",
+    "date": "05/01/2025",
+    "pro": "Total (224.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "name1": "ALBA Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern",
+    "champ": "BBL",
+    "heure": "14H00",
+    "date": "05/01/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fe/MBC_logo_2019.png",
-    "name1": "Mitteldeutscher",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/1200px-Ratiopharm_Ulm_logo.svg.png",
-    "name2": "Ulm",
-    "champ": "BBL",
-    "heure": "19H00",
-    "date": "04/01/2025",
-    "pro": "Equipe 2 Gagne deux Quart-temps"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/Logo_of_CB_1939_Canarias.png",
-    "name1": "Lenovo Tenerife",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/6/6d/Bilbao_Basket_logo.svg",
-    "name2": "Bilbao",
-    "champ": "LIGA ACB",
-    "heure": "20H30",
-    "date": "04/01/2025",
-    "pro": "Total (160.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cleveland_Cavaliers_logo.svg/1200px-Cleveland_Cavaliers_logo.svg.png",
+    "name1": "Cavaliers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",
+    "name2": "Hornets",
+    "champ": "NBA",
+    "heure": "23H00",
+    "date": "05/01/2025",
+    "pro": "Total (225.5)"
   }
 ]
