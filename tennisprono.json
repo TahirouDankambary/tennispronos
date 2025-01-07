@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
-    "name1": "Saski",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name2": "Real",
-    "champ": "LIGA ACB",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/1200px-Ratiopharm_Ulm_logo.svg.png",
+    "name1": "Ulm",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/81/CB_Gran_Canaria_%28logo%29.svg",
+    "name2": "Gran Canaria",
+    "champ": "EuroCup",
+    "heure": "18H00",
+    "date": "07/01/2025",
+    "pro": "Handicap 1 (9.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1200px-Logo_JL_Bourg_Basket_-_2017.svg.png",
+    "name1": "JL Bourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Logo_KK_Lietkabelis.svg/1200px-Logo_KK_Lietkabelis.svg.png",
+    "name2": "Lietkabelis",
+    "champ": "EuroCup",
+    "heure": "18H30",
+    "date": "07/01/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/936px-Logo_Cholet_Basket_2019.svg.png",
+    "name1": "Cholet",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Dinamo_Sassari_logo.png/460px-Dinamo_Sassari_logo.png",
+    "name2": "Banco di Sardegna",
+    "champ": "Coupe FIBA",
     "heure": "19H30",
-    "date": "06/01/2025",
-    "pro": "Total (164.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Mega-logo-2020.png/230px-Mega-logo-2020.png",
-    "name1": "Mega MIS",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
-    "name2": "Partizan",
-    "champ": "Ligue Adriatique",
-    "heure": "11H00",
-    "date": "06/01/2025",
-    "pro": "Total 2 (83.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1ryZwIiQxoOekIPP27CwCq9spgL7EfRCg&s",
-    "name1": "Hapoel Afula",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png",
-    "name2": "Maccabi Tel Aviv",
-    "champ": "Israel Superligue",
-    "heure": "19H05",
-    "date": "06/01/2025",
-    "pro": "Total 2 (83.5)"
+    "date": "07/01/2025",
+    "pro": "V1"
   }
 ]
