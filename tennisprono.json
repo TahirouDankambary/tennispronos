@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/1200px-Ratiopharm_Ulm_logo.svg.png",
-    "name1": "Ulm",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/81/CB_Gran_Canaria_%28logo%29.svg",
-    "name2": "Gran Canaria",
-    "champ": "EuroCup",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce Femme",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Valencia_Basket_logo.svg/1200px-Valencia_Basket_logo.svg.png",
+    "name2": "Valencia Femme",
+    "champ": "EurolIgue Femme",
+    "heure": "16H00",
+    "date": "08/01/2025",
+    "pro": "Total 1 (79.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
+    "name1": "Zaragoza",
+    "photo2": "https://upload.wikimedia.org/wikipedia/tr/5/55/USK_Prag_Logo.png",
+    "name2": "USK Future Stars",
+    "champ": "EuroLigue Femme",
+    "heure": "19H00",
+    "date": "08/01/2025",
+    "pro": "Total (143.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a8/Levick%C3%AD_Patrioti_logo.png",
+    "name1": "Levicki",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynAW_w4kkXEfplO_2pq2RlS_-xGs0kbR6Kw&s",
+    "name2": "Nitra Blue Wings",
+    "champ": "SBL",
     "heure": "18H00",
-    "date": "07/01/2025",
-    "pro": "Handicap 1 (9.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1200px-Logo_JL_Bourg_Basket_-_2017.svg.png",
-    "name1": "JL Bourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Logo_KK_Lietkabelis.svg/1200px-Logo_KK_Lietkabelis.svg.png",
-    "name2": "Lietkabelis",
-    "champ": "EuroCup",
-    "heure": "18H30",
-    "date": "07/01/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/936px-Logo_Cholet_Basket_2019.svg.png",
-    "name1": "Cholet",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Dinamo_Sassari_logo.png/460px-Dinamo_Sassari_logo.png",
-    "name2": "Banco di Sardegna",
-    "champ": "Coupe FIBA",
-    "heure": "19H30",
-    "date": "07/01/2025",
-    "pro": "V1"
+    "date": "08/01/2025",
+    "pro": "Total 1 (79.5)"
   }
 ]
