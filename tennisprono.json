@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/523px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
-    "name2": "Partizan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
+    "name2": "Real",
     "champ": "EurolIgue",
+    "heure": "18H0",
+    "date": "10/01/2025",
+    "pro": "Handicap 1 (9.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/640px-Logo_Olympiacos_Basketball_-_2009.svg.png",
+    "name1": "Olympiaos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Byern",
+    "champ": "EuroLigue",
     "heure": "19H15",
-    "date": "09/01/2025",
+    "date": "10/01/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/446px-Logo_AS_Monaco_Basket.svg.png",
-    "name1": "Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name1": "Etoile Rouge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name2": "Paris Basket",
     "champ": "EuroLigue",
-    "heure": "18H00",
-    "date": "09/01/2025",
-    "pro": "Total (159.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
-    "name2": "Olimpia Milano",
-    "champ": "EuroLigue",
-    "heure": "19H05",
-    "date": "09/01/2025",
-    "pro": "Total (161.5)"
+    "heure": "19H00",
+    "date": "10/01/2025",
+    "pro": "Total (162.5)"
   }
 ]
