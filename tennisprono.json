@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name1": "Zalgiris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
-    "name2": "Real",
-    "champ": "EurolIgue",
-    "heure": "18H0",
-    "date": "10/01/2025",
-    "pro": "Handicap 1 (9.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/640px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name1": "Olympiaos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Byern",
-    "champ": "EuroLigue",
-    "heure": "19H15",
-    "date": "10/01/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name1": "Etoile Rouge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
-    "name2": "Paris Basket",
-    "champ": "EuroLigue",
-    "heure": "19H00",
-    "date": "10/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/5d/Bilbaobasket.png",
+    "name1": "Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/tr/4/4b/Unicaja_logo.png",
+    "name2": "Unicaja",
+    "champ": "LIGA ACB",
+    "heure": "17H00",
+    "date": "11/01/2025",
     "pro": "Total (162.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/SLUC_Nancy_%28logo%29.svg/2048px-SLUC_Nancy_%28logo%29.svg.png",
+    "name1": "Nancy",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/936px-Logo_Cholet_Basket_2019.svg.png",
+    "name2": "Cholet",
+    "champ": "Elite Ligue",
+    "heure": "17H00",
+    "date": "11/01/2025",
+    "pro": "Equipe 2 gagne deux Quart-temps"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a8/Levick%C3%AD_Patrioti_logo.png",
+    "name1": "Levicki",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/26/BK_Inter_Bratislava_logo.png",
+    "name2": "Inter Bratislava",
+    "champ": "Slovaquie SBL",
+    "heure": "17H30",
+    "date": "11/01/2025",
+    "pro": "Total 1 (81.5)"
   }
 ]
