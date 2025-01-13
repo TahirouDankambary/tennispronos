@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/43/MLP_Academics_Heidelberg.png",
-    "name1": "MLP Acadelics Heidelberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/640px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "BBL",
-    "heure": "17H00",
-    "date": "12/01/2025",
-    "pro": "Total (161.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/72/Raptors_de_Toronto.png",
+    "name1": "Raptors",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png",
+    "name2": "Golden State",
+    "champ": "NBA",
+    "heure": "00H30",
+    "date": "14/01/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/JDA_Dijon_Basket.png/1200px-JDA_Dijon_Basket.png",
-    "name1": "JDA Dijon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name2": "ASVEL",
-    "champ": "Elite Ligue",
-    "heure": "15H30",
-    "date": "12/01/2025",
-    "pro": "Equipe 2 gagne deux Quart-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
+    "name1": "Wizards",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png",
+    "name2": "Timberwolves",
+    "champ": "NBA",
+    "heure": "00H00",
+    "date": "14/01/2025",
+    "pro": "Chaque Equipe marque (101.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/81/CB_Gran_Canaria_%28logo%29.svg",
-    "name1": "Gran Canaria",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
+    "name1": "Lakers",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
-    "champ": "Liga ACB",
-    "heure": "12H00",
-    "date": "12/01/2025",
-    "pro": "Equipe 2 gagne deux Quart-temps)"
+    "name2": "Spurs",
+    "champ": "NBA",
+    "heure": "03H30",
+    "date": "14/01/2025",
+    "pro": "Chaque Equipe marque (100.5"
   }
 ]
