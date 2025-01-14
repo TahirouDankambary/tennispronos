@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/72/Raptors_de_Toronto.png",
-    "name1": "Raptors",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png",
-    "name2": "Golden State",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name1": "ASVEL",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
+    "name2": "Partizan",
+    "champ": "EuroLigue",
+    "heure": "19H00",
+    "date": "14/01/2025",
+    "pro": "Total (161.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/4/41/20240917070337%21Logo_Paris_Basketball_-_2024.svg",
+    "name1": "Paris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1507px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
+    "name2": "Anadolu",
     "champ": "NBA",
-    "heure": "00H30",
+    "heure": "19H30",
+    "date": "14/01/2025",
+    "pro": "Equipe 1 gagne deux Quart-temps"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name1": "Baskonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1785px-Logo_Olympiacos_Basketball_-_2009.svg.png",
+    "name2": "Olympiakos",
+    "champ": "EuroLigue",
+    "heure": "19H30",
     "date": "14/01/2025",
     "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
-    "name1": "Wizards",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png",
-    "name2": "Timberwolves",
-    "champ": "NBA",
-    "heure": "00H00",
-    "date": "14/01/2025",
-    "pro": "Chaque Equipe marque (101.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
-    "name1": "Lakers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
-    "name2": "Spurs",
-    "champ": "NBA",
-    "heure": "03H30",
-    "date": "14/01/2025",
-    "pro": "Chaque Equipe marque (100.5"
   }
 ]
