@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name1": "ASVEL",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
-    "name2": "Partizan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.pngg",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/1200px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
+    "name2": "Panathinaikos",
     "champ": "EuroLigue",
+    "heure": "19H30",
+    "date": "15/01/2025",
+    "pro": "Quart-temps plus Eleve (49.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/tr/5/55/USK_Prag_Logo.png",
+    "name1": "USK Future Stars",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HtEmkGv_W0gO4VEScljm_fRASGS6ic4Uag&s",
+    "name2": "Fenerbahce",
+    "champ": "Euroligue Femmes",
+    "heure": "18H00",
+    "date": "15/01/2025",
+    "pro": "Total 2 (73.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuifwHKjDpsbi6EZDpIpYCJbRIe5Zlv1-Gg&s",
+    "name1": "ESSM Le Portel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/936px-Logo_Cholet_Basket_2019.svg.png",
+    "name2": "Cholet",
+    "champ": "Coupe d'Europe FIBA",
     "heure": "19H00",
-    "date": "14/01/2025",
-    "pro": "Total (161.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/4/41/20240917070337%21Logo_Paris_Basketball_-_2024.svg",
-    "name1": "Paris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1507px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
-    "name2": "Anadolu",
-    "champ": "NBA",
-    "heure": "19H30",
-    "date": "14/01/2025",
-    "pro": "Equipe 1 gagne deux Quart-temps"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
-    "name1": "Baskonia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1785px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name2": "Olympiakos",
-    "champ": "EuroLigue",
-    "heure": "19H30",
-    "date": "14/01/2025",
+    "date": "15/01/2025",
     "pro": "V2"
   }
 ]
