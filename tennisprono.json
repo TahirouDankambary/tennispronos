@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.pngg",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/1200px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
-    "name2": "Panathinaikos",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
+    "name2": "Partizan",
     "champ": "EuroLigue",
     "heure": "19H30",
-    "date": "15/01/2025",
-    "pro": "Quart-temps plus Eleve (49.5)"
+    "date": "16/01/2025",
+    "pro": "Equipe 2 Gagne deux Quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/tr/5/55/USK_Prag_Logo.png",
-    "name1": "USK Future Stars",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HtEmkGv_W0gO4VEScljm_fRASGS6ic4Uag&s",
-    "name2": "Fenerbahce",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
+    "name1": "Real",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/800px-Logo_Olympiacos_Basketball_-_2009.svg.png",
+    "name2": "Olympiakos",
     "champ": "Euroligue Femmes",
-    "heure": "18H00",
-    "date": "15/01/2025",
-    "pro": "Total 2 (73.5)"
+    "heure": "19H45",
+    "date": "16/01/2025",
+    "pro": "Handicap 2 (9.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuifwHKjDpsbi6EZDpIpYCJbRIe5Zlv1-Gg&s",
-    "name1": "ESSM Le Portel",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/936px-Logo_Cholet_Basket_2019.svg.png",
-    "name2": "Cholet",
-    "champ": "Coupe d'Europe FIBA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name1": "ASVEL",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "name2": "ALBA Berlin",
+    "champ": "Euroligue",
     "heure": "19H00",
-    "date": "15/01/2025",
-    "pro": "V2"
+    "date": "16/01/2025",
+    "pro": "V1"
   }
 ]
