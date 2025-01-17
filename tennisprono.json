@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
-    "name1": "Olimpia Milano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
-    "name2": "Partizan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/69/Etoile_Rouge_XIII.png",
+    "name1": "Etoile Rouge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/446px-Logo_AS_Monaco_Basket.svg.png",
+    "name2": "Monaco",
     "champ": "EuroLigue",
-    "heure": "19H30",
-    "date": "16/01/2025",
-    "pro": "Equipe 2 Gagne deux Quart-temps"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/800px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name2": "Olympiakos",
-    "champ": "Euroligue Femmes",
-    "heure": "19H45",
-    "date": "16/01/2025",
-    "pro": "Handicap 2 (9.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name1": "ASVEL",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
-    "name2": "ALBA Berlin",
-    "champ": "Euroligue",
     "heure": "19H00",
-    "date": "16/01/2025",
-    "pro": "V1"
+    "date": "17/01/2025",
+    "pro": "Total 2 (83.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name1": "Saski",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWM88IONs4eDPoNPedAqlEmgwRKGRxHkB2w&s",
+    "name2": "Panathinaikos",
+    "champ": "Euroligue",
+    "heure": "19H30",
+    "date": "17/01/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1507px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
+    "name2": "Anadolu",
+    "champ": "Euroligue",
+    "heure": "19H45",
+    "date": "17/01/2025",
+    "pro": "Equipe 1 Gagne deux Quart-temps"
   }
 ]
