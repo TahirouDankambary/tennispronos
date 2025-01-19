@@ -1,32 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/936px-Logo_Cholet_Basket_2019.svg.png",
-    "name1": "Cholet",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Logo_Limoges_Cercle_Saint-Pierre.svg",
-    "name2": "Limoges",
-    "champ": "Elite Ligue",
-    "heure": "17H00",
-    "date": "18/01/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Angers_SCO_logo.svg/1200px-Angers_SCO_logo.svg.png",
+    "name1": "Angers SCO",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/Logo_AJ_Auxerre_2024.svg/1200px-Logo_AJ_Auxerre_2024.svg.png",
+    "name2": "Auxerre",
+    "champ": "France. Ligue 1",
+    "heure": "16H15",
+    "date": "19/01/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://gironabasket.com/wp-content/uploads/2017/02/12717714_10153934675541252_8267145747764528506_n.jpg",
-    "name1": "Soko Pisek Srsni",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/22/%C4%8CEZ_Basketball_Nymburk_logo.png",
-    "name2": "Nymburk",
-    "champ": "Tcheque Championnat",
-    "heure": "17H00",
-    "date": "18/01/2025",
-    "pro": "Total (91.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/AS_Saint-%C3%89tienne_logo.svg/1200px-AS_Saint-%C3%89tienne_logo.svg.png",
+    "name1": "Saint-Etienne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/68/FC-Nantes-blason-rvb.png",
+    "name2": "Nantes",
+    "champ": "France. Ligue 1",
+    "heure": "14H00",
+    "date": "19/01/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/3/31/Fk_spisskanovaves.png",
-    "name1": "Spisska Nova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a8/Levick%C3%AD_Patrioti_logo.png",
-    "name2": "Levicki",
-    "champ": "SLovaquie SBL",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
+    "name1": "Hellas Verona",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLb0oaU6S5o94UD83nt_NwE6OhTvLoMwQmmw&s",
+    "name2": "Lazio",
+    "champ": "Italie. Série A",
     "heure": "17H00",
-    "date": "18/01/2025",
+    "date": "19/01/2025",
     "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/1200px-Logo_Parma.svg.png",
+    "name1": "Parma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png",
+    "name2": "Venise FC",
+    "champ": "Italie. Série A",
+    "heure": "14H00",
+    "date": "19/01/2025",
+    "pro": "12"
   }
 ]
