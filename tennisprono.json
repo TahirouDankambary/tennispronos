@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/700px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1200px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name2": "Olympiakos",
-    "champ": "Grèce Championnat",
-    "heure": "18H15",
-    "date": "20/01/2025",
-    "pro": "Chaque Equipe marque (73.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Hamburg_Towers_logo.png/220px-Hamburg_Towers_logo.png",
+    "name1": "Hamburg Towers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Logo_KK_Lietkabelis.svg/800px-Logo_KK_Lietkabelis.svg.png",
+    "name2": "Panevezys",
+    "champ": "EuroCup",
+    "heure": "18H30",
+    "date": "21/01/2025",
+    "pro": "Handicap 2 (9.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
-    "name1": "Virtus Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/e1/Guerino_Vanoli_Basket_19_logo.png",
-    "name2": "Guerino Vanoni",
-    "champ": "Ligue A",
-    "heure": "19H00",
-    "date": "20/01/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Club_Joventut_de_Badalona_%28logo%29.svg/640px-Club_Joventut_de_Badalona_%28logo%29.svg.png",
+    "name1": "FIATC Joventut",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Aquila_Basket_Trento_logo.svg/1200px-Aquila_Basket_Trento_logo.svg.png",
+    "name2": "Dolomiti Energia",
+    "champ": "Eurocup",
+    "heure": "19H30",
+    "date": "21/01/2025",
+    "pro": "Total (164.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/34/B%C3%BCy%C3%BCk%C3%A7ekmece_Basketbol_%28logo%29.png",
-    "name1": "Buyukcekmece",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1507px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
-    "name2": "Anadolu",
-    "champ": "Super Ligui",
-    "heure": "16H00",
-    "date": "20/01/2025",
-    "pro": "Total 2: (+1)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/96/Universitatea_Cluj_logo.png",
+    "name1": "U-BT Cluj-Napoca",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4KAiYG77fwwjzdmCi4wA1rz6uB_XuwTHVg&s",
+    "name2": "Turk Telekom",
+    "champ": "EuroCup",
+    "heure": "17H00",
+    "date": "21/01/2025",
+    "pro": "Handicap 2 (9.5)"
   }
 ]
