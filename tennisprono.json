@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Hamburg_Towers_logo.png/220px-Hamburg_Towers_logo.png",
-    "name1": "Hamburg Towers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Logo_KK_Lietkabelis.svg/800px-Logo_KK_Lietkabelis.svg.png",
-    "name2": "Panevezys",
-    "champ": "EuroCup",
-    "heure": "18H30",
-    "date": "21/01/2025",
-    "pro": "Handicap 2 (9.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/49/Nets_de_Brooklyn_2024.png",
+    "name1": "Brooklyn",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdXBng9KZqJ4zMGdM5PpmcclvaCqbiVbEIg&s",
+    "name2": "Suns",
+    "champ": "NBA",
+    "heure": "00H30",
+    "date": "23/01/2025",
+    "pro": "Devin Booker Total (25.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Club_Joventut_de_Badalona_%28logo%29.svg/640px-Club_Joventut_de_Badalona_%28logo%29.svg.png",
-    "name1": "FIATC Joventut",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Aquila_Basket_Trento_logo.svg/1200px-Aquila_Basket_Trento_logo.svg.png",
-    "name2": "Dolomiti Energia",
-    "champ": "Eurocup",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png",
+    "name1": "Clippers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png",
+    "name2": "Celtics",
+    "champ": "NBA",
+    "heure": "03H30",
+    "date": "23/01/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
+    "name1": "Partizan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bc/Paris_Basketball_%28logo%29.svg",
+    "name2": "Paris",
+    "champ": "Euroligue",
     "heure": "19H30",
-    "date": "21/01/2025",
-    "pro": "Total (164.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/96/Universitatea_Cluj_logo.png",
-    "name1": "U-BT Cluj-Napoca",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4KAiYG77fwwjzdmCi4wA1rz6uB_XuwTHVg&s",
-    "name2": "Turk Telekom",
-    "champ": "EuroCup",
-    "heure": "17H00",
-    "date": "21/01/2025",
-    "pro": "Handicap 2 (9.5)"
+    "date": "23/01/2025",
+    "pro": "Total 2 (82.5)"
   }
 ]
