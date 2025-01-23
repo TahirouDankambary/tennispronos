@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/49/Nets_de_Brooklyn_2024.png",
-    "name1": "Brooklyn",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdXBng9KZqJ4zMGdM5PpmcclvaCqbiVbEIg&s",
-    "name2": "Suns",
-    "champ": "NBA",
-    "heure": "00H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Keys_RG21_%2840%29_%2851375391202%29.jpg/1200px-Keys_RG21_%2840%29_%2851375391202%29.jpg",
+    "name1": "Madison",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_18_%28cropped%29.jpg",
+    "name2": "Iga",
+    "champ": "Open d'Australie Femmes",
+    "heure": "10H00",
     "date": "23/01/2025",
-    "pro": "Devin Booker Total (25.5)"
+    "pro": "Score Exate (0:2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png",
-    "name1": "Clippers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png",
-    "name2": "Celtics",
-    "champ": "NBA",
-    "heure": "03H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/1115px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name2": "Zalgiris",
+    "champ": "Euroligue",
+    "heure": "19H15",
     "date": "23/01/2025",
-    "pro": "V2"
+    "pro": "Total (164.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
-    "name1": "Partizan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bc/Paris_Basketball_%28logo%29.svg",
-    "name2": "Paris",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
+    "name1": "Virtus Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/1524px-Logo_AS_Monaco_Basket.svg.png",
+    "name2": "Monaco",
     "champ": "Euroligue",
     "heure": "19H30",
     "date": "23/01/2025",
-    "pro": "Total 2 (82.5)"
+    "pro": "Total Matthew Strazel (2.5)"
   }
 ]
