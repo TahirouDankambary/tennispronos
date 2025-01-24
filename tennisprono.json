@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Keys_RG21_%2840%29_%2851375391202%29.jpg/1200px-Keys_RG21_%2840%29_%2851375391202%29.jpg",
-    "name1": "Madison",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_18_%28cropped%29.jpg",
-    "name2": "Iga",
-    "champ": "Open d'Australie Femmes",
-    "heure": "10H00",
-    "date": "23/01/2025",
-    "pro": "Score Exate (0:2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name1": "ASVEL",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "Eurpigue",
+    "heure": "19H00",
+    "date": "24/01/2025",
+    "pro": "Total 2 (84.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/1115px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name2": "Zalgiris",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fa/Alba_Berlin_%28logo%29.svg",
+    "name1": "ALBA Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/640px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern",
+    "champ": "Euroligue",
+    "heure": "19H00",
+    "date": "24/01/2025",
+    "pro": "Total (160.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/800px-Logo_Olympiacos_Basketball_-_2009.svg.png",
+    "name1": "Olympiakos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name2": "Fenerbahce",
     "champ": "Euroligue",
     "heure": "19H15",
-    "date": "23/01/2025",
-    "pro": "Total (164.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
-    "name1": "Virtus Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/1524px-Logo_AS_Monaco_Basket.svg.png",
-    "name2": "Monaco",
-    "champ": "Euroligue",
-    "heure": "19H30",
-    "date": "23/01/2025",
-    "pro": "Total 3 points Matthew Strazel (2.5)"
+    "date": "24/01/2025",
+    "pro": "V1"
   }
 ]
