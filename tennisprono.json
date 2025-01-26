@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg/640px-Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg.png",
-    "name1": "Strasbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/640px-Logo_LOSC_Lille_2018.svg.png",
-    "name2": "Lille OSC",
-    "champ": "France. Ligue 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/UCAM_Murcia_CF_escudo.png/1953px-UCAM_Murcia_CF_escudo.png",
+    "name1": "Murcia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "Liga ACB",
+    "heure": "17H30",
+    "date": "26/01/2025",
+    "pro": "Total 2 (85.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name1": "Paris Basket",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/1872px-Logo_Cholet_Basket_2019.svg.png",
+    "name2": "Cholet",
+    "champ": "Elite Ligue",
     "heure": "18H00",
-    "date": "25/01/2025",
-    "pro": "Total: (+2)"
+    "date": "26/01/2025",
+    "pro": "Handicap 2 (11.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Stade_de_Reims_2020_%28Alternatif%29.svg/langfr-110px-Logo_Stade_de_Reims_2020_%28Alternatif%29.svg.png",
-    "name2": "Stade de Reims",
-    "champ": "France. Ligue 1",
-    "heure": "20H05",
-    "date": "25/01/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/ce/1FC_Slovacko.png",
-    "name1": "Slovacko ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Tunisia.svg/langbs-360px-Coat_of_arms_of_Tunisia.svg.png",
-    "name2": "Strani",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "09H00",
-    "date": "25/01/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8f/Logo_Le_Mans_Sarthe_Basket_-_2009.svg/1200px-Logo_Le_Mans_Sarthe_Basket_-_2009.svg.png",
+    "name1": "Le Mans",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d5/AS_Monaco_Basket_Logo.png",
+    "name2": "Monaco Basket",
+    "champ": "Elite Ligue",
+    "heure": "15H30",
+    "date": "26/01/2025",
+    "pro": "V2"
   }
 ]
