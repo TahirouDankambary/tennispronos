@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
-    "name1": "Valencia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name2": "Fenerbahce",
-    "champ": "Euroligue Femmes",
-    "heure": "18H15",
-    "date": "28/01/2025",
-    "pro": "Equipe 2 Gagne Deux Quart-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/53/Falco_KC_logo.png",
+    "name1": "Palco KC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/22/%C4%8CEZ_Basketball_Nymburk_logo.png",
+    "name2": "ERA Nymburk",
+    "champ": "LDC Basket",
+    "heure": "17H00",
+    "date": "29/01/2025",
+    "pro": "Total 2 (83.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USK_-_Logo_2010_-_Kurzform.svg/640px-USK_-_Logo_2010_-_Kurzform.svg.png",
-    "name1": "USK Future Stars",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
-    "name2": "Zaragoza",
-    "champ": "Euroligue Femmes",
-    "heure": "18H00",
-    "date": "28/01/2025",
-    "pro": "Total (137.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/Cedevita_Olimpija_Ljubljana_logo.png",
-    "name1": "Cedevita Olimpija",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
-    "name2": "Valencia",
-    "champ": "EuroCup",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
+    "name1": "Ryatas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galatasaray_Sports_Club_Logo.png/822px-Galatasaray_Sports_Club_Logo.png",
+    "name2": "Galatasaray",
+    "champ": "LDC BAsket",
     "heure": "17H30",
-    "date": "28/01/2025",
-    "pro": "V2"
+    "date": "29/01/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/1872px-Logo_Cholet_Basket_2019.svg.png",
+    "name1": "Cholet",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/5d/Bilbaobasket.png",
+    "name2": "Bilbao",
+    "champ": "Coupe d'Europe FIBA",
+    "heure": "19H00",
+    "date": "29/01/2025",
+    "pro": "Total 1 (79.5)"
   }
 ]
