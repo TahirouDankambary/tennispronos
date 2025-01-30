@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/53/Falco_KC_logo.png",
-    "name1": "Palco KC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/22/%C4%8CEZ_Basketball_Nymburk_logo.png",
-    "name2": "ERA Nymburk",
-    "champ": "LDC Basket",
-    "heure": "17H00",
-    "date": "29/01/2025",
-    "pro": "Total 2 (83.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
-    "name1": "Ryatas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galatasaray_Sports_Club_Logo.png/822px-Galatasaray_Sports_Club_Logo.png",
-    "name2": "Galatasaray",
-    "champ": "LDC BAsket",
-    "heure": "17H30",
-    "date": "29/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+    "name1": "Maccabi Tel Aviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "name2": "ALBA Berlin",
+    "champ": "EuroLigue",
+    "heure": "19H05",
+    "date": "30/01/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/1872px-Logo_Cholet_Basket_2019.svg.png",
-    "name1": "Cholet",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/5d/Bilbaobasket.png",
-    "name2": "Bilbao",
-    "champ": "Coupe d'Europe FIBA",
-    "heure": "19H00",
-    "date": "29/01/2025",
-    "pro": "Total 1 (79.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/2230px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
+    "name2": "Panathinaikos",
+    "champ": "EuroLigue",
+    "heure": "19H30",
+    "date": "30/01/2025",
+    "pro": "Total 2 (86.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name1": "Saski Baskonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "EuroLigue",
+    "heure": "19H30",
+    "date": "30/01/2025",
+    "pro": "Total 2 (84.5)"
   }
 ]
