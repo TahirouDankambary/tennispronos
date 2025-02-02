@@ -6,7 +6,7 @@
     "name2": "ALBA Berlin",
     "champ": "BBL",
     "heure": "15H30",
-    "date": "01/02/2025",
+    "date": "02/02/2025",
     "pro": "Chaque Equipe marque (75.5)"
   },
   {
@@ -16,17 +16,17 @@
     "name2": "Ulm",
     "champ": "BBL",
     "heure": "17H00",
-    "date": "01/02/2025",
+    "date": "02/02/2025",
     "pro": "Equipe 2 gagne 2 Quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/7e/Logo_Nanterre_92_-_2016.svg",
-    "name1": "JSF Nanterre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
-    "name2": "Paris",
-    "champ": "Elite Ligue",
-    "heure": "19H30",
-    "date": "01/02/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Promitheas_Patras_BC_logo.svg/1200px-Promitheas_Patras_BC_logo.svg.png",
+    "name1": "Promitheas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1200px-Logo_Olympiacos_Basketball_-_2009.svg.png",
+    "name2": "Olympiakos",
+    "champ": "Championnat de Grece",
+    "heure": "15H15",
+    "date": "02/02/2025",
+    "pro": "Total 2 (85.5)"
   }
 ]
