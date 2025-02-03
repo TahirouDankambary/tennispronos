@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
-    "name2": "ALBA Berlin",
-    "champ": "BBL",
-    "heure": "15H30",
-    "date": "02/02/2025",
-    "pro": "Chaque Equipe marque (75.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1200px-Oklahoma_City_Thunder.svg.png",
+    "name1": "Thunder",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1200px-Milwaukee_Bucks_logo.svg.png",
+    "name2": "Bucks",
+    "champ": "NBA",
+    "heure": "01H00",
+    "date": "04/02/2025",
+    "pro": "Chaque Equipe marque (105.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYu94fca4WDiaP_qN50qIthcIe8skxg1zlg&s",
-    "name1": "MHP",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/1200px-Ratiopharm_Ulm_logo.svg.png",
-    "name2": "Ulm",
-    "champ": "BBL",
-    "heure": "17H00",
-    "date": "02/02/2025",
-    "pro": "Equipe 2 gagne 2 Quart-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png",
+    "name1": "Grizzlies",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+    "name2": "Spurs",
+    "champ": "NBA",
+    "heure": "01H00",
+    "date": "04/02/2025",
+    "pro": "Total Wenbanyama (23.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Promitheas_Patras_BC_logo.svg/1200px-Promitheas_Patras_BC_logo.svg.png",
-    "name1": "Promitheas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1200px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name2": "Olympiakos",
-    "champ": "Championnat de Grece",
-    "heure": "15H15",
-    "date": "02/02/2025",
-    "pro": "Total 2 (85.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/1200px-Logo_of_the_Detroit_Pistons.svg.png",
+    "name1": "Pistons",
+    "photo2": "https://static.wikia.nocookie.net/sports-logos5931/images/8/87/Atlanta_hawks_2014-2015_a.png/revision/latest?cb=20170620004134",
+    "name2": "Hawks",
+    "champ": "NBA",
+    "heure": "00H00",
+    "date": "04/02/2025",
+    "pro": "V2"
   }
 ]
