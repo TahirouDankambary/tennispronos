@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name1": "Etoile Rouge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg/1200px-Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg.png",
-    "name2": "ASVEL",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/640px-Logo_AS_Monaco_Basket.svg.png",
+    "name1": "Monaco Basket",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name2": "Saski",
     "champ": "EuroLigue",
-    "heure": "19H00",
-    "date": "04/02/2025",
-    "pro": "Chaque Equipe marque (73.5)"
+    "heure": "18H00",
+    "date": "05/02/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1200px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
-    "name1": "Anadolu",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
-    "name2": "Real",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name1": "Paris Basket",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/800px-Logo_Olympiacos_Basketball_-_2009.svg.png",
+    "name2": "Olympiakos",
     "champ": "EuroLigue",
-    "heure": "17H30",
-    "date": "04/02/2025",
-    "pro": "V2"
+    "heure": "19H30",
+    "date": "05/02/2025",
+    "pro": "3 points Total (18.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/%C4%8CEZ_Basketball_Nymburk.png/220px-%C4%8CEZ_Basketball_Nymburk.png",
-    "name1": "ERA Nymburk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/UCAM_Murcia_CF_escudo.png/1953px-UCAM_Murcia_CF_escudo.png",
-    "name2": "Murcia",
-    "champ": "LDC FIBA",
-    "heure": "17H30",
-    "date": "04/02/2025",
-    "pro": "Quart-temps le Plus Eleve (47.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+    "name2": "Maccabi Tel Aviv",
+    "champ": "EuroLigue",
+    "heure": "19H30",
+    "date": "05/02/2025",
+    "pro": "Quart-temps le Plus Eleve (50.5)"
   }
 ]
