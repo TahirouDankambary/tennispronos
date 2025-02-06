@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/640px-Logo_AS_Monaco_Basket.svg.png",
-    "name1": "Monaco Basket",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
-    "name2": "Saski",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/640px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name2": "ASVEL",
+    "champ": "EuroLigue",
+    "heure": "19H30",
+    "date": "06/02/2025",
+    "pro": "Total 3 points (19.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "name1": "ALBA Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name2": "Etoile Rouge",
     "champ": "EuroLigue",
     "heure": "18H00",
-    "date": "05/02/2025",
-    "pro": "V1"
+    "date": "06/02/2025",
+    "pro": "Total 2 (85.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
-    "name1": "Paris Basket",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/800px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name2": "Olympiakos",
-    "champ": "EuroLigue",
-    "heure": "19H30",
-    "date": "05/02/2025",
-    "pro": "3 points Total (18.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png",
-    "name2": "Maccabi Tel Aviv",
-    "champ": "EuroLigue",
-    "heure": "19H30",
-    "date": "05/02/2025",
-    "pro": "Quart-temps le Plus Eleve (50.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jakub_Men%C5%A1%C3%ADk_%282023_US_Open%29_15_%28cropped%29.jpg/220px-Jakub_Men%C5%A1%C3%ADk_%282023_US_Open%29_15_%28cropped%29.jpg",
+    "name1": "Jakub Mensik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/30/De_Minaur_MCM23_%2839%29_%2852883527200%29.jpg",
+    "name2": "Alex De Minaur",
+    "champ": "ATP Rotterdam",
+    "heure": "10H00",
+    "date": "06/02/2025",
+    "pro": "V2"
   }
 ]
