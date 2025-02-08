@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1200px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name2": "Olympiakos",
-    "champ": "EuroLigue",
-    "heure": "19H30",
-    "date": "06/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/BC_Wolves_logo.svg/1200px-BC_Wolves_logo.svg.png",
+    "name1": "Wolves Vilnius",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
+    "name2": "Rytas",
+    "champ": "LKL",
+    "heure": "14H50",
+    "date": "08/02/2025",
+    "pro": "Total 2 (84.5à)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e7/CB_Breogan.gif",
+    "name1": "Breogan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/tr/4/4b/Unicaja_logo.png",
+    "name2": "Unicaja",
+    "champ": "Liga ACB",
+    "heure": "17H00",
+    "date": "07/02/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl7SlT8jVLN1x2zq9cuBaGyDPofbJqsdKcXA&s",
-    "name1": "Monaco Basket",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Logo_Partizan_1958.png",
-    "name2": "Partizan",
-    "champ": "EuroLigue",
-    "heure": "18H00",
-    "date": "07/02/2025",
-    "pro": "Total (159.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/56/Logo_BCM_Gravelines_Dunkerque_GL_-_2013.svg",
-    "name1": "BCM Gravelines",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/1200px-Logo_Cholet_Basket_2019.svg.png",
-    "name2": "Cholet",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Saint-Quentin_Basketball_logo.png/215px-Saint-Quentin_Basketball_logo.png",
+    "name1": "Saint Quentin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1200px-Logo_JL_Bourg_Basket_-_2017.svg.png",
+    "name2": "JL Bourg",
     "champ": "Elite Ligue",
-    "heure": "19H00",
-    "date": "07/02/2025",
-    "pro": "V2"
+    "heure": "17H00",
+    "date": "08/02/2025",
+    "pro": "Total (82)"
   }
 ]
