@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
-    "name1": "Partizan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/KK_Zadar_%28official%2C_no_outline%29.png/1200px-KK_Zadar_%28official%2C_no_outline%29.png",
-    "name2": "Zadar",
-    "champ": "Ligue Adriatique",
-    "heure": "17H00",
-    "date": "10/02/2025",
-    "pro": "Total 1 (81.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name1": "Etoile Rouge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/bs/thumb/5/5b/KK_Budu%C4%87nost_Podgorica.jpg/220px-KK_Budu%C4%87nost_Podgorica.jpg",
-    "name2": "Buducnost",
-    "champ": "Ligue Adriatique",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/82/Logo_Saint-Quentin_Basket-Ball_-_2019.svg",
+    "name1": "Saint-Quentin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name2": "ASVEL",
+    "champ": "Elite Ligue",
     "heure": "19H00",
-    "date": "10/02/2025",
-    "pro": "Total 1 (83.5)"
+    "date": "11/02/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png",
-    "name1": "Maccabi Tal Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
-    "name2": "Hapoel Tal Aviv",
-    "champ": "Israel Cup",
-    "heure": "19H15",
-    "date": "10/02/2025",
-    "pro": "Total 1 (79.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/Logo_Nanterre_92_-_2016.svg/1200px-Logo_Nanterre_92_-_2016.svg.png",
+    "name1": "Nanterre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/1872px-Logo_Cholet_Basket_2019.svg.png",
+    "name2": "Cholet",
+    "champ": "Elite Ligue",
+    "heure": "19H00",
+    "date": "11/02/2025",
+    "pro": "Total 2 (79.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bah%C3%A7e%C5%9Fehir_Koleji_Spor_Kul%C3%BCb%C3%BC_logo.png",
+    "name2": "Bahçeşehir Koleji",
+    "champ": "Turquie Super Ligi",
+    "heure": "17H30",
+    "date": "11/02/2025",
+    "pro": "V1"
   }
 ]
