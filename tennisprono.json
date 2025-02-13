@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/he/3/32/Rostock_Seawolves_Logo.png",
-    "name1": "Rostock Seawolves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
-    "name2": "ALBA Berlin",
-    "champ": "BBL",
-    "heure": "17H30",
-    "date": "12/02/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/Logo_of_CB_1939_Canarias.png",
+    "name1": "Lenovo Tenerife",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiHdZ4y_e6S59e1VT4hRfTlLgmw_avtQxEBA&s",
+    "name2": "Barcelone",
+    "champ": "Copa del Rey",
+    "heure": "20H30",
+    "date": "13/02/2025",
+    "pro": "Total 2 (85.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/BC_VEF_R%C4%ABga.svg/800px-BC_VEF_R%C4%ABga.svg.png",
-    "name1": "VEF Riga",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7SKWms_ToE2PIfBkJJnMz3NUOoqdFhPyTA&s",
-    "name2": "Rigas Zelli",
-    "champ": "Ligue Estonienne",
+    "photo1": "https://upload.wikimedia.org/wikipedia/tr/4/4b/Unicaja_logo.png",
+    "name1": "Unicaja",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/23/Joventut_Badalona_logo.png",
+    "name2": "FIATC Joventut",
+    "champ": "Copa del Rey",
     "heure": "17H00",
-    "date": "12/02/2025",
-    "pro": "V2"
+    "date": "13/02/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/96/Universitatea_Cluj_logo.png",
-    "name1": "U-BT Cluj",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_CSO_Voluntari_2005.jpg/640px-Logo_CSO_Voluntari_2005.jpg",
-    "name2": "CSO Voluntari",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/6c/CSM_Oradea_logo-en.png",
+    "name1": "CSM Oradea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/da/BC_Timi%C5%9Foara_logo.png",
+    "name2": "Timisoara",
     "champ": "Coupe de Roumanie",
-    "heure": "15H00",
-    "date": "12/02/2025",
-    "pro": "V1"
+    "heure": "16H00",
+    "date": "13/02/2025",
+    "pro": "Total 1 (83.5)"
   }
 ]
