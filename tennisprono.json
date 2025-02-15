@@ -2,31 +2,31 @@
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTu8WfL0SRMnALe-fD4i3FIoRPeGqXWTHGQ&s",
     "name1": "Gran Canaria",
-    "photo2": "https://i.pinimg.com/736x/78/06/e8/7806e8c5eade34cee9c37c54bb958ac2.jpg",
-    "name2": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
+    "name2": "Real",
     "champ": "Copa del Rey",
     "heure": "20H30",
-    "date": "14/02/2025",
-    "pro": "Total 2 (85.5)"
+    "date": "15/02/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/46/Baxi_Manresa_logo.png",
-    "name2": "Manresa",
-    "champ": "Copa del Rey",
-    "heure": "17H00",
-    "date": "14/02/2025",
-    "pro": "Total 1 (85.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/94/Medvedev_MCM23_%284%29_%2852882575332%29.jpg",
+    "name1": "Medvedev",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Medjedovic_RGQ23.jpg",
+    "name2": "Hamad Medjedovic",
+    "champ": "ATP Marseille",
+    "heure": "17H30",
+    "date": "15/02/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ostapenko_RG18_%289%29_%2842077295315%29.jpg/250px-Ostapenko_RG18_%289%29_%2842077295315%29.jpg",
-    "name1": "Jelena Ostapenko",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_18_%28cropped%29.jpg",
-    "name2": "Iga Swiatek",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Anisimova_RG19_%2832%29_%2848199400552%29.jpg/800px-Anisimova_RG19_%2832%29_%2848199400552%29.jpg",
+    "name1": "Amanda Anisimova",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ostapenko_RG18_%289%29_%2842077295315%29.jpg/250px-Ostapenko_RG18_%289%29_%2842077295315%29.jpg",
+    "name2": "Jelena Ostapenko",
     "champ": "WTA Doha",
-    "heure": "14H00",
-    "date": "14/02/2025",
-    "pro": "Handicap 1 (6.5)"
+    "heure": "15H00",
+    "date": "15/02/2025",
+    "pro": "V2"
   }
 ]
