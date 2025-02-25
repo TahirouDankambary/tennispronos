@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7f/Sluneta_Basketball_Club_logo.png",
-    "name1": "Sluneta Usti nad Labem",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/%C4%8CEZ_Basketball_Nymburk.png/220px-%C4%8CEZ_Basketball_Nymburk.png",
-    "name2": "ERA Nymburk",
-    "champ": "Tchèque Championnat",
-    "heure": "17H00",
-    "date": "24/02/2025",
-    "pro": "Total 2 (87.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/08/Halys_BOR22_%2852084206029%29.jpg",
+    "name1": "Quentin Halys",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rublev_MCM23_%2843%29_%2852883593833%29.jpg/1200px-Rublev_MCM23_%2843%29_%2852883593833%29.jpg",
+    "name2": "Rublev",
+    "champ": "ATP Dubai",
+    "heure": "12H00",
+    "date": "25/02/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-    "name1": "Israel",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
-    "name2": "Slovenie",
-    "champ": "Championnat d'Europe FIBA",
-    "heure": "19H00",
-    "date": "24/02/2025",
-    "pro": "Total 1 (80.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lehecka_MCM23_%285%29_%2852883527310%29.jpg/250px-Lehecka_MCM23_%285%29_%2852883527310%29.jpg",
+    "name1": "Jiri",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Humbert_MCM22_%2813%29_%2852036659734%29.jpg/1200px-Humbert_MCM22_%2813%29_%2852036659734%29.jpg",
+    "name2": "Ugo Humbert",
+    "champ": "ATP Dubai",
+    "heure": "13H00",
+    "date": "25/02/2025",
+    "pro": "Handicap 1 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/2560px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
-    "name1": "Grande-Bretagne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png",
-    "name2": "Tchèque",
-    "champ": "Championnat d'Europe FIBA",
-    "heure": "19H30",
-    "date": "24/02/2025",
-    "pro": "Total (159.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl7SlT8jVLN1x2zq9cuBaGyDPofbJqsdKcXA&s",
+    "name1": "Monaco Basket",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name2": "ASVEL",
+    "champ": "Coupe de France Basket",
+    "heure": "18H30",
+    "date": "25/02/2025",
+    "pro": "Quart-temps le plus elelvé (48.5) "
   }
 ]
