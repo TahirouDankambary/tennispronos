@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
-    "name1": "Olimpia Milano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/AS_Monaco_Basket_Logo.png/175px-AS_Monaco_Basket_Logo.png",
-    "name2": "Monaco",
-    "champ": "Euroligue",
-    "heure": "19H30",
-    "date": "27/02/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/69/Etoile_Rouge_XIII.png",
-    "name1": "Etoile Rouge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name2": "Zalgiris",
-    "champ": "Euroligue",
-    "heure": "19H00",
-    "date": "27/02/2025",
-    "pro": "Total (159.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/640px-Logo_Paris_Basketball_-_2024.svg.png",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1200px-Logo_Paris_Basketball_-_2024.svg.png",
     "name1": "Paris Basket",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name2": "Fenerbahce",
     "champ": "Euroligue",
     "heure": "19H30",
-    "date": "27/02/2025",
-    "pro": "Quart-temps le plus elelvé (51.5) "
+    "date": "03/03/2025",
+    "pro": "Handicap 2 (9.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "name1": "ALBA Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/Brose_Baskets_Logo.svg/1200px-Brose_Baskets_Logo.svg.png",
+    "name2": "Brose Bamberg",
+    "champ": "BBL",
+    "heure": "19H00",
+    "date": "03/03/2025",
+    "pro": "Total 2 (79.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Eubanks_BOR22_%2852083970356%29.jpg",
+    "name1": "Christopher Eubanks",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Basilashvili_RG18_%2828110477447%29.jpg/1200px-Basilashvili_RG18_%2828110477447%29.jpg",
+    "name2": "Nikoloz Basilashvili",
+    "champ": "ATP Indian Wells",
+    "heure": "19H30",
+    "date": "03/03/2025",
+    "pro": "V1"
   }
 ]
