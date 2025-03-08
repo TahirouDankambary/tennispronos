@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
-    "name1": "ALBA Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "Euroligue",
-    "heure": "19H30",
-    "date": "07/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
+    "name1": "Hapoel Tel Aviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Hapoel_Holon_2017_logo.png",
+    "name2": "Hapoel Holon",
+    "champ": "Israel Championnat",
+    "heure": "17H20",
+    "date": "08/03/2025",
+    "pro": "Total (163.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/26/BK_Inter_Bratislava_logo.png",
+    "name1": "Inter Bratislava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a8/Levick%C3%AD_Patrioti_logo.png",
+    "name2": "Levicki Patrioti",
+    "champ": "Slovaquie SBL",
+    "heure": "16H00",
+    "date": "08/03/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name1": "Olympiakos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
-    "name2": "Partizan",
-    "champ": "EuroLigue",
-    "heure": "19H15",
-    "date": "07/03/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name1": "ASVEL",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png",
-    "name2": "Maccabi Tel Aviv",
-    "champ": "Euroligue",
-    "heure": "19H0",
-    "date": "07/03/2025",
-    "pro": "Quart-temps plus élévé (49.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/JDA_Dijon_Basket.png/1200px-JDA_Dijon_Basket.png",
+    "name1": "JDA Dijon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/1200px-Logo_Cholet_Basket_2019.svg.png",
+    "name2": "Cholet",
+    "champ": "Elite Ligue",
+    "heure": "19H30",
+    "date": "08/03/2025",
+    "pro": "V2"
   }
 ]
