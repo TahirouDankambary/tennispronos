@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
-    "name1": "Hapoel Tel Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Hapoel_Holon_2017_logo.png",
-    "name2": "Hapoel Holon",
-    "champ": "Israel Championnat",
-    "heure": "17H20",
-    "date": "08/03/2025",
-    "pro": "Total (163.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
+    "name1": "Rytas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name2": "Zalgiris",
+    "champ": "LKL",
+    "heure": "14H50",
+    "date": "09/03/2025",
+    "pro": "Total 1 (79.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/26/BK_Inter_Bratislava_logo.png",
-    "name1": "Inter Bratislava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a8/Levick%C3%AD_Patrioti_logo.png",
-    "name2": "Levicki Patrioti",
-    "champ": "Slovaquie SBL",
-    "heure": "16H00",
-    "date": "08/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/Cedevita_Olimpija_Ljubljana_logo.png",
+    "name1": "Cedevita Olimpija",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name2": "Etoile Rouge",
+    "champ": "Ligue Adriatique",
+    "heure": "15H00",
+    "date": "09/03/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/JDA_Dijon_Basket.png/1200px-JDA_Dijon_Basket.png",
-    "name1": "JDA Dijon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/1200px-Logo_Cholet_Basket_2019.svg.png",
-    "name2": "Cholet",
-    "champ": "Elite Ligue",
-    "heure": "19H30",
-    "date": "08/03/2025",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkk8eBFC1YaCmiA6ByvnEGY07DzlRsyus8Bw&s",
+    "name1": "London Lions",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/40/Newcastle_Eagles_logo.svg",
+    "name2": "Newcastle Eagles",
+    "champ": "Grande-Bretagne Super Ligue",
+    "heure": "14H00",
+    "date": "09/03/2025",
+    "pro": "Total 1 (84.5)"
   }
 ]
