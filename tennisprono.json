@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Rune_RG22_%284%29_%2852144534990%29.jpg",
-    "name1": "Holger Vitus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tsitsipas_S._MCM22_%2820%29_%2852036915350%29.jpg/1200px-Tsitsipas_S._MCM22_%2820%29_%2852036915350%29.jpg",
-    "name2": "Tsitsipas",
-    "champ": "ATP Indiana wells",
-    "heure": "20H00",
-    "date": "11/03/2025",
-    "pro": "TOtal (21)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4rBvcnz7sXD80owqNYMVKVD0lb_UCR_i7hA&s",
+    "name1": "MHP Riesen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/JDA_Dijon_Basket.png/1200px-JDA_Dijon_Basket.png",
+    "name2": "JDA Dijon",
+    "champ": "Coupe d'Europe FIBA",
+    "heure": "18H30",
+    "date": "12/03/2025",
+    "pro": "TOtal (159.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/7e/Logo_Nanterre_92_-_2016.svg",
-    "name1": "JSF Nanterre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/%C4%8CEZ_Basketball_Nymburk.png/220px-%C4%8CEZ_Basketball_Nymburk.png",
-    "name2": "ERA Nymburk",
+    "photo1": "https://seeklogo.com/images/M/manisa-buyuksehir-belediye-spor-kulubu-logo-A010CC27E1-seeklogo.com.png",
+    "name1": "Manisa Belediye",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXXkJRma2w-xpoEgO8jxHWtdy-Zl3UJk7wg&s",
+    "name2": "Rytas",
     "champ": "LDC Basket",
-    "heure": "19H00",
-    "date": "11/03/2025",
-    "pro": "Total 2 (83.4)"
+    "heure": "17H00",
+    "date": "12/03/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/70/Hapoel.svg",
-    "name1": "Hapoel Jerusalem",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/81/CB_Gran_Canaria_%28logo%29.svg",
-    "name2": "Gran Canaria",
-    "champ": "EuroCup",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/800px-Logo_Cholet_Basket_2019.svg.png",
+    "name1": "Cholet",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
+    "name2": "Zaragoza",
+    "champ": "Coupe d'Europe FIBA",
     "heure": "19H00",
-    "date": "11/03/2025",
-    "pro": "Equipe 2 gagne 2 quart-temps"
+    "date": "12/03/2025",
+    "pro": "V1"
   }
 ]
