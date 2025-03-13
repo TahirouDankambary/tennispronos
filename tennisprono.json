@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4rBvcnz7sXD80owqNYMVKVD0lb_UCR_i7hA&s",
-    "name1": "MHP Riesen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/JDA_Dijon_Basket.png/1200px-JDA_Dijon_Basket.png",
-    "name2": "JDA Dijon",
-    "champ": "Coupe d'Europe FIBA",
-    "heure": "18H30",
-    "date": "12/03/2025",
-    "pro": "TOtal (159.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name2": "ASVEL",
+    "champ": "EuroLigue",
+    "heure": "17H45",
+    "date": "13/03/2025",
+    "pro": "Handicap 2 (14.5)"
   },
   {
-    "photo1": "https://seeklogo.com/images/M/manisa-buyuksehir-belediye-spor-kulubu-logo-A010CC27E1-seeklogo.com.png",
-    "name1": "Manisa Belediye",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXXkJRma2w-xpoEgO8jxHWtdy-Zl3UJk7wg&s",
-    "name2": "Rytas",
-    "champ": "LDC Basket",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1200px-Logo_Paris_Basketball_-_2024.svg.png",
+    "name2": "Paris Basket",
+    "champ": "EuroLigue",
     "heure": "17H00",
-    "date": "12/03/2025",
-    "pro": "V2"
+    "date": "13/03/2025",
+    "pro": "Equipe 2 gagne deux Quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/800px-Logo_Cholet_Basket_2019.svg.png",
-    "name1": "Cholet",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
-    "name2": "Zaragoza",
-    "champ": "Coupe d'Europe FIBA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name1": "Etoile Rouge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+    "name2": "Olimpia Milano",
+    "champ": "EuroLigue",
     "heure": "19H00",
-    "date": "12/03/2025",
-    "pro": "V1"
+    "date": "13/03/2025",
+    "pro": "Total (159.5)"
   }
 ]
