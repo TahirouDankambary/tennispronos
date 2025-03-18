@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mochizuki_RGQ23_%2852942982782%29.jpg/280px-Mochizuki_RGQ23_%2852942982782%29.jpg",
-    "name1": "Shintaro mochizuki",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hanfmann_RGQ23_%2852944097178%29.jpg/1200px-Hanfmann_RGQ23_%2852944097178%29.jpg",
-    "name2": "Yannick Hanfmann",
-    "champ": "ATP Miami",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/%C4%8CEZ_Basketball_Nymburk.png/220px-%C4%8CEZ_Basketball_Nymburk.png",
+    "name1": "ERA Nymburk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/53/Falco_KC_logo.png",
+    "name2": "Falco KC",
+    "champ": "LDC Basket",
+    "heure": "17H30",
+    "date": "18/03/2025",
+    "pro": "Quart-temps plus élevé (48.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg",
+    "name1": "Paris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+    "name2": "Olimpia Milano",
+    "champ": "Euroligue",
     "heure": "19H30",
-    "date": "17/03/2025",
-    "pro": "V2"
+    "date": "18/03/2025",
+    "pro": "3 points Total 1 (9.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl6GFv0S_Tb40ChDoWVp8v6HgRv4KWdyU2zA&s",
-    "name1": "Darwin Blanch",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Daniel_WMQ14_%287%29_%2814420340880%29.jpg/1200px-Daniel_WMQ14_%287%29_%2814420340880%29.jpg",
-    "name2": "Taro Daniel",
-    "champ": "ATP Miami",
-    "heure": "16H30",
-    "date": "17/03/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdP6w0nnHPEPmyLWRxh3YgyvPzhvyZfRKrow&s",
-    "name1": "Alexandre Chevtchenko",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Klein_WMQ23_%2853062192188%29.jpg/200px-Klein_WMQ23_%2853062192188%29.jpg",
-    "name2": "Lukas Klein",
-    "champ": "ATP Miami",
-    "heure": "16H30",
-    "date": "17/03/2025",
-    "pro": "Total 2 (20)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Galatasaray_Lisesi_logo.svg/640px-Galatasaray_Lisesi_logo.svg.png",
+    "name1": "Galatasaray",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Rytas_Vilnius_logo_2023.svg/1200px-Rytas_Vilnius_logo_2023.svg.png",
+    "name2": "Rytas Vilnius",
+    "champ": "LDC Basket",
+    "heure": "17H00",
+    "date": "18/03/2025",
+    "pro": "Handicap 2 (9.5)"
   }
 ]
