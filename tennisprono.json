@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1200px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name1": "Olympiakos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name2": "Etoile Rouge",
+    "photo1": "https://images.app.goo.gl/eoV8dKLrH5e9cmd16",
+    "name1": "Barcelone",
+    "photo2": "https://images.app.goo.gl/vugC7THuXJQcg71m7",
+    "name2": "Zalgiris",
     "champ": "Euroligue",
-    "heure": "18H00",
-    "date": "20/03/2025",
+    "heure": "19H30",
+    "date": "21/03/2025",
     "pro": "Total 1 (85.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/640px-Logo_AS_Monaco_Basket.svg.png",
-    "name1": "Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name2": "Fenerbahce",
+    "photo1": "https://images.app.goo.gl/u8forU2bJA7Yvimk7",
+    "name1": "Partizan",
+    "photo2": "https://images.app.goo.gl/EEBC9R3WyhnzRxDN9",
+    "name2": "Anadolu",
     "champ": "Euroligue",
-    "heure": "18H00",
-    "date": "20/03/2025",
+    "heure": "19H45",
+    "date": "21/03/2025",
     "pro": "Equipe 2 gagne deux Quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
-    "name1": "Saski",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "Euroligue",
-    "heure": "19H30",
-    "date": "20/03/2025",
-    "pro": "Total (160)"
+    "photo1": "https://images.app.goo.gl/veFGDcRrjdJPSuRQ7",
+    "name1": "Nick Kyrgios",
+    "photo2": "https://images.app.goo.gl/t9Fg3EgVQc9HJYfq9",
+    "name2": "Khachanov",
+    "champ": "ATP Miami",
+    "heure": "16H30",
+    "date": "21/03/2025",
+    "pro": "V2"
   }
 ]
