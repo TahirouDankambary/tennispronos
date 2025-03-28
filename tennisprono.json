@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/07/Alex_Eala_%282024_US_Open%29_02_%28cropped%29.jpg",
-    "name1": "Alexandra Eala",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Swiatek_RG19_%281%29_%2848199020336%29.jpg/1200px-Swiatek_RG19_%281%29_%2848199020336%29.jpg",
-    "name2": "Iga Swiatek",
-    "champ": "Tennis. WTA. Miami",
-    "heure": "17H00",
-    "date": "26/03/2025",
-    "pro": "Total: (+16)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name1": "Etoile Rouge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
+    "name2": "Real",
+    "champ": "Euroligue",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Jodie_Burrage_%2841726646375%29.jpg",
-    "name1": "Jodie Anna Burrage",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maria_WM17_%289%29_%2836050715511%29.jpg/200px-Maria_WM17_%289%29_%2836050715511%29.jpg",
-    "name2": "Tatjana Maria",
-    "champ": "Tennis. WTA. Puerto Vallarta",
-    "heure": "20H00",
-    "date": "26/03/2025",
-    "pro": "Total: (+20.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "name1": "ALBA Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1200px-Virtus_Bologna_logo.svg.png",
+    "name2": "Virtus Bologna",
+    "champ": "Euroligue",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "Total 2 (82.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Inglis_WMQ22_%2818%29_%2852191635135%29.jpg",
-    "name1": "Maddison Inglis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Andreeva_E._WMQ23_%2853061900319%29.jpg/280px-Andreeva_E._WMQ23_%2853061900319%29.jpg",
-    "name2": "Erika Andreeva",
-    "champ": "Tennis. WTA. Puerto Vallarta",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Panathinaikos_BC_logo.svg/1200px-Panathinaikos_BC_logo.svg.png",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1200px-Logo_Paris_Basketball_-_2024.svg.png",
+    "name2": "Paris Basket",
+    "champ": "Euroligue",
     "heure": "22H00",
-    "date": "26/03/2025",
-    "pro": "Total: (+20.5)"
+    "date": "28/03/2025",
+    "pro": "Chaque Equipe Marque (79.5)"
   }
 ]
