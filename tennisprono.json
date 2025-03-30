@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sabalenka_WM18_%283%29_%2830063199288%29.jpg/682px-Sabalenka_WM18_%283%29_%2830063199288%29.jpg",
-    "name1": "Sabalenka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pegula_RG19_%2823%29_%2848199119221%29.jpg/640px-Pegula_RG19_%2823%29_%2848199119221%29.jpg",
-    "name2": "Pegula",
-    "champ": "WTA Miami",
-    "heure": "19H00",
-    "date": "29/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Cavs_de_Cleveland_logo_2017.png/167px-Cavs_de_Cleveland_logo_2017.png",
+    "name1": "Cavalieres",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png",
+    "name2": "Clippers",
+    "champ": "NBA",
+    "heure": "19H30",
+    "date": "30/03/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/78/WUE_Primary_Logo_rot_transparent_CMYK.png",
-    "name1": "Wurzburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "BBL",
-    "heure": "19H00",
-    "date": "29/03/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/81/CB_Gran_Canaria_%28logo%29.svg",
+    "name1": "Gran Canaria",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/Unicaja.svg",
+    "name2": "Unicaja",
+    "champ": "Liga ACB",
+    "heure": "11H00",
+    "date": "30/03/2025",
+    "pro": "Chaque Equipe marque (75.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfEgmZajlXtcXDnSXQXH31VuerBlifW13TaA&s",
-    "name1": "Le Mans",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/936px-Logo_Cholet_Basket_2019.svg.png",
-    "name2": "Cholet",
-    "champ": "Elite Ligue",
-    "heure": "19H30",
-    "date": "23/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Club_Joventut_de_Badalona_%28logo%29.svg/640px-Club_Joventut_de_Badalona_%28logo%29.svg.png",
+    "name1": "FIATC Joventut",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "Liga ACB",
+    "heure": "16H30",
+    "date": "30/03/2025",
     "pro": "Equipe 2 gagne deux Quart-temps"
   }
 ]
