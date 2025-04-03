@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Flyers_Basketball.png/250px-Flyers_Basketball.png",
-    "name1": "Bristol Fyers",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkk8eBFC1YaCmiA6ByvnEGY07DzlRsyus8Bw&s",
-    "name2": "London Lions",
-    "champ": "Super Ligue Britanique",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmjIufLk2XiIwD78DRTZCrTmItvnfY9_JbA&s",
+    "name1": "Real",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1200px-Logo_Paris_Basketball_-_2024.svg.png",
+    "name2": "Paris Basket",
+    "champ": "Euroligue",
+    "heure": "19H00",
+    "date": "03/04/2025",
+    "pro": "Total (-179.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
+    "name2": "Partizan",
+    "champ": "Euroligue",
+    "heure": "17H00",
+    "date": "03/04/2025",
+    "pro": "Chaque Equipe marque (70.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHQFRjByqoOQhF_R2T82Pyz0R7jz-rwr3qg&s",
+    "name1": "Maccabi Tel Aviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern",
+    "champ": "Euroligue",
     "heure": "18H30",
-    "date": "01/04/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Wawrinka_RG19_%2816%29_%2848199015787%29.jpg",
-    "name1": "Stanislas Wawrinka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Skatov_RGQ23_%2852943582696%29.jpg",
-    "name2": "Timofey Saktov",
-    "champ": "ATP Bucarest",
-    "heure": "14H00",
-    "date": "01/04/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://www.atptour.com/-/media/alias/player-headshot/S0ZE",
-    "name1": "Colton Smith",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Duckworth_WMQ16_%2820%29_%2828133900741%29.jpg/1200px-Duckworth_WMQ16_%2820%29_%2828133900741%29.jpg",
-    "name2": "James Duckworth",
-    "champ": "ATP Huston",
-    "heure": "20H00",
-    "date": "01/04/2025",
-    "pro": "Handicap 2 (5.5)"
+    "date": "03/04/2025",
+    "pro": "Equipe 2 gagne deux Quart-temps"
   }
 ]
