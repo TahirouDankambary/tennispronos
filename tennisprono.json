@@ -1,13 +1,13 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmjIufLk2XiIwD78DRTZCrTmItvnfY9_JbA&s",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1200px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name2": "Paris Basket",
-    "champ": "Euroligue",
-    "heure": "19H00",
-    "date": "03/04/2025",
-    "pro": "Total (-179.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_Elan_Chalon_2018.svg/1502px-Logo_Elan_Chalon_2018.svg.png",
+    "name1": "Elan Chalon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/1200px-Logo_Cholet_Basket_2019.svg.png",
+    "name2": "Cholet",
+    "champ": "Elite Ligue",
+    "heure": "18H30",
+    "date": "05/04/2025",
+    "pro": "V2"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
@@ -16,8 +16,8 @@
     "name2": "Partizan",
     "champ": "Euroligue",
     "heure": "17H00",
-    "date": "03/04/2025",
-    "pro": "Chaque Equipe marque (70.5)"
+    "date": "05/04/2025",
+    "pro": "V2"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHQFRjByqoOQhF_R2T82Pyz0R7jz-rwr3qg&s",
@@ -26,7 +26,7 @@
     "name2": "Bayern",
     "champ": "Euroligue",
     "heure": "18H30",
-    "date": "03/04/2025",
-    "pro": "Equipe 2 gagne deux Quart-temps"
+    "date": "05/04/2025",
+    "pro": "Handicap 2 (4.5)"
   }
 ]
