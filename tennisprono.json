@@ -10,22 +10,22 @@
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
-    "name1": "Zalgiris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
-    "name2": "Partizan",
-    "champ": "Euroligue",
-    "heure": "17H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/53/Cobolli_RGQ23_%2852944096963%29.jpg",
+    "name1": "Flavio Cobolli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dzumhur_WMQ14_%286%29_%2814603738381%29.jpg/200px-Dzumhur_WMQ14_%286%29_%2814603738381%29.jpg",
+    "name2": "Damir Dzumhur",
+    "champ": "ATP Bucarest",
+    "heure": "12H00",
     "date": "05/04/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHQFRjByqoOQhF_R2T82Pyz0R7jz-rwr3qg&s",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "Euroligue",
-    "heure": "18H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/80/Baez_RG22_%286%29_%2852144105338%29.jpg",
+    "name1": "Sebastian Baez",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3a/M%C3%A1rton_Fucsovics_%282023_US_Open%29_01_%28cropped%29.jpg",
+    "name2": "Marton Fucsovics",
+    "champ": "ATP Bucarest",
+    "heure": "10H00",
     "date": "05/04/2025",
     "pro": "Handicap 2 (4.5)"
   }
