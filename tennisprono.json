@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Navone_RGQ23_%2852943971240%29.jpg/250px-Navone_RGQ23_%2852943971240%29.jpg",
-    "name1": "Mariano Navone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berrettini_MCM23_%2895%29_%2852883527120%29.jpg/250px-Berrettini_MCM23_%2895%29_%2852883527120%29.jpg",
-    "name2": "Matteo Berrettini",
-    "champ": "ATP Monte Carlo",
-    "heure": "12H00",
-    "date": "07/04/2025",
-    "pro": "Total 2 (118.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
+    "name1": "Hapoel Tel Aviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/81/CB_Gran_Canaria_%28logo%29.svg",
+    "name2": "Gran Canaria",
+    "champ": "EuroCup",
+    "heure": "17H00",
+    "date": "08/04/2025",
+    "pro": "Total (79.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/12/Felix_Auger-Aliassime.jpg",
-    "name1": "Felix Auger",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Altmaier_RG22_%2824%29_%2852144567090%29.jpg",
-    "name2": "Daniel Altieer",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dusan_Lajovic_%2843285466791%29.jpg/250px-Dusan_Lajovic_%2843285466791%29.jpg",
+    "name1": "Dusan Lajovic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cobolli_WMQ23_%2853061712891%29.jpg",
+    "name2": "Flavio Cobolli",
     "champ": "ATP Monte Carlo",
-    "heure": "10H30",
-    "date": "07/04/2025",
+    "heure": "11H00",
+    "date": "08/04/2025",
+    "pro": "Total (19.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frances_Tiafoe_US_Open_2022_%28cropped%29.jpg/280px-Frances_Tiafoe_US_Open_2022_%28cropped%29.jpg",
+    "name1": "Tiafoe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kecmanovic_RG19_%2842%29_%2848199200981%29.jpg/250px-Kecmanovic_RG19_%2842%29_%2848199200981%29.jpg",
+    "name2": "Miomir Kecmanovic",
+    "champ": "ATP Monte Carlo",
+    "heure": "12H00",
+    "date": "08/04/2025",
     "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Muller_RGQ22_%2837%29_%2852129571758%29.jpg/330px-Muller_RGQ22_%2837%29_%2852129571758%29.jpg",
-    "name1": "Alexander Muller",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ugo_Carabelli_RGQ22_%282%29_%2852129754339%29.jpg/1200px-Ugo_Carabelli_RGQ22_%282%29_%2852129754339%29.jpg",
-    "name2": "Camilo Ugo Carabelli",
-    "champ": "ATP Monte Carlo",
-    "heure": "12H00",
-    "date": "07/04/2025",
-    "pro": "V2"
   }
 ]
