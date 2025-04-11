@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8umHMKapJBsrm8MZTfSiaks-qenHt996-Q&s",
-    "name1": "ASVEL",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/640px-Logo_AS_Monaco_Basket.svg.png",
-    "name2": "Monaco",
-    "champ": "Euroligue",
-    "heure": "18H00",
-    "date": "10/04/2025",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HtEmkGv_W0gO4VEScljm_fRASGS6ic4Uag&s",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/tr/5/55/USK_Prag_Logo.png",
+    "name2": "USK Future Stars",
+    "champ": "Euroligue Femmes",
+    "heure": "15H30",
+    "date": "11/04/2025",
+    "pro": "Total 1 (73.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
-    "name1": "Partizan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name2": "Real",
-    "champ": "ATP Monte Carlo",
-    "heure": "Euroligue",
-    "date": "10/04/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Valencia_Basket_Club.gif",
+    "name1": "Valencia Basketball",
+    "photo2": "https://upload.wikimedia.org/wikipedia/tr/8/85/%C3%87BK_Mersin_yeni_logo.jpg",
+    "name2": "Cukurova Basketball",
+    "champ": "Euroligue Femmers",
+    "heure": "18H30",
+    "date": "11/04/2025",
+    "pro": "Equipe 1 gagne deux quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name2": "Fenerbahce",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/81/CB_Gran_Canaria_%28logo%29.svg",
+    "name1": "Gran Canaria",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
+    "name2": "Hapoel Tel Aviv",
     "champ": "Euroligue",
     "heure": "18H00",
-    "date": "10/04/2025",
-    "pro": "Equipe 2 gagne deux quart-temps"
+    "date": "11/04/2025",
+    "pro": "Total 2 (73.5)"
   }
 ]
