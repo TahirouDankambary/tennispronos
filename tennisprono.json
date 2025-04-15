@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/bs/thumb/5/5b/KK_Budu%C4%87nost_Podgorica.jpg/220px-KK_Budu%C4%87nost_Podgorica.jpg",
-    "name1": "Buducnost",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
-    "name2": "Partizan",
-    "champ": "Ligue Adriatique",
-    "heure": "17H00",
-    "date": "14/04/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern Munich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name2": "Etoile Rouge",
+    "champ": "Euroligue",
+    "heure": "18H30",
+    "date": "15/04/2025",
+    "pro": "Chaque Equipe marque (80.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bah%C3%A7e%C5%9Fehir_Koleji_Spor_Kul%C3%BCb%C3%BC_logo.png",
-    "name1": "Bahcesehir",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/1200px-Anadolu_Efes_SK_logo.svg.png",
-    "name2": "Anadolu Efes",
-    "champ": "Turquie Super Ligi",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Galatasaray_SK.svg/1200px-Galatasaray_SK.svg.png",
+    "name1": "Galatasaray",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/22/%C4%8CEZ_Basketball_Nymburk_logo.png",
+    "name2": "ERA Nymburk",
+    "champ": "LDC Basket",
     "heure": "16H00",
-    "date": "14/04/2025",
-    "pro": "V2"
+    "date": "15/04/2025",
+    "pro": "Equipe deux gagne deux quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/78/WUE_Primary_Logo_rot_transparent_CMYK.png",
-    "name1": "Wurzburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Ratiopharm_Ulm_%28logo%29.svg/1200px-Ratiopharm_Ulm_%28logo%29.svg.png",
-    "name2": "Ulm",
-    "champ": "BBL",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/e/e0/Pallacanestro_Reggiana_logo.png",
+    "name1": "Reggio Emilia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/tr/4/4b/Unicaja_logo.png",
+    "name2": "Unicaja",
+    "champ": "LDC Basket",
     "heure": "18H00",
-    "date": "14/04/2025",
-    "pro": "Equipe 2 gagne deux quart-temps"
+    "date": "15/04/2025",
+    "pro": "Total 2 (86)"
   }
 ]
