@@ -1,32 +1,33 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern Munich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name2": "Etoile Rouge",
-    "champ": "Euroligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Medjedovic_RGQ23.jpg/1200px-Medjedovic_RGQ23.jpg",
+    "name1": "Hamad Medjedovic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ruud_MCM22_%2831%29_%2852036646944%29.jpg",
+    "name2": "Casper Ruud",
+    "champ": "ATP Barcelone",
+    "heure": "15H30",
+    "date": "16/04/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/e/e6/Derthona_Basket_logo.png",
+    "name1": "Derthona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/cf/Logo_of_CB_1939_Canarias.png",
+    "name2": "Lenovo Terenife",
+    "champ": "LDC Basket",
+    "heure": "16H30",
+    "date": "16/04/2025",
+    "pro": "Total 2 (80.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/Logo_Nanterre_92_-_2016.svg/langfr-250px-Logo_Nanterre_92_-_2016.svg.png
+    ",
+    "name1": "JSF Naterre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Logo_AEK_Ath%C3%A8nes_2014.svg/1200px-Logo_AEK_Ath%C3%A8nes_2014.svg.png",
+    "name2": "AEK Athens",
+    "champ": "LDC Basket",
     "heure": "18H30",
-    "date": "15/04/2025",
-    "pro": "Chaque Equipe marque (80.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Galatasaray_SK.svg/1200px-Galatasaray_SK.svg.png",
-    "name1": "Galatasaray",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/22/%C4%8CEZ_Basketball_Nymburk_logo.png",
-    "name2": "ERA Nymburk",
-    "champ": "LDC Basket",
-    "heure": "16H00",
-    "date": "15/04/2025",
-    "pro": "Equipe deux gagne deux quart-temps"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/e/e0/Pallacanestro_Reggiana_logo.png",
-    "name1": "Reggio Emilia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/tr/4/4b/Unicaja_logo.png",
-    "name2": "Unicaja",
-    "champ": "LDC Basket",
-    "heure": "18H00",
-    "date": "15/04/2025",
-    "pro": "Total 2 (86)"
+    "date": "16/04/2025",
+    "pro": "Equipe 2 gagne 2 quart-temps"
   }
 ]
