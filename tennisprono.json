@@ -6,7 +6,7 @@
     "name2": "Anadolu",
     "champ": "Euroligue",
     "heure": "18H30",
-    "date": "22/04/2025",
+    "date": "23/04/2025",
     "pro": "Total (161.5)"
   },
   {
@@ -16,17 +16,17 @@
     "name2": "Paris",
     "champ": "Euroligue",
     "heure": "17H45",
-    "date": "22/04/2025",
+    "date": "23/04/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Pacers_de_l%27Indiana_2017.svg/langfr-250px-Pacers_de_l%27Indiana_2017.svg.png",
-    "name1": "Pacers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Milwaukee_Bucks_2015.svg/langfr-250px-Milwaukee_Bucks_2015.svg.png",
-    "name2": "Milwaukee",
-    "champ": "NBA",
-    "heure": "23H00",
-    "date": "22/04/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Marozs%C3%A1n_WMQ23_%2853062093200%29.jpg/1200px-Marozs%C3%A1n_WMQ23_%2853062093200%29.jpg",
+    "name1": "Fabian Marozsan",
+    "photo2": "https://i.namu.wiki/i/1lG9KEHQ23PsHxgPjaSIHBGMcKd8LP1opQrjqMeYtGZvRbsJZAN5-7Y9tO_DhsaycZtS3LX-LOC0Ky9mBN6C8Q.webp",
+    "name2": "Flavio Coboli",
+    "champ": "ATP Madrid",
+    "heure": "15H00",
+    "date": "23/04/2025",
+    "pro": "HAdicap de set 2 (1.5)"
   }
 ]
