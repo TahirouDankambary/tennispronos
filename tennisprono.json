@@ -1,19 +1,19 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/1115px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1507px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
-    "name2": "Anadolu",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/AS_Monaco_Basket_Logo.png",
+    "name1": "Monaco Basket",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
     "champ": "Euroligue",
-    "heure": "18H30",
+    "heure": "17H00",
     "date": "23/04/2025",
-    "pro": "Total (161.5)"
+    "pro": "Total 2 (83.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/640px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name2": "Paris",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_Olympiacos_Basketball_-_2009.svg",
+    "name1": "Olympiakos",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
+    "name2": "Real",
     "champ": "Euroligue",
     "heure": "17H45",
     "date": "23/04/2025",
