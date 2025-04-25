@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1200px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name2": "Paris Basket",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/1524px-Logo_AS_Monaco_Basket.svg.png",
+    "name1": "Monaco",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
     "champ": "Euroligue",
     "heure": "17H45",
-    "date": "24/04/2025",
-    "pro": "Total 2 (82.5)"
+    "date": "25/04/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Panathinaikos_BC_logo.svg/1200px-Panathinaikos_BC_logo.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1200px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
-    "name2": "Anadolu",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_Olympiacos_Basketball_-_2009.svg",
+    "name1": "Olympiakos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
+    "name2": "Real",
     "champ": "Euroligue",
     "heure": "18H30",
-    "date": "24/04/2025",
-    "pro": "V1"
+    "date": "25/04/2025",
+    "pro": "Chaque EQuipe marque (71.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sevastova_WM17_%2815%29_%2835793496840%29.jpg/250px-Sevastova_WM17_%2815%29_%2835793496840%29.jpg",
-    "name1": "Anastasija Sevastova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ostapenko_RG18_%289%29_%2842077295315%29.jpg/250px-Ostapenko_RG18_%289%29_%2842077295315%29.jpg",
-    "name2": "Jelena Ostapenko",
-    "champ": "WTA Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Borges_BOR22_%2852082935912%29.jpg/250px-Borges_BOR22_%2852082935912%29.jpg",
+    "name1": "Nuno Borges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/93/Alejandro_Davidovich_Fokina_%282023_US_Open%29_06_%28cropped%29.jpg",
+    "name2": "Davidovich Fokina",
+    "champ": "ATP Madrid",
     "heure": "13H30",
-    "date": "24/04/2025",
-    "pro": "V2"
+    "date": "25/04/2025",
+    "pro": "Handicap 1 (5.5)"
   }
 ]
