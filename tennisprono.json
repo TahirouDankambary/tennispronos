@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/1524px-Logo_AS_Monaco_Basket.svg.png",
-    "name1": "Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
-    "champ": "Euroligue",
-    "heure": "17H45",
-    "date": "25/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Miami_Heat.svg/langfr-250px-Miami_Heat.svg.png",
+    "name1": "Heat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
+    "name2": "Cavaliers",
+    "champ": "NBA",
+    "heure": "17H00",
+    "date": "26/04/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_Olympiacos_Basketball_-_2009.svg",
-    "name1": "Olympiakos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name2": "Real",
-    "champ": "Euroligue",
-    "heure": "18H30",
-    "date": "25/04/2025",
-    "pro": "Chaque EQuipe marque (71.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Grizzlies_de_Memphis_2018.png/250px-Grizzlies_de_Memphis_2018.png",
+    "name1": "Grizzlies",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
+    "name2": "Thunder",
+    "champ": "NBA",
+    "heure": "19H30",
+    "date": "26/04/2025",
+    "pro": "Total 1 (99.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Borges_BOR22_%2852082935912%29.jpg/250px-Borges_BOR22_%2852082935912%29.jpg",
-    "name1": "Nuno Borges",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/93/Alejandro_Davidovich_Fokina_%282023_US_Open%29_06_%28cropped%29.jpg",
-    "name2": "Davidovich Fokina",
-    "champ": "ATP Madrid",
-    "heure": "13H30",
-    "date": "25/04/2025",
-    "pro": "Handicap 1 (5.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png",
+    "name1": "Clippers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name2": "Nuggets",
+    "champ": "NBA",
+    "heure": "22H00",
+    "date": "26/04/2025",
+    "pro": "Total 2 (99.5)"
   }
 ]
