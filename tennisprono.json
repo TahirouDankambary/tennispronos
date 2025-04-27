@@ -20,13 +20,13 @@
     "pro": "Total LeBron James (24.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png",
-    "name1": "Clippers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
-    "name2": "Nuggets",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Orlando_Magic_2010.svg/1200px-Logo_Orlando_Magic_2010.svg.png",
+    "name1": "Magic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+    "name2": "Celtics",
     "champ": "NBA",
-    "heure": "22H00",
+    "heure": "23H00",
     "date": "27/04/2025",
-    "pro": "Total 2 (99.5)"
+    "pro": "V2"
   }
 ]
