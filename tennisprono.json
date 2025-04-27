@@ -1,23 +1,23 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Miami_Heat.svg/langfr-250px-Miami_Heat.svg.png",
-    "name1": "Heat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
-    "name2": "Cavaliers",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/1200px-Logo_of_the_Detroit_Pistons.svg.png",
+    "name1": "Pistons Detroit",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png",
+    "name2": "Knicks",
     "champ": "NBA",
     "heure": "17H00",
-    "date": "26/04/2025",
+    "date": "27/04/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Grizzlies_de_Memphis_2018.png/250px-Grizzlies_de_Memphis_2018.png",
-    "name1": "Grizzlies",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
-    "name2": "Thunder",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d9/Timberwolves_du_Minnesota_logo_2017.png",
+    "name1": "Timberwolves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
+    "name2": "Lakers",
     "champ": "NBA",
     "heure": "19H30",
-    "date": "26/04/2025",
-    "pro": "Total 1 (99.5)"
+    "date": "27/04/2025",
+    "pro": "Total LeBron James (24.5)"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png",
@@ -26,7 +26,7 @@
     "name2": "Nuggets",
     "champ": "NBA",
     "heure": "22H00",
-    "date": "26/04/2025",
+    "date": "27/04/2025",
     "pro": "Total 2 (99.5)"
   }
 ]
