@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1200px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name1": "Paris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name2": "Fernerbahce",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/800px-Logo_FC_Barcelone.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6v4yUKw7gBzYdtfKIXDevHISzVI2rEPRK5A&s",
+    "name2": "Monaco",
     "champ": "Euroligue",
-    "heure": "18H30",
-    "date": "29/04/2025",
-    "pro": "Total 2 (84)"
+    "heure": "17H00",
+    "date": "30/04/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/1200px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name2": "Olympiakos",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg/1507px-Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg.png",
+    "name1": "Anadolu",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_Panathinaikos_Basketball_-_2024.svg/1115px-Logo_Panathinaikos_Basketball_-_2024.svg.png",
+    "name2": "Panathinaikos",
     "champ": "Euroligue",
-    "heure": "19H00",
-    "date": "29/04/2025",
-    "pro": "Total 2 (79.5)"
+    "heure": "17H45",
+    "date": "30/04/2025",
+    "pro": "Equipe 2 gagne deux Quart-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tsitsipas_S._MCM22_%2820%29_%2852036915350%29.jpg/1200px-Tsitsipas_S._MCM22_%2820%29_%2852036915350%29.jpg",
-    "name1": "Tsitsipas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Musetti_MCM23_%2811%29_%2852883593753%29.jpg/1200px-Musetti_MCM23_%2811%29_%2852883593753%29.jpg",
-    "name2": "Lorenzo Musetti",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dimitrov_WM16_%2867%29_%2828385960076%29.jpg/1200px-Dimitrov_WM16_%2867%29_%2828385960076%29.jpg",
+    "name1": "Grigor Dimitrov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Diallo_WMQ23_%2853061896439%29.jpg",
+    "name2": "Gabriel Diallo",
     "champ": "ATP Madrid",
-    "heure": "12H00",
-    "date": "29/04/2025",
-    "pro": "Les deux gagne un Set"
+    "heure": "17H30",
+    "date": "30/04/2025",
+    "pro": "V1"
   }
 ]
