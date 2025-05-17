@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alcaraz_MCM22_%2827%29_%2852036462443%29_%28edited%29.jpg/960px-Alcaraz_MCM22_%2827%29_%2852036462443%29_%28edited%29.jpg",
-    "name1": "Alcaraz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Musetti_MCM23_%2811%29_%2852883593753%29.jpg/1200px-Musetti_MCM23_%2811%29_%2852883593753%29.jpg",
-    "name2": "Lorenzo Musetti",
-    "champ": "ATP Rome",
-    "heure": "13H30",
-    "date": "16/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Ratiopharm_Ulm_%28logo%29.svg/1200px-Ratiopharm_Ulm_%28logo%29.svg.png",
+    "name1": "Ulm",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
+    "name2": "ALBA Berlin",
+    "champ": "BBl",
+    "heure": "16H30",
+    "date": "17/05/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
-    "name1": "Knicks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/2048px-Celtics_de_Boston_logo.svg.png",
-    "name2": "Celtics",
-    "champ": "NBA",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_AS_Nancy-Lorraine.svg/1200px-Logo_AS_Nancy-Lorraine.svg.png",
+    "name1": "Nancy",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1200px-Logo_Paris_Basketball_-_2024.svg.png",
+    "name2": "Paris",
+    "champ": "Elite Ligue",
+    "heure": "16H00",
     "date": "17/05/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Spartak_Subotica.svg/1200px-Spartak_Subotica.svg.png",
-    "name1": "Spartak Subotica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_du_RK_Partizan_Belgrade.jpg",
-    "name2": "Partizan",
-    "champ": "Ligue Adriatique",
-    "heure": "19H30",
-    "date": "16/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_Elan_Chalon_2018.svg/1200px-Logo_Elan_Chalon_2018.svg.png",
+    "name1": "Elan Chalon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/1524px-Logo_AS_Monaco_Basket.svg.png",
+    "name2": "Monaco",
+    "champ": "Elite Ligue",
+    "heure": "16H00",
+    "date": "17/05/2025",
     "pro": "V2"
   }
 ]
