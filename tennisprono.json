@@ -1,32 +1,32 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Ratiopharm_Ulm_%28logo%29.svg/1200px-Ratiopharm_Ulm_%28logo%29.svg.png",
-    "name1": "Ulm",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1200px-Alba_Berlin_%28logo%29.svg.png",
-    "name2": "ALBA Berlin",
-    "champ": "BBl",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
+    "name1": "Thunder",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name2": "Nuggets",
+    "champ": "NBA",
     "heure": "16H30",
-    "date": "17/05/2025",
+    "date": "18/05/2025",
+    "pro": "Total (223.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png",
+    "name2": "Rytas",
+    "champ": "Lituanie LKL",
+    "heure": "13H50",
+    "date": "18/05/2025",
+    "pro": "Total (164.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/97/Jannik_Sinner_%282024_US_Open%29_04_%28cropped%29.jpg",
+    "name1": "Sinner",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/22/Carlos_Alcaraz.jpg",
+    "name2": "Alcaraz",
+    "champ": "ATP Rome",
+    "heure": "15H00",
+    "date": "18/05/2025",
     "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_AS_Nancy-Lorraine.svg/1200px-Logo_AS_Nancy-Lorraine.svg.png",
-    "name1": "Nancy",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1200px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name2": "Paris",
-    "champ": "Elite Ligue",
-    "heure": "16H00",
-    "date": "17/05/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_Elan_Chalon_2018.svg/1200px-Logo_Elan_Chalon_2018.svg.png",
-    "name1": "Elan Chalon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/1524px-Logo_AS_Monaco_Basket.svg.png",
-    "name2": "Monaco",
-    "champ": "Elite Ligue",
-    "heure": "16H00",
-    "date": "17/05/2025",
-    "pro": "V2"
   }
 ]
