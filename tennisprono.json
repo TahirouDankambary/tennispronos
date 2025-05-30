@@ -1,32 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/01/JDA_Dijon_Basket.png",
-    "name1": "JDA Dijon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1200px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name2": "Paris Basket",
-    "champ": "Elite Ligue",
-    "heure": "19H00",
-    "date": "29/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/B%C3%A1squet_Coru%C3%B1a.svg/1200px-B%C3%A1squet_Coru%C3%B1a.svg.png",
+    "name1": "Coruña",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Saski_Baskonia.png/250px-Saski_Baskonia.png",
+    "name2": "Saski Baskonia",
+    "champ": "Espagne. Liga ACB",
+    "heure": "16H30",
+    "date": "30/05/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_Elan_Chalon_2018.svg/1502px-Logo_Elan_Chalon_2018.svg.png",
-    "name1": "Elan Chalon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
-    "name2": "ASVEL",
-    "champ": "Elite Ligue",
-    "heure": "17H00",
-    "date": "29/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Coviran_Granada.png/250px-Coviran_Granada.png",
+    "name1": "CB Granada",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BC_Andorra_logo.svg/1200px-BC_Andorra_logo.svg.png",
+    "name2": "MoraBanc Andorra",
+    "champ": "Espagne. Liga ACB",
+    "heure": "16H30",
+    "date": "30/05/2025",
+    "pro": "Total: (+173.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
+    "name1": "Zaragoza 2002",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
+    "name2": "Real Madrid",
+    "champ": "Espagne. Liga ACB",
+    "heure": "16H30",
+    "date": "30/05/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://i.namu.wiki/i/1lG9KEHQ23PsHxgPjaSIHBGMcKd8LP1opQrjqMeYtGZvRbsJZAN5-7Y9tO_DhsaycZtS3LX-LOC0Ky9mBN6C8Q.webp",
-    "name1": "Flavio Coboli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Arnaldi_BLO22_%2868%29_%2852157038811%29.jpg",
-    "name2": "Matteo Arnaldi",
-    "champ": "Roland Garros",
-    "heure": "12H00",
-    "date": "29/05/2025",
-    "pro": "Les deux gagne un Set"
+    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/6/6d/Bilbao_Basket_logo.svg/800px-Bilbao_Basket_logo.svg.png",
+    "name1": "Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "Espagne. Liga ACB",
+    "heure": "16H30",
+    "date": "30/05/2025",
+    "pro": "Total 2: (+85.5)"
   }
 ]
