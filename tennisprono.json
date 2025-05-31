@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/B%C3%A1squet_Coru%C3%B1a.svg/1200px-B%C3%A1squet_Coru%C3%B1a.svg.png",
-    "name1": "Coruña",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Saski_Baskonia.png/250px-Saski_Baskonia.png",
-    "name2": "Saski Baskonia",
-    "champ": "Espagne. Liga ACB",
-    "heure": "16H30",
-    "date": "30/05/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/1200px-Chicago_Cubs_logo.svg.png",
+    "name1": "Chicago Cubs",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/1200px-Cincinnati_Reds_Logo.svg.png",
+    "name2": "Reds de Cincinnati",
+    "champ": "États-Unis. MLB",
+    "heure": "18H20",
+    "date": "31/05/2025",
+    "pro": "Total: (+6)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Coviran_Granada.png/250px-Coviran_Granada.png",
-    "name1": "CB Granada",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BC_Andorra_logo.svg/1200px-BC_Andorra_logo.svg.png",
-    "name2": "MoraBanc Andorra",
-    "champ": "Espagne. Liga ACB",
-    "heure": "16H30",
-    "date": "30/05/2025",
-    "pro": "Total: (+173.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d2/TorontoBlueJays2012primary.png",
+    "name1": "Blue Jays de Toronto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/43/Athletics%27_Cap_Logo.svg",
+    "name2": "Athletics",
+    "champ": "États-Unis. MLB",
+    "heure": "19H07",
+    "date": "31/05/2025",
+    "pro": "Total: (+7)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
-    "name1": "Zaragoza 2002",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "Espagne. Liga ACB",
-    "heure": "16H30",
-    "date": "30/05/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/cc/Orioles_new.PNG",
+    "name1": "Orioles de Baltimore",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/800px-Chicago_White_Sox.svg.png",
+    "name2": "White Sox de Chicago",
+    "champ": "États-Unis. MLB",
+    "heure": "20H05",
+    "date": "31/05/2025",
+    "pro": "Total: (+8)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/6/6d/Bilbao_Basket_logo.svg/800px-Bilbao_Basket_logo.svg.png",
-    "name1": "Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "Espagne. Liga ACB",
-    "heure": "16H30",
-    "date": "30/05/2025",
-    "pro": "Total 2: (+85.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Texas_Rangers.svg/1200px-Texas_Rangers.svg.png",
+    "name1": "Texas Rangers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/ee/St_LouisCardinals.png",
+    "name2": "Cardinals de Saint-Louis",
+    "champ": "États-Unis. MLB",
+    "heure": "20H05",
+    "date": "31/05/2025",
+    "pro": "Total: (+6)"
   }
 ]
