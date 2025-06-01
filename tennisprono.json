@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/1200px-Chicago_Cubs_logo.svg.png",
-    "name1": "Chicago Cubs",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/1200px-Cincinnati_Reds_Logo.svg.png",
-    "name2": "Reds de Cincinnati",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Texas_Rangers.svg/1200px-Texas_Rangers.svg.png",
+    "name1": "Texas Rangers",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSji03Av09tHen835YlwfFpvywu0gzzFcHdqA&s",
+    "name2": "Cardinals de Saint-Louis",
     "champ": "États-Unis. MLB",
-    "heure": "18H20",
-    "date": "31/05/2025",
+    "heure": "17H05",
+    "date": "01/06/2025",
     "pro": "Total: (+6)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d2/TorontoBlueJays2012primary.png",
-    "name1": "Blue Jays de Toronto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/43/Athletics%27_Cap_Logo.svg",
-    "name2": "Athletics",
+    "photo1": "https://static.wikia.nocookie.net/logopedia/images/1/11/Hgn67ue79bffz6zalcadl4ygp.svg/revision/latest/scale-to-width-down/250?cb=20200714235958",
+    "name1": "Braves d'Atlanta",
+    "photo2": "https://logo-marque.com/wp-content/uploads/2020/08/Boston-Red-Sox-Logo-1976-2008.png",
+    "name2": "Red Sox de Boston",
     "champ": "États-Unis. MLB",
-    "heure": "19H07",
-    "date": "31/05/2025",
+    "heure": "17H35",
+    "date": "01/06/2025",
     "pro": "Total: (+7)"
   },
   {
@@ -25,18 +25,18 @@
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/800px-Chicago_White_Sox.svg.png",
     "name2": "White Sox de Chicago",
     "champ": "États-Unis. MLB",
-    "heure": "20H05",
-    "date": "31/05/2025",
+    "heure": "17H35",
+    "date": "01/06/2025",
     "pro": "Total: (+8)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Texas_Rangers.svg/1200px-Texas_Rangers.svg.png",
-    "name1": "Texas Rangers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/ee/St_LouisCardinals.png",
-    "name2": "Cardinals de Saint-Louis",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a2/PhiladelphiaPhillies_100.png",
+    "name1": "Phillies de Philadelphie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/72/Milwaukee_Brewers_2.png",
+    "name2": "Brewers de Milwaukee",
     "champ": "États-Unis. MLB",
-    "heure": "20H05",
-    "date": "31/05/2025",
-    "pro": "Total: (+6)"
+    "heure": "17H35",
+    "date": "01/06/2025",
+    "pro": "Total: (+7)"
   }
 ]
