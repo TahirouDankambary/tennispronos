@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7DoBp44gXlL8yOTX4SSWx57t_XiRcB_lRg&s",
-    "name1": "CSK VVS Samara",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_9ZDpnd5NqoU58dARrsvsQP6thdBNqzI4XA&s",
-    "name2": "MHK Khimik",
-    "champ": "Hockey sur glace. Russie. VHL",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fi/thumb/5/54/HC_Lada_Togliatti_Logo.png/1200px-HC_Lada_Togliatti_Logo.png",
+    "name1": "Lada Togliatti",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAUpiaGaOucucJn9dhwgLxsjWKzDForHk9w&s",
+    "name2": "Lokomotiv",
+    "champ": "Hockey sur glace. Ligue continentale",
     "heure": "15H00",
-    "date": "15/09/2025",
-    "pro": "Total: (+3.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1019px-Ak_Bars_Kazan_logo.svg.png",
-    "name1": "Bars Kazan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%D0%A5%D0%9A_%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.png",
-    "name2": "Zvezda Moscow",
-    "champ": "Hockey sur glace. Russie. VHL",
-    "heure": "15H30",
-    "date": "15/09/2025",
-    "pro": "Total: (+4.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HC_Dynamo_Saint_Petersburg.jpg/250px-HC_Dynamo_Saint_Petersburg.jpg",
-    "name1": "Dynamo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/HC_Avangard_Logo.svg/1200px-HC_Avangard_Logo.svg.png",
-    "name2": "Omskiye Krylya",
-    "champ": "Hockey sur glace. Russie. VHL",
-    "heure": "16H00",
-    "date": "15/09/2025",
+    "date": "16/09/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAr0xa0GCsLetc0xJSrP6hxlg1T2NataB9g&s",
-    "name1": "Irbis",
-    "photo2": "https://internationalhockeywiki.com/ihw/images/thumb/a/a3/Siberian_Snipers_Logo.png/220px-Siberian_Snipers_Logo.png",
-    "name2": "Sibirskie Snaïpery",
-    "champ": "Hockey sur glace. Russie. MHL",
-    "heure": "15H30",
-    "date": "15/09/2025",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WiCaNCYEij9Q2y50-SIDHafErUImi3vSeg&s",
+    "name1": "Severstal Tcherepovets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/98/HC_Metallurg_Magnitogorsk.png",
+    "name2": "Metallourg Magnitogorsk",
+    "champ": "Hockey sur glace. Ligue continentale",
+    "heure": "16H00",
+    "date": "16/09/2025",
+    "pro": "Total: (+3.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
+    "name1": "Sotchi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/99/Torpedo_Nijni_Novgorod_2025.png",
+    "name2": "Torpedo Nijni Novgorod",
+    "champ": "Hockey sur glace. Ligue continentale",
+    "heure": "16H30",
+    "date": "16/09/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/73/HC_CSKA_Moscou_2012.png",
+    "name1": "CSKA Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/Logo_Spartak_Moscou_2013.svg/1200px-Logo_Spartak_Moscou_2013.svg.png",
+    "name2": "Spartak Moscou",
+    "champ": "Hockey sur glace. Ligue continentale",
+    "heure": "16H30",
+    "date": "16/09/2025",
+    "pro": "1X"
   }
 ]
