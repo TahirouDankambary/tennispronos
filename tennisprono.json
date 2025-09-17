@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fi/thumb/5/54/HC_Lada_Togliatti_Logo.png/1200px-HC_Lada_Togliatti_Logo.png",
-    "name1": "Lada Togliatti",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAUpiaGaOucucJn9dhwgLxsjWKzDForHk9w&s",
-    "name2": "Lokomotiv",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1019px-Ak_Bars_Kazan_logo.svg.png",
+    "name1": "Ak Bars Kazan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/HC_Neftekhimik_Nizhnekamsk_logo.svg/1051px-HC_Neftekhimik_Nizhnekamsk_logo.svg.png",
+    "name2": "Neftekhimik",
     "champ": "Hockey sur glace. Ligue continentale",
-    "heure": "15H00",
-    "date": "16/09/2025",
+    "heure": "16H00",
+    "date": "17/09/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/GOG_handball_club.png/250px-GOG_handball_club.png",
+    "name1": "GOG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/SC_Pick_Szeged.svg/1200px-SC_Pick_Szeged.svg.png",
+    "name2": "Pick",
+    "champ": "Handball. Ligue des Champions",
+    "heure": "16H45",
+    "date": "17/09/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WiCaNCYEij9Q2y50-SIDHafErUImi3vSeg&s",
-    "name1": "Severstal Tcherepovets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/98/HC_Metallurg_Magnitogorsk.png",
-    "name2": "Metallourg Magnitogorsk",
-    "champ": "Hockey sur glace. Ligue continentale",
-    "heure": "16H00",
-    "date": "16/09/2025",
-    "pro": "Total: (+3.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCTLY7wMZsT2qetbnIp6r8EGtbH2LX-shOjg&s",
+    "name1": "Kolstad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Dinamo_Bucarest_logo.svg/914px-Dinamo_Bucarest_logo.svg.png",
+    "name2": "Dinamo Bucarest",
+    "champ": "Handball. Ligue des Champions",
+    "heure": "16H45",
+    "date": "17/09/2025",
+    "pro": "Total: (+60)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
-    "name1": "Sotchi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/99/Torpedo_Nijni_Novgorod_2025.png",
-    "name2": "Torpedo Nijni Novgorod",
-    "champ": "Hockey sur glace. Ligue continentale",
-    "heure": "16H30",
-    "date": "16/09/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/73/HC_CSKA_Moscou_2012.png",
-    "name1": "CSKA Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/Logo_Spartak_Moscou_2013.svg/1200px-Logo_Spartak_Moscou_2013.svg.png",
-    "name2": "Spartak Moscou",
-    "champ": "Hockey sur glace. Ligue continentale",
-    "heure": "16H30",
-    "date": "16/09/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/Wisla_Plock_logo.svg/1655px-Wisla_Plock_logo.svg.png",
+    "name1": "Wisla Plock",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Rukometni_klub_Zagreb.svg/langfr-250px-Rukometni_klub_Zagreb.svg.png",
+    "name2": "Prvo Plinarsko Drustvo Zagreb",
+    "champ": "Handball. Ligue des Champions",
+    "heure": "18H45",
+    "date": "17/09/2025",
+    "pro": "Total: (+55)"
   }
 ]
