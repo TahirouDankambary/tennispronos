@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1019px-Ak_Bars_Kazan_logo.svg.png",
-    "name1": "Ak Bars Kazan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/HC_Neftekhimik_Nizhnekamsk_logo.svg/1051px-HC_Neftekhimik_Nizhnekamsk_logo.svg.png",
-    "name2": "Neftekhimik",
-    "champ": "Hockey sur glace. Ligue continentale",
-    "heure": "16H00",
-    "date": "17/09/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/53/Detroit_Tigers_primary_logo_2016.png",
+    "name1": "Tigers de Détroit",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cleveland_Guardians_wordmark_%E2%80%9CC%E2%80%9D_logo.png",
+    "name2": "Cleveland Guardians",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "17H10",
+    "date": "18/09/2025",
+    "pro": "Total: (+6)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/GOG_handball_club.png/250px-GOG_handball_club.png",
-    "name1": "GOG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/SC_Pick_Szeged.svg/1200px-SC_Pick_Szeged.svg.png",
-    "name2": "Pick",
-    "champ": "Handball. Ligue des Champions",
-    "heure": "16H45",
-    "date": "17/09/2025",
-    "pro": "2X"
+    "photo1": "https://i.etsystatic.com/15248585/r/il/67794a/1737950664/il_570xN.1737950664_m47z.jpg",
+    "name1": "Mets de New york",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/San_Diego_Padres_%282020%29_cap_logo.svg/1200px-San_Diego_Padres_%282020%29_cap_logo.svg.png",
+    "name2": "Padres de San Diego",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "17H10",
+    "date": "18/09/2025",
+    "pro": "Total: (+7)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCTLY7wMZsT2qetbnIp6r8EGtbH2LX-shOjg&s",
-    "name1": "Kolstad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Dinamo_Bucarest_logo.svg/914px-Dinamo_Bucarest_logo.svg.png",
-    "name2": "Dinamo Bucarest",
-    "champ": "Handball. Ligue des Champions",
-    "heure": "16H45",
-    "date": "17/09/2025",
-    "pro": "Total: (+60)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/1200px-RedSoxPrimary_HangingSocks.svg.png",
+    "name1": "Red Sox de Boston",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Athletics_logo.svg/1200px-Athletics_logo.svg.png",
+    "name2": "Athletics",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "17H35",
+    "date": "18/09/2025",
+    "pro": "Total: (+8)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/Wisla_Plock_logo.svg/1655px-Wisla_Plock_logo.svg.png",
-    "name1": "Wisla Plock",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Rukometni_klub_Zagreb.svg/langfr-250px-Rukometni_klub_Zagreb.svg.png",
-    "name2": "Prvo Plinarsko Drustvo Zagreb",
-    "champ": "Handball. Ligue des Champions",
-    "heure": "18H45",
-    "date": "17/09/2025",
-    "pro": "Total: (+55)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b0/Kansas_City_Royals.png",
+    "name1": "Royals de Kansas City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f3/SeattleMariners_100.png",
+    "name2": "Mariners de Seattle",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "18H10",
+    "date": "18/09/2025",
+    "pro": "Total: (+8)"
   }
 ]
