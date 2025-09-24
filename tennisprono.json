@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ru/0/08/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A5%D0%9A_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB_%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2.png",
-    "name1": "Kristall Saratov",
-    "photo2": "https://static.wikia.nocookie.net/internationalhockey/images/1/1e/Chelmet_logo.png/revision/latest?cb=20150706191941",
-    "name2": "Chelmet Tcheliabinsk",
-    "champ": "Hockey sur glace. Russie VHL",
-    "heure": "14H30",
-    "date": "22/09/2025",
-    "pro": "Total: (+3.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/5c/Dizel_Penza_logo.png",
-    "name1": "Dizel Penza",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/HC_Gornyak_Uchaly_logo_2019.png/250px-HC_Gornyak_Uchaly_logo_2019.png",
-    "name2": "Gornyak UGMK Verhyaya",
-    "champ": "Hockey sur glace. Russie VHL",
-    "heure": "16H00",
-    "date": "22/09/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNfaZlqIdnywubRN-S6Fr1gKUx2QcQzt7qA&s",
+    "name1": "Parma",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlP8_1o4qLQD8JUA313P-cEqkpY7CchYi14A&s",
+    "name2": "Spezia",
+    "champ": "Coupe d'Italie",
+    "heure": "15H00",
+    "date": "24/09/2025",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/6c/OLIMPIA_ESCUDO_2_japa.png",
-    "name1": "Olimpiya",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/AKM_Toula.png/985px-AKM_Toula.png",
-    "name2": "AKM Tula Oblast",
-    "champ": "Hockey sur glace. Russie VHL",
-    "heure": "16H00",
-    "date": "22/09/2025",
-    "pro": "Total: (+3.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
+    "name1": "Hellas Verona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png",
+    "name2": "Venise FC",
+    "champ": "Coupe d'Italie",
+    "heure": "16H30",
+    "date": "24/09/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/1b/HC_Dynamo_Saint_Petersburg.jpg",
-    "name1": "MHC Dinamo Saint-Pétersbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Yanmar_logo_2013_full.svg/2560px-Yanmar_logo_2013_full.svg.png",
-    "name2": "Krasnaya Mashina",
-    "champ": "Hockey sur glace. Russie MHL",
-    "heure": "15H30",
-    "date": "22/09/2025",
-    "pro": "V1 Et TP(4.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/500px-Logo_Como_1907_2019.png",
+    "name1": "Como",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/1095px-US_Sassuolo_Calcio_logo.svg.png",
+    "name2": "Sassuolo Calcio",
+    "champ": "Coupe d'Italie",
+    "heure": "19H00",
+    "date": "24/09/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVlC5dpvk40Y7QJp2WSlMLfOUP8Che3na0g&s",
+    "name1": "Tekstilshchik Ivanovo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1050px-Fakel_Voronezh_logo.svg.png",
+    "name2": "Fakel Voronej",
+    "champ": "Coupe de Russie",
+    "heure": "16H30",
+    "date": "24/09/2025",
+    "pro": "V2"
   }
 ]
