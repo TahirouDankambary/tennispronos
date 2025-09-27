@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmME2T1QSMFwd_b83BpkLgAWetbAr6A2LixQ&s",
-    "name1": "Al-Khaleej",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2QD-k8eJtCkuddvtvHS3cNWItVb-vnTk_g&s",
-    "name2": "Al-Taawon",
-    "champ": "Arabie Saoudite de Football",
-    "heure": "15H10",
-    "date": "25/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Toronto_FC_%28logo%29.svg/langfr-250px-Toronto_FC_%28logo%29.svg.png",
+    "name1": "Toronto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
+    "champ": "États-Unis. MLS",
+    "heure": "20H30",
+    "date": "27/09/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRdFR2H1SFsxgw1DGqPb0RMi1zD66cB7ilNg&s",
+    "name1": "DC United",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMGJJbMIVzbB472OovQ_r89g83IC79qE50Q&s",
+    "name2": "Union de Philadelphie",
+    "champ": "États-Unis. MLS",
+    "heure": "23H30",
+    "date": "27/09/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/New_England_Revolution_%28logo%2C_2021%29.svg/1200px-New_England_Revolution_%28logo%2C_2021%29.svg.png",
+    "name1": "Revolution de la Nouvelle-Angleterre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Logo_Atlanta_United_2025.svg/1200px-Logo_Atlanta_United_2025.svg.png",
+    "name2": "Atlanta United",
+    "champ": "États-Unis. MLS",
+    "heure": "23H30",
+    "date": "27/09/2025",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Al_Shabab_FC_%28Riyadh%29.svg/1200px-Al_Shabab_FC_%28Riyadh%29.svg.png",
-    "name1": "Al Shabab Riyadh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/lt/5/51/Al-Kholood_Club_emblema.png",
-    "name2": "Al Kholood",
-    "champ": "Arabie Saoudite de Football",
-    "heure": "15H25",
-    "date": "25/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/928px-Al_Hilal_SFC_Logo.svg.png",
-    "name1": "Al-Hilal Riyadh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/90/Logo_Al-Okhdood_FC.svg/1496px-Logo_Al-Okhdood_FC.svg.png",
-    "name2": "Al-Okhdood",
-    "champ": "Arabie Saoudite de Football",
-    "heure": "18H00",
-    "date": "25/09/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandvikens_IF_logo.svg/1200px-Sandvikens_IF_logo.svg.png",
-    "name1": "Sandvikens",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nQQCbsxDyTpWaNLIMFBtDZTzSfaZNMXvPQ&s",
-    "name2": "Helsingborgs",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "25/09/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/New_York_Red_Bulls_logo.svg/1200px-New_York_Red_Bulls_logo.svg.png",
+    "name1": "New York red Bulls",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/langfr-250px-Logo_New_York_City_FC_2025.svg.png",
+    "name2": "New York City",
+    "champ": "États-Unis. MLS",
+    "heure": "23H30",
+    "date": "27/09/2025",
+    "pro": "Total: (+2)"
   }
 ]
