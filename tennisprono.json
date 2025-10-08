@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTBL2_AEC1Wz4tWbgxomHBNCKH7aKJAIsOXw&s",
-    "name1": "Atletico Calatayud",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Atl%C3%A8tic_Sant_Just_FC.png/250px-Atl%C3%A8tic_Sant_Just_FC.png",
-    "name2": "Atletic San Just",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "15H30",
-    "date": "04/10/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/0a/Avtomobilist_Yekaterinburg_Logo.png",
+    "name1": "Avtomobilist",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/HC_SKA_Logo_2023.svg/1200px-HC_SKA_Logo_2023.svg.png",
+    "name2": "SKA Saint-Pétersbourg",
+    "champ": "Hockey sur glace. Ligue Continentale",
+    "heure": "14H00",
+    "date": "08/10/2025",
+    "pro": "Total: (+4)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHcCjxpz3drslkU-1r_FiFSYpPDKAqPIE3Q&s",
-    "name1": "Lourdes",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqLqHlYS_YnEhi3a7VIVQ3EOoioBI4bfToyQ&s",
-    "name2": "CD Sant Jordi",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "15H30",
-    "date": "04/10/2025",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d0/SD_Negreira.png",
-    "name1": "SD Negreira",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/61/SD_Textil_Escudo.png",
-    "name2": "SD Textil Escudo",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "15H30",
-    "date": "04/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5R1oqHLBNHMLfTSUmxqUhgihHjOmcoQSW5A&s",
-    "name1": "CD Yuncos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/CF_Campanario.png/250px-CF_Campanario.png",
-    "name2": "CF Campanario",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "16H00",
-    "date": "04/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/OHK_Dinamo.png/250px-OHK_Dinamo.png",
+    "name1": "Dynamo Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/40/Salavat_Ioula%C3%AFev_Oufa.png",
+    "name2": "Salavat Ioulaïev",
+    "champ": "Hockey sur glace. Ligue Continentale",
+    "heure": "16H30",
+    "date": "08/10/2025",
     "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/53/Detroit_Tigers_primary_logo_2016.png",
+    "name1": "Tigres de Détroit",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f3/SeattleMariners_100.png",
+    "name2": "Mariners de Seattle",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "19H08",
+    "date": "08/10/2025",
+    "pro": "Total: (+7)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/1191px-Chicago_Cubs_logo.svg.png",
+    "name1": "Chicago Cubs",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/ab/Brewers_de_Milwaukee_2020.png",
+    "name2": "Brewers de Milwaukee",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "21H08",
+    "date": "08/10/2025",
+    "pro": "Total: (+5)"
   }
 ]
