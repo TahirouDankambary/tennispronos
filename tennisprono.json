@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhCIoPHV8uss_WD02NPmAzZDjavLmh5vb7Q&s",
-    "name1": "Jets de Winnipeg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/79/Logo_des_Kings_de_Los_Angeles_2019.png",
-    "name2": "Los Angeles Kings",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "17H30",
-    "date": "11/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/HK_Barys_2022.png/1200px-HK_Barys_2022.png",
+    "name1": "Barys",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/Sibir_Novossibirsk_2014.png",
+    "name2": "Sibir Novosibirsk",
+    "champ": "Hockey sur glace. Ligue Continentale",
+    "heure": "14H00",
+    "date": "14/10/2025",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Calgary_Flames_logo.svg/1200px-Calgary_Flames_logo.svg.png",
-    "name1": "Calgary Flames",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/St._Louis_Blues_logo.svg/1200px-St._Louis_Blues_logo.svg.png",
-    "name2": "St.Louis Blues",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "20H00",
-    "date": "11/10/2025",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e0/Bruins_de_Boston_2023.png",
-    "name1": "Bruins de Boston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Buffalo_Sabres_Logo.svg/1200px-Buffalo_Sabres_Logo.svg.png",
-    "name2": "Buffalo Sabres",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "23H00",
-    "date": "11/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/40/Salavat_Ioula%C3%AFev_Oufa.png",
+    "name1": "Salavat Ioulaïev",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1019px-Ak_Bars_Kazan_logo.svg.png",
+    "name2": "Ak Bars Kazan",
+    "champ": "Hockey sur glace. Ligue Continentale",
+    "heure": "14H00",
+    "date": "14/10/2025",
     "pro": "Total: (+3.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_des_Red_Wings_de_D%C3%A9troit_1948.svg/1200px-Logo_des_Red_Wings_de_D%C3%A9troit_1948.svg.png",
-    "name1": "Red Wings de Détroit",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3CpqTrVtapm7RQWLmaRlZe3TOLgDAfTOuow&s",
-    "name2": "Maple Leafs de Toronto",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "23H00",
-    "date": "11/10/2025",
-    "pro": "Total: (+4.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/78/Traktor_Tcheliabinsk_2020.png",
+    "name1": "Traktor Tcheliabinsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Avangard_Omsk_logo.svg/1200px-Avangard_Omsk_logo.svg.png",
+    "name2": "Avangard Omsk",
+    "champ": "Hockey sur glace. Ligue Continentale",
+    "heure": "14H00",
+    "date": "14/10/2025",
+    "pro": "Total: (+3.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
+    "name1": "Dinamo Minsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/99/Torpedo_Nijni_Novgorod_2025.png",
+    "name2": "Torpedo Nijni Novgorod",
+    "champ": "Hockey sur glace. Ligue Continentale",
+    "heure": "16H10",
+    "date": "14/10/2025",
+    "pro": "1X"
   }
 ]
