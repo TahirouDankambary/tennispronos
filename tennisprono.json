@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/HK_Barys_2022.png/1200px-HK_Barys_2022.png",
-    "name1": "Barys",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/Sibir_Novossibirsk_2014.png",
-    "name2": "Sibir Novosibirsk",
-    "champ": "Hockey sur glace. Ligue Continentale",
-    "heure": "14H00",
-    "date": "14/10/2025",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu6qrdCzNFql3hmSz7lEdXITAEq4xdgiLD5g&s",
+    "name1": "Zénith",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Dynamo_Moscow_logo.svg/786px-Dynamo_Moscow_logo.svg.png",
+    "name2": "Dynamo Moscou",
+    "champ": "Coupe de Russie",
+    "heure": "17H30",
+    "date": "05/11/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/40/Salavat_Ioula%C3%AFev_Oufa.png",
-    "name1": "Salavat Ioulaïev",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1019px-Ak_Bars_Kazan_logo.svg.png",
-    "name2": "Ak Bars Kazan",
-    "champ": "Hockey sur glace. Ligue Continentale",
-    "heure": "14H00",
-    "date": "14/10/2025",
-    "pro": "Total: (+3.5)"
+    "photo1": "https://pbs.twimg.com/profile_images/1099524907052998657/R2amzDOI_400x400.jpg",
+    "name1": "Al-Zawra'a",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/2/2a/FC_Istiklol_Dushanbe.png",
+    "name2": "Istiqlol Douchanbé",
+    "champ": "Ligue des Champions AFC 2",
+    "heure": "16H00",
+    "date": "05/11/2025",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/78/Traktor_Tcheliabinsk_2020.png",
-    "name1": "Traktor Tcheliabinsk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Avangard_Omsk_logo.svg/1200px-Avangard_Omsk_logo.svg.png",
-    "name2": "Avangard Omsk",
-    "champ": "Hockey sur glace. Ligue Continentale",
-    "heure": "14H00",
-    "date": "14/10/2025",
-    "pro": "Total: (+3.5)"
+    "photo1": "https://tmssl.akamaized.net//images/wappen/head/86257.png?lm=1734458937",
+    "name1": "Al Khalidiya",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6e/FC_Andijon_logo.png",
+    "name2": "PFK Andijan",
+    "champ": "Ligue des Champions AFC 2",
+    "heure": "16H00",
+    "date": "05/11/2025",
+    "pro": "12"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
-    "name1": "Dinamo Minsk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/99/Torpedo_Nijni_Novgorod_2025.png",
-    "name2": "Torpedo Nijni Novgorod",
-    "champ": "Hockey sur glace. Ligue Continentale",
-    "heure": "16H10",
-    "date": "14/10/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/43/Al-Wehdat_SC_%28logo%29.png",
+    "name1": "Al-Weehdat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/d/da/Esteghlal_FC.svg.png",
+    "name2": "Esteghlal",
+    "champ": "Ligue des Champions AFC 2",
+    "heure": "18H15",
+    "date": "05/11/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
