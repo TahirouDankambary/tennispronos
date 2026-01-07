@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/1200px-Logo_of_the_Detroit_Pistons.svg.png",
-    "name1": "Piston de Détroit",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
-    "name2": "Knicks de New York",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Philadelphia_75ers_2015.svg/langfr-250px-Philadelphia_75ers_2015.svg.png",
+    "name1": "76ers de Philadelphie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Wizards2015.png",
+    "name2": "Wizard de Washington",
     "champ": "Basket-ball. NBA",
     "heure": "00H00",
-    "date": "06/01/2026",
-    "pro": "Total: (+230.5)"
+    "date": "08/01/2026",
+    "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/905px-Raptors_de_Toronto.png",
-    "name1": "Raptors de Toronto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
-    "name2": "Atlanta Hawks",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/1200px-Logo_of_the_Detroit_Pistons.svg.png",
+    "name1": "Piston de Détroit",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1188px-Bulls_de_Chicago_logo.svg.png",
+    "name2": "Bulls de Chicago",
     "champ": "Basket-ball. NBA",
-    "heure": "00H30",
-    "date": "06/01/2026",
-    "pro": "Total: (+232.5)"
+    "heure": "00H00",
+    "date": "08/01/2026",
+    "pro": "Total: (+230.5)"
   },
     {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/langfr-250px-Celtics_de_Boston_logo.svg.png",
     "name1": "Celtics de Boston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1188px-Bulls_de_Chicago_logo.svg.png",
-    "name2": "Bulls de Chicago",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H30",
-    "date": "06/01/2026",
-    "pro": "Equipe gagne: V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/de/Houston_Rockets_logo_2003.png",
-    "name1": "Rockets de Houston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Phoenix_Suns_2013.png/250px-Phoenix_Suns_2013.png",
-    "name2": "Suns de Phoenix",
-    "champ": "Basket-ball. NBA",
-    "heure": "01H00",
-    "date": "06/01/2026",
-    "pro": "Total: (+208.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Thunder_d%27Oklahoma_City.svg/1200px-Thunder_d%27Oklahoma_City.svg.png",
-    "name1": "Oklahoma City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/langfr-250px-Hornets_de_Charlotte_logo.svg.png",
-    "name2": "Charlotte Hornets",
-    "champ": "Basket-ball. NBA",
-    "heure": "01H00",
-    "date": "06/01/2026",
-    "pro": "Total: (+217.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Philadelphia_75ers_2015.svg/langfr-250px-Philadelphia_75ers_2015.svg.png",
-    "name1": "76ers de Philadelphie",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
     "name2": "Denver Nuggets",
     "champ": "Basket-ball. NBA",
-    "heure": "01H30",
-    "date": "06/01/2026",
+    "heure": "00H00",
+    "date": "08/01/2026",
+    "pro": "Equipe gagne: V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/langfr-250px-Hornets_de_Charlotte_logo.svg.png",
+    "name1": "Charlotte Hornets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/905px-Raptors_de_Toronto.png",
+    "name2": "Raptors de Toronto",
+    "champ": "Basket-ball. NBA",
+    "heure": "00H00",
+    "date": "08/01/2026",
+    "pro": "Total: (+219.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1548px-Brooklyn_Nets_newlogo.svg.png",
+    "name1": "Brooklyn Nets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Orlando_Magic_2025.svg/langfr-250px-Logo_Orlando_Magic_2025.svg.png",
+    "name2": "Magic d'Orlando",
+    "champ": "Basket-ball. NBA",
+    "heure": "00H30",
+    "date": "08/01/2026",
+    "pro": "Total: (+214.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
+    "name1": "Atlanta Hawks",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/e2/New_Orleans_Pelicans_2023.png",
+    "name2": "Pelicans de La Nouvelle-Orléans",
+    "champ": "Basket-ball. NBA",
+    "heure": "00H30",
+    "date": "08/01/2026",
     "pro": "Equipe gagne: V1"
   }
 ]
