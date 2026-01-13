@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
-    "name1": "Cleveland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png",
-    "name2": "Jazz de l'Utah",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Miami_Heat.svg/langfr-250px-Miami_Heat.svg.png",
+    "name1": "Heat de Miami",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Phoenix_Suns_2013.png/250px-Phoenix_Suns_2013.png",
+    "name2": "Suns de Phoenix",
     "champ": "Basket-ball. NBA",
-    "heure": "00H00",
-    "date": "13/01/2026",
-    "pro": "Total: (+240.5)"
+    "heure": "00H30",
+    "date": "14/01/2026",
+    "pro": "Total: (+226.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/250px-Raptors_de_Toronto.png",
-    "name1": "Raptors de Toronto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Philadelphia_75ers_2015.svg/langfr-250px-Philadelphia_75ers_2015.svg.png",
-    "name2": "76ers de Philadelphie",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXCLjPuacAZjOBZAxhjVyhUoX5hLFzwPhuA&s",
+    "name1": "Oklahoma City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/San_Antonio_Spurs.svg/1200px-San_Antonio_Spurs.svg.png",
+    "name2": "San Antonio Spurs",
     "champ": "Basket-ball. NBA",
-    "heure": "00H30",
-    "date": "13/01/2026",
-    "pro": "Total: (+216.5)"
+    "heure": "01H00",
+    "date": "14/01/2026",
+    "pro": "Equipe gagne: V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Pacers_de_l%27Indiana_2017.svg/langfr-250px-Pacers_de_l%27Indiana_2017.svg.png",
-    "name1": "Pacers de l'Indiana",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWQS6_O0KDIyoI5fRLggVdVTP2K_XrR99gg&s",
-    "name2": "Celtics de Boston",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/21/New_Orleans_Pelicans.png",
+    "name1": "Nouvelle-Orléans",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Nuggets_de_Denver_2018.png/250px-Nuggets_de_Denver_2018.png",
+    "name2": "Denver Nuggets",
     "champ": "Basket-ball. NBA",
-    "heure": "00H30",
-    "date": "13/01/2026",
+    "heure": "01H00",
+    "date": "14/01/2026",
+    "pro": "Total: (+232.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1280px-Milwaukee_Bucks_logo.svg.png",
+    "name1": "Milwaukee",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d9/Timberwolves_du_Minnesota_logo_2017.png",
+    "name2": "Timberwolves",
+    "champ": "Basket-ball. NBA",
+    "heure": "01H00",
+    "date": "14/01/2026",
     "pro": "Total: (+220.5)"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJ_IfpkHw3bfdalZMaYyCuWRPEqeFcw3Uzw&s",
-    "name1": "Mavericks de Dallas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1548px-Brooklyn_Nets_newlogo.svg.png",
-    "name2": "Brooklyn Nets",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/960px-Houston_Rockets.svg.png",
+    "name1": "Rockets de Houston",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1280px-Bulls_de_Chicago_logo.svg.png",
+    "name2": "Bulles de Chicago",
     "champ": "Basket-ball. NBA",
-    "heure": "01H30",
-    "date": "13/01/2026",
-    "pro": "Total: (+206.5)"
+    "heure": "01H00",
+    "date": "14/01/2026",
+    "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/langfr-250px-Kings_de_Sacramento_logo.svg.png",
-    "name1": "Kings de Sacramento",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1280px-Los_Angeles_Lakers_logo.svg.png",
-    "name2": "Los Angeles Lakers",
-    "champ": "Basket-ball. NBA",
-    "heure": "03H00",
-    "date": "13/01/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a5/Clippers_de_Los_Angeles_2018.png",
-    "name1": "Clippers de Los Angeles",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/langfr-250px-Hornets_de_Charlotte_logo.svg.png",
-    "name2": "Charlotte Hornets",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/langfr-250px-Los_Angeles_Lakers_logo.svg.png",
+    "name1": "Lakers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/9/9a/Atlanta_Hawks.png",
+    "name2": "Atlanta Hawks",
     "champ": "Basket-ball. NBA",
     "heure": "03H30",
-    "date": "13/01/2026",
-    "pro": "Total: (+213.5)"
+    "date": "14/01/2026",
+    "pro": "Total: (+221.5)"
   }
 ]
