@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HtEmkGv_W0gO4VEScljm_fRASGS6ic4Uag&s",
-    "name1": "Fenerbahce",
-    "photo2": "https://icon2.cleanpng.com/20181117/yq/kisspng-valencia-basket-divina-seguros-joventut-basketball-dosyavalencia-basket-club-png-vikipedi-5bf0b82f91ca47.8902842615425024475972.jpg",
-    "name2": "Valencia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/1280px-Mavericks_de_Dallas_logo.svg.png",
+    "name1": "Mavericks de Dallas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Jazz_de_l%27Utah_2025.svg/langfr-250px-Jazz_de_l%27Utah_2025.svg.png",
+    "name2": "Jazz de l'Utah",
     "champ": "Basket-ball. Euroligue",
-    "heure": "17H45",
-    "date": "16/01/2026",
-    "pro": "Total: (+169.5)"
+    "heure": "22H00",
+    "date": "17/01/2026",
+    "pro": "Total: (+237.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg/960px-Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg.png",
-    "name1": "ASVEL Lyon-Villeurbanne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
-    "name2": "Hapoël Tel-Aviv",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
+    "name1": "Knicks de New York",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Phoenix_Suns_2013.png/250px-Phoenix_Suns_2013.png",
+    "name2": "Suns de Phoenix",
     "champ": "Basket-ball. Euroligue",
-    "heure": "19H00",
-    "date": "16/01/2026",
-    "pro": "Equipe gagne: V2"
+    "heure": "00H30",
+    "date": "18/01/2026",
+    "pro": "Total: (+213.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/langfr-250px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/langfr-250px-Logo_of_the_Detroit_Pistons.svg.png",
+    "name1": "Piston de Détroit",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Pacers_de_l%27Indiana_2017.svg/langfr-250px-Pacers_de_l%27Indiana_2017.svg.png",
+    "name2": "Pacers de l'Indiana",
     "champ": "Basket-ball. Euroligue",
-    "heure": "19H45",
-    "date": "16/01/2026",
-    "pro": "Total: (+164.5)"
+    "heure": "00H30",
+    "date": "18/01/2026",
+    "pro": "Equipe gagne: V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Philadelphia_75ers_2015.svg/langfr-250px-Philadelphia_75ers_2015.svg.png",
-    "name1": "76ers de Philadelphie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
-    "name2": "Cleveland",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H00",
-    "date": "17/01/2026",
-    "pro": "Total: (+231.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Pacers_de_l%27Indiana_2017.svg/langfr-250px-Pacers_de_l%27Indiana_2017.svg.png",
-    "name1": "Pacers de l'Indiana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/New_Orleans_Pelicans.png",
-    "name2": "Nouvelle-Orléans",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H00",
-    "date": "17/01/2026",
-    "pro": "Total: (+234.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/250px-Raptors_de_Toronto.png",
-    "name1": "Raptors de Toronto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a5/Clippers_de_Los_Angeles_2018.png",
-    "name2": "Clippers",
+    "photo1": "https://upload.wikimedia.org/wikipedia/it/thumb/e/ee/Atlanta_Hawks_logo2.svg/250px-Atlanta_Hawks_logo2.svg.png",
+    "name1": "Atlanta Hawks",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/langfr-250px-Celtics_de_Boston_logo.svg.pngv",
+    "name2": "Celtics de Boston",
     "champ": "Basket-ball. NBA",
     "heure": "00H30",
-    "date": "17/01/2026",
-    "pro": "Total: (+205.5)"
+    "date": "18/01/2026",
+    "pro": "Total: (+225.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/San_Antonio_Spurs.svg/2560px-San_Antonio_Spurs.svg.png",
+    "name1": "San Antonio Spurs",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d9/Timberwolves_du_Minnesota_logo_2017.png",
+    "name2": "Timberwolves du Minnesota",
+    "champ": "Basket-ball. NBA",
+    "heure": "01H00",
+    "date": "18/01/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Miami_Heat.svg/langfr-250px-Miami_Heat.svg.png",
+    "name1": "Heat de Miami",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
+    "name2": "Oklahoma City",
+    "champ": "Basket-ball. NBA",
+    "heure": "01H00",
+    "date": "18/01/2026",
+    "pro": "Equipe gagne: V2"
   }
 ]
