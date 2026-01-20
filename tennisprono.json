@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Grizzlies_de_Memphis_2018.png/250px-Grizzlies_de_Memphis_2018.png",
-    "name1": "Grizzlies de Memphis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Orlando_Magic_2025.svg/langfr-250px-Logo_Orlando_Magic_2025.svg.png",
-    "name2": "Magic d'Orlando",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Philadelphia_75ers_2015.svg/langfr-250px-Philadelphia_75ers_2015.svg.png",
+    "name1": "76ers de Philadelphie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Phoenix_Suns_2013.png/250px-Phoenix_Suns_2013.png",
+    "name2": "Suns de Phoenix",
     "champ": "Basket-ball. NBA",
-    "heure": "17H00",
-    "date": "18/01/2026",
+    "heure": "00H00",
+    "date": "21/01/2026",
     "pro": "Total: (+220.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/de/Houston_Rockets_logo_2003.png",
-    "name1": "Rockets de Houston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/New_Orleans_Pelicans.png",
-    "name2": "Nouvelle-Orléans",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H00",
-    "date": "19/01/2026",
-    "pro": "Total: (+219.5)"
-  },
-    {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1280px-Bulls_de_Chicago_logo.svg.png",
     "name1": "Bulls de Chicago",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Nets_de_Brooklyn_2024.png/250px-Nets_de_Brooklyn_2024.png",
-    "name2": "Brooklyn Nets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Clippers_de_Los_Angeles_2024.png/250px-Clippers_de_Los_Angeles_2024.png",
+    "name2": "Clippers de Los Angeles",
     "champ": "Basket-ball. NBA",
-    "heure": "00H00",
-    "date": "19/01/2026",
-    "pro": "Equipe gagne: V1"
+    "heure": "01H00",
+    "date": "21/01/2026",
+    "pro": "Total: (+211.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Jazz_de_l%27Utah_2025.svg/langfr-250px-Jazz_de_l%27Utah_2025.svg.png",
+    "name1": "Jazz de l'Utah",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d9/Timberwolves_du_Minnesota_logo_2017.png",
+    "name2": "Timberwolves",
+    "champ": "Basket-ball. NBA",
+    "heure": "02H00",
+    "date": "21/01/2026",
+    "pro": "Total: (+239.5)"
   },
     {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
     "name1": "Denver Nuggets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/langfr-250px-Hornets_de_Charlotte_logo.svg.png",
-    "name2": "Charlotte Hornets",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNuNVaE8j03r4LhUipto5CbNAAiqaSEtG0bw&s",
+    "name2": "Lakers",
+    "champ": "Basket-ball. NBA",
+    "heure": "03H00",
+    "date": "21/01/2026",
+    "pro": "Total: (+218.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/de/Houston_Rockets_logo_2003.png",
+    "name1": "Rockets de Houston",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/San_Antonio_Spurs_2018.png/250px-San_Antonio_Spurs_2018.png",
+    "name2": "San Antonio Spurs",
     "champ": "Basket-ball. NBA",
     "heure": "01H00",
-    "date": "19/01/2026",
-    "pro": "Total: (+220.5)"
+    "date": "21/01/2026",
+    "pro": "Total: (+211.5)"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/langfr-250px-Kings_de_Sacramento_logo.svg.png",
     "name1": "Kings de Sacramento",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/68/Trail_Blazers_de_Portland_2017.png",
-    "name2": "Portland Trail Blazers",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2a4L6r_Xk6grWLPT6mZwsyscaUA7_FNE0g&s",
+    "name2": "Heat de Miami",
     "champ": "Basket-ball. NBA",
-    "heure": "02H00",
-    "date": "19/01/2026",
-    "pro": "Total: (+224.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNuNVaE8j03r4LhUipto5CbNAAiqaSEtG0bw&s",
-    "name1": "Lakers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/250px-Raptors_de_Toronto.png",
-    "name2": "Raptors de Toronto",
-    "champ": "Basket-ball. NBA",
-    "heure": "02H30",
-    "date": "19/01/2026",
-    "pro": "Total: (+216.5)"
+    "heure": "03H00",
+    "date": "21/01/2026",
+    "pro": "Total: (+232.5)"
   }
 ]
