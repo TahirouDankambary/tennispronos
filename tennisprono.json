@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dubai_BC_Logo.png",
-    "name1": "Dubaï",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnElLawqy8-VJgVH6VJYGejxcovGkcaudV9g&s",
-    "name2": "Real Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/tr/8/80/Anadolu_Efes_50._Y%C4%B1l_logo.png",
+    "name1": "Anadolu Efes",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQxVoWwEihu1DtztmQ0JhBbi5p1Z9DZgygg&s",
+    "name2": "Zalgiris",
     "champ": "Basket-ball. Euroligue",
-    "heure": "16H00",
-    "date": "05/02/2026",
-    "pro": "Total: (+175.5)"
+    "heure": "17H30",
+    "date": "06/02/2026",
+    "pro": "Total: (+153.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
-    "name1": "Hapoël Tel-Aviv",
-    "photo2": "https://icon2.cleanpng.com/20181117/yq/kisspng-valencia-basket-divina-seguros-joventut-basketball-dosyavalencia-basket-club-png-vikipedi-5bf0b82f91ca47.8902842615425024475972.jpg",
-    "name2": "Valencia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "name1": "ASVEL Lyon-Villeurbanne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Olimpia_Milano_-_2016.svg/1280px-Logo_Olimpia_Milano_-_2016.svg.png",
+    "name2": "Olimpia Milano",
     "champ": "Basket-ball. Euroligue",
     "heure": "19H00",
-    "date": "05/02/2026",
-    "pro": "Total: (+170.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern Munich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/langfr-250px-Logo_AS_Monaco_Basket.svg.png",
-    "name2": "Monaco",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "19H30",
-    "date": "05/02/2026",
-    "pro": "Total: (+154.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/49/HK_Partizan_Belgrade.png",
-    "name1": "KK Partizan",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBCbyixQBn6PX-fBeBDvKekrTOI7yXl4T8g&s",
-    "name2": "Panathinaikos",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "19H30",
-    "date": "05/02/2026",
+    "date": "06/02/2026",
     "pro": "Equipe gagne: V2"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1280px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name1": "Paris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/langfr-250px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png",
-    "name2": "Fenerbahce",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/langfr-250px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
+    "name1": "Crvena Zvezda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1280px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+    "name2": "Maccabi Tel Aviv",
     "champ": "Basket-ball. Euroligue",
-    "heure": "19H45",
-    "date": "05/02/2026",
-    "pro": "Total: (+169.5)"
+    "heure": "19H00",
+    "date": "06/02/2026",
+    "pro": "Total: (+175.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
+    "name1": "Olympiakos Le Pirée",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1280px-Virtus_Bologna_logo.svg.png",
+    "name2": "Virtus Granarolo Bologna",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H15",
+    "date": "06/02/2026",
+    "pro": "Total: (+159.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Orlando_Magic_2025.svg/langfr-250px-Logo_Orlando_Magic_2025.svg.png",
-    "name1": "Magic d'Orlando",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Nets_de_Brooklyn_2024.png/250px-Nets_de_Brooklyn_2024.png",
-    "name2": "Brooklyn Nets",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name1": "Saski Baskonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H30",
     "date": "06/02/2026",
+    "pro": "Total: (+162.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1280px-Boston_Celtics.svg.png",
+    "name1": "Celtics de Boston",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Miami_Heat.svg/langfr-250px-Miami_Heat.svg.png",
+    "name2": "Heat de Miami",
+    "champ": "Basket-ball. NBA",
+    "heure": "00H30",
+    "date": "07/02/2026",
     "pro": "Equipe gagne: V1"
   }
 ]
