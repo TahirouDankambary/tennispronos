@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Nets_de_Brooklyn_2024.png/250px-Nets_de_Brooklyn_2024.png",
-    "name1": "Brooklyn Nets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Wizards2015.png",
-    "name2": "Wizards de Washington",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/langfr-250px-Celtics_de_Boston_logo.svg.png",
+    "name1": "Celtics de Boston",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
+    "name2": "Knicks de New York",
     "champ": "Basket-ball. NBA",
-    "heure": "20H00",
-    "date": "07/02/2026",
-    "pro": "Total: (+204.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Thunder_d%27Oklahoma_City.svg/1280px-Thunder_d%27Oklahoma_City.svg.png",
-    "name1": "Oklahoma City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/de/Houston_Rockets_logo_2003.png",
-    "name2": "Rockets de Houston",
-    "champ": "Basket-ball. NBA",
-    "heure": "20H30",
-    "date": "07/02/2026",
-    "pro": "Total: (+206.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK61uEenb6PdtNkLR1YDzulLQXXc7q0TeB8g&s",
-    "name1": "San Antonio Spurs",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/langfr-250px-Mavericks_de_Dallas_logo.svg.png",
-    "name2": "Mavericks de Dallas",
-    "champ": "Basket-ball. NBA",
-    "heure": "23H00",
-    "date": "07/02/2026",
-    "pro": "Equipe gagne: V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Orlando_Magic_2025.svg/langfr-250px-Logo_Orlando_Magic_2025.svg.png",
-    "name1": "Magic d'Orlando",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Jazz_de_l%27Utah_2025.svg/1280px-Jazz_de_l%27Utah_2025.svg.png",
-    "name2": "Jazz de l'Utah",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H00",
+    "heure": "17H30",
     "date": "08/02/2026",
-    "pro": "Equipe gagne: V1"
+    "pro": "Total: (+203.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPU40nCswYqI3HDQRDIfz-LnTJrDfR9_c-Ug&s",
-    "name1": "Atlanta Hawks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1280px-Hornets_de_Charlotte_logo.svg.png",
-    "name2": "Charlotte Hornets",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Wizards2015.png",
+    "name1": "Wizards de Washington",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Miami_Heat.svg/langfr-250px-Miami_Heat.svg.png",
+    "name2": "Heat de Miami",
     "champ": "Basket-ball. NBA",
-    "heure": "00H30",
-    "date": "08/02/2026",
-    "pro": "Total: (+226.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1280px-Bulls_de_Chicago_logo.svg.png",
-    "name1": "Bulls de Chicago",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
-    "name2": "Denver Nuggets",
-    "champ": "Basket-ball. NBA",
-    "heure": "01H00",
+    "heure": "19H00",
     "date": "08/02/2026",
     "pro": "Equipe gagne: V2"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRavORoxyH0-XrBxo-Uqtj_abtTp2It9dJ4xQ&s",
+    "name1": "Timberwolves de Minesota",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Clippers_de_Los_Angeles_2024.png/250px-Clippers_de_Los_Angeles_2024.png",
+    "name2": "Clippers de Los Angeles",
+    "champ": "Basket-ball. NBA",
+    "heure": "20H00",
+    "date": "08/02/2026",
+    "pro": "Total: (+214.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/250px-Raptors_de_Toronto.png",
+    "name1": "Raptors de Toronto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/1280px-Indiana_Pacers.svg.png",
+    "name2": "Pacers de l'Utah",
+    "champ": "Basket-ball. NBA",
+    "heure": "20H00",
+    "date": "08/02/2026",
+    "pro": "Total: (+221.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/43/MLP_Academics_Heidelberg.png",
+    "name1": "MLP Academics Heidelberg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern Munich",
+    "champ": "Basket-ball. Championnat d'Allemagne",
+    "heure": "17H00",
+    "date": "08/02/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b2/Rostock_Seawolves.png",
+    "name1": "Rostock Seawolves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Soliver_wuerzburg.png",
+    "name2": "Wurzburg",
+    "champ": "Basket-ball. Championnat d'Allemagne",
+    "heure": "17H00",
+    "date": "08/02/2026",
+    "pro": "Total: (+157.5)"
   }
 ]
