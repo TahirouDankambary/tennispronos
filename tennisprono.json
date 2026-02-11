@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/%C5%9Al%C4%85sk_Wroc%C5%82aw_%28logo%29.svg/langfr-250px-%C5%9Al%C4%85sk_Wroc%C5%82aw_%28logo%29.svg.png",
-    "name1": "Slask Wroclaw",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d2/Cedevita_Olimpija_Ljubljana_logo.png",
-    "name2": "Cedevita Olimpija",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Cfmuniversitateacluj.png",
+    "name1": "UBT Cluj Napoca",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f9/Aris_BC_%28logo%29.png",
+    "name2": "Aris Salonique",
     "champ": "Basket-ball. EuroCoupe. Prolongation incluse",
-    "heure": "18H00",
-    "date": "10/02/2026",
-    "pro": "Total: (+170.5)"
+    "heure": "16H00",
+    "date": "11/02/2026",
+    "pro": "Total: (+174.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHqRtKdY0mdHXraiuCRCUrw-KT2voPsgZ4g&s",
-    "name1": "Panionios",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Be%C5%9Fikta%C5%9F_JK_2024.svg/langfr-250px-Logo_Be%C5%9Fikta%C5%9F_JK_2024.svg.png",
-    "name2": "Besiktas",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4KAiYG77fwwjzdmCi4wA1rz6uB_XuwTHVg&s",
+    "name1": "Turk Telekom",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpecsZS8ExIpXxlgWWQRrlneker5IjDS-zw&s",
+    "name2": "Niners Chemmitz",
     "champ": "Basket-ball. EuroCoupe. Prolongation incluse",
-    "heure": "17H30",
-    "date": "10/02/2026",
-    "pro": "Equipe gagne: V2"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/langfr-250px-Los_Angeles_Lakers_logo.svg.png",
-    "name1": "Los Angeles Lakers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/San_Antonio_Spurs.svg/3840px-San_Antonio_Spurs.svg.png",
-    "name2": "San Antonio Spurus",
-    "champ": "Basket-ball. NBA. Prolongation incluse",
-    "heure": "03H30",
-    "date": "11/02/2026",
-    "pro": "Totat: (+225.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Phoenix_Suns_2013.png/250px-Phoenix_Suns_2013.png",
-    "name1": "Suns de Phoenix",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/langfr-250px-Mavericks_de_Dallas_logo.svg.png",
-    "name2": "Mavericks de Dallas",
-    "champ": "Basket-ball. NBA. Prolongation incluse",
-    "heure": "02H00",
-    "date": "11/02/2026",
-    "pro": "Total: (+211.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/Houston_Rockets_logo_2019.png/250px-Houston_Rockets_logo_2019.png",
-    "name1": "Rockets de Houston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Clippers_de_Los_Angeles_2024.png/250px-Clippers_de_Los_Angeles_2024.png",
-    "name2": "Clippers de Los Angeles",
-    "champ": "Basket-ball. NBA. Prolongation incluse",
-    "heure": "01H00",
-    "date": "11/02/2026",
-    "pro": "Total: (+195.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
-    "name1": "Knicks de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Pacers_de_l%27Indiana_2017.svg/langfr-250px-Pacers_de_l%27Indiana_2017.svg.png",
-    "name2": "Pacers de l'Indiana",
-    "champ": "Basket-ball. NBA. Prolongation incluse",
-    "heure": "00H30",
+    "heure": "16H00",
     "date": "11/02/2026",
     "pro": "Equipe gagne: V1"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5A7nKDc6PA38Ix6gXJ1o5NphYQKrNMIB2g&s",
+    "name1": "Buducnost Podgorica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1280px-Logo_JL_Bourg_Basket_-_2017.svg.png",
+    "name2": "JL Bourg",
+    "champ": "Basket-ball. NBA. Prolongation incluse",
+    "heure": "18H00",
+    "date": "11/02/2026",
+    "pro": "Totat: (+165.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/22/BC_Nept%C5%ABnas_logo.png",
+    "name1": "Neptunas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bah%C3%A7e%C5%9Fehir_Koleji_Spor_Kul%C3%BCb%C3%BC_logo.png",
+    "name2": "Bahcesehir Koleji",
+    "champ": "Basket-ball. NBA. Prolongation incluse",
+    "heure": "18H00",
+    "date": "11/02/2026",
+    "pro": "Equipe gagne:V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Hamburg_Towers_logo.png/250px-Hamburg_Towers_logo.png",
+    "name1": "Hamburg Towers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5f/ICL_Manresa_logo.png",
+    "name2": "Manrea",
+    "champ": "Basket-ball. NBA. Prolongation incluse",
+    "heure": "18H30",
+    "date": "11/02/2026",
+    "pro": "Total: (+181.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/it/8/84/Reyer_Venezia_-_logo_%28Italy%2C_2022%29.png",
+    "name1": "Reyer Maschile Venezia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/5d/FC_Hapoel_Jerusalem_2021.png",
+    "name2": "Hapoel Jerusalem",
+    "champ": "Basket-ball. NBA. Prolongation incluse",
+    "heure": "19H30",
+    "date": "11/02/2026",
+    "pro": "Temps réglementaire double chance: 2X"
   }
 ]
