@@ -14,27 +14,27 @@
     "name1": "Maccabi Tel Aviv",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCkiyOev5Rov82BNqOXBX56BFerIZIQ_sB8Q&s",
     "name2": "Bayern Munich",
-    "champ": "Basket-ball. EuroCoupe. Prolongation incluse",
+    "champ": "Basket-ball. EuroLeague. Prolongation incluse",
     "heure": "19H05",
     "date": "12/02/2026",
     "pro": "Total: (+170.5)"
   },
-    {
+  {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
     "name1": "Olympiakos Le Pirée",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/langfr-250px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
     "name2": "Crvena Zvezda",
-    "champ": "Basket-ball. NBA. Prolongation incluse",
+    "champ": "Basket-ball. EuroLeague. Prolongation incluse",
     "heure": "19H15",
     "date": "12/02/2026",
     "pro": "Equipe gagne: V1"
   },
-    {
+  {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
     "name1": "Barcelone",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1280px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name2": "Paris"
-    "champ": "Basket-ball. NBA. Prolongation incluse",
+    "name2": "Paris",
+    "champ": "Basket-ball. EuroLeague. Prolongation incluse",
     "heure": "19H30",
     "date": "12/02/2026",
     "pro": "Equipe gagne: V1"
@@ -44,7 +44,7 @@
     "name1": "Valencia",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg/960px-Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg.png",
     "name2": "ASVEL Lyon Villeurbanne",
-    "champ": "Basket-ball. NBA. Prolongation incluse",
+    "champ": "Basket-ball. EuroLeague. Prolongation incluse",
     "heure": "19H30",
     "date": "12/02/2026",
     "pro": "Equipe gagne: V1"
@@ -57,6 +57,6 @@
     "champ": "Basket-ball. NBA. Prolongation incluse",
     "heure": "00H30",
     "date": "12/02/2026",
-    "pro": "Total: (+200) "
+    "pro": "Total: (+200)"
   }
 ]
