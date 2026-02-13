@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/tr/8/80/Anadolu_Efes_50._Y%C4%B1l_logo.png",
-    "name1": "Anadolu Efes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1280px-Virtus_Bologna_logo.svg.png",
-    "name2": "Virtus Granarolo Bologna",
-    "champ": "Basket-ball. EuroCoupe. Prolongation incluse",
-    "heure": "17H30",
-    "date": "21/02/2026",
-    "pro": "Total: (+145.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/FK_%C5%BDalgiris_logo.svg/langfr-250px-FK_%C5%BDalgiris_logo.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Hapoel_Tel_Aviv_F.C.png/250px-Hapoel_Tel_Aviv_F.C.png",
+    "name2": "Hapoel Tel Aviv",
+    "champ": "Basket-ball. Euroligue. Prolongation incluse",
+    "heure": "18H00",
+    "date": "13/02/2026",
+    "pro": "Total: (+165.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDHzyBJIlWHy3RmbygSJptm9dTXK5C4412w&s",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCkiyOev5Rov82BNqOXBX56BFerIZIQ_sB8Q&s",
-    "name2": "Bayern Munich",
-    "champ": "Basket-ball. EuroLeague. Prolongation incluse",
-    "heure": "19H05",
-    "date": "12/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/960px-Logo_AS_Monaco_FC_2021.svg.png",
+    "name1": "Monaco",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name2": "Saski Baskonia",
+    "champ": "Basket-ball. EuroLigue. Prolongation incluse",
+    "heure": "18H30",
+    "date": "13/02/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Olimpia_Milano_-_2016.svg/1280px-Logo_Olimpia_Milano_-_2016.svg.png",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dubai_BC_Logo.png",
+    "name2": "Dubai",
+    "champ": "Basket-ball. EuroLigue. Prolongation incluse",
+    "heure": "19H30",
+    "date": "13/02/2026",
     "pro": "Total: (+170.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name1": "Olympiakos Le Pirée",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/langfr-250px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
-    "name2": "Crvena Zvezda",
-    "champ": "Basket-ball. EuroLeague. Prolongation incluse",
-    "heure": "19H15",
-    "date": "12/02/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1280px-Logo_Paris_Basketball_-_2024.svg.png",
-    "name2": "Paris",
-    "champ": "Basket-ball. EuroLeague. Prolongation incluse",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/49/HK_Partizan_Belgrade.png",
+    "name1": "KK Partizan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/be/Real_Madrid_Baloncesto.png",
+    "name2": "Real Madrid Baloncesto",
+    "champ": "Basket-ball. EuroLigue. Prolongation incluse",
     "heure": "19H30",
-    "date": "12/02/2026",
-    "pro": "Equipe gagne: V1"
+    "date": "13/02/2026",
+    "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/a/a3/Logo_Valencia_Basket_Club.png",
-    "name1": "Valencia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg/960px-Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg.png",
-    "name2": "ASVEL Lyon Villeurbanne",
-    "champ": "Basket-ball. EuroLeague. Prolongation incluse",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/500px-Logo_Cholet_Basket_2019.svg.png",
+    "name1": "Cholet",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_BCM_Gravelines_Dunkerque_GL_-_2013.svg/1920px-Logo_BCM_Gravelines_Dunkerque_GL_-_2013.svg.png",
+    "name2": "BCM Gravelines",
+    "champ": "Basket-ball.  Championat de France. Prolongation incluse",
     "heure": "19H30",
-    "date": "12/02/2026",
+    "date": "13/02/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
-    "name1": "Oklahoma City Thunder",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Milwaukee_Bucks_2015.svg/langfr-250px-Milwaukee_Bucks_2015.svg.png",
-    "name2": "Bucks de Milwaukee",
-    "champ": "Basket-ball. NBA. Prolongation incluse",
-    "heure": "00H30",
-    "date": "12/02/2026",
-    "pro": "Total: (+200)"
+    "photo1": "data:image/png;base64,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",
+    "name1": "Wurzburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/43/MLP_Academics_Heidelberg.png",
+    "name2": "MLP Academics Heidelberg",
+    "champ": "Basket-ball. Championat d'Allemagne. Prolongation incluse",
+    "heure": "19H00",
+    "date": "13/02/2026",
+    "pro": "Equipe gagne: V1"
   }
 ]
