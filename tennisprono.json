@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/FK_%C5%BDalgiris_logo.svg/langfr-250px-FK_%C5%BDalgiris_logo.svg.png",
-    "name1": "Zalgiris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Hapoel_Tel_Aviv_F.C.png/250px-Hapoel_Tel_Aviv_F.C.png",
-    "name2": "Hapoel Tel Aviv",
-    "champ": "Basket-ball. Euroligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/54/Maroussi_BC_Logo.png",
+    "name1": "Maroussi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/AS_Karditsa_%28logo%29.svg/3840px-AS_Karditsa_%28logo%29.svg.png",
+    "name2": "karditsa",
+    "champ": "Basket-ball. Championnat de Grèce.",
+    "heure": "16H15",
+    "date": "14/02/2026",
+    "pro": "Equioe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/960px-PAOK_FC_logo.svg.png",
+    "name1": "P.A.O.K.",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnROKCudkoSP7GZxHjbL6he0bmdCsd7N3rQ&s",
+    "name2": "AEK Athens",
+    "champ": "Basket-ball. Championnat de Grèce.",
+    "heure": "16H15",
+    "date": "14/02/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSocRyJBryXLYkEYUPd4_p4QrrUoHxPlcO7OQ&s",
+    "name1": "Zaragoza 2002",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Club_Joventut_de_Badalona_%28logo%29.svg/1280px-Club_Joventut_de_Badalona_%28logo%29.svg.png",
+    "name2": "FIATC Joventut Badalona",
+    "champ": "Basket-ball. Espagne. Liga ACB.",
+    "heure": "17H00",
+    "date": "14/02/2026",
+    "pro": "Total: (+168.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/5f/CB_Granada.jpg",
+    "name1": "CB Granada",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/81/CB_Gran_Canaria_%28logo%29.svg/250px-CB_Gran_Canaria_%28logo%29.svg.png",
+    "name2": "Gran Canaria",
+    "champ": "Basket-ball. Espagne. Liga ACB.",
     "heure": "18H00",
-    "date": "13/02/2026",
-    "pro": "Total: (+165.5)"
+    "date": "14/02/2026",
+    "pro": "Total: (162.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/960px-Logo_AS_Monaco_FC_2021.svg.png",
-    "name1": "Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
-    "name2": "Saski Baskonia",
-    "champ": "Basket-ball. EuroLigue",
-    "heure": "18H30",
-    "date": "13/02/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Olimpia_Milano_-_2016.svg/1280px-Logo_Olimpia_Milano_-_2016.svg.png",
-    "name1": "Olimpia Milano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dubai_BC_Logo.png",
-    "name2": "Dubai",
-    "champ": "Basket-ball. EuroLigue",
-    "heure": "19H30",
-    "date": "13/02/2026",
-    "pro": "Total: (+170.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/49/HK_Partizan_Belgrade.png",
-    "name1": "KK Partizan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/be/Real_Madrid_Baloncesto.png",
-    "name2": "Real Madrid Baloncesto",
-    "champ": "Basket-ball. EuroLigue",
-    "heure": "19H30",
-    "date": "13/02/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/500px-Logo_Cholet_Basket_2019.svg.png",
-    "name1": "Cholet",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_BCM_Gravelines_Dunkerque_GL_-_2013.svg/1920px-Logo_BCM_Gravelines_Dunkerque_GL_-_2013.svg.png",
-    "name2": "BCM Gravelines",
-    "champ": "Basket-ball.  Championat de France",
-    "heure": "19H30",
-    "date": "13/02/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Soliver_wuerzburg.png",
-    "name1": "Wurzburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/43/MLP_Academics_Heidelberg.png",
-    "name2": "MLP Academics Heidelberg",
-    "champ": "Basket-ball. Championat d'Allemagne",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPETo6uCot-hV53-oKfW-nNhtmXWBYAvwOow&s",
+    "name1": "La Laguna Tenerife",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/CB_Breogan.gif/250px-CB_Breogan.gif",
+    "name2": "Breogan",
+    "champ": "Basket-ball.  Espagne. Liga ACB.",
     "heure": "19H00",
-    "date": "13/02/2026",
+    "date": "14/02/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/UCAM_Murcia_CF_escudo.png/250px-UCAM_Murcia_CF_escudo.png",
+    "name1": "Universidad Catolica Murcia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Burgos_CF_escudo.png/225px-Burgos_CF_escudo.png",
+    "name2": "Burgos",
+    "champ": "Basket-ball. Espagne. Liga ACB",
+    "heure": "20H00",
+    "date": "14/02/2026",
     "pro": "Equipe gagne: V1"
   }
 ]
