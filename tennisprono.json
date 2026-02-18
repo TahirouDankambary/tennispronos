@@ -4,7 +4,7 @@
     "name1": "Samara",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6XF7hEjwH8Pqditn38_FpxUQnK4dTKnm1g&s",
     "name2": "Pari Nizhny Novgorod",
-    "champ": "Basket-ball. VTB United Ligue.",
+    "champ": "Basket-ball. VTB United Ligue",
     "heure": "15H00",
     "date": "18/02/2026",
     "pro": "Equioe gagne: V2"
@@ -14,7 +14,7 @@
     "name1": "MBA MAI Moscow",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2fhZg_mfwbfmcDYArZaOqg07TWlNyi5ubLg&s",
     "name2": "CSKA Moscou",
-    "champ": "Basket-ball. VTB United Ligue.",
+    "champ": "Basket-ball. VTB United Ligue",
     "heure": "16H00",
     "date": "18/02/2026",
     "pro": "Equioe gagne: V2"
@@ -24,7 +24,7 @@
     "name1": "Ratiopharm Ulm",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/EWE_Baskets_Oldenburg.svg/1280px-EWE_Baskets_Oldenburg.svg.png",
     "name2": "EWE Oldenburg",
-    "champ": "Basket-ball. Championnat d'Allemagne.",
+    "champ": "Basket-ball. Championnat d'Allemagne",
     "heure": "17H30",
     "date": "18/02/2026",
     "pro": "Total: (+160.5)"
@@ -34,7 +34,7 @@
     "name1": "Loewen Braunschweig",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Soliver_wuerzburg.png",
     "name2": "Wurzburg",
-    "champ": "Basket-ball. Championnat d'Allemagne.",
+    "champ": "Basket-ball. Championnat d'Allemagne",
     "heure": "17H30",
     "date": "18/02/2026",
     "pro": "Equipe gagne: V2"
@@ -44,19 +44,19 @@
     "name1": "Rostock Seawolves",
     "photo2": "https://upload.wikimedia.org/wikipedia/el/2/2a/Brose_Bamberg_%28logo%29.png",
     "name2": "Brose Bamberg",
-    "champ": "Basket-ball.  Championnat d'Allemagne.",
+    "champ": "Basket-ball.  Championnat d'Allemagne",
     "heure": "17H30",
     "date": "18/02/2026",
-    "pro": "Temps règlementaire double chance: 1X"
+    "pro": "1X"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Niners_Chemnitz.png/250px-Niners_Chemnitz.png",
     "name1": "Niners Chemnitz",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/43/MLP_Academics_Heidelberg.png",
     "name2": "MLP Academics Heidelberg",
-    "champ": "Basket-ball. Championnat d'Allemagne.",
+    "champ": "Basket-ball. Championnat d'Allemagne",
     "heure": "19H00",
     "date": "18/02/2026",
-    "pro": "Total: (162.5)"
+    "pro": "Total: (+162.5)"
   }
 ]
