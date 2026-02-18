@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern Munich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Fraport_Skyliners_logo.png/250px-Fraport_Skyliners_logo.png",
-    "name2": "Skyliners Frankfurt",
-    "champ": "Basket-ball. Championnat. d'Allemagne",
-    "heure": "17H30",
-    "date": "17/02/2026",
-    "pro": "Equioe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1280px-Alba_Berlin_%28logo%29.svg.png",
-    "name1": "ALBA Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hamburg_Towers_Logo.svg/1280px-Hamburg_Towers_Logo.svg.png",
-    "name2": "Hamburg Towers",
-    "champ": "Basket-ball. Championnat. d'Allemagne",
-    "heure": "19H00",
-    "date": "17/02/2026",
-    "pro": "Double chance: 1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Igokea-logo.png/250px-Igokea-logo.png",
-    "name1": "KK Igokea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1f/Unics_big.gif",
-    "name2": "UNICS",
-    "champ": "Basket-ball. VTB League Cup.",
-    "heure": "18H00",
-    "date": "17/02/2026",
-    "pro": "Total: (+165.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Maroussi_BC_Logo.png/250px-Maroussi_BC_Logo.png",
-    "name1": "Maroussi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/Aris_Thessaloniki_F.C._%28logo%29.svg/1920px-Aris_Thessaloniki_F.C._%28logo%29.svg.png",
-    "name2": "Aris Salonique",
-    "champ": "Basket-ball. Coupe de Grèce.",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/BC_Samara_2022_logo.png/250px-BC_Samara_2022_logo.png",
+    "name1": "Samara",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6XF7hEjwH8Pqditn38_FpxUQnK4dTKnm1g&s",
+    "name2": "Pari Nizhny Novgorod",
+    "champ": "Basket-ball. VTB United Ligue.",
     "heure": "15H00",
-    "date": "17/02/2026",
+    "date": "18/02/2026",
+    "pro": "Equioe gagne: V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/sr/5/5e/%D0%9B%D0%BE%D0%B3%D0%BE_%D0%9A%D0%9A_%D0%9C%D0%91%D0%90_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_%D0%B23.png",
+    "name1": "MBA MAI Moscow",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2fhZg_mfwbfmcDYArZaOqg07TWlNyi5ubLg&s",
+    "name2": "CSKA Moscou",
+    "champ": "Basket-ball. VTB United Ligue.",
+    "heure": "16H00",
+    "date": "18/02/2026",
+    "pro": "Equioe gagne: V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Ratiopharm_Ulm_%28logo%29.svg/langfr-250px-Ratiopharm_Ulm_%28logo%29.svg.png",
+    "name1": "Ratiopharm Ulm",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/EWE_Baskets_Oldenburg.svg/1280px-EWE_Baskets_Oldenburg.svg.png",
+    "name2": "EWE Oldenburg",
+    "champ": "Basket-ball. Championnat d'Allemagne.",
+    "heure": "17H30",
+    "date": "18/02/2026",
+    "pro": "Total: (+160.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fe/L%C3%B6wen_Braunschweig_logo_2020.png",
+    "name1": "Loewen Braunschweig",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Soliver_wuerzburg.png",
+    "name2": "Wurzburg",
+    "champ": "Basket-ball. Championnat d'Allemagne.",
+    "heure": "17H30",
+    "date": "18/02/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/langfr-250px-Logo_Olympiacos_Basketball_-_2009.svg.png",
-    "name1": "Olympiakos Le Pirée",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnROKCudkoSP7GZxHjbL6he0bmdCsd7N3rQ&s",
-    "name2": "AEK Athens",
-    "champ": "Basket-ball.  Coupe de Grèce.",
-    "heure": "18H00",
-    "date": "17/02/2026",
-    "pro": "Total: (+167.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b2/Rostock_Seawolves.png",
+    "name1": "Rostock Seawolves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/el/2/2a/Brose_Bamberg_%28logo%29.png",
+    "name2": "Brose Bamberg",
+    "champ": "Basket-ball.  Championnat d'Allemagne.",
+    "heure": "17H30",
+    "date": "18/02/2026",
+    "pro": "Temps règlementaire double chance: 1X"
   },
   {
-    "photo1": "https://static.flashscore.com/res/image/data/YXifzy1g-Sf5bIcG2.png",
-    "name1": "Dynamo Grozny",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7n97BGVY2sbH6zb3cn-gRfawlC3bDak3qeQ&s",
-    "name2": "Kupol Rodniki",
-    "champ": "Basket-ball. Championnat de Russie. Superligue.",
-    "heure": "16H00",
-    "date": "17/02/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Niners_Chemnitz.png/250px-Niners_Chemnitz.png",
+    "name1": "Niners Chemnitz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/43/MLP_Academics_Heidelberg.png",
+    "name2": "MLP Academics Heidelberg",
+    "champ": "Basket-ball. Championnat d'Allemagne.",
+    "heure": "19H00",
+    "date": "18/02/2026",
+    "pro": "Total: (162.5)"
   }
 ]
