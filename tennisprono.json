@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/3840px-Flag_of_North_Macedonia.svg.png",
-    "name1": "Macédoine du Nord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/langfr-250px-Flag_of_Luxembourg.svg.png",
-    "name2": "Luxembourg",
-    "champ": "Basket-ball. Championnat d'Europe FIBA",
-    "heure": "17H00",
-    "date": "27/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/langfr-250px-Hornets_de_Charlotte_logo.svg.png",
+    "name1": "Charlotte Hornets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/68/Trail_Blazers_de_Portland_2017.png",
+    "name2": "Portland Trail Blazers",
+    "champ": "Basket-ball. NBA",
+    "heure": "18H00",
+    "date": "28/02/2026",
     "pro": "Equpe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/langfr-250px-Flag_of_Kosovo.svg.png",
-    "name1": "Kosovo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1280px-Flag_of_Slovakia.svg.png",
-    "name2": "Slovaquie",
-    "champ": "Basket-ball. Championnat d'Europe FIBA",
-    "heure": "18H00",
-    "date": "27/02/2026",
-    "pro": "Total: (+148.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Miami_Heat.svg/langfr-250px-Miami_Heat.svg.png",
+    "name1": "Heat de Miami",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/de/Houston_Rockets_logo_2003.png",
+    "name2": "Rockets de Houston",
+    "champ": "Basket-ball. NBA",
+    "heure": "20H30",
+    "date": "28/02/2026",
+    "pro": "Total: (+215.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png",
-    "name1": "Norvège",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png",
-    "name2": "Bulgarie",
-    "champ": "Basket-ball. Championnat d'Europe FIBA",
-    "heure": "19H00",
-    "date": "27/02/2026",
-    "pro": "Total: (+151.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/langfr-250px-Flag_of_Ireland.svg.png",
-    "name1": "Irlande",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf8-k6nNUpprQYOZT3DIjZCDr4AOmj7-s4RQ&s",
-    "name2": "Azerbaidjan",
-    "champ": "Basket-ball. Championnat d'Europe FIBA",
-    "heure": "19H30",
-    "date": "27/02/2026",
-    "pro": "Total: (+154.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_the_Detroit_Pistons.png",
-    "name1": "Pistons de Détroit",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgQiGk6HibTAWhRh5i7hijwVwGJTaHzbdPw&s",
-    "name2": "Cleveland",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1lvlRMTe1UvqcbklLpMd6nzNsKcwtumZVvg&s",
+    "name1": "Wizards de Washington",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/250px-Raptors_de_Toronto.png",
+    "name2": "Raptors de Toronto",
     "champ": "Basket-ball. NBA",
     "heure": "00H00",
     "date": "28/02/2026",
-    "pro": "Equipe gagne: V1"
+    "pro": "Equpe gagne: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1280px-Boston_Celtics.svg.png",
-    "name1": "Celtics de Boston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/500px-Brooklyn_Nets_newlogo.svg.png",
-    "name2": "Brooklyn Nets",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1280px-Golden_State_Warriors_logo.svg.png",
+    "name1": "Golden State",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/langfr-250px-Los_Angeles_Lakers_logo.svg.png",
+    "name2": "Lakers",
     "champ": "Basket-ball. NBA",
-    "heure": "00H30",
+    "heure": "01H30",
     "date": "28/02/2026",
-    "pro": "Total: (+197.5)"
+    "pro": "Total: (+224.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Jazz_de_l%27Utah_2025.svg/langfr-250px-Jazz_de_l%27Utah_2025.svg.png",
+    "name1": "Jazz de l'Utah",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/e2/New_Orleans_Pelicans_2023.png",
+    "name2": "Pelicans de La Nouvelle-Orléans",
+    "champ": "Basket-ball. NBA",
+    "heure": "02H30",
+    "date": "28/02/2026",
+    "pro": "Total: (+239.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGe0mk1OqPcoaSR6zQ2KaMIKrSOuaRiXyPQ&s",
+    "name1": "Ahorn Camp BIS",
+    "photo2": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/035/283/crop_original_bp1534426188_sO_Wuerzburg_Akademie_cmyk_red.png",
+    "name2": "Wurzburg Akademie",
+    "champ": "Basket-ball. Allemagne. Pro B",
+    "heure": "18H30",
+    "date": "28/02/2026",
+    "pro": "Equpe gagne: V1"
   }
 ]
