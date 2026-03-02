@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
-    "name1": "Knicks de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/1280px-San_Antonio_Spurs.svg.png",
-    "name2": "San Antonio Spurs",
-    "champ": "Basket-ball. NBA",
-    "heure": "18H00",
-    "date": "01/03/2026",
-    "pro": "Total: (+217.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBr3OdmLdJlYFE0Dh4aBLUp_74LQ9nHIQHsQ&s",
-    "name1": "Bulls de Chicago",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1280px-Milwaukee_Bucks_logo.svg.png",
-    "name2": "Bucks de Milwaukee",
-    "champ": "Basket-ball. NBA",
-    "heure": "20H30",
-    "date": "01/03/2026",
-    "pro": "Total: (+224.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
-    "name1": "Denver Nuggets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/250px-Timberwolves_du_Minnesota_logo_2017.png",
-    "name2": "Timberwolves du Minnesota",
-    "champ": "Basket-ball. NBA",
-    "heure": "20H30",
-    "date": "01/03/2026",
-    "pro": "Total: (+234.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/49/Nets_de_Brooklyn_2024.png",
-    "name1": "Brooklyn Nets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/Cavaliers_de_Cleveland_logo.svg/3840px-Cavaliers_de_Cleveland_logo.svg.png",
-    "name2": "Cleveland",
-    "champ": "Basket-ball. NBA",
-    "heure": "20H30",
-    "date": "01/03/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Azerbaijan_%283-2%29.svg/1280px-Flag_of_Azerbaijan_%283-2%29.svg.png",
+    "name1": "Azerbaidjan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/3840px-Flag_of_North_Macedonia.svg.png",
+    "name2": "Macédoine du Nord",
+    "champ": "Basket-ball. Championnat d'Europe FIBA",
+    "heure": "16H00",
+    "date": "02/03/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Pacers_de_l%27Indiana_2017.svg/1280px-Pacers_de_l%27Indiana_2017.svg.png",
-    "name1": "Pacers de l'Indiana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Grizzlies_de_Memphis_2018.png/250px-Grizzlies_de_Memphis_2018.png",
-    "name2": "Grizzlies de Memphis",
-    "champ": "Basket-ball. NBA",
-    "heure": "22H00",
-    "date": "01/03/2026",
-    "pro": "Total: (+234.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Armenia_%281918%E2%80%931922%29.svg/250px-Flag_of_Armenia_%281918%E2%80%931922%29.svg.png",
+    "name1": "Armenia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/langfr-250px-Flag_of_Bulgaria.svg.png",
+    "name2": "Bulgarie",
+    "champ": "Basket-ball. Championnat d'Europe FIBA",
+    "heure": "16H15",
+    "date": "02/03/2026",
+    "pro": "Total: (+159.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1280px-Atlanta_Hawks_logo.svg.png",
-    "name1": "Atlanta Hawks",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTodKOlwD1KJlCp7yRHS0rQDSsyFfGv7qC6g&s",
-    "name2": "Portland Trail Blazers",
-    "champ": "Basket-ball. NBA",
-    "heure": "23H00",
-    "date": "01/03/2026",
-    "pro": "Total: (+233.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/langfr-250px-Flag_of_Albania.svg.png",
+    "name1": "Albanie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1280px-Flag_of_Slovakia.svg.png",
+    "name2": "Slovaquie",
+    "champ": "Basket-ball. Championnat d'Europe FIBA",
+    "heure": "17H00",
+    "date": "02/03/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/langfr-250px-Flag_of_Ireland.svg.png",
+    "name1": "Irlande",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/langfr-250px-Flag_of_Luxembourg.svg.png",
+    "name2": "Luxembourg",
+    "champ": "Basket-ball. Championnat d'Europe FIBA",
+    "heure": "19H30",
+    "date": "02/03/2026",
+    "pro": "Total: (+157.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3-PJS7tGzeMvAqveAnfdu9Yio7Mj5mzUDg&s",
+    "name1": "Elitzur Ramla",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtg3YEJGcveC5BuDGJ5u2TXw6Gf26-0N63gA&s",
+    "name2": "Hapoel Petah-Tikva",
+    "champ": "Basket-ball. Champoinnat d'Israel. Femmes",
+    "heure": "17H00",
+    "date": "02/03/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f8/Hapo%C3%ABl_Holon.jpg",
+    "name1": "Elitzur Holon",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66iVfV7WyppHS3vboxq3aHfLsjhBa8FliAQ&s",
+    "name2": "Maccabi Ramat Gan",
+    "champ": "Basket-ball. Champoinnat d'Israel. Femmes",
+    "heure": "17H00",
+    "date": "02/03/2026",
+    "pro": "Handicap: 1(15.5)"
   }
 ]
