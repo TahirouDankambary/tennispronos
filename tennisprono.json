@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
-    "name1": "Knicks de New York",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
-    "name2": "Oklahoma City Thunder",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6DhsH0zxQZGe6DSvWbSajn8UsHcv9bb7SQ&s",
+    "name1": "Fenerbahce",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR82nAVw31r-fVcEHJYXFzja3sg9FJz0cYnPg&s",
+    "name2": "Monaco",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "17H45",
     "date": "05/03/2026",
-    "pro": "Total: (+196.5)"
+    "pro": "Total: (+161.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyusbMyn7sR7IYOmu3CVfhRa65HEkDTqoiSg&s",
-    "name1": "76ers de Philadelphie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Jazz_de_l%27Utah_2025.svg/langfr-250px-Jazz_de_l%27Utah_2025.svg.png",
-    "name2": "Jazz de l'Utah",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H30",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7APTB7gq0nGwXx72d1GZiH_m90uYE4OKS1A&s",
+    "name1": "Valencia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQxVoWwEihu1DtztmQ0JhBbi5p1Z9DZgygg&s",
+    "name2": "Zalgiris",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H30",
     "date": "05/03/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7uj3foivpw7kv5ZRDWZwrQYEXC5INNxjYaw&s",
-    "name1": "Celtics de Boston",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfl1sZR6ZQgRteBIqjWN-5QZ7j4mVznJRKFg&s",
-    "name2": "Charlotte Hornets",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Olimpia_Milano_-_2016.svg/1280px-Logo_Olimpia_Milano_-_2016.svg.png",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H30",
     "date": "05/03/2026",
-    "pro": "Total: (+210.5)"
+    "pro": "Total: (+158.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRRkNkMKb--YvsCvEdQD5aZiT0Zu950HS7g&s",
-    "name1": "Grizzlies de Memphis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/68/Trail_Blazers_de_Portland_2017.png",
-    "name2": "Portland Trail Blazers",
-    "champ": "Basket-ball. NBA",
-    "heure": "O1H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/be/Real_Madrid_Baloncesto.png",
+    "name1": "Real Madrid Baloncesto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1280px-Virtus_Bologna_logo.svg.png",
+    "name2": "Virtus Granarolo Bologna",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H45",
     "date": "05/03/2026",
-    "pro": "Equipe gagne: V2"
+    "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcH9cfN5--fD7I7BTxxGBePMNpszgMOEmG9w&s",
-    "name1": "Bucks de Milwaukee",
-    "photo2": "https://static.wikia.nocookie.net/sports-logos5931/images/8/87/Atlanta_hawks_2014-2015_a.png/revision/latest?cb=20170620004134",
-    "name2": "Atlanta Hawks",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1lvlRMTe1UvqcbklLpMd6nzNsKcwtumZVvg&s",
+    "name1": "Wizards de Washington",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Jazz_de_l%27Utah_2025.svg/langfr-250px-Jazz_de_l%27Utah_2025.svg.png",
+    "name2": "Jazz de l'Utah",
     "champ": "Basket-ball. NBA",
-    "heure": "02H30",
-    "date": "05/03/2026",
-    "pro": "Total: (+229.5)"
+    "heure": "00H00",
+    "date": "06/03/2026",
+    "pro": "Total: (+238.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4bBk_-dkNdgB2Htq-mcy_i59S4DfmAdZXw&s",
-    "name1": "Clippers de Los Angeles",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Pacers_de_l%27Indiana_2017.svg/langfr-250px-Pacers_de_l%27Indiana_2017.svg.png",
-    "name2": "Pacers de l'Indiana",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Orlando_Magic_2025.svg/langfr-250px-Logo_Orlando_Magic_2025.svg.png",
+    "name1": "Magic d'Orlando",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJ_IfpkHw3bfdalZMaYyCuWRPEqeFcw3Uzw&s",
+    "name2": "Mavericks de Dallas",
     "champ": "Basket-ball. NBA",
-    "heure": "03H30",
-    "date": "05/03/2026",
+    "heure": "00H00",
+    "date": "06/03/2026",
     "pro": "Equipe gagne: V1"
   }
 ]
