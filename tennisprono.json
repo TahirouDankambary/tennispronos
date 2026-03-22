@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Science_City_Jena.png/250px-Science_City_Jena.png",
-    "name1": "Science City Jena",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fe/MBC_logo_2019.png",
-    "name2": "Syntainics MBC",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/EWE_Baskets_Oldenburg.svg/1280px-EWE_Baskets_Oldenburg.svg.png",
+    "name1": "EWE Oldenburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/78/WUE_Primary_Logo_rot_transparent_CMYK.png",
+    "name2": "Wurzburg",
     "champ": "Basket-ball. Allemagne",
-    "heure": "15H00",
-    "date": "21/03/2026",
-    "pro": "Total: (+166.5)"
+    "heure": "15H30",
+    "date": "22/03/2026",
+    "pro": "Total: (+160.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/43/MLP_Academics_Heidelberg.png",
-    "name1": "MLP Academics Heidelberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/Brose_Baskets_Logo.svg/960px-Brose_Baskets_Logo.svg.png",
-    "name2": "Brose Bamberg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Hamburg_Towers_logo.png/250px-Hamburg_Towers_logo.png",
+    "name1": "Hamburg Towers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Gladiators_Trier_logo.png/250px-Gladiators_Trier_logo.png",
+    "name2": "Gladiators Trier",
     "champ": "Basket-ball. Allemagne",
-    "heure": "17H30",
-    "date": "21/03/2026",
-    "pro": "Equipe gagne: V2"
+    "heure": "17H00",
+    "date": "22/03/2026",
+    "pro": "Total: (+180.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/SC_Rasta_Vechta_logo.jpg",
-    "name1": "SC Rasta Vechta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Niners_Chemnitz.png/250px-Niners_Chemnitz.png",
-    "name2": "Niners Chemnitz",
-    "champ": "Basket-ball. Allemagne",
-    "heure": "19H00",
-    "date": "21/03/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name1": "Saski Baskonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1280px-Logo_Girona_FC_-_2022.svg.png",
+    "name2": "Gérone",
+    "champ": "Basket-ball. Espagne. Liga ACB",
+    "heure": "16H00",
+    "date": "22/03/2026",
+    "pro": "Total: (+174.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7APTB7gq0nGwXx72d1GZiH_m90uYE4OKS1A&s",
+    "name1": "Valencia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqoLksEC__SJuBAbSO_mDJcIhQRhzHrkPqwQ&s",
+    "name2": "CB Granada",
+    "champ": "Basket-ball. Espagne. Liga ACB",
+    "heure": "16H00",
+    "date": "22/03/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/54/Maroussi_BC_Logo.png",
-    "name1": "Maroussi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/4f/A.O._Mykonos_logo.jpg",
-    "name2": "Mykonoy",
-    "champ": "Basket-ball. Grèce",
-    "heure": "16H15",
-    "date": "21/03/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGQZBqpfVHV4kCeHm_yXzTiLwQGWflH4tYg&s",
+    "name2": "Real Madrid Baloncesto",
+    "champ": "Basket-ball. Espagne. Liga ACB",
+    "heure": "18H00",
+    "date": "22/03/2026",
+    "pro": "Total: (+165.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/bc/Peristeri_BC_Official_Logo.png",
-    "name1": "Peristéri",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/960px-PAOK_FC_logo.svg.png",
-    "name2": "PAOK",
-    "champ": "Basket-ball. Grèce",
-    "heure": "16H15",
-    "date": "21/03/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/Wizards2015.png/250px-Wizards2015.png",
-    "name1": "Wizard de Washington",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
-    "name2": "Oklahoma City Thunder",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name1": "Denver Nuggets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/68/Trail_Blazers_de_Portland_2017.png",
+    "name2": "Portland Trail Blazers",
     "champ": "Basket-ball. NBA",
     "heure": "21H00",
-    "date": "21/03/2026",
-    "pro": "Equipe Gagne: V2"
+    "date": "22/03/2026",
+    "pro": "Equipe Gagne: V1"
   }
 ]
