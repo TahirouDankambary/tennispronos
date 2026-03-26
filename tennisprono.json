@@ -19,6 +19,16 @@
     "date": "26/03/2026",
     "pro": "Equipe gagne: V1"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/45/Maccabi_Tel_Aviv_FC.png",
+    "name1": "Maccabi Tel Aviv",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqmQQ46OvSIyzxjwdqeWpBRepqRd44-DOWw&s",
+    "name2": "Dubai",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H30",
+    "date": "26/03/2026",
+    "pro": "Total: (+177.5)"
+  },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/b/be/Real_Madrid_Baloncesto.png",
     "name1": "Real Madrid Baloncesto",
@@ -88,15 +98,5 @@
     "heure": "23H00",
     "date": "26/03/2026",
     "pro": "Total: (+219.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/45/Maccabi_Tel_Aviv_FC.png",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqmQQ46OvSIyzxjwdqeWpBRepqRd44-DOWw&s",
-    "name2": "Dubai",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "19H30",
-    "date": "26/03/2026",
-    "pro": "Total: (+177.5)"
   }
 ]
