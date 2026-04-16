@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoorCJfz6A_Zut8ez86oR-yglShb82Qy8jGw&s",
-    "name1": "Uni Girona",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9JxoBLtBInjBt-G3yeKsKmfaeNxPTk2jSKg&s",
-    "name2": "Reyer Vanezia Mestre",
-    "champ": "Basket-ball. Euroligue. Femmes",
-    "heure": "15H30",
-    "date": "15/04/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDHzyBJIlWHy3RmbygSJptm9dTXK5C4412w&s",
+    "name1": "Maccabi Tel Aviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/1280px-Virtus_Bologna_logo.svg.png",
+    "name2": "Virtus Granarolo Bologna",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H05",
+    "date": "16/04/2026",
+    "pro": "Equipe gagane: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4f/Basket_Landes_logo.png",
-    "name1": "Landes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
-    "name2": "Zaragoza",
-    "champ": "Basket-ball. Euroligue. Femmes",
-    "heure": "18H30",
-    "date": "15/04/2026",
-    "pro": "Handicap: 2(0)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
+    "name1": "Olympiakos Le Piréé",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Olimpia_Milano_-_2016.svg/1280px-Logo_Olimpia_Milano_-_2016.svg.png",
+    "name2": "Olimpia Milano",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H15",
+    "date": "16/04/2026",
+    "pro": "Total: (+159.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBRY0gjjhh570Zgk1yc__3jDszi6ntjWnxQ&s",
-    "name1": "AEK Athens",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Club_Joventut_de_Badalona_%28logo%29.svg/1280px-Club_Joventut_de_Badalona_%28logo%29.svg.png",
-    "name2": "FIATC Joventut Badalona",
-    "champ": "Basket-ball. Ligue des Champions",
-    "heure": "16H30",
-    "date": "15/04/2026",
-    "pro": "2X"
+    "photo1": "hhttps://upload.wikimedia.org/wikipedia/commons/7/7c/Logo_Partizan_1958.png",
+    "name1": "KK Partizan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name2": "Saski Baskonia",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H30",
+    "date": "16/04/2026",
+    "pro": "Total: (+166.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Club_Baloncesto_Canarias.png/250px-Club_Baloncesto_Canarias.png",
-    "name1": "La Laguna Tenerife",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQR22_8QdTvUIamxls_pINzZLJ-_XkTSPlxw&s",
-    "name2": "Galatasaray",
-    "champ": "Basket-ball. Ligue des Champions",
-    "heure": "19H00",
-    "date": "15/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/be/Real_Madrid_Baloncesto.png",
+    "name1": "Real Madrid Baloncesto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/langfr-250px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
+    "name2": "Crvena Zvezda",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H45",
+    "date": "16/04/2026",
+    "pro": "Total: (+162.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRavBY5dyfV5QZp_nVm_WOYWV0QJ71WAFTdNw&s",
+    "name1": "CSKA Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/BC_Nizhny_Novgorod_logo_2022.svg/250px-BC_Nizhny_Novgorod_logo_2022.svg.png",
+    "name2": "Pari Nizhny",
+    "champ": "Basket-ball. VTB United Ligue",
+    "heure": "16H30",
+    "date": "16/04/2026",
+    "pro": "Total: (+164.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxfl6MhjKJdp2oH5YrgE6p-zrBOy87XIk0qw&s",
+    "name1": "Dynamo Grozny",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSir0qvgYSrSxvOLXpN8eWBxol4w_0gAJwpwA&s",
+    "name2": "Dinamo Ufa",
+    "champ": "Basket-ball. Russie. Superligue",
+    "heure": "16H00",
+    "date": "16/04/2026",
+    "pro": "Total: (+150.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/be/Grupo_Desportivo_Interclube.gif",
+    "name1": "Inter Clube",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUksoStUX9SZt49qf9CoD8m7YCKJTmGnaOw&s",
+    "name2": "Clube Desportivo 1 de Agosta",
+    "champ": "Basket-ball. Angola. Women",
+    "heure": "17H00",
+    "date": "16/04/2026",
+    "pro": "Equipe gagne: V2"
+  },
+   {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzh1gv0ZFAOfGtoMwVKUWkmUIf2LWyv307Iw&s",
+    "name1": "Porto Do Lobito",
+    "photo2": "https://fab.ao/wp-content/uploads/2023/06/CLUBE-E.D.-FORMIGAS-DO-CAZENGA-e1687951275960.jpg",
+    "name2": "Formigas do Cazenga",
+    "champ": "Basket-ball. Angola. Women",
+    "heure": "17H00",
+    "date": "16/04/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNUwbvORTt092xuWjgXrpa6cdKVQZaA_uO_w&s",
-    "name1": "Avtodor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/3c/Parma_Basket_logo.png",
-    "name2": "Parma Perm",
-    "champ": "Basket-ball. VTB United Ligue",
-    "heure": "15H00",
-    "date": "15/04/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/00/BC_Samara_2022_logo.png",
-    "name1": "Samara",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLk9SQJDnHagex14rcL80kvW2IxEGxGx6q_g&s",
-    "name2": "Uralmash",
-    "champ": "Basket-ball. VTB United Ligue",
-    "heure": "15H30",
-    "date": "15/04/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/FK_Zenit_St_Peterburg.svg/1280px-FK_Zenit_St_Peterburg.svg.png",
-    "name1": "Zénith Saint-Pétersbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1f/Unics_big.gif/250px-Unics_big.gif",
-    "name2": "UNICS",
-    "champ": "Basket-ball. VTB United Ligue",
-    "heure": "16H30",
-    "date": "15/04/2026",
-    "pro": "Total: (+157.5)"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpecsZS8ExIpXxlgWWQRrlneker5IjDS-zw&s",
-    "name1": "Niners Chemnitz",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK2TOBDqzqHImeRLhWUXo-yEhzaVtQGA6fw&s",
-    "name2": "Ratiopharm Ulm",
-    "champ": "Basket-ball. Allemagne",
-    "heure": "18H00",
-    "date": "15/04/2026",
-    "pro": "Total: (+160.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyusbMyn7sR7IYOmu3CVfhRa65HEkDTqoiSg&s",
-    "name1": "76ers de Philadelphie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPABIoTPQ64NBw1OoT3TGCjiDDScuPoNk2jA&s",
-    "name2": "Magic d'Orlando",
-    "champ": "Basket-ball. NBA",
-    "heure": "23H30",
-    "date": "15/04/2026",
-    "pro": "Total: (+218.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4bBk_-dkNdgB2Htq-mcy_i59S4DfmAdZXw&s",
-    "name1": "Clippers de Los Angeles",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq5YLcEBRFUlgs7jqW-l-yuoecYgYSFPfBEg&s",
-    "name2": "Warriors de Golden State",
-    "champ": "Basket-ball. NBA",
-    "heure": "02H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfcMrAdxNwrfM_vhn4A3VT7MGuBICYtseHA&s",
+    "name1": "SC Luanda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Logo_Le_Mans_Sarthe_Basket_2009.svg/120px-Logo_Le_Mans_Sarthe_Basket_2009.svg.png",
+    "name2": "Nucleo Desportivo Labombalnter",
+    "champ": "Basket-ball. Angola. Women",
+    "heure": "16H00",
     "date": "16/04/2026",
-    "pro": "Total: (+196.5) "
+    "pro": "Total: (+117.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3-PJS7tGzeMvAqveAnfdu9Yio7Mj5mzUDg&s",
+    "name1": "Elitzur Ramla",
+    "photo2": "https://static.flashscore.com/res/image/data/j1vXdoyS-bFe3pFu0.png",
+    "name2": "Elitzur Holon",
+    "champ": "Basket-ball. Israel. FEmmes",
+    "heure": "16H45",
+    "date": "16/04/2026",
+    "pro": "Total: (+160.5) "
   }
 ]
