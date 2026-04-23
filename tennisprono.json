@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkbrfJduTdd9--yrqJiko8FXy95fs7mLwNg&s",
-    "name1": "P.A.O.K",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5d/Bilbaobasket.png",
-    "name2": "Bilbao",
-    "champ": "Basket-ball. Coupe d'Europe FIBA",
-    "heure": "16H15",
-    "date": "22/04/2026",
-    "pro": "Total: (+161.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8NrTmadSI_TlTRRf8fZJrUl0USwDzSRlNiw&s",
+    "name1": "Orange Academy",
+    "photo2": "https://bba-ludwigsburg.de/wp-content/themes/bba/images/porsche-bba-logo.png",
+    "name2": "Porsche BBA Ludwigsburg",
+    "champ": "Basket-ball. Allemagne. Pro B",
+    "heure": "17H30",
+    "date": "23/04/2026",
+    "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Be%C5%9Fikta%C5%9F_JK_2024.svg/langfr-250px-Logo_Be%C5%9Fikta%C5%9F_JK_2024.svg.png",
-    "name1": "Besiktas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_JL_Bourg_Basket_-_2017.svg/1280px-Logo_JL_Bourg_Basket_-_2017.svg.png",
-    "name2": "JL Bourg",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "17H00",
-    "date": "22/04/2026",
-    "pro": "Total: (+165.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLEwJdnUTERLGFxysbu0DptwrNBVwtRbFJ1Q&s",
+    "name1": "ETB Minrs",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStaYvtHP3HElRb8ueA4h8z5viDql27nCgkCQ&s",
+    "name2": "EN Basket Schwelm",
+    "champ": "Basket-ball. Allemagne. Pro B",
+    "heure": "18H00",
+    "date": "23/04/2026",
+    "pro": "Equipe gagne: V1"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLk9SQJDnHagex14rcL80kvW2IxEGxGx6q_g&s",
-    "name1": "Uralmash",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNUwbvORTt092xuWjgXrpa6cdKVQZaA_uO_w&s",
-    "name2": "Avtodor",
-    "champ": "Basket-ball. VTB United Ligue",
-    "heure": "14H30",
-    "date": "22/04/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJft28aPDjtjUnDwMq6ZuikVWHCPUzueW8A&s",
+    "name1": "Lokomotiv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/de/8/88/Hertener_Loewen_Logo.gif",
+    "name2": "Hertener Loewen",
+    "champ": "Basket-ball. Allemagne. Pro B",
+    "heure": "18H00",
+    "date": "23/04/2026",
+    "pro": "Handicap: 2(11.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/he/3/31/MBA_Basket.jpg",
-    "name1": "MBA-MAI Moscow",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/00/BC_Samara_2022_logo.png",
-    "name2": "Samara",
-    "champ": "Basket-ball. VTB United Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/78/WUE_Primary_Logo_rot_transparent_CMYK.png",
+    "name1": "Wurzburg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBWHyioAdpvpF41MabrKYzO3011p3xvJLxQ&s",
+    "name2": "Bayern Munich",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "18H00",
+    "date": "23/04/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTER3tJE8qOuIYnfjkSZ6lwYdK0lBM1Xans0A&s",
+    "name1": "Chelbasket",
+    "photo2": "https://org.infobasket.su/Widget/GetTeamLogo/3204?compId=0",
+    "name2": "Novosibirsk",
+    "champ": "Basket-ball. Russie",
+    "heure": "15H45",
+    "date": "23/04/2026",
+    "pro": "Total: (+151.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_AUJbxn4SuTUaQVQTtO6KHz6pdqY6nZGRCw&s",
+    "name1": "Merkezefendi Belediyesi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Galatasaray_Sports_Club_Logo.svg/1920px-Galatasaray_Sports_Club_Logo.svg.png",
+    "name2": "Galatasaray",
+    "champ": "Basket-ball. Turquie",
     "heure": "16H00",
-    "date": "22/04/2026",
-    "pro": "Total: (+159.5)"
+    "date": "23/04/2026",
+    "pro": "Handicap: 2(0)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/1f/Unics_big.gif",
-    "name1": "UNICS",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/BC_Nizhny_Novgorod_logo_2022.svg/1280px-BC_Nizhny_Novgorod_logo_2022.svg.png",
-    "name2": "Pari Nizhny Novgorod",
-    "champ": "Basket-ball. VTB United Ligue",
-    "heure": "16H00",
-    "date": "22/04/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdh_wnVHXtFgxR95nNMC0EiDGFn5zWjf3m7A&s",
-    "name1": "Zénith Saint-Pétersbourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxWzz_RKUrFh87vA3C-iSEp_2zD539NvQgw&s",
-    "name2": "CSKA Moscou",
-    "champ": "Basket-ball. VTB United Ligue",
-    "heure": "16H30",
-    "date": "22/04/2026",
-    "pro": "Total: (+163.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxyJoF-vPHiDJslWg51evdp-4k9OACFABgg&s",
-    "name1": "Lokomotiv Kuban",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG7T8PbQkZmtHNWL_wbssLPaEs80TRi16Uvw&s",
-    "name2": "Enisey",
-    "champ": "Basket-ball. VTB United Ligue",
-    "heure": "17H00",
-    "date": "22/04/2026",
-    "pro": "Total: (+165.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/2d/Absheron_Lions_logo.png",
+    "name1": "Absheron Lions",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/92/Neft%C3%A7i_PFK_logo.png",
+    "name2": "Neftchi IK",
+    "champ": "Basket-ball. Azerbaidjan",
+    "heure": "15H00",
+    "date": "23/04/2026",
+    "pro": "1X2: V1"
   },
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK2TOBDqzqHImeRLhWUXo-yEhzaVtQGA6fw&s",
-    "name1": "Ratiopharm Ulm",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwL-0YeARdSPaJkJsmGPnknGh-lpnQoBzIQ&s",
-    "name2": "ALBA Berlin",
-    "champ": "Basket-ball. Allemagne",
-    "heure": "16H30",
-    "date": "22/04/2026",
-    "pro": "Total: (+159.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/langfr-250px-Logo_of_the_Detroit_Pistons.svg.png",
-    "name1": "Pistons de Détroit",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Orlando_Magic_2025.svg/langfr-250px-Logo_Orlando_Magic_2025.svg.png",
-    "name2": "Magic d'Orlando",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1280px-Atlanta_Hawks_logo.svg.png",
+    "name1": "Atlanta Hawks",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
+    "name2": "Knicks de New York",
     "champ": "Basket-ball. NBA",
     "heure": "23H00",
-    "date": "22/04/2026",
-    "pro": "Equipe gagne: V1"
+    "date": "23/04/2026",
+    "pro": "Total: (+211.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Thunder_d%27Oklahoma_City.svg/1280px-Thunder_d%27Oklahoma_City.svg.png",
-    "name1": "Oklahoma City Thunder",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0RtB8nAuRCTUXip1JT_ahzXL4DEQDY999w&s",
-    "name2": "Suns de Phoenix",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/250px-Raptors_de_Toronto.png",
+    "name1": "Raptors de Toronto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Orlando_Magic_2025.svg/langfr-250px-Logo_Orlando_Magic_2025.svg.png",
+    "name2": "Cleveland",
+    "champ": "Basket-ball. NBA",
+    "heure": "00H00",
+    "date": "24/04/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/250px-Timberwolves_du_Minnesota_logo_2017.png",
+    "name1": "Timberwolves du Minnesota",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name2": "Denver Nuggets",
     "champ": "Basket-ball. NBA",
     "heure": "01H30",
-    "date": "23/04/2026",
-    "pro": "Equipe gagne: V1 "
+    "date": "21/04/2026",
+    "pro": "Total: (+229.5) "
   }
 ]
