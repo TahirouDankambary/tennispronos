@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/AS_Monaco_Basket.svg/960px-AS_Monaco_Basket.svg.png",
-    "name1": "Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "17H30",
-    "date": "24/04/2026",
-    "pro": "Total: (+142.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/MHP_Riesen_Ludwigsburg_%28logo%29.svg/1280px-MHP_Riesen_Ludwigsburg_%28logo%29.svg.png",
+    "name1": "MHP Reisen Ludwigsburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b2/Rostock_Seawolves.png",
+    "name2": "Rostock Seawolves",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "16H30",
+    "date": "25/04/2026",
+    "pro": "Total: (+161.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/SC_Rasta_Vechta_logo.jpg",
-    "name1": "SC Rasta Vechta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fe/L%C3%B6wen_Braunschweig_logo_2020.png",
-    "name2": "Loewen Braunschweig",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAHuKuypVyo0IbRyGwfYDl_gQ-hBFEEWznw&s",
+    "name1": "Ratiopharm Ulm",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/1f/Hamburg_Towers_logo.png",
+    "name2": "Hamburg Towers",
     "champ": "Basket-ball. Allemagne",
-    "heure": "18H00",
-    "date": "24/04/2026",
-    "pro": "1X"
+    "heure": "16H30",
+    "date": "25/04/2026",
+    "pro": "Equipe gagne: V1"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkSd7CAcqHmjEvtvY9sPM2qJC0AC4g9fBGQ&s",
-    "name1": "Wolmirstedt",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRESpUj4x_DcGeHPBi1nBWYtd5p2Tnk8Aeq_A&s",
-    "name2": "Artland Dragons",
-    "champ": "Basket-ball. Allemagne. Bundesliga 2",
-    "heure": "17H30",
-    "date": "24/04/2026",
-    "pro": "Total: (+172.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Science_City_Jena.png/250px-Science_City_Jena.png",
+    "name1": "Science City Jena",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDy2ajd8UVIV1qYSoLdc4F1kz5EEY1Eao-Xg&s",
+    "name2": "Gladiators Trier",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "18H00",
+    "date": "25/04/2026",
+    "pro": "Total: (+178.5)"
   },
   {
-    "photo1": "https://static.flashscore.com/res/image/data/YXifzy1g-Sf5bIcG2.png",
-    "name1": "Dynamo Grozny",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8b/BC_Khimki_2016_logo.png",
-    "name2": "Khimki",
-    "champ": "Basket-ball. Russie",
-    "heure": "16H00",
-    "date": "24/04/2026",
-    "pro": "Total: (+149.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Manisa_Basket.png/250px-Manisa_Basket.png",
-    "name1": "Manisa Belediye",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6DhsH0zxQZGe6DSvWbSajn8UsHcv9bb7SQ&s",
-    "name2": "Fenerbahce",
-    "champ": "Basket-ball. Turquie",
-    "heure": "16H00",
-    "date": "24/04/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/66/Unifacisabasquete.png",
-    "name1": "UNIFACISA",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/SC_Corinthians_Paulista.svg/langfr-250px-SC_Corinthians_Paulista.svg.png",
-    "name2": "Corinthians",
-    "champ": "Basket-ball. Brésil. NBB",
-    "heure": "22H00",
-    "date": "24/04/2026",
-    "pro": "Total: (+164.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9c/Bauru_Basket_logo_2023.png",
-    "name1": "Bauru",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Club_Athletico_Paulistano_logo.svg/1280px-Club_Athletico_Paulistano_logo.svg.png",
-    "name2": "Club Athletico Paulistano",
-    "champ": "Basket-ball. Brésil. NBB",
-    "heure": "22H30",
-    "date": "24/04/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZO8vYVN_VMZ-A-3Bvhwx8CKQo5IvVNgNWg&s",
+    "name1": "EWE Oldenburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/43/MLP_Academics_Heidelberg.png",
+    "name2": "MLP Academics Heidelberg",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "18H00",
+    "date": "25/04/2026",
     "pro": "Total: (+162.5)"
   },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/CruzeiroEC.svg/1280px-CruzeiroEC.svg.png",
-    "name1": "Crureiro",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHkc3o7cBZ8Sn_EIE2f2DD8QAX3usGXu-XA&s",
-    "name2": "Minas",
-    "champ": "Basket-ball. Brésil. NBB",
-    "heure": "23H00",
-    "date": "24/04/2026",
-    "pro": "Equipe gagne: V2"
-  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Philadelphia_75ers_2015.svg/langfr-250px-Philadelphia_75ers_2015.svg.png",
-    "name1": "76ers de Philadelphie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0O_sPotnngjhYJI22cM9Q_b3LlbIZYcbnMA&s",
-    "name2": "Celtics de Boston",
-    "champ": "Basket-ball. NBA",
-    "heure": "23H00",
-    "date": "24/04/2026",
-    "pro": "Total: (+190.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/Houston_Rockets_logo_2019.png/250px-Houston_Rockets_logo_2019.png",
-    "name1": "Rockets de Houston",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbUjgc1xZ29fIQglTN2tVK6wmzfxMdPTxzXA&s",
-    "name2": "Los Angeles Lakers",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnROKCudkoSP7GZxHjbL6he0bmdCsd7N3rQ&s",
+    "name1": "AEK Athens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Olympiacos_Basketball_-_2009.svg/langfr-250px-Logo_Olympiacos_Basketball_-_2009.svg.png",
+    "name2": "Olympiakos Le Piréé",
+    "champ": "Basket-ball. Grèce",
+    "heure": "15H15",
     "date": "25/04/2026",
     "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkcHwFc0gSdNSaD_EcUXkI2Mja9zyd2JjlXA&s",
+    "name1": "Aris Salonique",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2a/Logo_Pani%C3%B3nios_2024.svg/1920px-Logo_Pani%C3%B3nios_2024.svg.png",
+    "name2": "Panionios",
+    "champ": "Basket-ball. Grèce",
+    "heure": "15H15",
+    "date": "25/04/2026",
+    "pro": "Total: (+161.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Orlando_Magic_2025.svg/langfr-250px-Logo_Orlando_Magic_2025.svg.png",
+    "name1": "Magic d'Orlando",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZGcvJo7KZfGfUM-BOTdHUXx6EBW6GeiNiQ&s",
+    "name2": "Pistons de Détroit",
+    "champ": "Basket-ball. NBA",
+    "heure": "17H30",
+    "date": "25/04/2026",
+    "pro": "Total: (+203.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Phoenix_Suns_2013.png/250px-Phoenix_Suns_2013.png",
+    "name1": "Suns de Phoenix",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
+    "name2": "Oklahoma City Thunder",
+    "champ": "Basket-ball. Brésil. NBB",
+    "heure": "19H30",
+    "date": "25/04/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1280px-Atlanta_Hawks_logo.svg.png",
+    "name1": "Atlanta Hawks",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
+    "name2": "Knicks de New York",
+    "champ": "Basket-ball. NBA",
+    "heure": "22H00",
+    "date": "25/04/2026",
+    "pro": "Total: (+210.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/250px-Timberwolves_du_Minnesota_logo_2017.png",
+    "name1": "Timberwolves du Minnesota",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name2": "Denver Nuggets",
+    "champ": "Basket-ball. NBA",
+    "heure": "00H30",
+    "date": "26/04/2026",
+    "pro": "Total: (+225.5)"
   }
 ]
