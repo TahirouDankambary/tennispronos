@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9a/Uralmash_Yekaterinburg_logo.png",
-    "name1": "Uralmash",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Logo_Z%C3%A9nith_Saint-P%C3%A9tersbourg_2023.svg/langfr-250px-Logo_Z%C3%A9nith_Saint-P%C3%A9tersbourg_2023.svg.png",
-    "name2": "Zénith Saint-Pétersbourg",
-    "champ": "Basket-ball. VTB United Ligue",
-    "heure": "14H30",
-    "date": "04/05/2026",
-    "pro": "Total: (+154.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUSOIPDytsdrW_CIbBCP4gpI74K-Et5lXl3Q&s",
+    "name1": "Besancon Avenir Comtois",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQhD2a69kkE0UJfuZTSkliQLVRizbzmBq0g&s",
+    "name2": "Union Rennes",
+    "champ": "Basket-ball. France. Nationale 1",
+    "heure": "18H00",
+    "date": "05/05/2026",
+    "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/43/MLP_Academics_Heidelberg.png",
-    "name1": "MPL Academics Heidelberg",
+    "photo1": "https://media.scorenco.com/fit-in/900x900/media/image/squad-picture-1760546202.567036.png",
+    "name1": "Levallois Metropolitans",
     "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fe/MBC_logo_2019.png",
-    "name2": "Syntainics MBC",
-    "champ": "Basket-ball. Allemagne",
+    "name2": "Mulhouse Basket",
+    "champ": "Basket-ball. France. Nationale 1",
     "heure": "18H00",
-    "date": "04/05/2026",
-    "pro": "2X"
+    "date": "05/05/2026",
+    "pro": "Total: (+150.5)"
   },
     {
-    "photo1": "https://i.pinimg.com/736x/9b/c5/0a/9bc50a93a3aa73e3f9998167be077659.jpg",
-    "name1": "Minas",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaqVjg5ks25vIlkvd4t7apowO7oxXBGtu3A&s",
-    "name2": "Corinthians",
-    "champ": "Basket-ball. Brésil. NBB",
-    "heure": "22H00",
-    "date": "04/05/2026",
+    "photo1": "https://media.licdn.com/dms/image/v2/C4E0BAQEqkBUS5hOrFQ/company-logo_200_200/company-logo_200_200/0/1657548151672/lyonso_basket_logo?e=2147483647&v=beta&t=-bUMWCPhLDcTWr25CV1IFUSDpKyymxx7CtYnPsP740E",
+    "name1": "Lyonso",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDIdYabLj7LzRtBVn-BHw33mEsuRVcPpwi9A&s",
+    "name2": "Etoile Angers",
+    "champ": "Basket-ball. France. Nationale 1",
+    "heure": "18H00",
+    "date": "05/05/2026",
+    "pro": "Total: (+147.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEofe7OP13d7_71VroYx0AZ2q5hBdH3sc3w&s",
+    "name1": "CEP Lorient",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Avenir_Basket_Berck_Rang-du-Fliers_-_2022.svg/langfr-250px-Logo_Avenir_Basket_Berck_Rang-du-Fliers_-_2022.svg.png",
+    "name2": "Avenir Basket Berck Rang du Fliers",
+    "champ": "Basket-ball. France. Nationale 1",
+    "heure": "18H00",
+    "date": "05/05/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/54/Esporte_Clube_Pinheiros_logo.jpg",
-    "name1": "E.C. Pinheiros Sky Sao Paulo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72MA-9kEmS4ZBx5cpLd6HfS5dnrtSYFFVIg&s",
-    "name2": "Club Athletico Paulistano",
-    "champ": "Basket-ball. Brésil. NBB",
-    "heure": "23H00",
-    "date": "04/05/2026",
-    "pro": "Total: (+158.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/Elitzur_Netanya_logo.png",
-    "name1": "Elitzur Netanya",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPqxKO1o2X3z9xqAPcktWyceciihXdRRdA-g&s",
-    "name2": "Maccabi Ra'anana",
-    "champ": "Basket-ball. Israel",
-    "heure": "15H00",
-    "date": "04/05/2026",
-    "pro": "Total: (+162.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_mjUVozIIEu-OeMDOz3XvarmLQHmAiAUCWQ&s",
-    "name1": "Ironi Ramat Gan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/1a/Bnei_Herzliya_Basket_logo.png",
-    "name2": "Bnei Herzliya",
-    "champ": "Basket-ball. Israel",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Leuzel9LRUtvbU8FWpSfLffOJiOdEoD_wA&s",
+    "name1": "Metz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/24/Logo_Poissy_Basket_Association.png",
+    "name2": "Poissy",
+    "champ": "Basket-ball. France. Nationale 1",
     "heure": "18H00",
-    "date": "04/05/2026",
+    "date": "05/05/2026",
+    "pro": "Handicap: 2(8.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZz13vSloXO0IqsYFcaW9zMNGxykJVBY9Sg&s",
+    "name1": "Pays Salonais",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlbiU9_mctWnFw5o6dJ_tXDC-1s6MGrVzp2g&s",
+    "name2": "Aurore de Vitre",
+    "champ": "Basket-ball. France. Nationale 1",
+    "heure": "18H00",
+    "date": "05/05/2026",
+    "pro": "Total: (+153.5)"
+  },
+  {
+    "photo1": "https://www.paysdefougeresbasket.fr/wp-content/uploads/2023/06/Icon-1.jpg",
+    "name1": "Pays de Fougères",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRptNS1sXKbhF_Zardvnw-t293QgtE_I4meLA&s",
+    "name2": "Loon Plage",
+    "champ": "Basket-ball. France. Nationale 1",
+    "heure": "18H00",
+    "date": "05/05/2026",
+    "pro": "Total: (+156.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/Logo_Saint-Chamond_Andr%C3%A9zieux-Bouth%C3%A9on_Basket_-_2024.svg/250px-Logo_Saint-Chamond_Andr%C3%A9zieux-Bouth%C3%A9on_Basket_-_2024.svg.png",
+    "name1": "SCABB II",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3GhLUrr8gP0-ppBvMpuST9rAUoHXmliREPQ&s",
+    "name2": "Val de Seine",
+    "champ": "Basket-ball. France. Nationale 1",
+    "heure": "18H00",
+    "date": "05/05/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://www.bebasket.fr/_next/image?url=https%3A%2F%2Fcdn.bebasket.fr%2Fresources%2Fimages%2Fblog%2Fcapture-decran-2025-08-21-a-14-52-19-1f07e8e0-de45-62f8-b731-5d39f3b6458a.png&w=3840&q=75",
+    "name1": "Toulouse",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUW-iHAtl8pCyMeIDT9oCKKBOIGHS-VlHXQ&s",
+    "name2": "Stade OLympique Maritime boulonnais",
+    "champ": "Basket-ball. France. Nationale 1",
+    "heure": "18H00",
+    "date": "05/05/2026",
     "pro": "2X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtnp9R6h_0NoR9banykAUnGHFSSwq-r52ebg&s",
-    "name1": "Campus Monferrato U19",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7vhsdLkNmS4D91pUaznWz1aKlt39SZEI4YA&s",
-    "name2": "San Paolo Ostiense U19",
-    "champ": "Basket-ball. Italie. U19",
-    "heure": "15H30",
-    "date": "04/05/2026",
-    "pro": "Equipe gagne: V2"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurIwsCWU7hqp3nRJUCJ8su4BV2Bg9-xrOAQ&s",
-    "name1": "Olimpia Milano U19",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo_Reyer_Venise_Mestre.svg/1280px-Logo_Reyer_Venise_Mestre.svg.png",
-    "name2": "Reyer Venezia Mestre U19",
-    "champ": "Basket-ball. Italie. U19",
-    "heure": "17H30",
-    "date": "04/05/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
-    "name1": "Knicks de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Philadelphia_75ers_2015.svg/langfr-250px-Philadelphia_75ers_2015.svg.png",
-    "name2": "76ers de Philadelphie",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9tX4QchTpdk_LZnov9T3k3SBOJ4BrOIUx-Q&s",
+    "name1": "Tours Metropole",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9C7_2snqwUius3w91gASVtEWYOL4Fm1b_3A&s",
+    "name2": "Fos Ouest Provence",
+    "champ": "Basket-ball. France. Nationale 1",
+    "heure": "18H00",
     "date": "05/05/2026",
-    "pro": "Total: (+208.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXLEVEzR-AvcsiZKY1yDYZop-Qekr7CNqzA&s",
-    "name1": "San Antonio Spurs",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/250px-Timberwolves_du_Minnesota_logo_2017.png",
-    "name2": "Timberwolves du Minnesota",
-    "champ": "Basket-ball. NBA",
-    "heure": "01H30",
-    "date": "05/05/2026",
-    "pro": "Equipe gagne: V1"
+    "pro": "Handicap: 2(1.5)"
   }
 ]
