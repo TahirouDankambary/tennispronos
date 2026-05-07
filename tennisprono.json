@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1280px-Logo_%C5%BDalgiris_Kaunas.svg.png",
-    "name1": "Zalgiris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/langfr-250px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png",
-    "name2": "Fenerbahce",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "17H00",
-    "date": "06/05/2026",
-    "pro": "Total: (+157.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wQIuRkQZCT3Wl22lf97oMzc6ENetW3QUUQ&s",
+    "name1": "MHP Riesen Ludwigsburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern Munich",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "16H30",
+    "date": "07/05/2026",
+    "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Panathinaikos_BC_logo.svg/1280px-Panathinaikos_BC_logo.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfAN06Mj_dz-UXMXKFvoyhchX1jnImDdpMJA&s",
-    "name2": "Valencia",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "18H15",
-    "date": "06/05/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/bc/Peristeri_BC_Official_Logo.png",
-    "name1": "Peristéri",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/86/P.A.O.K._B.C._logo.png",
-    "name2": "P.A.O.K.",
-    "champ": "Basket-ball. Grèce",
-    "heure": "16H00",
-    "date": "06/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Niners_Chemnitz.png/250px-Niners_Chemnitz.png",
+    "name1": "Niners Chemnitz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Fraport_Skyliners_logo.png/250px-Fraport_Skyliners_logo.png",
+    "name2": "Skyliners Frankfurt",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "16H30",
+    "date": "07/05/2026",
     "pro": "Total: (+160.5)"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1f/Hamburg_Towers_logo.png",
+    "name1": "Hamburg Towers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/78/WUE_Primary_Logo_rot_transparent_CMYK.png",
+    "name2": "Wurzburg",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "18H00",
+    "date": "07/05/2026",
+    "pro": "Total: (+164.5)"
+  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Eisb%C3%A4ren_Bremerhaven_Logo.svg/1280px-Eisb%C3%A4ren_Bremerhaven_Logo.svg.png",
-    "name1": "Eisbaren Bremerhaven",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/Artland-Dragons-Logo.svg/960px-Artland-Dragons-Logo.svg.png",
-    "name2": "Artland Dragons",
-    "champ": "Basket-ball. Allemagne. Bundesliga 2",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Science_City_Jena.png/250px-Science_City_Jena.png",
+    "name1": "Science City Jena",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpODbQssxIig_R7UFRC9HpVZ7dZ1x4Hmq2Zw&s",
+    "name2": "MLP Academics Heidelberg",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "18H00",
+    "date": "07/05/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_Limoges_Cercle_Saint-Pierre.svg/250px-Logo_Limoges_Cercle_Saint-Pierre.svg.png",
+    "name1": "Limoges CSP",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Boulazac_Basket_Dordogne_-_2019.svg/1280px-Logo_Boulazac_Basket_Dordogne_-_2019.svg.png",
+    "name2": "Boulazac Dordogne",
+    "champ": "Basket-ball. France",
+    "heure": "18H50",
+    "date": "07/05/2026",
+    "pro": "Total: (+166.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcshYEAYmoj0Fja7yFshkIHLn3YJY9Wtss9g&s",
+    "name1": "Oberwart Gunners",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/99/BC_Vienna_logo_2015.png",
+    "name2": "GGMT Vienna",
+    "champ": "Basket-ball. Autriche",
     "heure": "17H00",
-    "date": "06/05/2026",
-    "pro": "Total: (+168.5)"
+    "date": "07/05/2026",
+    "pro": "Total: (+165.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/43/BG_G%C3%B6ttingen_logo.png",
-    "name1": "BG Goettingen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/5b/VfL_Kirchheim_Knights_logo.png",
-    "name2": "VFL Kirchleim Knights",
-    "champ": "Basket-ball. Allemagne. Bundesliga 2",
-    "heure": "17H30",
-    "date": "06/05/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtgb6s2zQdkFrdMJ_B7w27GXe0CFkwC-wnA&s",
-    "name1": "Phoenix Hagen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/53/PS_Karlsruhe_LIONS.png",
-    "name2": "PS Karlsruhe Lions",
-    "champ": "Basket-ball. Allemagne. Bundesliga 2",
-    "heure": "17H30",
-    "date": "06/05/2026",
-    "pro": "Total: (+172.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfcMrAdxNwrfM_vhn4A3VT7MGuBICYtseHA&s",
-    "name1": "SC Luanda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Atletico_Petroleos_Luanda_logo.png/250px-Atletico_Petroleos_Luanda_logo.png",
-    "name2": "Atletico Petroleos de Luanda",
-    "champ": "Basket-ball. Angola",
-    "heure": "17H00",
-    "date": "06/05/2026",
-    "pro": "Total: (+172.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kapfenberg_Bulls_logo_%282024%29.svg/1280px-Kapfenberg_Bulls_logo_%282024%29.svg.png",
+    "name1": "Kapfenberg Bulls",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b0/UBSC_Raiffeisen_Graz_logo.png",
+    "name2": "Craz UBSC",
+    "champ": "Basket-ball. Autriche",
+    "heure": "17H15",
+    "date": "07/05/2026",
+    "pro": "Total: (+165.5)"
   },
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDgl8d3SFEcN-9Ec4lDaK6pCjmIdDxPXusg&s",
-    "name1": "Knicks de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Philadelphia_75ers_2015.svg/langfr-250px-Philadelphia_75ers_2015.svg.png",
-    "name2": "76ers de Philadelphie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
+    "name1": "Hapoel Tel-Aviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/be/Real_Madrid_Baloncesto.png",
+    "name2": "Real Madrid Baloncesto",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H00",
+    "date": "07/05/2026",
+    "pro": "Total: (+165.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRasTSVKaX46p-DXrvuItX_U-2A-xMj3s5OsA&s",
+    "name1": "Pistons de Détroit",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaimjaBMBtYGPljmLcdcfdX2t_y_iyibz1YA&s",
+    "name2": "Cleveland",
     "champ": "Basket-ball. NBA",
     "heure": "23H00",
-    "date": "06/05/2026",
-    "pro": "Total: (+210.5)"
+    "date": "07/05/2026",
+    "pro": "Equipe gagne: (+211.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8iHG-JkbtZNCBrLOnweMNNI7Tz0wlXJeRQ&s",
-    "name1": "San Antonio Spurs",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRavORoxyH0-XrBxo-Uqtj_abtTp2It9dJ4xQ&s",
-    "name2": "Timberwolves du Minnesota",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
+    "name1": "Oklahoma City Thunder",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1280px-Los_Angeles_Lakers_logo.svg.png",
+    "name2": "Los Angeles Lakers",
     "champ": "Basket-ball. NBA",
     "heure": "01H30",
-    "date": "07/05/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Maccabi_Tel_Aviv_%28Basketball%29_2026.svg/1280px-Logo_Maccabi_Tel_Aviv_%28Basketball%29_2026.svg.png",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-d-d6AEueTOoF8VxQY_YYx0qHAGj4LxR6XA&s",
-    "name2": "Hapoel Beer Sheva",
-    "champ": "Basket-ball. Israel",
-    "heure": "16H00",
-    "date": "06/05/2026",
+    "date": "08/05/2026",
     "pro": "Equipe gagne: V1"
   }
 ]
