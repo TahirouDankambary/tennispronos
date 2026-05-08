@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wQIuRkQZCT3Wl22lf97oMzc6ENetW3QUUQ&s",
-    "name1": "MHP Riesen Ludwigsburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern Munich",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1280px-Logo_%C5%BDalgiris_Kaunas.svg.png",
+    "name1": "Zalgiris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/langfr-250px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png",
+    "name2": "Fenerbahce",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "17H00",
+    "date": "08/05/2026",
+    "pro": "Total: (+156.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/it/thumb/5/57/Logo_pana.gif/250px-Logo_pana.gif",
+    "name1": "Panathinaikos",
+    "photo2": "https://i.pinimg.com/736x/78/06/e8/7806e8c5eade34cee9c37c54bb958ac2.jpg",
+    "name2": "Valencia",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H15",
+    "date": "08/05/2026",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fe/MBC_logo_2019.png",
+    "name1": "Syntainics MBC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/el/2/2a/Brose_Bamberg_%28logo%29.png",
+    "name2": "Brose Bamberg",
     "champ": "Basket-ball. Allemagne",
     "heure": "16H30",
-    "date": "07/05/2026",
+    "date": "08/05/2026",
+    "pro": "Total: (+167.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/SC_Rasta_Vechta_logo.jpg",
+    "name1": "SC Rasta Vechta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b2/Rostock_Seawolves.png",
+    "name2": "Rostock Seawolves",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "16H30",
+    "date": "08/05/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGWh384DQlPZ6MwhGX3POnRWAN-N5pVpiRA&s",
+    "name1": "EWE Oldenburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/L%C3%B6wen_Braunschweig_logo_2020.png/250px-L%C3%B6wen_Braunschweig_logo_2020.png",
+    "name2": "Loewen Braunschweig",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "18H00",
+    "date": "08/05/2026",
+    "pro": "Total: (+172.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAee12F4jP2DbKpENXyzTX3nZvlUPDCMs61A&s",
+    "name1": "Telekom Baskets Bonn",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Gladiators_Trier_logo.png/250px-Gladiators_Trier_logo.png",
+    "name2": "Gladiators Trier",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "18H00",
+    "date": "08/05/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/tr/8/80/Anadolu_Efes_50._Y%C4%B1l_logo.png",
+    "name1": "Anadolu Efes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/34/B%C3%BCy%C3%BCk%C3%A7ekmece_Basketbol_%28logo%29.png",
+    "name2": "Buyukcekmece",
+    "champ": "Basket-ball. Turquie",
+    "heure": "16H00",
+    "date": "08/05/2026",
+    "pro": "Equipe gagne: V1"
+  },
+   {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfcMrAdxNwrfM_vhn4A3VT7MGuBICYtseHA&s",
+    "name1": "SC Luanda",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfjReM2M-sdIOaUywGUsQJjrGGnz-2SrrEg&s",
+    "name2": "Atletico Petroleos de Luanda",
+    "champ": "Basket-ball. Angola",
+    "heure": "17H00",
+    "date": "08/05/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Niners_Chemnitz.png/250px-Niners_Chemnitz.png",
-    "name1": "Niners Chemnitz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Fraport_Skyliners_logo.png/250px-Fraport_Skyliners_logo.png",
-    "name2": "Skyliners Frankfurt",
-    "champ": "Basket-ball. Allemagne",
-    "heure": "16H30",
-    "date": "07/05/2026",
-    "pro": "Total: (+160.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1f/Hamburg_Towers_logo.png",
-    "name1": "Hamburg Towers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/78/WUE_Primary_Logo_rot_transparent_CMYK.png",
-    "name2": "Wurzburg",
-    "champ": "Basket-ball. Allemagne",
-    "heure": "18H00",
-    "date": "07/05/2026",
-    "pro": "Total: (+164.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Science_City_Jena.png/250px-Science_City_Jena.png",
-    "name1": "Science City Jena",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpODbQssxIig_R7UFRC9HpVZ7dZ1x4Hmq2Zw&s",
-    "name2": "MLP Academics Heidelberg",
-    "champ": "Basket-ball. Allemagne",
-    "heure": "18H00",
-    "date": "07/05/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_Limoges_Cercle_Saint-Pierre.svg/250px-Logo_Limoges_Cercle_Saint-Pierre.svg.png",
-    "name1": "Limoges CSP",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Boulazac_Basket_Dordogne_-_2019.svg/1280px-Logo_Boulazac_Basket_Dordogne_-_2019.svg.png",
-    "name2": "Boulazac Dordogne",
-    "champ": "Basket-ball. France",
-    "heure": "18H50",
-    "date": "07/05/2026",
-    "pro": "Total: (+166.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcshYEAYmoj0Fja7yFshkIHLn3YJY9Wtss9g&s",
-    "name1": "Oberwart Gunners",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/99/BC_Vienna_logo_2015.png",
-    "name2": "GGMT Vienna",
-    "champ": "Basket-ball. Autriche",
-    "heure": "17H00",
-    "date": "07/05/2026",
-    "pro": "Total: (+165.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kapfenberg_Bulls_logo_%282024%29.svg/1280px-Kapfenberg_Bulls_logo_%282024%29.svg.png",
-    "name1": "Kapfenberg Bulls",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b0/UBSC_Raiffeisen_Graz_logo.png",
-    "name2": "Craz UBSC",
-    "champ": "Basket-ball. Autriche",
-    "heure": "17H15",
-    "date": "07/05/2026",
-    "pro": "Total: (+165.5)"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png",
-    "name1": "Hapoel Tel-Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/be/Real_Madrid_Baloncesto.png",
-    "name2": "Real Madrid Baloncesto",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "18H00",
-    "date": "07/05/2026",
-    "pro": "Total: (+165.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRasTSVKaX46p-DXrvuItX_U-2A-xMj3s5OsA&s",
-    "name1": "Pistons de Détroit",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaimjaBMBtYGPljmLcdcfdX2t_y_iyibz1YA&s",
-    "name2": "Cleveland",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyusbMyn7sR7IYOmu3CVfhRa65HEkDTqoiSg&s",
+    "name1": "76ers de Philadelphie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
+    "name2": "Knicks de New York",
     "champ": "Basket-ball. NBA",
     "heure": "23H00",
-    "date": "07/05/2026",
-    "pro": "Equipe gagne: (+211.5)"
+    "date": "08/05/2026",
+    "pro": "Total: (+209.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
-    "name1": "Oklahoma City Thunder",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1280px-Los_Angeles_Lakers_logo.svg.png",
-    "name2": "Los Angeles Lakers",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRavORoxyH0-XrBxo-Uqtj_abtTp2It9dJ4xQ&s",
+    "name1": "Timberwolves du Minnesota",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxE1xmhPNeU3HbRG59YkuVGSDwEyrPhBepEg&s",
+    "name2": "San Antonio Spurs",
     "champ": "Basket-ball. NBA",
     "heure": "01H30",
-    "date": "08/05/2026",
-    "pro": "Equipe gagne: V1"
+    "date": "09/05/2026",
+    "pro": "Total: (+212.5)"
   }
 ]
