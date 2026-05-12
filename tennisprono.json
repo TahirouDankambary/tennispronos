@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaFdAvXe912IG_XVKdTHHuPNyBSL3M15D8Tg&s",
-    "name1": "UNICS",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Logo_Z%C3%A9nith_Saint-P%C3%A9tersbourg_2023.svg/langfr-250px-Logo_Z%C3%A9nith_Saint-P%C3%A9tersbourg_2023.svg.png",
-    "name2": "Zénith Saint-Pétersbourg",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX7I90DoDkcnYB5Dy8DNbi6pMN1S3PnxoTw&s",
+    "name1": "CSKA Moscou",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxyJoF-vPHiDJslWg51evdp-4k9OACFABgg&s",
+    "name2": "Lokomotiv Kuban",
     "champ": "Basket-ball. VTB United Ligue",
-    "heure": "15H00",
-    "date": "11/05/2026",
-    "pro": "Total: (+155.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWM_tpxYdvkiixf5f6EW5qiElJJfRXl-bT0Q&s",
-    "name1": "Obera TC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/500px-Boca_Juniors_logo18.svg.png",
-    "name2": "Boca Juniors",
-    "champ": "Basket-ball. Argentine LNB",
-    "heure": "23H30",
-    "date": "11/05/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZspErtZsgBThRmKbbAt-SAsGVGDEaE364hQ&s",
-    "name1": "Bnei Herzliya",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7c/Elitzur_Netanya_logo.png",
-    "name2": "Elitzur Netanga",
-    "champ": "Basket-ball. Israel. Superligue",
-    "heure": "17H30",
-    "date": "11/05/2026",
+    "heure": "16H30",
+    "date": "12/05/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLonSz7_C93Q0q5va4wW1qcXHvknoVrC8MyA&s",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Niners_Chemnitz.png/250px-Niners_Chemnitz.png",
-    "name2": "Elitzur Kiryat Ata",
-    "champ": "Basket-ball. Israel. Superligue",
-    "heure": "18H05",
-    "date": "11/05/2026",
-    "pro": "Total: (+179.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmbt_ZbjAYO4SVPJKi6lAiqBy4lDFZ_I8tw&s",
-    "name1": "Nacional Montevideo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/1/13/Club_Bigu%C3%A1.png",
-    "name2": "Bigua Montevideo",
-    "champ": "Basket-ball. Uruguay",
-    "heure": "22H15",
-    "date": "11/05/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ8wFseT_A8zVXoXdiSs9tvdUtVHEUdrF_bQ&s",
-    "name1": "Balkan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/25/BC_Cherno_More_logo.png",
-    "name2": "Euroins Cherno More",
-    "champ": "Basket-ball. Bulgarie. NBL",
-    "heure": "16H15",
-    "date": "11/05/2026",
-    "pro": "Total: (+168.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a4/New_alba_fehervar_logo.png",
-    "name1": "Alba Fehervar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOFq57ZLjSoldVx0jsGB4u7hZ00dPWo04alQ&s",
-    "name2": "Budapesti Honved",
-    "champ": "Basket-ball. Hongrie. NB I/A",
-    "heure": "16H00",
-    "date": "11/05/2026",
-    "pro": "1X"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPxwY7xWRTtr_FPv6cc7xH4UzjL36_AjTZw&s",
-    "name1": "CSO Voluntari",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/c1/CSU_Sibiu_logo.png",
-    "name2": "Sibiu",
-    "champ": "Basket-ball. Rouamanie",
-    "heure": "16H00",
-    "date": "11/05/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://scmtimisoara.ro/wp-content/uploads/2026/02/SCM-TImisoara-logo-brand.jpg",
-    "name1": "Timisoara",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/2b/Basket_Steaua_Bucarest_logo_2024.png",
-    "name2": "CSA Steaua Bucuresti",
-    "champ": "Basket-ball. Rouamanie",
-    "heure": "16H00",
-    "date": "11/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b2/Rostock_Seawolves.png",
+    "name1": "Rostock Seawolves",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwpF77Vi8yMHhmX6oDkgUE_kpCddqLcw1PMw&s",
+    "name2": "MHP Riesen Ludwigsburg",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "16H30",
+    "date": "12/05/2026",
     "pro": "Total: (+159.5)"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/SC_Rasta_Vechta_logo.jpg",
+    "name1": "SC Rasta Vechta",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5MroX727p4x_JS1TGgkio9WXQQ90iNFtBw&s",
+    "name2": "Gladiators Trier",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "18H30",
+    "date": "12/05/2026",
+    "pro": "Equipe gagne: V1"
+  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/SCM_Craiova_logo.png/250px-SCM_Craiova_logo.png",
-    "name1": "SCM CSU Craiova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Logo_U-BT_Cluj-Napoca.svg/1280px-Logo_U-BT_Cluj-Napoca.svg.png",
-    "name2": "U-BT Cluj-Napoca",
-    "champ": "Basket-ball. Rouamanie",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoorCJfz6A_Zut8ez86oR-yglShb82Qy8jGw&s",
+    "name1": "Gérone",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0dPooPrj5GtLfmgJ7b10v2cVdztXAg1kCUQ&s",
+    "name2": "Manresa",
+    "champ": "Basket-ball. Espagne. Liga ACB",
+    "heure": "18H00",
+    "date": "12/05/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://static.wixstatic.com/media/0088ba_60f8c6c90d574763a5e9e09915f49d14~mv2.png",
+    "name1": "CB Liege",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKPojkrKpONYXIqKTtsNgsrJqOxPUW71cRA&s",
+    "name2": "Guco Lier",
+    "champ": "Basket-ball. Belgique",
+    "heure": "18H30",
+    "date": "12/05/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Crest_of_Minas_Tenis_Clube.svg/1280px-Crest_of_Minas_Tenis_Clube.svg.png",
+    "name1": "Minas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/SC_Corinthians_Paulista.svg/langfr-250px-SC_Corinthians_Paulista.svg.png",
+    "name2": "Corinthians",
+    "champ": "Basket-ball. Brésil. NBB",
+    "heure": "22H00",
+    "date": "12/05/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/he/3/37/Maccabi_ironi_ramat-gan.png",
+    "name1": "Ironi Ramat Gan",
+    "photo2": "https://r2.thesportsdb.com/images/media/team/badge/lnguyp1759569049.png",
+    "name2": "Maccabi Ra'anana",
+    "champ": "Basket-ball. Israel. Superligue",
     "heure": "16H00",
-    "date": "11/05/2026",
-    "pro": "Equipe gagne: V2"
+    "date": "12/05/2026",
+    "pro": "Total: (+166.5)"
+  },
+   {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8NlvFm0SVGc-PGXXygDBxkUPLVVSHQBiPCw&s",
+    "name1": "Elitzur Yavne",
+    "photo2": "https://static.flashscore.com/res/image/data/OYWoj9Lm-U7JPzWr7.png",
+    "name2": "MS Safed",
+    "champ": "Basket-ball. Israel. Ligue nationale",
+    "heure": "15H30",
+    "date": "12/05/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/he/b/bd/Maccabi_Kiryat_Gat_B.C_Logo.png",
+    "name1": "Maccabi Kiryat-Gat",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR54Ki0vd9xHAOuXDU327ZuSmWY-gZL5Lp1g&s",
+    "name2": "Hapoel Migdal HaEmek",
+    "champ": "Basket-ball. Israel. Ligue nationale",
+    "heure": "15H45",
+    "date": "12/05/2026",
+    "pro": "Total: (+177.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/he/thumb/c/c0/Maccabi_Rehovot_B.C_LOGO.jpg/250px-Maccabi_Rehovot_B.C_LOGO.jpg",
+    "name1": "Maccabi Rehovot",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d3/Basketball_Austria_logo.png",
+    "name2": "Otef Darom",
+    "champ": "Basket-ball. Israel. Ligue nationale",
+    "heure": "16H00",
+    "date": "12/05/2026",
+    "pro": "Equipe gagne: V1"
   }
 ]
