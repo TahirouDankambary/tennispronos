@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/an/6/62/Brose_Bamberg_logo.png",
-    "name1": "Brose Bamberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Ratiopharm_Ulm_%28logo%29.svg/langfr-250px-Ratiopharm_Ulm_%28logo%29.svg.png",
-    "name2": "Ratiopharm Ulm",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCkiyOev5Rov82BNqOXBX56BFerIZIQ_sB8Q&s",
+    "name1": "Bayern Munich",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQefRyKB2mSyhzVq03--9NuzQzj2vkJKs3xxQ&s",
+    "name2": "Gladiators Trier",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "14H30",
+    "date": "17/05/2026",
+    "pro": "Total: (+172.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Alba_Berlin_%28logo%29.svg/1280px-Alba_Berlin_%28logo%29.svg.png",
+    "name1": "ALBA Berlin",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nn15nsmeWxUESItySKXzlZ11bIUt63SLfg&s",
+    "name2": "SC Rasta Vechta",
     "champ": "Basket-ball. Allemagne",
     "heure": "16H30",
-    "date": "16/05/2026",
-    "pro": "Total: (+164.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Telekom_Baskets_Bonn_logo.svg/1280px-Telekom_Baskets_Bonn_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Telekom Baskets Bonn",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Soliver_wuerzburg.png",
-    "name2": "Wurzburg",
-    "champ": "Basket-ball. Allemagne",
-    "heure": "18H30",
-    "date": "16/05/2026",
-    "pro": "1X"
+    "date": "17/05/2026",
+    "pro": "Equipe gagne: V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/85/CB_Breogan.png/330px-CB_Breogan.png",
-    "name1": "Breogan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/B%C3%A0squet_Girona_logo.png/250px-B%C3%A0squet_Girona_logo.png",
-    "name2": "Gérone",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1aMgmWEIRD3a92yyJquGcc_h0yjjcTZ9eQ&s",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Bilbaobasket.png/250px-Bilbaobasket.png",
+    "name2": "Bilbao",
+    "champ": "Basket-ball. Espagne. Liga ACB",
+    "heure": "15H00",
+    "date": "17/05/2026",
+    "pro": "Total: (+171.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1a4NgtIKpRzbdDnATaIDv5eVsXxEBU-xtQ&s",
+    "name1": "Saski Baskonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/11/Coviran_Granada.png",
+    "name2": "CB Granada",
     "champ": "Basket-ball. Espagne. Liga ACB",
     "heure": "16H00",
-    "date": "16/05/2026",
-    "pro": "Total: (+178.5)"
+    "date": "17/05/2026",
+    "pro": "Total: (+177.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/46/Baxi_Manresa_logo.png",
-    "name1": "Manresa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
-    "name2": "Zaragoza 2002",
-    "champ": "Basket-ball. Espagne. Liga ACB",
-    "heure": "19H00",
-    "date": "16/05/2026",
-    "pro": "Total: (+175.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Boulazac_Basket_Dordogne_-_2019.svg/1280px-Logo_Boulazac_Basket_Dordogne_-_2019.svg.png",
-    "name1": "Boulazac Dordogne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/960px-Logo_AS_Monaco_Basket.svg.png",
-    "name2": "Monaco",
-    "champ": "Basket-ball. Championnat de France",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BC_Andorra_logo.svg/960px-BC_Andorra_logo.svg.png",
+    "name1": "MoraBanc Andorra",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWk3Ev7Zm3rh3sy76VPyx7hZfv_ppgC6fktQ&s",
+    "name2": "Burgos",
+    "champ": "Basket-ball. Espagne. LEB Oro",
     "heure": "17H00",
-    "date": "16/05/2026",
+    "date": "17/05/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6OFyyY2hjM2gf8Fi86wzDVi97b01QKXLOqg&s",
+    "name1": "La Laguna Tenerife",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "Basket-ball. Espagne. LEB Oro",
+    "heure": "18H00",
+    "date": "17/05/2026",
+    "pro": "Total: (+167.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gipuzkoa-Basket-Logo-300x300-1.png",
+    "name1": "Gipuzkoa",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4cBjXHLoPbGkjK-WYQpT0sdvi7Q_KuHymag&s",
+    "name2": "Oviedo",
+    "champ": "Basket-ball. Espagne. LEB Oro",
+    "heure": "15H00",
+    "date": "17/05/2026",
+    "pro": "1X"
+  },
+   {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ESWWpinUsnEAE4Ir1F59c6O9V9F1HrwnAQ&s",
+    "name1": "Estudiantes Madrid",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Mk4xwBXDSGv707c4iI895gOn0GcRPylwJA&s",
+    "name2": "CB Lucentum Alicante",
+    "champ": "Basket-ball. Espagne. LEB Oro",
+    "heure": "16H30",
+    "date": "17/05/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/Logo_ESSM_Le_Portel_C%C3%B4te_d%27Opale_-_2015.svg/1280px-Logo_ESSM_Le_Portel_C%C3%B4te_d%27Opale_-_2015.svg.png",
-    "name1": "ESSM Le Portel COte d'Opale",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/01/JDA_Dijon_Basket.png",
-    "name2": "JDA Dijon Bourgogne",
-    "champ": "Basket-ball. Championnat de France",
-    "heure": "17H00",
-    "date": "16/05/2026",
-    "pro": "Equipe gagne: V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/B%C3%A1squet_Coru%C3%B1a.svg/1280px-B%C3%A1squet_Coru%C3%B1a.svg.png",
+    "name1": "Coruna",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ZSBSuRPHStuREpGmzO8sXfUfZwVvM9oRKg&s",
+    "name2": "Menorca",
+    "champ": "Basket-ball. Espagne. LEB Oro",
+    "heure": "18H00",
+    "date": "17/05/2026",
+    "pro": "Handicap: 2(15.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8f/Logo_Le_Mans_Sarthe_Basket_-_2009.svg/1920px-Logo_Le_Mans_Sarthe_Basket_-_2009.svg.png",
-    "name1": "Le Mans Sarthe",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_Limoges_Cercle_Saint-Pierre.svg/250px-Logo_Limoges_Cercle_Saint-Pierre.svg.png",
-    "name2": "Limoges CSP",
-    "champ": "Basket-ball. Championnat de France",
-    "heure": "17H00",
-    "date": "16/05/2026",
-    "pro": "Total: (+171.5)"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/SLUC_Nancy_%28logo%29.svg/1280px-SLUC_Nancy_%28logo%29.svg.png",
-    "name1": "SLUC Nancy",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/82/Logo_Saint-Quentin_Basket-Ball_-_2019.svg/960px-Logo_Saint-Quentin_Basket-Ball_-_2019.svg.png",
-    "name2": "Saint Quentin",
-    "champ": "Basket-ball. Championnat de France",
-    "heure": "17H00",
-    "date": "16/05/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://alchetron.com/cdn/nanterre-92-0cf1584b-6c5f-4ae4-81e2-348409132da-resize-750.jpg",
-    "name1": "JSF Nanterre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/500px-Logo_Cholet_Basket_2019.svg.png",
-    "name2": "Cholet",
-    "champ": "Basket-ball. Championnat de France",
-    "heure": "17H00",
-    "date": "16/05/2026",
-    "pro": "Total: (+166.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_officiel_SIG_Strasbourg.png/1280px-Logo_officiel_SIG_Strasbourg.png",
-    "name1": "Strasbourg IG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_Elan_Chalon_2018.svg/1920px-Logo_Elan_Chalon_2018.svg.png",
-    "name2": "Elan Chalon",
-    "champ": "Basket-ball. Championnat de France",
-    "heure": "17H00",
-    "date": "16/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a9/Palencia_Baloncesto_logo.png",
+    "name1": "Palencia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0lEHT6PJR_cRir2HkT1pxzZJsCT8rSWa2-Q&s",
+    "name2": "Baloncesto Fuenlabrada",
+    "champ": "Basket-ball. Espagne. LEB Oro",
+    "heure": "18H00",
+    "date": "18/05/2026",
     "pro": "Equipe gagne: V1"
   }
 ]
