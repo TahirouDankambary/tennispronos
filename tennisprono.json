@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAee12F4jP2DbKpENXyzTX3nZvlUPDCMs61A&s",
-    "name1": "Telekom Baskets Bonn",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy3VzLb1QQQDxCt8klzQJQJ2pOhccd-svnpA&s",
-    "name2": "Wurzburg",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcBPZFoF2WY7OpjtfY4Y3tkia4cnyYIVrR_w&s",
+    "name1": "Zénith Saint-Pétersbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1f/Unics_big.gif",
+    "name2": "UNICS",
+    "champ": "Basket-ball. VTB United Ligue",
+    "heure": "16H30",
+    "date": "19/05/2026",
+    "pro": "Total: (+156.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3pqqQ40yOgjtdT2_dwSzkrabWCbipCPLAQ&s",
+    "name1": "ALBA Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d5/SC_Rasta_Vechta_logo.jpg",
+    "name2": "SC Rasta Vechta",
     "champ": "Basket-ball. Allemagne",
     "heure": "16H30",
-    "date": "18/05/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/Brose_Baskets_Logo.svg/langfr-250px-Brose_Baskets_Logo.svg.png",
-    "name1": "Brose Bamberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Ratiopharm_Ulm_%28logo%29.svg/langfr-250px-Ratiopharm_Ulm_%28logo%29.svg.png",
-    "name2": "Ratiopharm Ulm",
-    "champ": "Basket-ball. Allemagne",
-    "heure": "18H30",
-    "date": "18/05/2026",
-    "pro": "Equipe gagne: V1"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4DnGOdRWRFcVyFBxUeWEN1AU-inVtBq7ag&s",
-    "name1": "Elitzur Netanya",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgTEEHwwdhHfQtKL83OecmNVHcyJoU47hrnQ&s",
-    "name2": "Hapoel Holon",
-    "champ": "Basket-ball. Championnat d'Israel",
-    "heure": "15H40",
-    "date": "18/05/2026",
-    "pro": "Total: (+179.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPqxKO1o2X3z9xqAPcktWyceciihXdRRdA-g&s",
-    "name1": "Maccabi Ra'anana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Ironi_Ness_Ziona_basketball_logo_2021.png/250px-Ironi_Ness_Ziona_basketball_logo_2021.png",
-    "name2": "Ironi",
-    "champ": "Basket-ball. Championnat d'Israel",
-    "heure": "18H00",
-    "date": "18/05/2026",
-    "pro": "Handicap: 2(1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/dd/BC_Minsk_2022_logo.png",
-    "name1": "Minsk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/bb/BC_Borisfen_logo.png",
-    "name2": "Borisfen Mogilev",
-    "champ": "Basket-ball. Championnat de Biélorussie",
-    "heure": "15H30",
-    "date": "18/05/2026",
-    "pro": "Total: (+153.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0aDKp2BZe1rHDkkFfRkYUR6lRn24jzLw_A&s",
-    "name1": "Olimpia Kings",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d5/Deportivo_San_Jos%C3%A9_logo.png",
-    "name2": "Deportivo San Jose",
-    "champ": "Basket-ball. Championnat du Paraguay",
-    "heure": "23H00",
-    "date": "18/05/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://pbs.twimg.com/profile_images/1671196749619245062/KlpV3E40_400x400.png",
-    "name1": "Colonias Gold",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgjEvJFYu2UvB1_h_3ukLfQpUusyOKYBp8g&s",
-    "name2": "Ciudad Nueva",
-    "champ": "Basket-ball. Championnat du Paraguay",
-    "heure": "22H30",
-    "date": "18/05/2026",
-    "pro": "Handicap: 2(29.5)"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4oH4RI7gJ595NouqthwwmxaSZpirVx89Ug&s",
-    "name1": "Brillantes del Zulia",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7M2WDFkd4Gmi2b0BrXzDC8E_58UiTgzRTXA&s",
-    "name2": "Gaiteros del Zulia",
-    "champ": "Basket-ball. Championnat du Venezuela",
-    "heure": "23H00",
-    "date": "18/05/2026",
-    "pro": "Total: (+160.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFjMfAl2PWqcMJgbKCPdk2ZvKu8WokOe2rw&s",
-    "name1": "Marinos de Anzoategui",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Spartans_Districto_Capital_logo.png/250px-Spartans_Districto_Capital_logo.png",
-    "name2": "Spartans Distrito Capital",
-    "champ": "Basket-ball. Championnat du Venezuela",
-    "heure": "23H00",
-    "date": "18/05/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
-    "name1": "Oklahoma City Thunder",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
-    "name2": "San Antonio Spurs",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H30",
     "date": "19/05/2026",
     "pro": "1X"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoz5eNd2nR9EqHng8-HmeBcyuGIqaJsq3RCw&s",
+    "name1": "Bayern Munich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Gladiators_Trier_logo.png/250px-Gladiators_Trier_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Gladiators Trier",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "18H30",
+    "date": "19/05/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRWBSpzpCmLbs_H6Xxuw8Yjyh_G0rzJ-Q_Gg&s",
+    "name1": "Turow Zgorzelec",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWo2L_CNN5pRvRzMKgTZDaFYQ0REbbMmCqFA&s",
+    "name2": "KKS Tarnowskie Gory",
+    "champ": "Basket-ball. Championnat de la Pologne",
+    "heure": "15H00",
+    "date": "19/05/2026",
+    "pro": "Handicap: 1(-1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f8/Oberwart_Gunners_logo.png",
+    "name1": "Oberwart Gunners",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/99/BC_Vienna_logo_2015.png",
+    "name2": "GGMT Vienna",
+    "champ": "Basket-ball. Championnat d'Autriche",
+    "heure": "17H15",
+    "date": "19/05/2026",
+    "pro": "Handicap: 2(6.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NsvbndHWHYTHl1WwjlTJWHViEc0llgUprw&s",
+    "name1": "Elitzur Kiryat Ata",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT87WM3h-tC639d8g9QRTXxRJPZ2qKoc30vjw&s",
+    "name2": "Ironi Ramat Gan",
+    "champ": "Basket-ball. Championnat d'Israel",
+    "heure": "16H00",
+    "date": "19/05/2026",
+    "pro": "Total: (+174.5)"
+  },
+  {
+    "photo1": "https://r2.thesportsdb.com/images/media/team/badge/s4hgu71767857321.png",
+    "name1": "Maccabi Maale Adumim",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgjEvJFYu2UvB1_h_3ukLfQpUusyOKYBp8gs",
+    "name2": "MS Safed",
+    "champ": "Basket-ball. Israel. Ligue nationale",
+    "heure": "15H30",
+    "date": "19/05/2026",
+    "pro": "Total: (+175.5)"
+  },
+   {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNwfMH63kB4ubfoGukjSem9BLKNYrzmWScLA&s",
+    "name1": "Maccabi Haifa",
+    "photo2": "https://imagecache.365scores.com/image/upload/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png/v5/Competitors/15174",
+    "name2": "Hapoel Migdal HaEmek",
+    "champ": "Basket-ball. Israel. Ligue nationale",
+    "heure": "15H45",
+    "date": "19/05/2026",
+    "pro": "Handicap: 2(5.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a5/Elitzur_Yavne_BC_Logo.png",
+    "name1": "Elitzur Yavne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Maccabi_Petach-Tikva_%28logo%29.svg/1280px-Maccabi_Petach-Tikva_%28logo%29.svg.png",
+    "name2": "Maccabi Petah Tikva",
+    "champ": "Basket-ball. Israel. Ligue nationale",
+    "heure": "16H00",
+    "date": "19/05/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw0YUPt1bap1YoVgbwB-lYn217qSSWEEf5Aw&s",
+    "name1": "Otef Darom",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9a/Maccabias_1.jpg",
+    "name2": "Maccabi Ashdod",
+    "champ": "Basket-ball. Israel. Ligue nationale",
+    "heure": "18H05",
+    "date": "19/05/2026",
+    "pro": "Total: (+170.5)"
   }
 ]
