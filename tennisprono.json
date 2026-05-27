@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSocRyJBryXLYkEYUPd4_p4QrrUoHxPlcO7OQ&s",
-    "name1": "Zaragoza 2002",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1aMgmWEIRD3a92yyJquGcc_h0yjjcTZ9eQ&s",
-    "name2": "Valencia",
-    "champ": "Basket-ball. Espagne. Liga ACB",
-    "heure": "19H15",
-    "date": "26/05/2026",
-    "pro": "Equipe gagne: V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwL-0YeARdSPaJkJsmGPnknGh-lpnQoBzIQ&s",
+    "name1": "ALBA Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d5/SC_Rasta_Vechta_logo.jpg",
+    "name2": "SC Rasta Vechta",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "16H30",
+    "date": "27/05/2026",
+    "pro": "Total: (+166.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfI5nX7f8VYzRbbvL7IPvTd-HG1YDO5bqdQ&s",
-    "name1": "Besiktas",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNG0L6ki6V4Nb6DzLjEBBjffBymlJOhtSkHw&s",
-    "name2": "Galatasaray",
-    "champ": "Basket-ball. Turquie. Superligue",
-    "heure": "17H30",
-    "date": "26/05/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAee12F4jP2DbKpENXyzTX3nZvlUPDCMs61A&s",
+    "name1": "Telekom Baskets Bonn",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy3VzLb1QQQDxCt8klzQJQJ2pOhccd-svnpA&s",
+    "name2": "Wurzburg",
+    "champ": "Basket-ball. Allemagne",
+    "heure": "18H30",
+    "date": "27/05/2026",
+    "pro": "Total: (+155.5)"
   },
     {
-    "photo1": "Vhttps://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg/960px-Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "ASVEL Lyon-Villeurbanne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/500px-Logo_Cholet_Basket_2019.svg.png",
-    "name2": "Cholet",
-    "champ": "Basket-ball. Championnat de France",
-    "heure": "17H00",
-    "date": "26/05/2026",
-    "pro": "Total: (+164.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGQZBqpfVHV4kCeHm_yXzTiLwQGWflH4tYg&s",
+    "name1": "Real Madrid Baloncesto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
+    "name2": "Saski Baskonia",
+    "champ": "Basket-ball. Espagne. Liga ACB",
+    "heure": "19H00",
+    "date": "27/05/2026",
+    "pro": "Handicap: 2(7.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAU1mBnHzVkqKdv6Kjwgk8X16StWD2Sahb4A&s",
-    "name1": "Paris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_officiel_SIG_Strasbourg.png/1280px-Logo_officiel_SIG_Strasbourg.png",
-    "name2": "Strasbourg IG",
+    "photo1": "https://upload.wikimedia.org/wikipedia/tr/8/80/Anadolu_Efes_50._Y%C4%B1l_logo.png",
+    "name1": "Anadolu Efes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/T%C3%BCrk_Telekom_Basketbol_logo.png/250px-T%C3%BCrk_Telekom_Basketbol_logo.png",
+    "name2": "Turk Telekom",
+    "champ": "Basket-ball. Turquie. Superligue",
+    "heure": "15H00",
+    "date": "27/05/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/langfr-250px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/46/Esenler_Erokspor_logo.png",
+    "name2": "Esenler Erokspor",
+    "champ": "Basket-ball. Turquie. Superligue",
+    "heure": "17H30",
+    "date": "27/05/2026",
+    "pro": "Total: (+163.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/Logo_Le_Mans_Sarthe_Basket_-_2025.svg/langfr-250px-Logo_Le_Mans_Sarthe_Basket_-_2025.svg.png",
+    "name1": "Le Mans Sarthe",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXTCZhPOFEFJO_LtS3ELTO4ENqgC49ZK22Gw&s",
+    "name2": "JSF Nanterre",
     "champ": "Basket-ball. Championnat de France",
     "heure": "19H00",
-    "date": "26/05/2026",
-    "pro": "Equipe gagne: V1"
+    "date": "27/05/2026",
+    "pro": "Total: (+166.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/5b/VfL_Kirchheim_Knights_logo.png",
-    "name1": "VFL Kirchheim Knights",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/Gie%C3%9Fen_46ers_%28logo%29.svg/1280px-Gie%C3%9Fen_46ers_%28logo%29.svg.png",
-    "name2": "Giessen 46 ers",
-    "champ": "Basket-ball. Allemagne. Bundesliga 2",
-    "heure": "17H00",
-    "date": "26/05/2026",
-    "pro": "Handicap: 1(3.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtgb6s2zQdkFrdMJ_B7w27GXe0CFkwC-wnA&s",
-    "name1": "Phoenix Hagen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Eisb%C3%A4ren_Bremerhaven_Logo.svg/1280px-Eisb%C3%A4ren_Bremerhaven_Logo.svg.png",
-    "name2": "Eisbaren Bremerhaven",
-    "champ": "Basket-ball. Allemagne. Bundesliga 2",
-    "heure": "17H30",
-    "date": "26/05/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIHCrORgS-xGnpxyK-g00SJ_7msPIy0BNadA&s",
+    "name1": "JL Bourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/960px-Logo_AS_Monaco_Basket.svg.png",
+    "name2": "Monaco",
+    "champ": "Basket-ball. Championnat de France",
+    "heure": "19H00",
+    "date": "27/05/2026",
     "pro": "Total: (+167.5)"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT87WM3h-tC639d8g9QRTXxRJPZ2qKoc30vjw&s",
-    "name1": "Ironi Ramat Gan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f8/Hapo%C3%ABl_Holon.jpg",
-    "name2": "Hapoel Holon",
-    "champ": "Basket-ball. Championnat d'Isarael",
-    "heure": "14H30",
-    "date": "26/05/2026",
-    "pro": "Handicap: 1(8.5)"
-  },
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24r3daqni-DHPx92hJ2pPzDNuS5l6ut5Tzw&s",
-    "name1": "CSM Oradea",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDoic9AWVK5ILL_wvVWcpiDHF8SomUbIRA5Q&s",
-    "name2": "U-BT Cluj-Napoca",
-    "champ": "Basket-ball. Championnat de Roumanie",
-    "heure": "16H00",
-    "date": "26/05/2026",
-    "pro": "Handicap: 2(-2.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9pa3N_nbEZaKY2M3d6PLe37MMHyx9XXUung&s",
+    "name1": "Saint Quentin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Logo_Poitiers_Basket_86_-_2018.svg/1280px-Logo_Poitiers_Basket_86_-_2018.svg.png",
+    "name2": "Poitiers 86",
+    "champ": "Basket-ball. France. Elite 2",
+    "heure": "18H00",
+    "date": "27/05/2026",
+    "pro": "Equipe gagne: V1"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJ6FmBt6e9zhBkquliE-NYgiRsixXyfmkHw&s",
@@ -90,13 +90,13 @@
     "pro": "Handicap: 2(-2.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ6TEszA417QUqfWpe4FkgdX05QJR-mQF_xw&s",
-    "name1": "Oklahoma City Thunder",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
-    "name2": "San Antonio Spurs",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/db/New_York_Liberty_logo.svg.png",
+    "name1": "Liberty de New York",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c1/Phoenix_Mercury_logo_2025.png",
+    "name2": "Mercury de Phoenix",
     "champ": "Basket-ball. NBA",
-    "heure": "00H30",
+    "heure": "23H00",
     "date": "27/05/2026",
-    "pro": "Total: (+206.5)"
+    "pro": "Total: (+176.5)"
   }
 ]
