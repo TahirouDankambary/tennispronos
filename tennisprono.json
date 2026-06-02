@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFXPbfo8fgggULSnoQcsOAC4zieOv91CDAvw&s",
-    "name1": "Zénith Saint-Pétersbourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxyJoF-vPHiDJslWg51evdp-4k9OACFABgg&s",
-    "name2": "Lokomotiv Kuban",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Logo_PBC_CSKA_Moscow_%282017%29.svg/langfr-250px-Logo_PBC_CSKA_Moscow_%282017%29.svg.png",
+    "name1": "CSKA Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1f/Unics_big.gif",
+    "name2": "UNICS",
     "champ": "Basket-ball. VTB United Ligue",
     "heure": "16H30",
-    "date": "01/06/2026",
-    "pro": "Total: (+160.5)"
+    "date": "02/06/2026",
+    "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwL-0YeARdSPaJkJsmGPnknGh-lpnQoBzIQ&s",
-    "name1": "ALBA Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/el/2/2a/Brose_Bamberg_%28logo%29.png",
-    "name2": "Brose Bamberg",
-    "champ": "Basket-ball. Brésil. Championnat d'Allemagne",
-    "heure": "16H30",
-    "date": "01/06/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/77/UCAM_Murcia_CF_escudo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Universidad Catolica de Murcia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/langfr-250px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "Basket-ball. Espagne. Liga ACB",
+    "heure": "17H00",
+    "date": "02/06/2026",
+    "pro": "Handicap: 1(4)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCkiyOev5Rov82BNqOXBX56BFerIZIQ_sB8Q&s",
-    "name1": "Bayern Munich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Telekom_Baskets_Bonn_logo.svg/1280px-Telekom_Baskets_Bonn_logo.svg.png",
-    "name2": "Telekom Baskets Bonn",
-    "champ": "Basket-ball. Championnat d'Allemagne",
-    "heure": "18H30",
-    "date": "01/06/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/be/Real_Madrid_Baloncesto.png",
+    "name1": "Real Madrid Baloncesto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Logo_of_CB_1939_Canarias.png/250px-Logo_of_CB_1939_Canarias.png",
+    "name2": "La Laguna Tenerife",
+    "champ": "Basket-ball. Espagne. Liga ACB",
+    "heure": "19H00",
+    "date": "02/06/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/langfr-250px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/tr/8/80/Anadolu_Efes_50._Y%C4%B1l_logo.png",
-    "name2": "Anadolu Efes",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_Be%C5%9Fikta%C5%9F_JK.svg/1920px-Logo_of_Be%C5%9Fikta%C5%9F_JK.svg.png",
+    "name1": "Besiktas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bah%C3%A7e%C5%9Fehir_Koleji_Spor_Kul%C3%BCb%C3%BC_logo.png/250px-Bah%C3%A7e%C5%9Fehir_Koleji_Spor_Kul%C3%BCb%C3%BC_logo.png",
+    "name2": "Bahcesehir Koleji",
     "champ": "Basket-ball. Turquie",
     "heure": "17H00",
-    "date": "01/06/2026",
-    "pro": "Handicap: 2(10.5)"
+    "date": "02/06/2026",
+    "pro": "Handicap: 2(9.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_AS_Monaco_Basket.svg/960px-Logo_AS_Monaco_Basket.svg.png",
-    "name1": "Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/Logo_Nanterre_92_-_2016.svg/langfr-250px-Logo_Nanterre_92_-_2016.svg.png",
-    "name2": "JSF Nanterre",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Paris_Basketball_-_2024.svg/1280px-Logo_Paris_Basketball_-_2024.svg.png",
+    "name1": "Paris",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/500px-Logo_Cholet_Basket_2019.svg.png",
+    "name2": "Cholet",
     "champ": "Basket-ball. Championnat de France",
     "heure": "18H0O",
-    "date": "01/06/2026",
-    "pro": "Total: (+169.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1a/Bnei_Herzliya_Basket_logo.png",
-    "name1": "Bnei Herzliya",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Hapoel_Holon_2017_logo.png",
-    "name2": "Hapoel Holon",
-    "champ": "Basket-ball. Championnat d'Israel",
-    "heure": "15H35",
-    "date": "01/06/2026",
-    "pro": "Handicap: 1(3.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/Elitzur_Netanya_logo.png",
-    "name1": "Elitzur Netanya",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/Hapoel_Galil_Elyon_-_Logo.png/250px-Hapoel_Galil_Elyon_-_Logo.png",
-    "name2": "Hapoel Galil Elyon",
-    "champ": "Basket-ball. Israel. Championnat d'Israel",
-    "heure": "17H00",
-    "date": "01/06/2026",
-    "pro": "Handicap: 2(8.5)"
-  },
-   {
-    "photo1": "https://thumbs.dreamstime.com/b/logo-maccabi-tel-aviv-basketball-collection-du-meilleur-club-sportif-de-association-229691220.jpg",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c0/Hapoel_Beer_Sheva_FC.png",
-    "name2": "Hapoel Beer Sheva",
-    "champ": "Basket-ball. Championnat d'Israel",
-    "heure": "17H55",
-    "date": "01/06/2026",
-    "pro": "Total: 2(26.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Logo_U-BT_Cluj-Napoca.svg/langfr-250px-Logo_U-BT_Cluj-Napoca.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "U-BT Cluj-Napoca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/0e/CSM_Oradea_logo.png",
-    "name2": "CSM Oradea",
-    "champ": "Basket-ball. Championnat de Roumanie",
-    "heure": "15H00",
-    "date": "01/06/2026",
+    "date": "02/06/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJymSUQM7tEDjBAxAQ2JPfp0w9JoyiTC3EQ&s",
-    "name1": "Dinamo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXvgaHhcWiqLaX7AWMDDD1m6r99vF-b-xfQ&s",
-    "name2": "SCM CSU Craiova",
-    "champ": "Basket-ball. Championnat de Roumanie",
-    "heure": "17H00",
-    "date": "01/06/2026",
-    "pro": "Handicap: 1(-7.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFwLboLNAzhLvuzPrB7AAaq4YtbcCJ2t8xg&s",
+    "name1": "USM Alger",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uy5FOMzJkdQaJyn5oD14oQEW7iLs5O5dzw&s",
+    "name2": "GS Cosider",
+    "champ": "Basket-ball. Championnat d'Algerie. Femmes",
+    "heure": "16H00",
+    "date": "02/06/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/43/Hapoel_HaEmek_logo.jpg/250px-Hapoel_HaEmek_logo.jpg",
+    "name1": "Hapoel HaEmek",
+    "photo2": "https://thumbs.dreamstime.com/b/logo-hapoel-jerusalem-basketball-collection-du-meilleur-club-sportif-de-association-229691147.jpg",
+    "name2": "Hapoel Jérusalem",
+    "champ": "Basket-ball. Israel. Championnat d'Israel",
+    "heure": "15H35",
+    "date": "02/06/2026",
+    "pro": "Handicap: 2(-2.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Atlanta_Dream_logo_2020.png",
+    "name1": "Dream d'Atlanta (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/09/Sun_du_Connecticut_2021.png",
+    "name2": "Sun du Connecticut (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H30",
+    "date": "02/06/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn-Xhw8u_i3QhFPVBFtam-Mr03tOTp2rsPgg&s",
+    "name1": "Mystics de Washington (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY66s4mdNNBz6giy86QTIGJPpe8izZ2Lg--Q&s",
+    "name2": "Sky de Chicago (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H30",
+    "date": "02/06/2026",
+    "pro": "Total: (+155.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/79/Golden_State_Valkyries_logo.png",
+    "name1": "Golden State Valkyries (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Portland_Fire_26.png/250px-Portland_Fire_26.png",
+    "name2": "Portland Fire (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "02H00",
+    "date": "03/06/2026",
+    "pro": "Equipe gagne: V1"
   }
 ]
