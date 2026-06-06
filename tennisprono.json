@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBCbyixQBn6PX-fBeBDvKekrTOI7yXl4T8g&s",
-    "name1": "Panathinaikos",
-    "photo2": "https://thumbnail.imgbin.com/10/23/4/imgbin-olympiacos-b-c-piraeus-maccabi-tel-aviv-b-c-olympiacos-f-c-greek-basket-league-basketball-RbBrcSwc8pxjbe4PQE7X61bPf_t.jpg",
-    "name2": "OLympiakos Le Piréé",
-    "champ": "Basket-ball. Championnat de Grèce",
-    "heure": "18H00",
-    "date": "05/06/2026",
-    "pro": "V2 Et TP (160.5)- NON"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwjZT-p2HA5KgItje1rXjRs-2bhXPC-9pZKi2LVWcpQ&s",
+    "name1": "Brose Bamberg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7HEjrZS35uuw9rPh44jmLDTJxagPIto2VK6v9XY_Gg&s=10",
+    "name2": "ALBA Berlin",
+    "champ": "Basket-ball. Championnat d'Allemagne",
+    "heure": "16H30",
+    "date": "06/06/2026",
+    "pro": "Total: (+163.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYFjTXThR09Aovgx5fzVfy5CAgdI7HHnKWA&s",
-    "name1": "Bilbao",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7APTB7gq0nGwXx72d1GZiH_m90uYE4OKS1A&s",
-    "name2": "Valencia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/be/Real_Madrid_Baloncesto.png",
+    "name1": "Real Madrid Baloncesto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Logo_of_CB_1939_Canarias.png/250px-Logo_of_CB_1939_Canarias.png",
+    "name2": "La Laguna Tenerife",
     "champ": "Basket-ball. Espagne. Liga ACB",
-    "heure": "17H00",
-    "date": "05/06/2026",
-    "pro": "V1 Et TP (166.5)- NON"
+    "heure": "16H00",
+    "date": "06/06/2026",
+    "pro": "Equipe gagne: V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Club_Joventut_de_Badalona_%28logo%29.svg/1280px-Club_Joventut_de_Badalona_%28logo%29.svg.png",
-    "name1": "FIATC Joventut Badalona",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png",
-    "name2": "Saski Baskonia",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSouzEYi5ieyCH2JSFCHhq-X5ELZc8ZRERXj2GGY3rtgg&s=10",
+    "name1": "Universidad Catolica de Murcia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
     "champ": "Basket-ball. Espagne. Liga ACB",
     "heure": "19H00",
-    "date": "05/06/2026",
-    "pro": "Total: (+169.5)"
+    "date": "06/06/2026",
+    "pro": "Handicap: 2(2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/tr/8/80/Anadolu_Efes_50._Y%C4%B1l_logo.png",
-    "name1": "Anadolu Efes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/1280px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png",
-    "name2": "Fenerbahce",
-    "champ": "Basket-ball. Turquie. Superligue",
-    "heure": "17H00",
-    "date": "05/06/2026",
-    "pro": "V2 Et TP (166.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRleGwl3LK_6oI-iIIPMWUfgmpjvlP15o9FgA&s",
-    "name1": "Suadiye",
-    "photo2": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/a9/%C3%87orum_Belediyespor.png/250px-%C3%87orum_Belediyespor.png",
-    "name2": "Corum Belediyesi",
-    "champ": "Basket-ball. Championnat de Turquie. EBBL",
-    "heure": "13H0O",
-    "date": "05/06/2026",
-    "pro": "Handicap: 2(2.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmUAhmybOblv95JGwyCI4Ga9Xb-H0CQGhNxQ&s",
-    "name1": "Titan Academy",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqqdc7XRYRjhf8VMRpPqz5TXcHQlTiJ9-9JQ&s",
-    "name2": "Tekirdag Namik Kemal",
-    "champ": "Basket-ball. Championnat de Turquie. EBBL",
-    "heure": "16H00",
-    "date": "05/06/2026",
-    "pro": "Handicap: 2(7.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/WA_Boufarik_basketball_logo.png/250px-WA_Boufarik_basketball_logo.png",
-    "name1": "WO Boufarik",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHjpW9ozETxZrrLyOqNovzAK-taz3Vj0_dg&s",
-    "name2": "N.B Staoueli",
-    "champ": "Basket-ball. Championnat d'Algerie",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOFdpPnqZf0IRoHhy7aRdkJ0TARsJEH2ROWP-t1b41w&s=10",
+    "name1": "Coruna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a9/Palencia_Baloncesto_logo.png",
+    "name2": "Palencia",
+    "champ": "Basket-ball. Espagne. LEB Oro",
     "heure": "15H30",
-    "date": "05/06/2026",
-    "pro": "Handicap: 2(3.5)"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY66s4mdNNBz6giy86QTIGJPpe8izZ2Lg--Q&s",
-    "name1": "Sky de Chicago (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECWaVUS6xxvUcv3gnrIDgj5tMJZVwOrIv4Q&s",
-    "name2": "Sun du Connecticut (Femmes)",
-    "champ": "Basket-ball. Championnat de France",
-    "heure": "23H30",
-    "date": "05/06/2026",
+    "date": "06/06/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d3/Los_Angeles_Sparks_logo.svg.png",
-    "name1": "Los Angeles Sparks (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bd/DallasWings.jpg",
-    "name2": "Wings de Dallas (Femmes)",
-    "champ": "Basket-ball. WNBA. Commissioner's Cup",
-    "heure": "02H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Movistar_Estudiantes.svg/120px-Movistar_Estudiantes.svg.png",
+    "name1": "Estudiantes Madrid",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jth13foDJuvzfsZWe8-b7rnBkxxRGWu0L3FjlAmwcVxN50yxv105mP4&s=10",
+    "name2": "Oviedo",
+    "champ": "Basket-ball. Espagne. LEB Oro",
+    "heure": "18H15",
     "date": "06/06/2026",
-    "pro": "Handicap: 2(5.5)"
+    "pro": "V1 Et TM (159.5)- N0N"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8iHG-JkbtZNCBrLOnweMNNI7Tz0wlXJeRQ&s",
-    "name1": "San Antonio Spurs",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4EQoQw31JVBqgwqS2LKvDXYL4fpyQjI6itQ&s",
-    "name2": "Knicks de New York",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H30",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXPg0E5IilbVUF56ryDpek8ttzrkmZmRaK-c2iXJrow&s",
+    "name1": "Bahcesehir Koleji",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9M8zhpSgZGjtJWJM6OKaUpQlu2N1kklOhLSYNzItcrQ&s=10",
+    "name2": "Besiktas",
+    "champ": "Basket-ball. Turquie. Superligue",
+    "heure": "17H00",
     "date": "06/06/2026",
-    "pro": "Handicap: 2(15.5)"
+    "pro": "V1 Et TP (156.5)- NON"
+  },
+  {
+    "photo1": "https://alchetron.com/cdn/nanterre-92-0cf1584b-6c5f-4ae4-81e2-348409132da-resize-750.jpg",
+    "name1": "JSF Nanterre",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpfaD3fx3pmWdY-lJVeYU5GV2wi2_JfxC9jwLLRfqRA&s=10",
+    "name2": "Monaco",
+    "champ": "Basket-ball. Championnat de France",
+    "heure": "15H00",
+    "date": "06/06/2026",
+    "pro": "Total: (+168.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Logo_Nantes_Basket_Hermine_-_2017.svg/1280px-Logo_Nantes_Basket_Hermine_-_2017.svg.png",
+    "name1": "Hermine Nantes Atlantique",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMT8AUrUoS79aTaTm-nXef6jqHbylorHGzooVA0XA5g&s",
+    "name2": "Poitiers 86",
+    "champ": "Basket-ball. France. Elite 2",
+    "heure": "18H00",
+    "date": "06/06/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Lynx_logo.jpg",
+    "name1": "Lynx de Minnesota (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LIipXONY-C6P_6qIwJMW6IPxn8dTiWEfr8JYIVyKlw&s=10",
+    "name2": "Storm de Seattle (Femmes)",
+    "champ": "Basket-ball. WNBA. Commissioner's Cup",
+    "heure": "17H00",
+    "date": "06/06/2026",
+    "pro": "Handicap: 1(-10.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Z_SHGi9kknRsuY6oljHNQmY4xad1RnBwy75UOT3MBQ&s=10",
+    "name1": "Dream d'Atlanta (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Washington_Mystics_Logo.svg/1280px-Washington_Mystics_Logo.svg.png",
+    "name2": "Mytics de Washington (Femmes",
+    "champ": "Basket-ball. NBA",
+    "heure": "22H00",
+    "date": "06/06/2026",
+    "pro": "Equipe gagne: V1"
   }
 ]
