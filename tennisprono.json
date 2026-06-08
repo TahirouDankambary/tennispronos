@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/PBC_Lokomotiv-Kuban_logo.svg/1280px-PBC_Lokomotiv-Kuban_logo.svg.png",
-    "name1": "Lokomotiv Kuban",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLms3P-FcpZSypFF9y-odmAXYV1XBtHrPqcNBbqsz2nQ&s=10",
-    "name2": "Zénith Saint-Pétersbourg",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn4cPFus1HtpTKu9FbQ1MXkpNN0YpLKHnvGnpLweZ-Q&s=10",
+    "name1": "UNICS",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaOSs7z8lf5jXg-NcP2JT-x5aTLrXaY9p2vIYOSJIrg&s",
+    "name2": "CSKA Moscou",
     "champ": "Basket-ball. VTB United Ligue",
-    "heure": "13H30",
-    "date": "07/06/2026",
-    "pro": "V2 Et TP (+159.5)- NON"
+    "heure": "16H30",
+    "date": "08/06/2026",
+    "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtyrY_whblgjPefQtHG_-_4ojJQqZGcoYrJ-b2RZlwQ&s=10",
-    "name1": "Saski Baskonia",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6vy0tkWM8QyfwShs3GIL0NRphVLUde5ZoleZAAn4yeQ&s=10",
-    "name2": "FIATC Joventut Badalona",
-    "champ": "Basket-ball. Espagne. Liga ACB",
-    "heure": "17H00",
-    "date": "07/06/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf70CduP8wGdRaDfPgdRtlbh8jIlocCYfY8pvGD1bQ37GhXJZtRqfRlzg&s=10",
+    "name1": "Olympiakos Le Piréé",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/5/57/Logo_pana.gif",
+    "name2": "Panathinaikos",
+    "champ": "Basket-ball. Champoinnat de Grèce",
+    "heure": "18H00",
+    "date": "08/06/2026",
+    "pro": "V2 Et TP (154.5)- NON"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_MDxCLspzvawLYTPpEFBdRiwPhceptA_Pb35qTf63Q&s=10",
-    "name1": "Estudiantes Madrid",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOFdpPnqZf0IRoHhy7aRdkJ0TARsJEH2ROWP-t1b41w&s=10",
-    "name2": "Coruna",
-    "champ": "Basket-ball. Espagne. LEB Oro",
-    "heure": "17H00",
-    "date": "07/06/2026",
-    "pro": "V2 Et TP (164.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh-k0ZE9KhmCExGxazVhZsPHWefD42vFpOxC6fMyW9Kw&s=10",
-    "name1": "Anadolu Efes",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHzfElR-_dXtGZFWdR2VdgyQ6sWFwz0TEzNluB0Xky1w&s=10",
-    "name2": "Fenerbahce",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXPg0E5IilbVUF56ryDpek8ttzrkmZmRaK-c2iXJrow&s",
+    "name1": "Bahcesehir Koleji",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCD2zsSlKTqRxRdKwvQ_XcDe4OvoT-nRnip5eHyv2jOg&s",
+    "name2": "Besiktas",
     "champ": "Basket-ball. Turquie. Superligue",
     "heure": "17H00",
-    "date": "07/06/2026",
-    "pro": "V2 Et TP (164.5)- NON"
+    "date": "08/06/2026",
+    "pro": "Handicap: 1(5.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5sr8K6MxGpop0f8VeehpBeqTq0isGXJ3tP1XH67zhfQ&s=10",
-    "name1": "Cholet",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7HbENPi0Azt2FIf6zQ0XTKTU6WcCZ7jwMkyNwRL_e4g&s=10",
-    "name2": "Paris",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP90fzUVqwDx-SgathKdBsFAYEGj6Ad__hVEXu2w47kA&s",
+    "name1": "JSF Nanterre",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpfaD3fx3pmWdY-lJVeYU5GV2wi2_JfxC9jwLLRfqRA&s=10",
+    "name2": "Monaco",
     "champ": "Basket-ball. Championnat de France",
-    "heure": "17H00",
-    "date": "07/06/2026",
-    "pro": "Total: (+172.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8bCnffZFuS03OTx71NIAZi-RWRkm4-YXOqY_3XJfZA&s=10",
-    "name1": "Phoenix Hagen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEL8betASFCngsZ9hbiNAcXB81r1X1ITN0LAK-iVtwjA&s=10",
-    "name2": "VFL Kirchheim Knights",
-    "champ": "Basket-ball. Allemagne. Bundesliga 2",
-    "heure": "14H00",
-    "date": "07/06/2026",
-    "pro": "V1 Et TP (169.5)- NON"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/03/Toronto_Tempo_logo_2026.png",
-    "name1": "Toronto Tempo (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJEq8Di8F1vP50Jg70QKaCal1MIUhdeC5nGTXVEy8_A&s",
-    "name2": "Sky de Chicago (Femmes)",
-    "champ": "Basket-ball. WNBA. Commissioner's Cup",
     "heure": "19H00",
-    "date": "07/06/2026",
-    "pro": "Total: (+170.5)"
+    "date": "08/06/2026",
+    "pro": "Total: (+167.5)"
   },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9MVO1PBin75s5nCg8zd0cZuC-H4YCIfH2Xd2MfOdOoQ&s=10",
-    "name1": "Los Angeles Sparks (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-zThUf5OsoOJSNnbRF5DgoxUwD6HNj7J1AYbI-tbzxA&s=10",
-    "name2": "Portland Fire (Femmes)",
-    "champ": "Basket-ball. WNBA. Commissioner's Cup",
-    "heure": "23H00",
-    "date": "07/06/2026",
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxZLZQc7gaA3bVVu7W_GWzA96hpPLoCNdDDskOK30hKg&s=10",
+    "name1": "Maccabi Tel-Aviv",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yxl7eYhUEDks9gG3tPKex4yqEh4220XV8R-qgl0JFA&s=10",
+    "name2": "Hapoel Holon",
+    "champ": "Basket-ball. Championnat d'Israel. Superligue",
+    "heure": "17H50",
+    "date": "08/06/2026",
+    "pro": "Handicap: 2(18.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrWE7FAMOuqXHS6beqop6hHVUK9cTOClNTfF2ueF5GQ&s=10",
+    "name1": "Chabeb Batroun",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLglL_lSnDviVPJ0YbVCkRHc6PSweAvlYhsHK9Cm99kw&s=10",
+    "name2": "Tadamon Hrajel",
+    "champ": "Basket-ball. Championnat du Liban",
+    "heure": "18H00",
+    "date": "08/06/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTePalT0UpcZz3REx7IuGUfZpm_O8-m9E9pmk1YyMEgg&s=10",
-    "name1": "Raleigh Firebirds",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxMwgxfOt2Spk7zhoMhyCLEPXuk9vJnJ8-BIUlVba0Xg&s=10",
-    "name2": "Tri City Tide",
-    "champ": "Basket-ball. Championnat des Etas-Unis",
-    "heure": "18H00",
-    "date": "07/06/2026",
-    "pro": "Total: (+209.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRufnKFiHxJrtd73zVci2iMndfgyPJYogKlJILkxT3nFA&s=10",
+    "name1": "Virtus Roma",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREozGV_VylyV4ptpga5K8LXnrNMLSqKmEqLgg0PJdl6Q&s=10",
+    "name2": "Montecatini Terme",
+    "champ": "Basket-ball. Italie. Série B",
+    "heure": "18H30",
+    "date": "08/06/2026",
+    "pro": "Handicap: 2(16.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/09/Sun_du_Connecticut_2021.png",
+    "name1": "Sun du Connecticut (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/db/New_York_Liberty_logo.svg.png",
+    "name2": "Liberty de New York (Femmes)",
+    "champ": "Basket-ball. WNBA. Commissioner's Cup",
+    "heure": "23H00",
+    "date": "08/06/2026",
+    "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_isuetFi0YRtb2W7KCKGSfaNMbCwPS8egvpRP64Py4a86G4gXxUJqE40&s=10",
-    "name1": "Winston Selem Wolves",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-2z35LIeeDCPR3fGrzl05y49HdPKM59MaTIPzgwg1dQ&s=10",
-    "name2": "Carolina Panthers",
-    "champ": "Basket-ball. Etats-Unis. ECBL",
-    "heure": "21H00",
-    "date": "07/06/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3VPIv6XDrtnW1hG7GBr_gOVZ99IjqfqxzBa8TZjHxQ&s",
+    "name1": "Knicks de New York",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMpXe6VCFAs0NBUAwk8m5lF81SAYPFejlKMXWbgobFbw&s=10",
+    "name2": "San Antonio Spurs",
+    "champ": "Basket-ball. NBA",
+    "heure": "00H30",
+    "date": "09/06/2026",
+    "pro": "Total: (+206.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbI1kGTqNPPYycqejhUmehq7iE-8L7mLx8oDKGlT75Q&s=10",
+    "name1": "Aces de Las Vegas (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LIipXONY-C6P_6qIwJMW6IPxn8dTiWEfr8JYIVyKlw&s=10",
+    "name2": "Storm de Seattle (Femmes)",
+    "champ": "Basket-ball. WNBA. Commissioner's Cup",
+    "heure": "02H00",
+    "date": "09/06/2026",
     "pro": "Equipe gagne: V1"
   }
 ]
