@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBKYStvWjKr1x_pFRgU9I4hMeP4ACZHJDhe2KYWxqew&s=10",
-    "name1": "Valencia",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjRgkLqn_dx6WCBayoUQXhTx3KyjUmS4NeFkawYw_jg&s=10",
-    "name2": "Barcelone",
-    "champ": "Basket-ball. Espagne. Liga ACB",
-    "heure": "18H00",
-    "date": "20/06/2026",
-    "pro": "V1 Et TP (179.5)- NON"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGq0AOpMZiySyCSWtYIOh2aN0XPv3Q3YtyPBhYR7BAsA&s=10",
+    "name1": "Bayern Munich",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWLPa9XHyVJGk9x4WvcQ2WxRNA13TkDJsSuLtxB0z75A&s=10",
+    "name2": "ALBA Berlin",
+    "champ": "Basket-ball. Championnat d'Allemagne",
+    "heure": "14H30",
+    "date": "21/06/2026",
+    "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://capitanesarecibo.com/cdn/shop/files/Logo_Principal.png?v=1743639630&width=174",
-    "name1": "Capitanes de Arecibo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8uMT8Yx0_cWLsVErjS5GnBUAFHJ6Cx6_NEJh_2mc9oQ&s",
-    "name2": "Atleticos de San German",
-    "champ": "Basket-ball. Baloncesto Superior Nacional",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpfaD3fx3pmWdY-lJVeYU5GV2wi2_JfxC9jwLLRfqRA&s=10",
+    "name1": "Monaco",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7HbENPi0Azt2FIf6zQ0XTKTU6WcCZ7jwMkyNwRL_e4g&s=10",
+    "name2": "Paris",
+    "champ": "Basket-ball. Championnat de France",
+    "heure": "16H00",
     "date": "21/06/2026",
-    "pro": "Handicap: 1(5.5)"
+    "pro": "V1 Et TP (180.5)- NON"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvH-RDf1OSywBX8rNfHvrwCYy7H23VSOS49HFlQ4aRozNDb0p0xwlOzLE&s=10",
-    "name1": "Deportivo Amambay",
-    "photo2": "https://imagecache.365scores.com/image/upload/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png/v2/Competitors/71345",
-    "name2": "Deportivo Campoalto",
-    "champ": "Basket-ball. Championnat du Paraguay",
-    "heure": "21H30",
-    "date": "20/06/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b6/North-West_Tasmania_Thunder_logo.jpeg",
-    "name1": "Thunder Salvador",
-    "photo2": "https://assets.b365api.com/images/wp/o/f0a757d5eccbc7d01ee9881169e57b56.jpg",
-    "name2": "Cachorros Bulldogs",
-    "champ": "Basket-ball. Championnat du Salvador",
-    "heure": "00H30",
-    "date": "21/06/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfahHKEQn7862SUbn2kZYwdwIP8JkxgfpcZA&",
-    "name1": "ANU",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXFpkK1UVsvpCIlctt60FFErmDWj_aJf6AwIThNLmag&s=10",
-    "name2": "Equity Bank",
-    "champ": "Basket-ball. Championnat du Kenya",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8Be2MjdN4F3dE3E4TtUPE0JlgyyT4EIJ4lOIrZxHDQ&s=10",
+    "name1": "Sodie Mesquita (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZ04BQRbhnZxqQAgM0QRRBvkIrCHYrxUV6YnFFljC8Q&s=10",
+    "name2": "Unimed Campinas (Femmes)",
+    "champ": "Basket-ball. Brésil. LBF Femmes",
     "heure": "14H00",
-    "date": "20/06/2026",
-    "pro": "Handicap: 1(10.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjHgc2Z5M5w1fugoViap4KmSKMRmd_7kWU-1ZNj2qRw&s=10",
-    "name1": "Wings de Dallas (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8y54-cO9PTbQZMyRRtALlhAX9nmcIpDBC66NhIXr-g&s=10",
-    "name2": "Sky de Chicago (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "00H00",
     "date": "21/06/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Z_SHGi9kknRsuY6oljHNQmY4xad1RnBwy75UOT3MBQ&s=10",
-    "name1": "Dream d'Atlanta (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/e5/Indiana_Fever_logo.svg.png",
-    "name2": "Fever de l'Indiana (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "17H00",
-    "date": "20/06/2026",
-    "pro": "1X"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c1/Phoenix_Mercury_logo_2025.png",
-    "name1": "Mercury de Phoenix (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LIipXONY-C6P_6qIwJMW6IPxn8dTiWEfr8JYIVyKlw&s=10",
-    "name2": "Storm de Seattle (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "19H00",
-    "date": "20/06/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://play-lh.googleusercontent.com/yYC0FaAhg6qqY_yPWesliKifi4SY_Zr7c_bsmePau6Yne9BockZnLKQ4DYe5x5hHkfGr",
-    "name1": "Seven II",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpw4eDzhL7heMgnSSXOWUT93doAZDqUex6Iw&",
-    "name2": "Green Salvador",
-    "champ": "Basket-ball. Championnat du Salvador. Segunda ",
-    "heure": "23H00",
-    "date": "20/06/2026",
     "pro": "Handicap: 2(-19.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQekbnKfqvee7z-WuY3DLd1c4Y_aydksGW83VonwZprUw&s=10",
-    "name1": "Gimnasia Comodoro",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvshrq0RksjsXePU_LhV80-kdhi-WIB5sbjUCoprXEg&s=10",
-    "name2": "Quimsa",
-    "champ": "Basket-ball. Championnat d'Argentine LNB",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b6/North-West_Tasmania_Thunder_logo.jpe",
+    "name1": "Araraquara (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuioTbukjUTvSn94VFQ-_UmEJZgcEzilcVeB6Oi_I06g&s=10",
+    "name2": "Sao Jose dos Campos (Femmes)",
+    "champ": "Basket-ball. Brésil. LBF Femmes",
+    "heure": "22H00",
     "date": "21/06/2026",
-    "pro": "Total: (+151.5)"
+    "pro": "Handicap: 2(-11.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXFpkK1UVsvpCIlctt60FFErmDWj_aJf6AwIThNLmag&s=10",
+    "name1": "Equity Bank",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA2jG8AmHCCxNhYjEA5IuJue40cJJwhrVI0UKZKijEWw&s=10",
+    "name2": "Eldonets",
+    "champ": "Basket-ball. Championnat du Kenya",
+    "heure": "14H00",
+    "date": "21/06/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFBWdB0I9nt6LMttfi3Nu_V6I8xnZkAXa1Yiz8SAMwA&s=10",
+    "name1": "AS De Sale",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrN_FO4YAoMqSHSpgP9JomqoiSD2nkwIYFwCBWHRftA&s=10",
+    "name2": "FAR Rabat",
+    "champ": "Basket-ball. Championnat du Maroc",
+    "heure": "16H00",
+    "date": "21/06/2026",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/65/Aces_de_Las_Vegas_2024.png",
+    "name1": "Aces de Las Vegas (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ef2DUZ4e4sKq62YxUqDRUhe3ilTv7GYOXe72j_MbpQ&s",
+    "name2": "Golden State Valkyries (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "20H00",
+    "date": "21/06/2026",
+    "pro": "Total: (+163.5)"
+  },
+   {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4_OztRJ5GPkqQUppWPOLcwfubrmNf0BABSJSActfmA&s=10",
+    "name1": "Lynx du Minnesota (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Washington_Mystics_Logo.svg/1280px-Washington_Mystics_Logo.svg.png",
+    "name2": "Mystics de Washington (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "22H00",
+    "date": "21/06/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrGFMXTeD_T0frWEMaF0lZakI--gUQpPk7S_Y-SvuY_g&s=10",
+    "name1": "Los Angeles Sparks (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/db/New_York_Liberty_logo.svg.png",
+    "name2": "Liberty de New York (Femmes)",
+    "champ": "Basket-ball. WNBA ",
+    "heure": "00H00",
+    "date": "22/06/2026",
+    "pro": "Handicap: 2(1)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/c5/Leones_de_Ponce_%28basketball%29_logo.png",
+    "name1": "Leones de Ponce",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FRLPvZnNuToLeGnGTFbGHDIV8WZG8Hw21XBshbyoRg&s=10",
+    "name2": "Osos de Manati",
+    "champ": "Basket-ball. Baloncesto Superior Nacional",
+    "heure": "00H00",
+    "date": "22/06/2026",
+    "pro": "Handicap: 1(2.5)"
   }
 ]
