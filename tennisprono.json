@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c0/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B0_%D0%9A%D0%BE%D1%88%D0%B0%D1%80%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%B0_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%98%D0%B0.png",
-    "name1": "Macédonie du Nord",
-    "photo2": "https://liberty-flag.com/cdn/shop/products/bulgaria-flag-544547.jpg?v=1678815697",
-    "name2": "Bulgarie",
-    "champ": "Basket-ball. Ligue des nations de l'UEFA",
-    "heure": "16H00",
-    "date": "25/06/2026",
-    "pro": "Equipe gagne: V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/3840px-Flag_of_Portugal.svg.png",
+    "name1": "Portugal",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWivTDVmdCjxRqISN5e5YGCkeCyEAUcYPvpg&s",
+    "name2": "Suisse",
+    "champ": "Basket-ball. Matchs amicaux. Equipes nationales",
+    "heure": "18H00",
+    "date": "26/06/2026",
+    "pro": "Handicap: 2(16.5)"
   },
   {
-    "photo1": "https://pbs.twimg.com/profile_images/1882049456163471360/HAeqXFRf_400x400.jpg",
-    "name1": "Vaqueros de Bayamon",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF2GtsH9S4HaCX2R7dvuNRHel0Sb2tCfZw5Q&s",
-    "name2": "Mets de Guaynabo",
-    "champ": "Basket-ball. Baloncesto Superior Nacional",
-    "heure": "00H00",
+    "photo1": "https://pbs.twimg.com/profile_images/1882049456163471360/HAeqXFRf_400x400.jp",
+    "name1": "Kepler (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ9Ur7roPjQ7ArEDGuklpzNvoV61IowZm-Hg&s",
+    "name2": "Azomco (Femmes)",
+    "champ": "Basket-ball. Championnat de Rwanda. Femmes",
+    "heure": "16H00",
     "date": "26/06/2026",
-    "pro": "Handicap: 1(-3.5)"
+    "pro": "Equipe gagne: V1"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQliX3mNjvNto26sSPh_uoy9l8mDrf1SPP-JQ&s",
-    "name1": "Criollos de Caguas",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTayMlg9pEUVb4CHZnVlcvSpIAfB1ofrK72KQ&s",
-    "name2": "Osos de Manati",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8CrRGIya9OBaJN6nIbO-am5Us4B0FEX7cog&s",
+    "name1": "APR BBC (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDDHJRK8WIsHACfHeZHd0sdZIUO1L7SWgTOA&s",
+    "name2": "REG (Femmes)",
+    "champ": "Basket-ball. Championnat de Rwanda. Femmes",
+    "heure": "18H30",
+    "date": "26/06/2026",
+    "pro": "Handicap: 2(6.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjzAdjPWeOPYtET7kjcMNX3Kz3UAnJ06aaQ&s",
+    "name1": "Colegio Los Leones (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MWiIna3Yk8jPrk-Yi9-tXwm-_hU0APQP3g&s",
+    "name2": "Puente Alto (Femmes)",
+    "champ": "Basket-ball. Championnat du Chili. Femmes",
+    "heure": "00H00",
+    "date": "27/06/2026",
+    "pro": "Handicap: 2(19.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSiwKOVfTs-TUej2ht_t8rEvYQCkh6djci4Q&s",
+    "name1": "Gigantes De Carolina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/dd/Indios_de_Mayag%C3%BCez_%28basketball%29_logo.png",
+    "name2": "Indios de Mayaguez",
     "champ": "Basket-ball. Baloncesto Superior Nacional",
     "heure": "00H00",
+    "date": "27/06/2026",
+    "pro": "Total: (+88.5)"
+  },
+  {
+    "photo1": "https://www.proballers.com/api/getTeamLogo?id=2437&width=300",
+    "name1": "Santeras de Aguada",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrgXT6hjZF4xVtXfL4F_r-TmGyxGZT5tppQ&s",
+    "name2": "Leones de Ponce",
+    "champ": "Basket-ball. Baloncesto Superior Nacional",
+    "heure": "00H00",
+    "date": "27/06/2026",
+    "pro": "Total: (+181.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECWaVUS6xxvUcv3gnrIDgj5tMJZVwOrIv4Q&s",
+    "name1": "Sun du Connecticut (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Washington_Mystics_Logo.svg/1280px-Washington_Mystics_Logo.svg.png",
+    "name2": "Mystics de Washington (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H30",
+    "date": "26/06/2026",
+    "pro": "Handicap: 2(1)"
+  },
+   {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY66s4mdNNBz6giy86QTIGJPpe8izZ2Lg--Q&s",
+    "name1": "Sky de Chicago (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Portland_Fire_26.png/250px-Portland_Fire_26.png",
+    "name2": "Portland Fire (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H30",
     "date": "26/06/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDx0tx80dXJwfE7UVGt7JbKsHyfFaqzte5IA&s",
-    "name1": "Pirates de Quebradillas",
-    "photo2": "https://capitanesarecibo.com/cdn/shop/files/Logo_Principal.png?v=1743639630&width=174",
-    "name2": "Capitaines de Arecibo",
-    "champ": "Basket-ball. Baloncesto Superior Nacional",
-    "heure": "00H00",
-    "date": "25/06/2026",
-    "pro": "Handicap: 1(5.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1sJLXPcT-7Li593PnCQaEiC26y1758EdNSA&s",
-    "name1": "Unimed Campinas (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYL8zyh_fInTCcR8nYAo7ChTZUrFkuZeDaXg&s",
-    "name2": "Sodie Mesquita (Femmes)",
-    "champ": "Basket-ball. Brésil. LBF. Femmes",
-    "heure": "22H30",
-    "date": "25/06/2026",
-    "pro": "Total: (+80.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/FUS_Rabat_%28logo%29.svg/1280px-FUS_Rabat_%28logo%29.svg.png",
-    "name1": "FUS Rabat",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_5nYS4x_FqjtAlrG1x0cDYosI5kD0ZE71g&s",
-    "name2": "IR Tanger",
-    "champ": "Basket-ball. Championnat du Maroc",
-    "heure": "16H00",
-    "date": "25/06/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpNfXmGMB46FKKWdIUTYf7uFBDBMC3bMruzg&s",
-    "name1": "Toronto Tempo (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_qZ5Op_18mAyP5OG_IodTx9cB3BIOOVXSuQ&s",
-    "name2": "Los Angeles Sparks (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "23H00",
-    "date": "25/06/2026",
-    "pro": "V1 Et TM (177.5)- NON"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/65/Aces_de_Las_Vegas_2024.png",
-    "name1": "Aces de Las Vegas (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bd/DallasWings.jpg",
-    "name2": "Wings de Dallas (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "02H00",
-    "date": "26/06/2026",
-    "pro": "Total: (+167.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw67cV09b-YxjGh7hVuLED3vQ5fxNQBbA56g&s",
-    "name1": "Storm de Seattle (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/db/New_York_Liberty_logo.svg.png",
-    "name2": "Liberty de New York (Femmes)",
-    "champ": "Basket-ball. WNBA ",
-    "heure": "02H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrVepmdQdh_U2lT6F8L6FEJtpI2_GDaGrCDQ&s",
+    "name1": "Jeanne d'Arc Dakar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5f/IMG_ASCVD.png",
+    "name2": "Ville de Dakar",
+    "champ": "Basket-ball. Championnat du Sénégal. Division 1 ",
+    "heure": "19H00",
     "date": "26/06/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/500px-Clube_de_Regatas_do_Flamengo_logo.svg.png",
-    "name1": "Flamengo U22",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimQTaiq24kDuOW7h_5iefc9Bc1PRMTjfBRA&s",
-    "name2": "Uniao Corinthians U22",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "18H45",
-    "date": "25/06/2026",
-    "pro": "Total: (+65.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4d/Montreal_Alliance_Logo.png",
+    "name1": "Montreal Alliance",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Niagara_River_Lions_logo.webp/250px-Niagara_River_Lions_logo.webp.png",
+    "name2": "Niagara River Lions",
+    "champ": "Basket-ball. Championnat du Canada. CEBL",
+    "heure": "23H30",
+    "date": "26/06/2026",
+    "pro": "Total: (+174.5)"
   }
 ]
