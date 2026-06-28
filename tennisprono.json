@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d1/ASFA_Basketball_logo.png",
-    "name1": "USFAS Bamako",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/29/Djoliba_AC_blason2.png",
-    "name2": "DAC",
-    "champ": "Basket-ball. Mali. Première Division",
-    "heure": "14H00",
-    "date": "27/06/2026",
-    "pro": "Equipe gagne: V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/pt/1/18/Club-Malv%C3%ADn.png",
+    "name1": "Malvin Femmes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8d/Aguada_logo.png",
+    "name2": "Aguada Femmes",
+    "champ": "Basket-ball. Uruguay. Femmes",
+    "heure": "20H59",
+    "date": "28/06/2026",
+    "pro": "Handicap: 2(16.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgw_cXvmB4bDi9T20eSlkY8cpOYZxzoxKV0Q&s",
-    "name1": "Centre Mamoutou Kane",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSESJ4GjCRybEkI9SrBJJvkLoXSM0dquHIxYw&s",
-    "name2": "Stade Malien",
-    "champ": "Basket-ball. Mali. Première Division",
-    "heure": "20H00",
-    "date": "27/06/2026",
-    "pro": "Handicap: 1(12.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTytutchzsyWHoDooSVUnFdXeo4VatewKRD6ad1zW4PyEj4qf7SLwUWCSA&s=10",
+    "name1": "Umoja",
+    "photo2": "https://play-lh.googleusercontent.com/eVNSzRIiD6fgS8xqFM8mjsyK0qqBgVxWIryr4yctFWke34ZdGG9PNzTvRhbb3c2UZD27",
+    "name2": "Stanbic Shields",
+    "champ": "Basket-ball. Kenya. Premier League",
+    "heure": "16H00",
+    "date": "28/06/2026",
+    "pro": "Handicap: 1(7.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/uk/4/49/Mets_de_Guaynabo_%28basketball_team%29_%28logo%29.jpg",
-    "name1": "Mets de Guaynabo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Criollos_Caguas_Basketball_Logo.jpg/250px-Criollos_Caguas_Basketball_Logo.jpg",
-    "name2": "Criollos de Caguas",
-    "champ": "Basket-ball. Baloncesto. Superior Nacional",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhgFuhx-h5Yhc3Ixj6NxrrBDdaUNu4cTF5W4p1pnGmU3j8IIZWBPHvNo&s=10",
+    "name1": "Dragon U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Federacion_Salvadore%C3%B1a_de_Baloncesto.jpg/250px-Federacion_Salvadore%C3%B1a_de_Baloncesto.jpg",
+    "name2": "San Salvador U21",
+    "champ": "Basket-ball. Salvador U21",
+    "heure": "18H30",
+    "date": "28/06/2026",
+    "pro": "Handicap: 2(7.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_n3aAOmhNF3wC3G_UVr_XEtsfqXcUsBw9xgjXY9tQ3GuI1sdCv1b0ec&s=10",
+    "name1": "Quezaltepeque U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/0e/DRC_Basketball.png",
+    "name2": "Leopardos Usultutan U21",
+    "champ": "Basket-ball. Salvador U21",
+    "heure": "20H15",
+    "date": "28/06/2026",
+    "pro": "Handicap: 2(41.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fe/Seven_Stars_basketball_logo.png",
+    "name1": "Seven U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/Basketball_Austria_logo.png/250px-Basketball_Austria_logo.png",
+    "name2": "Fusalmo U21",
+    "champ": "Basket-ball. Salvador U21",
+    "heure": "20H15",
+    "date": "28/06/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnVU507YgM4pWtMpq-Y4IuuEIgorl2vPFIaGjx2pWOERG91oueXakM_M&s=10",
+    "name1": "Nejapa U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cape_Town_Tigers_logo.png/250px-Cape_Town_Tigers_logo.png",
+    "name2": "Tigres U21",
+    "champ": "Basket-ball. Salvador U21",
     "heure": "00H00",
-    "date": "28/06/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/87/Scarborough_Shooting_Stars_Logo.png",
-    "name1": "Scarborough Shooting",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/74/Hamilton_Honey_Badgers_Logo.png",
-    "name2": "Brampton Honey Badgers",
-    "champ": "Basket-ball. Canada. CEBL",
-    "heure": "23H00",
-    "date": "27/06/2026",
-    "pro": "Total: (+180.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cb/Vancouver_Bandits_2.png",
-    "name1": "Vancouver Bandits",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/3d/Winnipeg_Sea_Bears_logo.png",
-    "name2": "Winnipeg Sea Bears",
-    "champ": "Basket-ball. Canada. CEBL",
-    "heure": "01H00",
-    "date": "28/06/2026",
-    "pro": "Total: (+188.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sodie_mesquita2.png",
-    "name1": "Sodie Mesquita (Femmes)",
-    "photo2": "https://yt3.googleusercontent.com/r8Zw9ZZLazDJXZPQyTR5XTQzu9KhU9uU2VV6LdHNAreARWaIC1LzO7q7d4hKSI9NreHnPKKjag=s900-c-k-c0x00ffffff-no-rj",
-    "name2": "Unimed Campinas (Femmes)",
-    "champ": "Basket-ball. Brézil. LBF. Femmes",
-    "heure": "19H00",
-    "date": "27/06/2026",
-    "pro": "Handicap: 2(-15.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUGsGygLWqmjvADEG5K7WnTOY3p9ZTwUB-g&s",
-    "name1": "Atleticos de San German",
-    "photo2": "https://capitanesarecibo.com/cdn/shop/files/Logo_Principal.png?v=1743639630&width=174",
-    "name2": "Capitanes de Arecibo",
-    "champ": "Basket-ball. Baloncesto. Superior Nacional",
-    "heure": "00H00",
-    "date": "28/06/2026",
-    "pro": "Total: (+176.5)"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/03/Toronto_Tempo_logo_2026.png",
-    "name1": "Toronto Tempo (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Phoenix_Mercury_logo_2025.png/250px-Phoenix_Mercury_logo_2025.png",
-    "name2": "Mercury de Phoenix (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "18H00",
-    "date": "27/06/2026",
-    "pro": "Handicap: 1(-1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e5/Indiana_Fever_logo.svg.png",
-    "name1": "Fever de l'Indiana (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Los_Angeles_Sparks_logo.svg/1280px-Los_Angeles_Sparks_logo.svg.png",
-    "name2": "Los Angeles Sparks (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "00H00",
-    "date": "28/06/2026",
+    "date": "29/06/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d8/Storm_de_Seattle_2021.png",
-    "name1": "Storm de Seattle (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Atlanta_Dream_logo_2020.png",
-    "name2": "Dream d'Atalanta (Femmes)",
+    "photo1": "https://pbs.twimg.com/media/FYFTJFpXgAEQYUQ.jpg",
+    "name1": "Santa Tecla Elite U21",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBp3j3Xl4UHC-rjj83qG0o3vhQ4hTPcBxOX8cRn9s2LQcVy6Okr8YLhw&s=10",
+    "name2": "Quezaltepeque U21",
+    "champ": "Basket-ball. Salvador U21",
+    "heure": "00H00",
+    "date": "29/06/2026",
+    "pro": "Equipe gagne: V1"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bd/DallasWings.jpg",
+    "name1": "Wings de Dallas (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Lynx_logo.jpg",
+    "name2": "Lynx du Minnesota (Femmes)",
     "champ": "Basket-ball. WNBA",
-    "heure": "01H00",
+    "heure": "18H00",
     "date": "28/06/2026",
-    "pro": "Equipe gagne: V2"
+    "pro": "Total: (+173.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Washington_Mystics_Logo.svg/1280px-Washington_Mystics_Logo.svg.png",
+    "name1": "Mystic de Washington (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Portland_Fire_26.png/250px-Portland_Fire_26.png",
+    "name2": "Portland Fire (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "19H00",
+    "date": "28/06/2026",
+    "pro": "Total: (+163.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/2a/Chicago_Sky_logo_2019.png",
+    "name1": "Sky de Chicago (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/65/Aces_de_Las_Vegas_2024.png",
+    "name2": "Aces de Las Vegas (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "20H00",
+    "date": "28/06/2026",
+    "pro": "V1 Et TP(169.5) - Non"
   }
 ]
