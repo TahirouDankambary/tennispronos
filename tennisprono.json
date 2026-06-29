@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/1/18/Club-Malv%C3%ADn.png",
-    "name1": "Malvin Femmes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8d/Aguada_logo.png",
-    "name2": "Aguada Femmes",
-    "champ": "Basket-ball. Uruguay. Femmes",
-    "heure": "20H59",
-    "date": "28/06/2026",
-    "pro": "Handicap: 2(16.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png",
+    "name1": "Iran",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/1280px-Flag_of_Syria_%282025-%29.svg.png",
+    "name2": "Syrie",
+    "champ": "Basket-ball. FIBA World Championship",
+    "heure": "13H30",
+    "date": "29/06/2026",
+    "pro": "Total 1: (+77.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTytutchzsyWHoDooSVUnFdXeo4VatewKRD6ad1zW4PyEj4qf7SLwUWCSA&s=10",
-    "name1": "Umoja",
-    "photo2": "https://play-lh.googleusercontent.com/eVNSzRIiD6fgS8xqFM8mjsyK0qqBgVxWIryr4yctFWke34ZdGG9PNzTvRhbb3c2UZD27",
-    "name2": "Stanbic Shields",
-    "champ": "Basket-ball. Kenya. Premier League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Qatar_%283-2%29.svg/3840px-Flag_of_Qatar_%283-2%29.svg.png",
+    "name1": "Qatar",
+    "photo2": "https://img.magnific.com/vecteurs-premium/drapeau-arabie-saoudite-agite_796687-305.jpg?semt=ais_hybrid&w=740&q=80",
+    "name2": "Arabie Saoudite",
+    "champ": "Basket-ball. FIBA World Championship",
     "heure": "16H00",
-    "date": "28/06/2026",
-    "pro": "Handicap: 1(7.5)"
+    "date": "29/06/2026",
+    "pro": "V1 Et TP(149.5) - Non"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhgFuhx-h5Yhc3Ixj6NxrrBDdaUNu4cTF5W4p1pnGmU3j8IIZWBPHvNo&s=10",
-    "name1": "Dragon U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Federacion_Salvadore%C3%B1a_de_Baloncesto.jpg/250px-Federacion_Salvadore%C3%B1a_de_Baloncesto.jpg",
-    "name2": "San Salvador U21",
-    "champ": "Basket-ball. Salvador U21",
-    "heure": "18H30",
-    "date": "28/06/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1280px-Flag_of_Iraq.svg.png",
+    "name1": "Irak",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1280px-Flag_of_Jordan.svg.png",
+    "name2": "Jordanie",
+    "champ": "Basket-ball. FIBA World Championship",
+    "heure": "16H30",
+    "date": "29/06/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/3840px-Flag_of_Lebanon.svg.png",
+    "name1": "Liban",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/330px-Flag_of_India.svg.png",
+    "name2": "Inde",
+    "champ": "Basket-ball. FIBA World Championship",
+    "heure": "18H00",
+    "date": "29/06/2026",
+    "pro": "Total 1: (+89.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_-_Gigantes_de_Carolina_%28b%C3%A1squetbol-baloncesto%29.png/250px-Logo_-_Gigantes_de_Carolina_%28b%C3%A1squetbol-baloncesto%29.png",
+    "name1": "Gigantes De Carolina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Osos_de_Manat%C3%AD_logo.png/250px-Osos_de_Manat%C3%AD_logo.png",
+    "name2": "Osos de Manati",
+    "champ": "Basket-ball. Baloncesto. Superior",
+    "heure": "00H00",
+    "date": "30/06/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/10/Capitanes_de_Arecibo_2021.jpeg",
+    "name1": "Capitanes de Arecibo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/88/Cangrejeros_Basket_logo.jpeg",
+    "name2": "Cangrejeros de Santurce",
+    "champ": "Basket-ball. Baloncesto. Superior",
+    "heure": "00H00",
+    "date": "30/06/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Criollos_Caguas_Basketball_Logo.jpg/250px-Criollos_Caguas_Basketball_Logo.jpg",
+    "name1": "Criollos de Caguas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/c5/Leones_de_Ponce_%28basketball%29_logo.png",
+    "name2": "Leones de Ponce",
+    "champ": "Basket-ball. Baloncesto. Superior",
+    "heure": "00H00",
+    "date": "30/06/2026",
     "pro": "Handicap: 2(7.5)"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_n3aAOmhNF3wC3G_UVr_XEtsfqXcUsBw9xgjXY9tQ3GuI1sdCv1b0ec&s=10",
-    "name1": "Quezaltepeque U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/0e/DRC_Basketball.png",
-    "name2": "Leopardos Usultutan U21",
-    "champ": "Basket-ball. Salvador U21",
-    "heure": "20H15",
-    "date": "28/06/2026",
-    "pro": "Handicap: 2(41.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fe/Seven_Stars_basketball_logo.png",
-    "name1": "Seven U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/Basketball_Austria_logo.png/250px-Basketball_Austria_logo.png",
-    "name2": "Fusalmo U21",
-    "champ": "Basket-ball. Salvador U21",
-    "heure": "20H15",
-    "date": "28/06/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnVU507YgM4pWtMpq-Y4IuuEIgorl2vPFIaGjx2pWOERG91oueXakM_M&s=10",
-    "name1": "Nejapa U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cape_Town_Tigers_logo.png/250px-Cape_Town_Tigers_logo.png",
-    "name2": "Tigres U21",
-    "champ": "Basket-ball. Salvador U21",
-    "heure": "00H00",
-    "date": "29/06/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://pbs.twimg.com/media/FYFTJFpXgAEQYUQ.jpg",
-    "name1": "Santa Tecla Elite U21",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBp3j3Xl4UHC-rjj83qG0o3vhQ4hTPcBxOX8cRn9s2LQcVy6Okr8YLhw&s=10",
-    "name2": "Quezaltepeque U21",
-    "champ": "Basket-ball. Salvador U21",
-    "heure": "00H00",
-    "date": "29/06/2026",
-    "pro": "Equipe gagne: V1"
-  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bd/DallasWings.jpg",
-    "name1": "Wings de Dallas (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Lynx_logo.jpg",
-    "name2": "Lynx du Minnesota (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "18H00",
-    "date": "28/06/2026",
-    "pro": "Total: (+173.5)"
+    "photo1": "https://www.proballers.com/api/getTeamLogo?id=2437&width=300",
+    "name1": "Santeras de Aguada",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f4/Piratas_de_Quebradillas.png",
+    "name2": "Pirates de Quebradillas",
+    "champ": "Basket-ball. Baloncesto. Superior",
+    "heure": "00H00",
+    "date": "30/06/2026",
+    "pro": "Handicap: 1(1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Washington_Mystics_Logo.svg/1280px-Washington_Mystics_Logo.svg.png",
-    "name1": "Mystic de Washington (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Portland_Fire_26.png/250px-Portland_Fire_26.png",
-    "name2": "Portland Fire (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "19H00",
-    "date": "28/06/2026",
-    "pro": "Total: (+163.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyozSdlMs6PAdP9qEhQVCszbV2_p-9cSjtPD3OK7HYLMnWD97o-mwaTM&s=10",
+    "name1": "Ateneo Versalles",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpD6khti-55-Ui6KFNAJG6n2QmlDGfeI7R07G9yALQMMXz854tliRcr8&s=10",
+    "name2": "Union y Juventud Bandera",
+    "champ": "Basket-ball. Argentine. Ligue Federal",
+    "heure": "23H30",
+    "date": "29/06/2026",
+    "pro": "Handicap: 2(8.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/2a/Chicago_Sky_logo_2019.png",
-    "name1": "Sky de Chicago (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/65/Aces_de_Las_Vegas_2024.png",
-    "name2": "Aces de Las Vegas (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "20H00",
-    "date": "28/06/2026",
-    "pro": "V1 Et TP(169.5) - Non"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/87/EscudoSportivoEscobar.png",
+    "name1": "Club Sportivo Escobar",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxn1IWQ43oLuXmfBkgeCK_VXF7XGhKnZ21LeKFE5tptSnGwBCSWHBVyqY&s=10",
+    "name2": "Almagro de Esperanza",
+    "champ": "Basket-ball. Argentine. Ligue Federal",
+    "heure": "23H30",
+    "date": "29/06/2026",
+    "pro": "1X"
   }
 ]
