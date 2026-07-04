@@ -2,9 +2,9 @@
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiYKxGpKkcbZOi9h0ao9mI2sAzXDgzdLbbdz6a_ghaHQ&s=10",
     "name1": "Lituanie U20 (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnMe2L8YMqve5xd-p9x3zHKHUxtEgqOf2RWGhrZXO2Q&s=10",
-    "name2": "Croitia U20 (Femmes)",
-    "champ": "Basket-ball. FIBA",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtH1x_uHtD8xwdm4Adh4Tsfi1EGyd6q4tNj-CGxHLY&s",
+    "name2": "Croatia U20 (Femmes)",
+    "champ": "Basket-ball. Championnat d'Europe FIBA. U20",
     "heure": "15H00",
     "date": "04/07/2026",
     "pro": "Equipe gagne: V1"
@@ -12,22 +12,22 @@
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6ToztccEqoqj--I0QW2hodsj_AYX4Usjv9Pql3O-Eg&s",
     "name1": "Serbie U20 (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYT8N9U0qY6_jJORsMtUrY6cRfg6w5kuEc56goFDYLg&s",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfCq_gNoopZMOz-cuwvVmyUHuQOHT5pAzxeVinmDDzrg&s=10",
     "name2": "Islande U20 (Femmes)",
-    "champ": "Basket-ball. FIBA",
+    "champ": "Basket-ball. Championnat d'Europe FIBA. U20",
     "heure": "15H00",
     "date": "04/07/2026",
-    "pro": "V1"
+    "pro": "Handicap: 2(20.5)"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPeqd9bpg0Z7OllOZliyjO6E0CtU_FyUmRJ3egevD46g&s=10",
     "name1": "Allemagne U20 (Femmes)",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSgPIz0DcS5fnMnMcozuybMEdlxMvPFGTbqb9iwnJJgA&s",
     "name2": "Hongrie U20 (Femmes)",
-    "champ": "Basket-ball. FIBA",
+    "champ": "Basket-ball. Championnat d'Europe FIBA. U20",
     "heure": "17H30",
     "date": "04/07/2026",
-    "pro": "Total: (130.5) plus de"
+    "pro": "Total: (+126.5)"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4O8wSnImPzRe13FuTcI-gPbU9AeJAiIjhhuRdqz5lcw&s",
@@ -37,7 +37,7 @@
     "champ": "Basket-ball. FIBA",
     "heure": "17H30",
     "date": "04/07/2026",
-    "pro": "Equipe gagne: V2"
+    "pro": "Handicap: 2(-11.5)"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Z_SHGi9kknRsuY6oljHNQmY4xad1RnBwy75UOT3MBQ&s=10",
@@ -47,7 +47,7 @@
     "champ": "Basket-ball. WNBA",
     "heure": "17H00",
     "date": "04/07/2026",
-    "pro": "Total: (153.5) plus de"
+    "pro": "Total: (+159.5)"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LIipXONY-C6P_6qIwJMW6IPxn8dTiWEfr8JYIVyKlw&s=10",
@@ -57,46 +57,46 @@
     "champ": "Basket-ball. WNBA",
     "heure": "01H00",
     "date": "05/07/2026",
-    "pro": "Total: (163.5) Plus de"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbRRjDVykBQQjVBVV8ydxKFUi8bkME9CnEA4l45gF8SA&s=10",
-    "name1": "Golden State Warriors Gold",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlpj7uPY0UI1Sld16RtqbTYKuiHfaQOnCsb43-9LqQA&s",
-    "name2": "Los Angeles Lakers",
-    "champ": "Basket-ball. NBA. Ligue d'été",
-    "heure": "02H30",
-    "date": "04/07/2026",
-    "pro": "Handicap: 2(5.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmHRw2ZCef-rIXqpYPZuN8C7VTO2jpF1l8D4qf5iV5nw&s=10",
-    "name1": "Lagomar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yCyi0WnkcL-bFzh3uYPlSFtlkp-qrp9-BKHSByYIpg&s=10",
-    "name2": "CS Sayago",
-    "champ": "Basket-ball. Championnat d'Uruguay 2è Division",
-    "heure": "22H00",
-    "date": "04/07/2026",
-    "pro": "Total 2: (77.5) Plus de"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0uug2DOG_4uJlSqfK0FtJkbtrrQNuLaK-20QesGFag&s=10",
-    "name1": "Larre Borges Montevideo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl951eclJRG6XV-hmfc62btyGSimvlG7lQ22FouX_7g&s",
-    "name2": "Club Trouville",
-    "champ": "Basket-ball. Championnat d'Uruguay 2è Division",
-    "heure": "22H00",
-    "date": "04/07/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaTxWsQ5aeKweeBXzd9IpBaFmXq9mbogLi0KSWB98AQ&s=10",
-    "name1": "Malvin (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEZ0BQWYeH6iZLrXugpYhhn9n3vO1hGDiHAe2RBELZQ&s",
-    "name2": "Yale (Femmes)",
-    "champ": "Basket-ball. Championnat d'Uruguay",
-    "heure": "22H00",
-    "date": "04/07/2026",
     "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeK3Hb_9qqMvUSJrYjXhhdl78xYtSKmSlGrOKyv20lg&s=10",
+    "name1": "Golden State Warriors Blue",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Milwaukee_Bucks_2015.svg/langfr-250px-Milwaukee_Bucks_2015.svg.png",
+    "name2": "Bucks de Milwaukee",
+    "champ": "Basket-ball. NBA. Ligue d'été",
+    "heure": "19H00",
+    "date": "04/07/2026",
+    "pro": "V1 Et TP (177.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW76ZswIvE_2TpzD64Hm__PcSBP9PRgePulgEXlO0Qrw&s=10",
+    "name1": "Kings de Sacramento",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Nets_de_Brooklyn_2024.png/250px-Nets_de_Brooklyn_2024.png",
+    "name2": "Brooklyn Nets",
+    "champ": "Basket-ball. NBA. Ligue d'été",
+    "heure": "21H00",
+    "date": "04/07/2026",
+    "pro": "V2 Et TM (181.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKxpYRMZUFaZ1zoKmDGZGFMESNXHDtJYNI8TyYVBJ_g&s",
+    "name1": "Oklahoma City Thunder",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnGICE9BHceun_ISmgyI1C_7VR6leNYu7oeEF1xRfqg&s=10",
+    "name2": "Grizzlies de Memphis",
+    "champ": "Basket-ball. NBA. Ligue d'été",
+    "heure": "19H00",
+    "date": "04/07/2026",
+    "pro": "V1 Et TM (181.5)- NON"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png",
+    "name1": "Jazz de l'Utah",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxaHafeynlHXEgidxWxP9K7MKAAoidI8eAhA7oJklT_Q&s",
+    "name2": "Atlanta Hawks",
+    "champ": "Basket-ball. NBA. Ligue d'été",
+    "heure": "21H00",
+    "date": "04/07/2026",
+    "pro": "Handicap: 1(2)"
   }
 ]
