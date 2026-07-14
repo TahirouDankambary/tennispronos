@@ -1,92 +1,92 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-250px-Logo_Knicks_New_York_-_2011.svg.png",
-    "name1": "Knicks de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/langfr-250px-Logo_of_the_Detroit_Pistons.svg.png",
-    "name2": "Pistons de Détroit",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6d6wipkiByxN7DmOiT-NNhmBWl7xL3ad3mJ7Q5KhEg&s=10",
+    "name1": "Rockets de Houston",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxdcsUfUZEdbDa_0gQWsiYhEarsKxsi3kFK-u3tPSPfg&s=10",
+    "name2": "76ers de Philadelphie",
     "champ": "Basket-ball. NBA. Ligue d'été",
     "heure": "20H00",
-    "date": "13/07/2026",
-    "pro": "Equipe gagne: vé"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Pacers_de_l%27Indiana_2017.svg/langfr-250px-Pacers_de_l%27Indiana_2017.svg.png",
-    "name1": "Pacers de l'Indiana",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn5bYPV-ogO1mzed4e_U8UDmYfma4WCRl1OiPrqPEsYA&s",
-    "name2": "Raptors de Toronto",
-    "champ": "Basket-ball. NBA. Ligue d'été",
-    "heure": "20H30",
-    "date": "13/07/2026",
-    "pro": "V2 Et TP (185.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ9MwHI0dVouwE_5fPP7NVgRJXkPt79ZXLP6aXVvdvuA&s=10",
-    "name1": "Celtics de Boston",
-    "photo2": "https://static.wikia.nocookie.net/sports-logos5931/images/9/98/Atlanta_hawks_2016-present.png/revision/latest?cb=20170620004628",
-    "name2": "Atlanta Hawks",
-    "champ": "Basket-ball. NBA. Ligue d'été",
-    "heure": "22H00",
-    "date": "13/07/2026",
-    "pro": "V1 Et TM (175.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnGICE9BHceun_ISmgyI1C_7VR6leNYu7oeEF1xRfqg&s=10",
-    "name1": "Grizzlies de Memphis",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiNzVlz5PCT0LcnLgpsl4l3Ud2_wuXBvhrvuQMAcNfmw&s=10",
-    "name2": "Mavericks de Dallas",
-    "champ": "Basket-ball. NBA. Ligue d'été",
-    "heure": "23H00",
-    "date": "13/07/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQCOSmMkGgUJcKIVIV-_nLk0QO9qgETwMv_MkrYsuLQ&s=10",
-    "name1": "Cleveland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Miami_Heat.svg/langfr-250px-Miami_Heat.svg.png",
-    "name2": "Heat de Miami",
-    "champ": "Basket-ball. NBA. Ligue d'été",
-    "heure": "00H00",
     "date": "14/07/2026",
     "pro": "V1 Et TM (179.5)- NON"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53rhUuLWPPqlsgv-8zLPLWrE9_Mizx7MVciNfJvHSbA&s=10",
-    "name1": "Jazz de l'Utah",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/langfr-250px-Bulls_de_Chicago_logo.svg.png",
-    "name2": "Bulls de Chicago",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/Logo_Golden_State_Warriors_2019.svg/langfr-250px-Logo_Golden_State_Warriors_2019.svg.png",
+    "name1": "Warriors de Golden State",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Grizzlies_de_Memphis_2018.png/250px-Grizzlies_de_Memphis_2018.png",
+    "name2": "Grizzlies de Memphis",
     "champ": "Basket-ball. NBA. Ligue d'été",
-    "heure": "01H00",
-    "date": "13/07/2026",
-    "pro": "V2 Et TM (180.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCGPAIakk-peC2FOJjfD_uC3726-jOPo67Obik5fCE0A&s",
-    "name1": "Portland Trail Blazers",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsNIEqJXHhwbyff8QdV5lagbzDt6F9InFTV1b5wxFow&s",
-    "name2": "Timberwolves du Minnesota",
-    "champ": "Basket-ball. NBA. Ligue d'été",
-    "heure": "03H00",
+    "heure": "23H00",
     "date": "14/07/2026",
-    "pro": "Handicap: 1(8.5)"
+    "pro": "V2 Et TP (183.5)- NON"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Z_SHGi9kknRsuY6oljHNQmY4xad1RnBwy75UOT3MBQ&s=10",
-    "name1": "Dream d'Atlanta (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9MVO1PBin75s5nCg8zd0cZuC-H4YCIfH2Xd2MfOdOoQ&s=10",
-    "name2": "Los Angeles Sparks (Femmes)",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlpj7uPY0UI1Sld16RtqbTYKuiHfaQOnCsb43-9LqQA&s",
+    "name1": "Los Angeles Lakers",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsI-ZuwOsOPK-ALnpS8g7w5Vshv2FPcIyVLAlykf_RZw&s=10",
+    "name2": "Clippers de Los Angeles",
+    "champ": "Basket-ball. NBA. Ligue d'été",
+    "heure": "02H00",
+    "date": "15/07/2026",
+    "pro": "Handicap: 2(1)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/09/Sun_du_Connecticut_2021.png",
+    "name1": "Sun du Connecticut (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe54ghCn42i7U8x-POFInUCwao6uH3IBDAyjOOSRRVvw&s=10",
+    "name2": "Portland Fire (Femmes)",
     "champ": "Basket-ball. WNBA",
     "heure": "23H00",
-    "date": "13/07/2026",
-    "pro": "Equipe gagne: V1"
+    "date": "14/07/2026",
+    "pro": "Handicap: 2(4)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4_OztRJ5GPkqQUppWPOLcwfubrmNf0BABSJSActfmA&s=10",
-    "name1": "Lynx du Minnesota (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1RwtaPdVUJ4UlXOY_uOUZLZh8AXFasy6lH6AXY1Ftg&s",
-    "name2": "Mercury de Phoenix (Femmes)",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAiEZ7MJzc9HqrFkTSpowl8Uly8zn6cLvA-QTQDtkr9Q&s=10",
+    "name1": "Toronto Tempo (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67lFCsm4-uOgguu7smI-i2X4cFKY_mROlgnNQ7oA0Uw&s",
+    "name2": "Mystics de Washington (Femmes)",
     "champ": "Basket-ball. WNBA",
-    "heure": "01H00",
+    "heure": "23H00",
     "date": "14/07/2026",
-    "pro": "Equip gagne: V1"
+    "pro": "V2 Et TM (171.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR05zQKsVtf3Z9HglN77yHLsYoQIMb1Osey9YEv1VfyrPZ3bCv6-I6Xijh&s=10",
+    "name1": "Atleticos de San German",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTciXKCEkAHUWkJ2YVxf0euyGNRF8bEhSR2UWzji-hVKw&s",
+    "name2": "Leones de Ponce",
+    "champ": "Basket-ball. Baloncesto Superior Nacional",
+    "heure": "00H00",
+    "date": "15/07/2026",
+    "pro": "Handicap: 1(3.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/500px-Brooklyn_Nets_newlogo.svg.png",
+    "name1": "Brooklyn Nets",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW76ZswIvE_2TpzD64Hm__PcSBP9PRgePulgEXlO0Qrw&s=10",
+    "name2": "Kings de Sacramento",
+    "champ": "Basket-ball. NBA. Ligue d'été",
+    "heure": "22H00",
+    "date": "14/07/2026",
+    "pro": "Handicap: 2(2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQds62aQOFNh8u-mhMn1L8k7hcXNwxwo-uGNLW4wH_jXA&s",
+    "name1": "Bulls de Chicago",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_Washington_Wizards_-_2015.svg/langfr-250px-Logo_Washington_Wizards_-_2015.svg.png",
+    "name2": "Wizards de Washington",
+    "champ": "Basket-ball. NBA. Ligue d'été",
+    "heure": "00H00",
+    "date": "15/07/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZUDMf-sBidLqIkvDU78c7pMb3t_8Hybs4e177-byE_A&s=10",
+    "name1": "Oklaholama City Thunder",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBvhCNXFi-6KX3LRMWi-665fqn6WnhZWwun4zHkRWXQ&s",
+    "name2": "Denver Nuggets",
+    "champ": "Basket-ball. NBA. Ligue d'été",
+    "heure": "01H30",
+    "date": "15/07/2026",
+    "pro": "V2 Et TM (179.5)- NON"
   }
 ]
