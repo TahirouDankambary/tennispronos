@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZUDMf-sBidLqIkvDU78c7pMb3t_8Hybs4e177-byE_A&s=10",
-    "name1": "Oklahoma City Thunder",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Nets_de_Brooklyn_2024.png/250px-Nets_de_Brooklyn_2024.png",
-    "name2": "Brooklyn Nets",
-    "champ": "Basket-ball. NBA. Ligue d'été",
-    "heure": "20H30",
-    "date": "19/07/2026",
-    "pro": "V1 Et TP (187.5)- Non"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Logo_Toronto_Raptors_-_2020.svg/langfr-250px-Logo_Toronto_Raptors_-_2020.svg.png",
-    "name1": "Raptors de Toronto",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBvhCNXFi-6KX3LRMWi-665fqn6WnhZWwun4zHkRWXQ&s",
-    "name2": "Denver Nuggets",
-    "champ": "Basket-ball. NBA. Ligue d'été",
-    "heure": "22H30",
-    "date": "19/07/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bd/DallasWings.jpg",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjHgc2Z5M5w1fugoViap4KmSKMRmd_7kWU-1ZNj2qRw&s=10",
     "name1": "Wings de Dallas (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9MVO1PBin75s5nCg8zd0cZuC-H4YCIfH2Xd2MfOdOoQ&s=10",
-    "name2": "Los Angeles Sparks (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUbTyjoSwffmBgDinbJ2cWg7UmmzI_gt5rz8yyVcUrQ&s=10",
+    "name2": "Liberty de New York (Femmes)",
     "champ": "Basket-ball. WNBA",
-    "heure": "17H00",
-    "date": "19/07/2026",
+    "heure": "00H00",
+    "date": "21/07/2026",
+    "pro": "V1 Et TP (167.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAiEZ7MJzc9HqrFkTSpowl8Uly8zn6cLvA-QTQDtkr9Q&s=10",
+    "name1": "Toronto Tempo (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbI1kGTqNPPYycqejhUmehq7iE-8L7mLx8oDKGlT75Q&s=10",
+    "name2": "Aces de Las Vegas (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "00H00",
+    "date": "21/07/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeK3Hb_9qqMvUSJrYjXhhdl78xYtSKmSlGrOKyv20lg&s=10",
+    "name1": "Golden State (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67lFCsm4-uOgguu7smI-i2X4cFKY_mROlgnNQ7oA0Uw&s",
+    "name2": "Mystics de Washington (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "02H00",
+    "date": "21/07/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Z_SHGi9kknRsuY6oljHNQmY4xad1RnBwy75UOT3MBQ&s=10",
-    "name1": "Dream d'Atlanta (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8y54-cO9PTbQZMyRRtALlhAX9nmcIpDBC66NhIXr-g&s=10",
-    "name2": "Sky de Chicago (Femmes)",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJMd2GYl-i_MDMETiSAWelPnIbEh7_G1hCOH5LMNlBog&s",
+    "name1": "Storm de Seattle (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoDIrWMRRIVtIA69Av-tpRBONlhes2eTBGmUVkXCq4A&s",
+    "name2": "Lynx du Minnesota (Femmes)",
     "champ": "Basket-ball. WNBA",
-    "heure": "20H00",
-    "date": "19/07/2026",
+    "heure": "02H00",
+    "date": "21/07/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4aVwDhrSPDmNpHS5O43CteM3jcVNyhieTBs72WkgSbQ&s",
+    "name1": "Caxias do Sul U22",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RFC3PlPHWz0DH1dxXBnRBdTkx2y9RY3w8ssuVncVrQ&s=10",
+    "name2": "Caixa Brasilia U22",
+    "champ": "Basket-ball. Brésil. LDB U22",
+    "heure": "15H15",
+    "date": "20/07/2026",
+    "pro": "Handicap: 2(47.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQc4mXVDszV4Cdi56irCR1MLZ0sFD6AyDSgSjF3UWBQ&s=10",
+    "name1": "Fluminense U22",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/langfr-250px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
+    "name2": "Botafogo U22",
+    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
+    "heure": "15H15",
+    "date": "20/07/2026",
+    "pro": "Handicap: 2(7.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScG99UloxHtDsZm_mxd4aFG3AoD9MOOo7jGF2_YbstQQ&s",
+    "name1": "Cruzeiro U22",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/f/f2/Basquete_Cearense.png",
+    "name2": "Cearense U22",
+    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
+    "heure": "17H30",
+    "date": "20/07/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1RwtaPdVUJ4UlXOY_uOUZLZh8AXFasy6lH6AXY1Ftg&s",
-    "name1": "Mercury de Phoenix (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/09/Sun_du_Connecticut_2021.png",
-    "name2": "Sun du Connecticut (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "23H00",
-    "date": "19/07/2026",
-    "pro": "Total: (+162.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRND3wWy4wDZngApIONSkcUkQMMECDBHG0n8xk7cXn6Vg&s=10",
-    "name1": "Espanol de Osorno",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/51/Deportes_Puerto_Montt_logo.png",
-    "name2": "Puerto Montt",
-    "champ": "Basket-ball. Championnat du Chill",
-    "heure": "23H00",
-    "date": "19/07/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Escudo_udec.gif",
-    "name1": "Universidad de Concepcion",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKwX23QlzIi_grLE00gBnilhWkvaJGguFQz2EhnxvCg&s",
-    "name2": "Universidade Catolica",
-    "champ": "Basket-ball. Championnat du Chill",
-    "heure": "23H30",
-    "date": "19/07/2026",
-    "pro": "Handicap: 2(22.5)"
-  },
-  {
-    "photo1": "https://static.wikia.nocookie.net/logopedia/images/2/2a/ABA_Ancud.png/revision/latest?cb=20230811004830&path-prefix=es",
-    "name1": "ABA Ancud",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_nHgHDNE523SqwMzW-CDzyFvR72EQ8gXYR9_i_DXvA&s=10",
-    "name2": "Las Animas",
-    "champ": "Basket-ball. Championnat du Chill",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0IwGursXIc652XMKrnWnYFt0SaSRe_aimt7CraWbx2g&s=10",
+    "name1": "Flamengo U22",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCxXk5Mi6ADQV_tiBatWi1xjJH2EOr3X3wJOpveMfq0Q5HnU4Vm8g_azU&s=10",
+    "name2": "Sociedade Thalia U22",
+    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
     "heure": "00H30",
     "date": "20/07/2026",
-    "pro": "Total: (+160.5)"
+    "pro": "Total: (+79.5)"
   
   }
 ]
