@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Sparks_de_Los_Angeles_2021.png",
-    "name1": "Los Angeles Sparks (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIekBgZxr2w3qf8m33ieCnm6R9AmaJDt-NgCcRKU9XRQ&s=10",
-    "name2": "Mercury de Phoenix (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "19H00",
-    "date": "22/07/2026",
-    "pro": "Total: (+174.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjKTJjRBoZf_OrhSVB_iZIusw7JddQ3mFG0H0plaYWw&s=10",
+    "name1": "Atletico Stockolmo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoiDQs9Fp0usJCmE7pB8wPoSO1NjpUCT7RmmtjBsoiTiwjoruz2f1ze8Q&s=10",
+    "name2": "Urupan de Pando",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "23H15",
+    "date": "23/07/2026",
+    "pro": "1X2: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d8/Storm_de_Seattle_2021.png",
-    "name1": "Storm de Seattle (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4_OztRJ5GPkqQUppWPOLcwfubrmNf0BABSJSActfmA&s=10",
-    "name2": "Lynx du Minnesota (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "19H00",
-    "date": "22/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bwtsM--ZouhKKuK-F4SBr530zpuNaD7r-D7SB4u2Dq6KxpgHb_K-7lM&s=10",
+    "name1": "Colon",
+    "photo2": "https://clublagomar.com/imagenes/icono.png",
+    "name2": "Lagomar",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "23H15",
+    "date": "23/07/2026",
+    "pro": "Total: (+152.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtd8bWVlJrE2eEL__dVpK_wr_YaL08VEBwNsnaZkGjcg&s=10",
+    "name1": "Social Deportivo Presidente Derqui",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/1280px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png",
+    "name2": "River Plate",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "23H30",
+    "date": "23/07/2026",
+    "pro": "Handicap: 2(7.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTceO5-4gHiqdSOBcW41dbLDf6S0WBUVc-lF7_gsio_8w&s=10",
+    "name1": "Aguada (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/1/18/Club-Malv%C3%ADn.png",
+    "name2": "Malvin (Femmes)",
+    "champ": "Basket-ball. Championnat d'Uruguay. Femmes",
+    "heure": "00H30",
+    "date": "24/07/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUbTyjoSwffmBgDinbJ2cWg7UmmzI_gt5rz8yyVcUrQ&s=10",
-    "name1": "Liberty de New York (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8y54-cO9PTbQZMyRRtALlhAX9nmcIpDBC66NhIXr-g&s=10",
-    "name2": "Sky de Chicago (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "23H00",
-    "date": "22/07/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://static.wikia.nocookie.net/degrassi/images/4/46/Yale-university-logo.jpg/revision/latest?cb=20111125110818",
+    "name1": "Yale (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrho13U2Y1a4UXE5F6-VypNurFKsF1GPxPlNMiM3ux0Q&s",
+    "name2": "Defensor Sporting (Femmes)",
+    "champ": "Basket-ball. Championnat d'Uruguay. Femmes",
+    "heure": "00H30",
+    "date": "24/07/2026",
+    "pro": "Handicap: 1(23.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e5/Indiana_Fever_logo.svg.png",
-    "name1": "Fever de l'Indiana (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEk-3lGkPhIRHzpJV7bwQhtEjoPsMv5MZgiD4KWY5xQ&s=10",
-    "name2": "Sun du Connecticut (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "00H00",
-    "date": "23/07/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe54ghCn42i7U8x-POFInUCwao6uH3IBDAyjOOSRRVvw&s=10",
-    "name1": "Portland Fire (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bd/DallasWings.jpg",
-    "name2": "Wings de Dallas (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "02H00",
-    "date": "23/07/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvEEFSQQ2huIjok2Cyd1mga7fjo2sLlOuGIjuigFbayA&s",
-    "name1": "Club Sportivo Pilar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/langfr-250px-Botafogo_de_Futebol_e_Regatas_logo.svg.pn",
-    "name2": "EL Ceibo",
-    "champ": "Basket-ball. Championnat d'Argentine",
-    "heure": "23H30",
-    "date": "22/07/2026",
-    "pro": "Total: (+148.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmPGTWX6muqCnASFaSmMETA0d7hrxxoJKeYyr9_tiPQ&s=10",
+    "name1": "Colegio Los Loenes",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkqNBmqWSQV7gCea51X2d0-0OEVXqHgYlYuHfYBKWPaQ&s=10",
+    "name2": "Universidad de Concepcion",
+    "champ": "Basket-ball. Championnat du Chili",
+    "heure": "00H30",
+    "date": "24/07/2026",
+    "pro": "Total: (+78.5)"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwAM-FHX2rEEbjJkwH__OW4AMDBEH_zPBevI6bSMZVA&s=10",
-    "name1": "ABA Ancud",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/51/Deportes_Castro.jpg",
-    "name2": "Club Deportes Castro",
+    "name1": "Colo Colo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Escudo_de_Palos_de_la_Frontera_modificado.svg/250px-Escudo_de_Palos_de_la_Frontera_modificado.svg.png",
+    "name2": "Puente Alto",
     "champ": "Basket-ball. Championnat du Chili",
     "heure": "23H30",
-    "date": "23/07/2026",
-    "pro": "Equipe gagne: V1"
+    "date": "24/07/2026",
+    "pro": "Total: 1(5.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1nBI0CSPVWQaIJDS1eSjW_hw0Vp4aAWOn9DYPhZt3tA&s=10",
-    "name1": "Sporting Al Riyadi Beirut",
-    "photo2": "https://yt3.googleusercontent.com/Nw1I56hZnxuTaBmsn9CdWMW3HEJdB-uYPJ6_76gpLjvocjPved9izQAkBhaRmN4ir1bAl-4IDm0=s900-c-k-c0x00ffffff-no-rj",
-    "name2": "Sagesse",
-    "champ": "Basket-ball. Championnat du Liban",
-    "heure": "18H30",
-    "date": "22/07/2026",
-    "pro": "Handicap: 1(1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJmlGxbBwTCFbBHg2xwOviZ_UAdUQj13V6lffktTmsg&s=10",
+    "name1": "Green Salvador",
+    "photo2": "https://yt3.googleusercontent.com/Nw1I56hZnxuTaBmsn9CdWMW3HEJdB-uYPJ6_76gpLjvocjPved9izQAkBhaRmN4ir1bAl-4IDm0=s900-c-k-c0x00ffffff-no-r",
+    "name2": "Thunder Salvador",
+    "champ": "Basket-ball. Championnat du Salvador",
+    "heure": "01H15",
+    "date": "24/07/2026",
+    "pro": "Equipe gagne: V1"
   
   }
 ]
