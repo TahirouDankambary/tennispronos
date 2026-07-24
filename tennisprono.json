@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjKTJjRBoZf_OrhSVB_iZIusw7JddQ3mFG0H0plaYWw&s=10",
-    "name1": "Atletico Stockolmo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoiDQs9Fp0usJCmE7pB8wPoSO1NjpUCT7RmmtjBsoiTiwjoruz2f1ze8Q&s=10",
-    "name2": "Urupan de Pando",
-    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
-    "heure": "23H15",
-    "date": "23/07/2026",
-    "pro": "1X2: V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/pt/f/f2/Basquete_Cearense.png",
+    "name1": "Caernse U22",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/15/Minas_T%C3%AAnis_Clube_logo.jpg",
+    "name2": "Minas Tenis Clube U22",
+    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
+    "heure": "13H00",
+    "date": "24/07/2026",
+    "pro": "Total: (+50.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bwtsM--ZouhKKuK-F4SBr530zpuNaD7r-D7SB4u2Dq6KxpgHb_K-7lM&s=10",
-    "name1": "Colon",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bwtsM--ZouhKKuK-F4SBr530zpuNaD7r-D7SB4u2Dq6KxpgHb_K-7lM&s=1",
+    "name1": "Sociedade Thalia U22",
     "photo2": "https://clublagomar.com/imagenes/icono.png",
-    "name2": "Lagomar",
-    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
-    "heure": "23H15",
-    "date": "23/07/2026",
-    "pro": "Total: (+152.5)"
+    "name2": "Unifacisa U22",
+    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
+    "heure": "13H00",
+    "date": "24/07/2026",
+    "pro": "Handicap: 2(5.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtd8bWVlJrE2eEL__dVpK_wr_YaL08VEBwNsnaZkGjcg&s=10",
-    "name1": "Social Deportivo Presidente Derqui",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/1280px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png",
-    "name2": "River Plate",
-    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
-    "heure": "23H30",
-    "date": "23/07/2026",
-    "pro": "Handicap: 2(7.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTceO5-4gHiqdSOBcW41dbLDf6S0WBUVc-lF7_gsio_8w&s=10",
-    "name1": "Aguada (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/1/18/Club-Malv%C3%ADn.png",
-    "name2": "Malvin (Femmes)",
-    "champ": "Basket-ball. Championnat d'Uruguay. Femmes",
-    "heure": "00H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/pt/1/19/Escudo_Bras%C3%ADlia_Basquete.png",
+    "name1": "Caixa Brasilia U22",
+    "photo2": "https://static.wixstatic.com/media/198e4d_ad13b8d9af44480e8c4100234022b46e~mv2.jpg/v1/fit/w_2500,h_1330,al_c/198e4d_ad13b8d9af44480e8c4100234022b46e~mv2.jpg",
+    "name2": "Instituto Viva Vida U22",
+    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
+    "heure": "15H15",
     "date": "24/07/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://static.wikia.nocookie.net/degrassi/images/4/46/Yale-university-logo.jpg/revision/latest?cb=20111125110818",
-    "name1": "Yale (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrho13U2Y1a4UXE5F6-VypNurFKsF1GPxPlNMiM3ux0Q&s",
-    "name2": "Defensor Sporting (Femmes)",
-    "champ": "Basket-ball. Championnat d'Uruguay. Femmes",
-    "heure": "00H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/langfr-250px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
+    "name1": "Botafogo U22",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ipVza9GwJyKzY1ws-MLQb7r1yYWnv0TBaJQkiKkIPw&s",
+    "name2": "Vasco Da Gama U22",
+    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
+    "heure": "15H15",
     "date": "24/07/2026",
-    "pro": "Handicap: 1(23.5)"
+    "pro": "Handicap: 2(22.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmPGTWX6muqCnASFaSmMETA0d7hrxxoJKeYyr9_tiPQ&s=10",
-    "name1": "Colegio Los Loenes",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkqNBmqWSQV7gCea51X2d0-0OEVXqHgYlYuHfYBKWPaQ&s=10",
-    "name2": "Universidad de Concepcion",
-    "champ": "Basket-ball. Championnat du Chili",
-    "heure": "00H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/pt/e/ee/Caxias_do_Sul_Basquete_logo.png",
+    "name1": "Caxias do Sul U22",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScG99UloxHtDsZm_mxd4aFG3AoD9MOOo7jGF2_YbstQQ&s",
+    "name2": "Cruzeiro U22",
+    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
+    "heure": "15H30",
     "date": "24/07/2026",
-    "pro": "Total: (+78.5)"
+    "pro": "Total: (+149.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwAM-FHX2rEEbjJkwH__OW4AMDBEH_zPBevI6bSMZVA&s=10",
-    "name1": "Colo Colo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Escudo_de_Palos_de_la_Frontera_modificado.svg/250px-Escudo_de_Palos_de_la_Frontera_modificado.svg.png",
-    "name2": "Puente Alto",
-    "champ": "Basket-ball. Championnat du Chili",
-    "heure": "23H30",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQa2NjGC1wp5IA1fmQ7wgxL-BVIAWqiCOKK2hAV0Bww&s=10",
+    "name1": "Fluminense U22",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCE_hhjqhfX_5wBnxrtbPW5e57Mp_1BcKIlXmpZE-hA&s",
+    "name2": "Flamengo U22",
+    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
+    "heure": "17H30",
     "date": "24/07/2026",
-    "pro": "Total: 1(5.5)"
+    "pro": "Handicap: 2(6.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJmlGxbBwTCFbBHg2xwOviZ_UAdUQj13V6lffktTmsg&s=10",
-    "name1": "Green Salvador",
-    "photo2": "https://yt3.googleusercontent.com/Nw1I56hZnxuTaBmsn9CdWMW3HEJdB-uYPJ6_76gpLjvocjPved9izQAkBhaRmN4ir1bAl-4IDm0=s900-c-k-c0x00ffffff-no-r",
-    "name2": "Thunder Salvador",
-    "champ": "Basket-ball. Championnat du Salvador",
-    "heure": "01H15",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkA7u6kPvgxqpFofS9usA_7sWLolsuAbP13z2_DvJHKQ&s=10",
+    "name1": "Albatros",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Larre_Borges.png",
+    "name2": "Larre Borges Montevideo",
+    "champ": "Basket-ball. Championnat d'Urguay",
+    "heure": "23H15",
     "date": "24/07/2026",
-    "pro": "Equipe gagne: V1"
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Esc_Olimpia.png/1280px-Esc_Olimpia.png",
+    "name1": "Atletico Olimpia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOYifOfWdfCG20YdpTfFzfIGm79DqIDcgjhaqn0i4zkA&s=10",
+    "name2": "Club Trouville",
+    "champ": "Basket-ball. Championnat d'Urguay",
+    "heure": "23H15",
+    "date": "24/07/2026",
+    "pro": "Total: (+149.5)"
   
   }
 ]
