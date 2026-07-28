@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyvKnQ6ensZyUabi_k9wk_GpeigP7zX-rPMLZwvz0PJw&s=10",
-    "name1": "Bauru (22)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/d/d5/Logo_Rio_Claro.png",
-    "name2": "Rio Claro U20",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "12H30",
-    "date": "27/07/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2kceUHRC5DY8Gf7VyjSfc6cnpBMsrZiZ9JCPmVjimA&s=10",
-    "name1": "Mogi das Cruzes U22",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDBtZc3ODiuqTk7KJIW8ppkW-PxYZD69VqIohxKVnxA&s=10",
-    "name2": "Pato Basquete U20",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "12H30",
-    "date": "27/07/2026",
-    "pro": "Total: (+147.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfTJGBh6I8nQVbLtTNJ9V4E0vzPDiHgjyeBmYQTN4scg&s=10",
-    "name1": "Corinthians (22)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Larre_Borges.png/250px-Larre_Borges.pn",
-    "name2": "Osasco U22",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "14H45",
-    "date": "27/07/2026",
-    "pro": "Handicap: 2(29.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/S%C3%A3o_Jos%C3%A9_Esporte_Clube.svg/1280px-S%C3%A3o_Jos%C3%A9_Esporte_Clube.svg.png",
-    "name1": "Sao José U22",
-    "photo2": "https://lnb.com.br/wp-content/uploads/2018/08/Escudo-Corinthians-1200x1200.png",
-    "name2": "Uniao Corinthians U22",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "14H45",
-    "date": "27/07/2026",
-    "pro": "Handicap: 1(-36.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhqIDx8NMbhjVtW7qYZx9scha6hP1y3-S33xQEDIqsug&s=10",
-    "name1": "Campo Mourao U22",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/5/54/20110605135000%21Esporte_Clube_Pinheiros_logo.jpg",
-    "name2": "E.C.Pinheiros Sky SaoPaolo U22",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "17H00",
-    "date": "27/07/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEERGF6aH6n9p8pDp35-jP-wjsuk8sswzLq9zgLdzPcw&s",
-    "name1": "Club Athletico U22",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfwYfEBNqK8Hyp-yrDuE_ag63RASxESYrQainDXWy-Iw&s=10",
-    "name2": "Sesi Franca U22",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "17H00",
-    "date": "27/07/2026",
-    "pro": "Total: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerG2HNfhgZG_iGGEnAHGQos1E8zOUFtOLlcjwDbq2JQ&s=1",
-    "name1": "Sorocaba U20",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6SfQQh6kc9LmFuTYW928fOmpqettsUPnX0LXwiypkhg&",
-    "name2": "Santo Andre U20",
-    "champ": "Basket-ball. Brésil. Ligue Paulista U20",
-    "heure": "23H00",
-    "date": "27/07/2026",
-    "pro": "Handicap: 2(28.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXwc4fiO7lETMHDRoirvZ-PDbOdh9YFezqT_vuuha3g&s=10",
-    "name1": "River Plate",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv_vNOJ3Sk-2IyHB4whNwpKJhLIfdLUBsq6ZUzqZD4ir-vN1V6m5wEy39e&s=10",
-    "name2": "Social Y Deortivo Presidente Derqui",
-    "champ": "Basket-ball. Championnat d'Argentine",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Washington_Mystics_Logo.svg/langfr-250px-Washington_Mystics_Logo.svg.png",
+    "name1": "Mystics de Washington (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEk-3lGkPhIRHzpJV7bwQhtEjoPsMv5MZgiD4KWY5xQ&s=10",
+    "name2": "Sun du Connecticut (Femmes)",
+    "champ": "Basket-ball. WNBA",
     "heure": "23H30",
-    "date": "27/07/2026",
+    "date": "28/07/2026",
     "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Lynx_logo.jpg",
+    "name1": "Lynx du Minnesota (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/03/Toronto_Tempo_logo_2026.png",
+    "name2": "Toronto Tempo (Femmes)",
+    "champ": "Basket-ball. CWNBA",
+    "heure": "00H00",
+    "date": "29/07/2026",
+    "pro": "Total: (+180.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LIipXONY-C6P_6qIwJMW6IPxn8dTiWEfr8JYIVyKlw&s=10",
+    "name1": "Storm de Seattle (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOvw1ap-TSHhzKeDAA946vNGpiNiV_NZWCcYhpJts-A&s=10",
+    "name2": "Fever de l'Indiana (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "01H30",
+    "date": "29/07/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbI1kGTqNPPYycqejhUmehq7iE-8L7mLx8oDKGlT75Q&s=10",
+    "name1": "Aces de Las Vegas (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe54ghCn42i7U8x-POFInUCwao6uH3IBDAyjOOSRRVvw&s=10",
+    "name2": "Portland Fire (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "02H00",
+    "date": "29/07/2026",
+    "pro": "Total: (+175.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1280px-Los_Angeles_Lakers_logo.svg.png",
+    "name1": "Los Angeles (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz0JVW7OLeadtQ02ZSXgCBvvRuwkVIwCzwltCMn12MwQ&s=10",
+    "name2": "Liberty de New York (Femme)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "02H00",
+    "date": "29/07/2026",
+    "pro": "Hnadicap: 2(1)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrO7kSzqANwytAVY4xGawUAZsH3OgR3KOamXdwBUK9Uw&s=10",
+    "name1": "Lagomar",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfwYfEBNqK8Hyp-yrDuE_ag63RASxESYrQainDXWy-Iw&s=1",
+    "name2": "Clun Atletico Mame Montevideo",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "00H15",
+    "date": "29/07/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Larre_Borges.png/250px-Larre_Borges.png",
+    "name1": "Larre Borges Montevideo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Colon_FC_Uruguay.jpg/250px-Colon_FC_Uruguay.jpg",
+    "name2": "Colon",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "00H15",
+    "date": "29/07/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbLXYVv0VmBP7W3qRUChDB6ioerMHlnlkIImmUAyu8xQ&s=10",
+    "name1": "Montevideo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/6a/EscudoStockolmo.png",
+    "name2": "Atletico Stockolmo",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "00H15",
+    "date": "29/07/2026",
+    "pro": "Handicap: 1(6.5)"
   
   }
 ]
