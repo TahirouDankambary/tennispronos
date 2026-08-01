@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Atlanta_Dream_logo_2020.png",
-    "name1": "Dream d'Atlanta (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJMd2GYl-i_MDMETiSAWelPnIbEh7_G1hCOH5LMNlBog&s",
-    "name2": "Storm Seattle (Femmes)",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8y54-cO9PTbQZMyRRtALlhAX9nmcIpDBC66NhIXr-g&s=10",
+    "name1": "Sky de Chicago (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbI1kGTqNPPYycqejhUmehq7iE-8L7mLx8oDKGlT75Q&s=10",
+    "name2": "Aces de Las Vegas (Femmes)",
     "champ": "Basket-ball. WNBA",
-    "heure": "23H30",
-    "date": "31/07/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Vi6CWPVB9lELvY32jTHaFM6XUFSHDH3YcK8oijYiYQ&s",
-    "name1": "Mystics de Washington (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjHgc2Z5M5w1fugoViap4KmSKMRmd_7kWU-1ZNj2qRw&s=10",
-    "name2": "Wings de Dallas (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "23H30",
-    "date": "31/07/2026",
-    "pro": "TotaL: (+164.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-zThUf5OsoOJSNnbRF5DgoxUwD6HNj7J1AYbI-tbzxA&s=10",
-    "name1": "Portland Fire (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwirxcod2GKU0tE3y6VtS_n1phlam5yUXcNoqN7fKdDw&s=10",
-    "name2": "Fever de l'Indiana (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "02H00",
+    "heure": "17H00",
     "date": "01/07/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCMpXbTvjnyscgbrQjA1o3Af4tG8X_1Oi-QyFRqdQ4Q&s=10",
-    "name1": "Loenes de Ponce",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS067H9V6gNrgqPtNsVEwWSkeI0bZ963_okTufjz-WEcQ&s=10",
-    "name2": "Santeras de Aguada",
-    "champ": "Basket-ball. Baloncesto Superior Nacional",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1RwtaPdVUJ4UlXOY_uOUZLZh8AXFasy6lH6AXY1Ftg&s",
+    "name1": "Mercury de Phoenix (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUbTyjoSwffmBgDinbJ2cWg7UmmzI_gt5rz8yyVcUrQ&s=10",
+    "name2": "Liberty de New York (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "19H00",
     "date": "01/07/2026",
-    "pro": "1X"
+    "pro": "TotaL: (+175.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyvKnQ6ensZyUabi_k9wk_GpeigP7zX-rPMLZwvz0PJw&s=10",
-    "name1": "Bauru (22)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1YPYEwPlKyWltcwvlQ3fganamlbVH0X8FXf9UlknzQ&s=10",
-    "name2": "E.C.Pinheiros Sky SaoPaolo U22",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "12H30",
-    "date": "31/07/2026",
-    "pro": "Hnadicap: 2(-22.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUmHS33bRoAUBAYzOiiyAjGlH3Sd0N9UH-A5DfDimkIQ&s",
+    "name1": "TNT Tropang 5G",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe4QdJu2M2YSb6s4D9jC-7tYvdspoCkYEYV_tpn-0RBA&s",
+    "name2": "San Miguel Beermen",
+    "champ": "Basket-ball. Philippines Coupe des Gouverneurs",
+    "heure": "11H30",
+    "date": "01/07/2026",
+    "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfwYfEBNqK8Hyp-yrDuE_ag63RASxESYrQainDXWy-Iw&s=10",
-    "name1": "Sesi France U22",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLp0rAFVvaZyxIZm0GYYsZ7iSI-daWi3wByILWYLE0A&s=10",
-    "name2": "Mogi das Cruzes U22",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "12H30",
-    "date": "31/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqo0CuoNmgYj2IYUBPSmgowcEFRfsU0sSgLMu2ssC6g&s",
+    "name1": "Fuengirola 3x3",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS067H9V6gNrgqPtNsVEwWSkeI0bZ963_okTufjz-WEcQ&s=1",
+    "name2": "Athens 3x3",
+    "champ": "Basket-ball. FIBA Challenger 3x3. Athens",
+    "heure": "15H20",
+    "date": "01/07/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy0gIGb6b3YyqnUHr63oQaLsjbhjwXdVw4elafiN5xqQ&s=10",
-    "name1": "Rio Clara U22",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2r52XgZ5sntlz7p6P-QwUusJrnWHGYMKAETw2f24xw&s=10",
-    "name2": "Corinthians U22",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "14H45",
-    "date": "31/07/2026",
-    "pro": "Handicap: 2(1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAaOjQHRS-tgz7qFmAlc4yy5J8GHzt4MKVQa_e4KsCQ&s=10",
+    "name1": "Geraldton Buccaneers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/3d/Cockburn_Cougars_new_logo.png",
+    "name2": "Cockburn Cougars",
+    "champ": "Basket-ball. Australie. NBL1",
+    "heure": "11H00",
+    "date": "01/07/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/b/be/Saojosebasketball.png",
-    "name1": "Sao José U22",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDBtZc3ODiuqTk7KJIW8ppkW-PxYZD69VqIohxKVnxA&s=10",
-    "name2": "Pato Basquete U22",
-    "champ": "Basket-ball. Championnat du Brésil. LDB U22",
-    "heure": "14H45",
-    "date": "31/07/2026",
-    "pro": "Handicap: 2(23.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTlQ-HoE3KHZIZH2UfmDbTAseiHFqh97AKYDJyd1t9bg&s=10",
+    "name1": "Kalamunda Eastern Suns",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f0/Perry_Lakes_Hawks_Logo.jpg",
+    "name2": "Perry Lakes Hawks",
+    "champ": "Basket-ball. Australie. NBL1",
+    "heure": "11H30",
+    "date": "01/07/2026",
+    "pro": "Total: (+185.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThUE2--7Sc43-fb1v7InvxyIAouwNT4aAx9YjtCzvi1Q&s=10",
+    "name1": "Vaqueros de Bayamon",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGT8htmIinF4hklcoeGhpf4H1kNfbOM5UoyYBxk83-Eg&s=10",
+    "name2": "Criollos de Caguas",
+    "champ": "Basket-ball. Baloncesto Superior Nacional",
+    "heure": "00H00",
+    "date": "02/07/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd031eu7ELdC3bl9_Qx-EoJiLrkEmL2SOBch96E0w2gw&s=10",
+    "name1": "Limpopo Pride",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/North_West_Eagles.png/250px-North_West_Eagles.png",
+    "name2": "North West Eagle",
+    "champ": "Basket-ball. Championnat d'Afrique de Sud",
+    "heure": "13H15",
+    "date": "01/07/2026",
+    "pro": "Equipe gagne: V1"
   
   }
 ]
