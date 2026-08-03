@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4_OztRJ5GPkqQUppWPOLcwfubrmNf0BABSJSActfmA&s=10",
-    "name1": "Lynx du Minnesota (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvO7XBflxFOjLD3aJJbl5m31j2Rs7l1fdpWkQeNjD-Dw&s=10",
-    "name2": "Fever de l'Indiana (Femmes)",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Z_SHGi9kknRsuY6oljHNQmY4xad1RnBwy75UOT3MBQ&s=10",
+    "name1": "Dream d'Atlanta (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/65/Aces_de_Las_Vegas_2024.png",
+    "name2": "Aces de Las Vegas (Femmes)",
     "champ": "Basket-ball. WNBA",
-    "heure": "17H00",
-    "date": "02/07/2026",
+    "heure": "23H00",
+    "date": "03/07/2026",
+    "pro": "Handicap: 1(4)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUbTyjoSwffmBgDinbJ2cWg7UmmzI_gt5rz8yyVcUrQ&s=10",
+    "name1": "Liberty de New York (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d8/Storm_de_Seattle_2021.png/250px-Storm_de_Seattle_2021.png",
+    "name2": "Storm de Seattle (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H00",
+    "date": "03/07/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8y54-cO9PTbQZMyRRtALlhAX9nmcIpDBC66NhIXr-g&s=10",
+    "name1": "Sky de Chicago (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1RwtaPdVUJ4UlXOY_uOUZLZh8AXFasy6lH6AXY1Ftg&s",
+    "name2": "Mercury de Phoenix (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "01H00",
+    "date": "04/07/2026",
+    "pro": "Total: (+176.6)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHJOONwuG0nTNiJAbbVb6D2YMvCOYHVljrzGomCFMYg&s",
+    "name1": "Criollos de Caguas",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMF8LouGAejJKHQvWCzus4kqHJrj37tdIoVp3-IztBw&s=10",
+    "name2": "Vaqueros de Bayamon",
+    "champ": "Basket-ball. Baloncesto Superior Nacional",
+    "heure": "00H00",
+    "date": "04/07/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Portland_Fire_26.png/250px-Portland_Fire_26.png",
-    "name1": "Portland Fire (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Los_Angeles_Sparks_logo.svg/1280px-Los_Angeles_Sparks_logo.svg.png",
-    "name2": "Los Angeles Sparks (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "19H30",
-    "date": "02/07/2026",
-    "pro": "TotaL: (+183.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjHgc2Z5M5w1fugoViap4KmSKMRmd_7kWU-1ZNj2qRw&s=10",
-    "name1": "Wings de Dallas (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/09/Sun_du_Connecticut_2021.png",
-    "name2": "Sun du Connecticut (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "23H00",
-    "date": "02/07/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0T7DqvHlbAzxA6OxsXVB3XewbY6jv1ooRRzC69fIh9JB_yxZL5SHt6QSA&s=10",
-    "name1": "Santeras de Aguada",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/c5/Leones_de_Ponce_%28basketball%29_logo.png",
-    "name2": "Loenes de Ponce",
-    "champ": "Basket-ball. Baloncesto Superior Nacional",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOS2gtcnQswBSg697woZBGJxeMMNogPpIruanbf3eHw&s=10",
+    "name1": "Atletico Tabare",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOYifOfWdfCG20YdpTfFzfIGm79DqIDcgjhaqn0i4zkA&s=10",
+    "name2": "Club Trouville",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "23H15",
     "date": "03/07/2026",
-    "pro": "Handicap: 2(7.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAJDKXFP5jrLU6COxWwnaRM3auWrzjI7RqSZ1KwYW5w&s=10",
-    "name1": "Tshwane Suns",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFTDsy2f2Jv29sd6pmYgJrJxs1I5YFDq8DUc-eqaTMQ&s=10",
-    "name2": "Soweto Panthers",
-    "champ": "Basket-ball. Championnat d'Afrique du Sud",
-    "heure": "13H00",
-    "date": "02/07/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nOTTVdteUQKYEJ0G-Gtxm9bQxTchBjzhTXYd62s0AG0Ra4iLkx_XFlQ&s=10",
-    "name1": "Université Strathmore (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_UloWycgPnLnQuQjkQqQYzdQKHIxUC7bDVsWAWnLS7RvSMCKMz0tMXpAs&s=10",
-    "name2": "Zetech University (Femmes)",
-    "champ": "Basket-ball. Kenya. Première Ligue. Femmes",
-    "heure": "12H00",
-    "date": "02/07/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMPbN5l0oeNsWyu9Sz5BufeVlr4pFSuP4TfnQpcpnP9A&s=10",
-    "name1": "Cantho Catfish",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVUHHcnWvRE1Zq3AeVdg4OelYoiDmcQHqVSaHMFt9U&s=10",
-    "name2": "Saigon Heat",
-    "champ": "Basket-ball. Championnat du Vietnam. VBA",
-    "heure": "12H30",
-    "date": "02/07/2026",
     "pro": "Handicap: 2(-4.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDP7eS_9NtCE78wNeqUUAweNFxkir1A3H1iXf58Eh82u0e1xBd2hdnfc_&s=10",
-    "name1": "Trinidad and Tobago U20 (Women)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeg6AMn1Vrg04-D-ctsybp_PIPdlJtsZA8tnb3LYA2yQ&s=10",
-    "name2": "Nicaragua U20 (Women)",
-    "champ": "Basket-ball. Jeux d'Amérique centrale et des Caraibes. Femmess",
-    "heure": "16H30",
-    "date": "02/07/2026",
-    "pro": "Equipe gagne: V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Club_trouville_uru_logo.png",
+    "name1": "CS Sayago",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVTRbV534rWpZILeDXORVHITD9J9_BEMbEPPCD1M3nw&s",
+    "name2": "Atletico Stockolmo",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "23H15",
+    "date": "03/07/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://cdn-img.staticzz.com/img/logos/equipas/239131_imgbank_1669802317.png",
+    "name1": "Sao Jose U20",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0P6TAORg6uKzxnLvBLznL4S8tEbtI6I2rBqBxqiHTmkv48MIcnazgJeN&s=10",
+    "name2": "Limeira Basquete U20",
+    "champ": "Basket-ball. Championnat du Brésil. Ligue Paulista U20",
+    "heure": "22H00",
+    "date": "03/07/2026",
+    "pro": "Total: (+151.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfwYfEBNqK8Hyp-yrDuE_ag63RASxESYrQainDXWy-Iw&s=10",
+    "name1": "Franca U20",
+    "photo2": "https://www.nicepng.com/png/detail/93-938590_mog-das-cruzes-basquete-logo-mogi-basquete-png.png",
+    "name2": "Mogi das Cruzes U20",
+    "champ": "Basket-ball. Championnat du Brésil. Ligue Paulista U20",
+    "heure": "22H00",
+    "date": "03/07/2026",
+    "pro": "1X"
   
   }
 ]
