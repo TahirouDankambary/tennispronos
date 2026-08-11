@@ -1,73 +1,73 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9iiZ2WJ8zJD2XwxTrLmjPZhe-LnX-QUIEfI9GUGCZURLWMZhI3e7GDSw&s=10",
-    "name1": "Deportivo Amambay",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5WSEw7DAphRqS55gwQKgUOWFZ_TgV9ANzZlGKjFhHzA&s=10",
-    "name2": "Deportivo San Jose",
-    "champ": "Basket-ball. Championnat du Paraguay",
-    "heure": "22H30",
-    "date": "10/08/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://pbs.twimg.com/profile_images/1671196749619245062/KlpV3E40.png",
-    "name1": "Colonias Gold",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctbb9aY7F_zlS1Q6sC0JccEYENl35jCAVBnGsq07siA&s=10",
-    "name2": "Olimpia Kings",
-    "champ": "Basket-ball. Championnat du Paraguay",
-    "heure": "23H00",
-    "date": "10/08/2026",
-    "pro": "Deux équipes vont marquer: 69 points ou plus- OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CelBwdgFmJ7_WGXM9kAUFduB9P50Dk3QnOqPIkkcxXFzS8bwPNo0_RJ8&s=10",
-    "name1": "Deportivo Campoalto",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQTCFNGSpALUOX7bcqFSzyjXX7gXVHPzKD4P1boE-QOQ&s=1",
-    "name2": "Capiata Bulls",
-    "champ": "Basket-ball. Championnat du Paraguay",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvO7XBflxFOjLD3aJJbl5m31j2Rs7l1fdpWkQeNjD-Dw&s=10",
+    "name1": "Fever de l'Indiana (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5WSEw7DAphRqS55gwQKgUOWFZ_TgV9ANzZlGKjFhHzA&s=1",
+    "name2": "Liberty de New York (Femmes)",
+    "champ": "Basket-ball. WNBA",
     "heure": "23H30",
-    "date": "10/08/2026",
+    "date": "11/08/2026",
+    "pro": "Total: (+187.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbI1kGTqNPPYycqejhUmehq7iE-8L7mLx8oDKGlT75Q&s=10",
+    "name1": "Aces de Las Vegas (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4fisKo5u3cn2KcmHO0vBSR_6nW3BW72vWES286mbGw&s=10",
+    "name2": "Mystics de Washington (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "02H00",
+    "date": "12/08/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUMCgECxKZBxdjnD583JLTXxwY3jUpzEVV2nHTx7Smw&s=10",
-    "name1": "Patriots Kigali",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b5/Rwanda_Energy_Group_logo.png",
-    "name2": "REG",
-    "champ": "Basket-ball. Championnat de Rwanda",
-    "heure": "17H00",
-    "date": "10/08/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVe2e0dHLoveGM8OYwNKz0aQYpZE8QVUxptL9WKDM81r93R-AZboGDnHT&s=10",
-    "name1": "APC BBC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQqOgHKkcSVJTyFaXqQnbCNt0m4YmN0aLjwOSfvo8kA&s=10",
-    "name2": "RSSB Tigers",
-    "champ": "Basket-ball. Brésil. Championnat de Rwanda",
-    "heure": "19H30",
-    "date": "10/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGXyHqK93Anlm6oL72atq3jQ0cCqmWFO15Z6yAfDzm9w&s=10",
+    "name1": "Los Angeles Sparks (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1RwtaPdVUJ4UlXOY_uOUZLZh8AXFasy6lH6AXY1Ftg&s",
+    "name2": "Mercury de Phoenix (FEmmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "02H00",
+    "date": "12/08/2026",
     "pro": "Handicap: 2(5.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu0WsTg8KV4gcL1U2EbdYB3jBzjHbR8rwmSefGOq9Pr0xVMGOxiKJVt7o&s=10",
-    "name1": "Mogi das Cruzes U20",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgO0vojK8AfNc5rKSMUkg5aXn7xVhHrd0zDLdvKXSJA&s=10",
-    "name2": "Paulistano U20",
-    "champ": "Basket-ball. Championnat du Brésil. Ligue Paulista U20",
-    "heure": "22H00",
-    "date": "10/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVTRbV534rWpZILeDXORVHITD9J9_BEMbEPPCD1M3nw&s",
+    "name1": "Atletico Stockolmo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/01/Club_Atletico_Tabare.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Atletico Tabare",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "23H15",
+    "date": "11/08/2026",
+    "pro": "Handicap: 2(5.5)"
+  },
+  {
+    "photo1": "https://clublagomar.com/imagenes/icono.png",
+    "name1": "Lagamor",
+    "photo2": "https://static.wixstatic.com/media/74bf3b_68d55009fd0c414ba8b5f011fab6998f~mv2.jpg/v1/fit/w_2500,h_1330,al_c/74bf3b_68d55009fd0c414ba8b5f011fab6998f~mv2.jpg",
+    "name2": "CS Sayago",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "23H15",
+    "date": "11/08/2026",
+    "pro": "Total: (+71.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Marne.png",
+    "name1": "Club Atletico Marne Montevideo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0uug2DOG_4uJlSqfK0FtJkbtrrQNuLaK-20QesGFag&s=10",
+    "name2": "Larre Borges Montevideo",
+    "champ": "Basket-ball. Mexique. LNBP",
+    "heure": "23H15",
+    "date": "11/08/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpu4-FMcwKHFxmuy2jf7-6ZeL0FVAnhXf_juj2OSrFRg&s=10",
-    "name1": "Sorocaba U20",
-    "photo2": "https://lnb.com.br/wp-content/uploads/2015/11/logo-rio-claro-leao.png",
-    "name2": "Rio Clara U20",
-    "champ": "Basket-ball. Championnat du Brésil. Ligue Paulista U20",
-    "heure": "22H30",
-    "date": "10/08/2026",
-    "pro": "Equipe gagne: V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/2d/Calor_de_Canc%C3%BAn_Logo.png",
+    "name1": "El Calor de Cancun",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Mineros_de_Zacatecas_basketball.png/250px-Mineros_de_Zacatecas_basketball.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Mineros de Zacatecas",
+    "champ": "Basket-ball. Mexique. LNBP",
+    "heure": "01H15",
+    "date": "12/08/2026",
+    "pro": "Total: (+166.5)"
 
   
   }
