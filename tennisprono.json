@@ -1,63 +1,82 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEk-3lGkPhIRHzpJV7bwQhtEjoPsMv5MZgiD4KWY5xQ&s=10",
-    "name1": "Sun du Connecticut (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUbTyjoSwffmBgDinbJ2cWg7UmmzI_gt5rz8yyVcUrQ&s=10",
-    "name2": "Liberty de New York (Femmes)",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Z_SHGi9kknRsuY6oljHNQmY4xad1RnBwy75UOT3MBQ&s=10",
+    "name1": "Dream d'Atlanta (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwirxcod2GKU0tE3y6VtS_n1phlam5yUXcNoqN7fKdDw&s=10",
+    "name2": "Fever de L'Indiana (Femmes)",
     "champ": "Basket-ball. WNBA",
-    "heure": "17H00",
-    "date": "15/08/2026",
-    "pro": "Equipe gagne: V2"
+    "heure": "21H00",
+    "date": "16/08/2026",
+    "pro": "Total: (+183.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4fisKo5u3cn2KcmHO0vBSR_6nW3BW72vWES286mbGw&s=10",
-    "name1": "Mystics de Washington (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGXyHqK93Anlm6oL72atq3jQ0cCqmWFO15Z6yAfDzm9w&s=10",
-    "name2": "Los Angeles Sparks (Femmes)",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LIipXONY-C6P_6qIwJMW6IPxn8dTiWEfr8JYIVyKlw&s=10",
+    "name1": "Storm de Seattle (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8y54-cO9PTbQZMyRRtALlhAX9nmcIpDBC66NhIXr-g&s=10",
+    "name2": "Sky de Chicago (Femmes)",
     "champ": "Basket-ball. WNBA",
-    "heure": "23H30",
-    "date": "15/08/2026",
-    "pro": "Equipe gagne: V1"
+    "heure": "21H00",
+    "date": "16/08/2026",
+    "pro": "V1 ET TP (176.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWByAAfIfLceIONDOc9BDNfZemRItiU0dcTiTlAbzFw&s=10",
-    "name1": "Finlande (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZW5EmcxXr0UV2efM49-sl6JmfpEyRlb06PqXD21sFA&s",
-    "name2": "Lituanie (FEmmes)",
-    "champ": "Basket-ball. Matchs amicaux. Equipes nationales. Femmes",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1RwtaPdVUJ4UlXOY_uOUZLZh8AXFasy6lH6AXY1Ftg&s",
+    "name1": "Mercury de Phoenix (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Portland_Fire_26.png/250px-Portland_Fire_26.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Portland Fire (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H00",
+    "date": "16/08/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA90MOzkXUZI04qO3nQRsQm0OCDdffvEc2p6MW7ajUPg&s=10",
+    "name1": "Al-Difaa Al-Jawi",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe_tuQfa9y54B7t2q7ea53ozPQEtNb08GJNPIIHpM4gQ&s=10",
+    "name2": "Zakho",
+    "champ": "Basket-ball. Andalucia Valderrama Masters. 2019",
     "heure": "16H00",
-    "date": "15/08/2026",
-    "pro": "Handicap: 2(6.5)"
+    "date": "16/08/2026",
+    "pro": "Les deux équipes vont marquer N points Chacune: (67) Points ou plus - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.owikipedia/pt/1/16/Basket_Osasco.png?utm_source=pt.wikipedia.org&utm_campaig=index&utm_content=orig",
-    "name1": "Biomedical U21",
-    "photo2": "https://upload.wikimedia.org/wikipedi/en/9/9c/Bauru_Basket_logo_2023.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Capitalinos U21",
-    "champ": "Basket-ball. Championnat du Salvador U21",
-    "heure": "20H45",
-    "date": "15/08/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0T7DqvHlbAzxA6OxsXVB3XewbY6jv1ooRRzC69fIh9JB_yxZL5SHt6QSA&s=10",
+    "name1": "Santeras de Aguada",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMF8LouGAejJKHQvWCzus4kqHJrj37tdIoVp3-IztBw&s=10",
+    "name2": "Vaqueros de Bayamon",
+    "champ": "Basket-ball. Baloncesto Superior Nacional",
+    "heure": "00H00",
+    "date": "17/08/2026",
+    "pro": "Handicap: 1(4.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkx62oabp0628CD9nnCkx5JbW_iRRMmALxFPzKtU_nWWSGe-DdelWlYA&s=10",
-    "name1": "On Fire Sonsonate U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Franca_Basquete.p",
-    "name2": "Seven Academy U21",
-    "champ": "Basket-ball. Championnat du Salvador U21",
-    "heure": "22H30",
-    "date": "15/08/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUMCgECxKZBxdjnD583JLTXxwY3jUpzEVV2nHTx7Smw&s=10",
+    "name1": "Patriots Kigali",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0mn528yIBHhco70dnNdCZvKKWeLWgbL0aIXmzpVZsQ&s=10",
+    "name2": "APR BBC",
+    "champ": "Basket-ball. Championnat de Rwanda",
+    "heure": "18H30",
+    "date": "16/08/2026",
+    "pro": "Handicap: 2(-2.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.c/ima?qbn:ANd9GcQYUZpGkxrDFGBM9_vMcoV_CcdryqjPyYqVXlnpqBKQ0ipYi2fnRZy6x0-",
-    "name1": "Seven U21",
-    "photo2": "https://upload.ikimedia.org/wikipedia/en/7/71/Montevideo_BBC_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=origin",
-    "name2": "Leones Nemeo U21",
-    "champ": "Basket-ball. Championnat du Salvador U21",
-    "heure": "00H15",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9iiZ2WJ8zJD2XwxTrLmjPZhe-LnX-QUIEfI9GUGCZURLWMZhI3e7GDSw&s=10",
+    "name1": "Deportivo Amambay",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkSdA02RkkrBiBpGBy77DIgy3GXgOV0ONnxwY4JaTrw&s=10",
+    "name2": "Deportivo Campoalto",
+    "champ": "Basket-ball. Championnat du Paraguay",
+    "heure": "21H30",
     "date": "16/08/2026",
     "pro": "Equipe gagne: V1"
-  
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5q4OF-i0inUFT-zahRGYqZ60WQq_mZEnGwZC06QCH0Q&s=10",
+    "name1": "Gambusinos de Fresnillo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgANto_4nTgIE45Byq0rMI1A5XdyNnsJKtsfZzS9zvw&s=10",
+    "name2": "Diablos Rojos",
+    "champ": "Basket-ball. Mexique. LNBP",
+    "heure": "00H00",
+    "date": "17/08/2026",
+    "pro": "Equipe gagne: V2"
   }
 ]
