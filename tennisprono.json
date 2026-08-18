@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAWk2eYQ7dBmh7DIh3H_Jmx2hv7nBKlW_YxISJRHW3FA&s=10",
-    "name1": "Brésil (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2rHIJBYZjW-oXq-gqaCw9-v1ybeCZH_E3VfPXd8jDPQ&s=10",
-    "name2": "Soudan du Sud (Femmes)",
-    "champ": "Basket-ball. Olympic Summer Games. 2028. Women",
-    "heure": "18H00",
-    "date": "17/08/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/09/Sun_du_Connecticut_2021.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Sun du Connecticut (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Los_Angeles_Sparks_logo.svg/1280px-Los_Angeles_Sparks_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Los Angeles Sparks (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H00",
+    "date": "18/08/2026",
+    "pro": "Total: (+166.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Canada (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgI9SlLImRmOqKc5T69SyFZgnVGmoyCZ3ibzaKhoVWSA&s",
-    "name2": "Sénégal (Femmes)",
-    "champ": "Basket-ball. Olympic Summer Games. 2028. Women",
-    "heure": "23H30",
-    "date": "17/08/2026",
-    "pro": "Total: (+79.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAiEZ7MJzc9HqrFkTSpowl8Uly8zn6cLvA-QTQDtkr9Q&s=10",
+    "name1": "Toronto Tempo (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvO7XBflxFOjLD3aJJbl5m31j2Rs7l1fdpWkQeNjD-Dw&s=10",
+    "name2": "Fever de l'Indiana (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H00",
+    "date": "18/08/2026",
+    "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tnbpYzeSFZm9lxNHCEQ2ZEkO__BPr9UW3im25y0CRQ&s=10",
-    "name1": "Mexique (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs79p6ZOs1nHBviyOJzZQFDu4O_fMftWxO6omeW3_T0w&s=10",
-    "name2": "Philippines (Femmes)",
-    "champ": "Basket-ball. Olympic Summer Games. 2028. Women",
-    "heure": "02H30",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbI1kGTqNPPYycqejhUmehq7iE-8L7mLx8oDKGlT75Q&s=10",
+    "name1": "Aces de Las Vegas (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Atlanta_Dream_logo_2020.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Dream d'Atlanta (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "01H00",
+    "date": "19/08/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJEq8Di8F1vP50Jg70QKaCal1MIUhdeC5nGTXVEy8_A&s",
+    "name1": "Sky de Chicago (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/db/New_York_Liberty_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Club Liberty de New York (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "01H00",
+    "date": "19/08/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Esc_Olimpia.png/1280px-Esc_Olimpia.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Atletico Olimpia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xc8hN1gjPz-zgogmFXV7E756wspOjqhu_scff-rUYp1ZxXAvTDT3kkFd&s=10",
+    "name2": "CS Sayago",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "23H15",
     "date": "18/08/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://imagecache.365scores.com/image/upload/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png/v1/Competitors/30250",
-    "name1": "Atletico Stockolmo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKNhh9nRX5m6fMRXCHXdet8gTTAfRD-Y8Fconn78Ranw&s",
-    "name2": "Club Trouville",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBAdjeIsNADwvP5lwklMD9UyOWXPthT7bjuwDp4xO3s39LTSSsD0ftwg&s=10https://upload.wikimedia.org/wikipedia/commons/9/9d/Larre_Borges.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Larre Borges Montevideo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/93/Colon_fc_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Colon",
     "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
     "heure": "23H15",
-    "date": "17/08/2026",
-    "pro": "Total: (+145.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrO7kSzqANwytAVY4xGawUAZsH3OgR3KOamXdwBUK9Uw&s=10",
-    "name1": "Lagomar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP12AYHbgBi8N5hJnqxdPVxTaUOuzMcwBkTpB7lnUkKg&s=10",
-    "name2": "Verdirrojo Montevideo",
-    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
-    "heure": "23H15",
-    "date": "17/08/2026",
-    "pro": "Handicap: 1(5.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBAdjeIsNADwvP5lwklMD9UyOWXPthT7bjuwDp4xO3s39LTSSsD0ftwg&s=10",
-    "name1": "Urupan de Pando",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/01/Club_Atletico_Tabare.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Atletico Tabare",
-    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
-    "heure": "23H15",
-    "date": "17/08/2026",
-    "pro": "Total: (+154.5)"
-  },
-  {
-    "photo1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEUZObzRroEnTmiq6mXMjXuqJtoBjqF_UlYY6M2pEMR74QajkKQ7nb6P8IEg_ReyswnpbF7IkZCwAXMPCUhfXIkpulsg1GRXHoL4LtzcsFDS4B8g1O6ZwXE8rghcPwmYi9_y5q6d3swzsx/w1200-h630-p-k-no-nu/escudo.jpg",
-    "name1": "Universidade Catolica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f0/Colegio_Los_Leones_de_Quilpu%C3%A9_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Colegio Los Leones",
-    "champ": "Basket-ball. Championnat du Chili",
-    "heure": "00H00",
     "date": "18/08/2026",
-    "pro": "Total: (+152.5)"
+    "pro": "Total: (-8.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1KqM4CIs2Ob-p1D5HdgF1fUcQCwmSs9VeYP2Rle0Cg&s=10",
-    "name1": "Las Animas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/bf/CD_Valdivia.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Deportivo Valdivia",
-    "champ": "Basket-ball. Championnat du Chili",
-    "heure": "00H30",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY65PShkH5BSlGBFmv8WUdOclxZM4kAFnyRAymZp9sdg&s=10",
+    "name1": "Club Atletico Marne Montevideo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgY-Lwze9jYPzY1y5dl-rqsCdxEmY9132bG2HpewxLkA&s=10",
+    "name2": "Albatros",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "23H15",
     "date": "18/08/2026",
-    "pro": "Handicap: 1(6.5)"
+    "pro": "Handicap: 2(7.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbLXYVv0VmBP7W3qRUChDB6ioerMHlnlkIImmUAyu8xQ&s=10",
+    "name1": "Montevideo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_0MCOlTlocqsOU-qEekhQiZBWyALvd9aM5LZIKjCQflHVN8HAlo32Y1Ri&s=10",
+    "name2": "Olivol Mundial",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "23H15",
+    "date": "18/08/2026",
+    "pro": "Equipe gagne: V1"
   }
 ]
