@@ -1,73 +1,82 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUbTyjoSwffmBgDinbJ2cWg7UmmzI_gt5rz8yyVcUrQ&s=10",
-    "name1": "Liberty de New York (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Indiana_Fever_logo.svg.png/250px-Indiana_Fever_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE05KvZmcL1YDlyO-JrFfY-ZCR4C3TGtI6H_LBwZ2lKg&s",
+    "name1": "Wings de Dallas (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LIipXONY-C6P_6qIwJMW6IPxn8dTiWEfr8JYIVyKlw&s=10",
+    "name2": "Storm de Seattle (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "20H00",
+    "date": "23/08/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Portland_Fire_26.png/250px-Portland_Fire_26.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name1": "Portland Fire (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4fisKo5u3cn2KcmHO0vBSR_6nW3BW72vWES286mbGw&s=10",
+    "name2": "Mystics de Washington (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H00",
+    "date": "23/08/2026",
+    "pro": "Hndicap: 2(1)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAiEZ7MJzc9HqrFkTSpowl8Uly8zn6cLvA-QTQDtkr9Q&s=10",
+    "name1": "Toronto Tempo (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/65/Aces_de_Las_Vegas_2024.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Aces de Las Vegas (FEmmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H00",
+    "date": "23/08/2026",
+    "pro": "Handicap: 1(18.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/2a/Chicago_Sky_logo_2019.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Sky de Chicago (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwirxcod2GKU0tE3y6VtS_n1phlam5yUXcNoqN7fKdDw&s=10",
     "name2": "Fever de l'Indiana (Femmes)",
     "champ": "Basket-ball. WNBA",
     "heure": "23H00",
-    "date": "22/08/2026",
-    "pro": "V2 ET TP (180.5)- ON"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Phoenix_Mercury_logo_2025.png/250px-Phoenix_Mercury_logo_2025.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Mercury de Phoenix (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-XUN9NTpp0PVc3kwMmHSgF37OnOxbTDx9uC5lY-Phg&s",
-    "name2": "Dream d'Atlanta (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "02H0",
     "date": "23/08/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScgbM7zDnLuBLt7SxGYxEKOjq0W6mXnm3L6tahgqZxiw&s",
-    "name1": "Arabie Saoudite",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Qatar_%283-2%29.svg/960px-Flag_of_Qatar_%283-2%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Qatar",
-    "champ": "Basket-ball. Matchs amicaux. Equipes nationales",
-    "heure": "16H00",
-    "date": "22/08/2026",
     "pro": "2X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxC0x1eBd965vLafNMDZR7Dpm4N4rduNI8hadBvOWOw&s=10",
-    "name1": "Slovénix",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIDe3xZKiYZYD9m40a0x1cEBWyQqNZcg7yEPOGxUWXfQ&s=10",
-    "name2": "Monténégro",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWlDgqf549Cvkke9xfJUIfdFzdW2xofLZnUumEfCAw7Q&s=10",
+    "name1": "Géorgie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Israel",
+    "champ": "Basket-ball. Matchs amicaux. Equipes nationales",
+    "heure": "15H15",
+    "date": "23/08/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcApssLtQegFMNBf7XTdEdSVqtbXP2To4oUM0Sxmt5w&s=10",
+    "name1": "France",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3SUDNd6Trgp8caLvKsnANlVvLV5tujKTQrMrckZvh2w&s=10",
+    "name2": "Serbie",
     "champ": "Basket-ball. Matchs amicaux. Equipes nationales",
     "heure": "16H00",
-    "date": "22/08/2026",
+    "date": "23/08/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZW5EmcxXr0UV2efM49-sl6JmfpEyRlb06PqXD21sFA&s",
-    "name1": "Lituanie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXOKJSR8zQ67WblDWznXeXBLZlzcS6DSFqV52sjNVMjQ&s",
-    "name2": "Arizona Wildcats",
-    "champ": "Basket-ball. Matchs amicaux. Equipes nationales",
-    "heure": "16H30",
-    "date": "22/08/2026",
-    "pro": "Equipe gagne: V1"
-  },
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS63muqwvkEawTFgG9gqzAsYKDSbcmRAxK-gLZMNV6OBg&s=10",
+    "name1": "Colonias Gold",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9iiZ2WJ8zJD2XwxTrLmjPZhe-LnX-QUIEfI9GUGCZURLWMZhI3e7GDSw&s=10",
+    "name2": "Deportivo Amambay",
+    "champ": "Basket-ball. Championnat de Paraguay",
+    "heure": "22H30",
+    "date": "23/08/2026",
+    "pro": "1X"
+ },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Italie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiHNZWxiemQGdBJ70Gg6GCiWCleRudTOfVRyk0rYIfxQ&s",
-    "name2": "Estonie",
-    "champ": "Basket-ball. Matchs amicaux. Equipes nationales",
-    "heure": "17H30",
-    "date": "22/08/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjWlUKifD8EGmtu-4PWt422qyCIKBHfxzYYRGT62NxwGRHpxVlNeNH2imh&s=10",
-    "name1": "RSSB Tigers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b5/Rwanda_Energy_Group_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "REG",
-    "champ": "Basket-ball. Championnat de Rwanda",
-    "heure": "14H30",
-    "date": "22/08/2026",
-    "pro": "Handicap: 2(1.5)"
- 
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaL3-GL7BNvXLVAx0ITHBrkQ4ZX8Ov_hf19uFEgfdq2Q&s=10",
+    "name1": "Egoli Magic",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7aiTLmTjPwxrTVzASd-YT5b-AQROXy--T4uUWKOcGA&s",
+    "name2": "Soweto Panthers",
+    "champ": "Basket-ball. Championnat d'Afrique du Sud",
+    "heure": "13H30",
+    "date": "23/08/2026",
+    "pro": "Handicap: 2(-10.5)"
   }
 ]
