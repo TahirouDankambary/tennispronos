@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d3/Los_Angeles_Sparks_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Los Angeles Sparks (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Atlanta_Dream_logo_2020.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Dream d'Atlanta (Femmes)",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEk-3lGkPhIRHzpJV7bwQhtEjoPsMv5MZgiD4KWY5xQ&s=10",
+    "name1": "Suns du Connecticut (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8y54-cO9PTbQZMyRRtALlhAX9nmcIpDBC66NhIXr-g&s=10",
+    "name2": "Sky de Chicago (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "23H00",
+    "date": "25/08/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE05KvZmcL1YDlyO-JrFfY-ZCR4C3TGtI6H_LBwZ2lKg&s",
+    "name1": "Wings de Dallas (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-zThUf5OsoOJSNnbRF5DgoxUwD6HNj7J1AYbI-tbzxA&s=10",
+    "name2": "Portland Fire (Femmes)",
+    "champ": "Basket-ball. WNBA",
+    "heure": "00H00",
+    "date": "26/08/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1RwtaPdVUJ4UlXOY_uOUZLZh8AXFasy6lH6AXY1Ftg&s",
+    "name1": "Mercury de Phoenix (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmaCxMdU9dpEusIGpY-DzV-EA-66-xpci689Ro_8M46g&s",
+    "name2": "Mystics de Washington (Femmes)",
     "champ": "Basket-ball. WNBA",
     "heure": "02H00",
+    "date": "26/08/2026",
+    "pro": "V1 ET TP (160.5)- NON"
+  },
+  {
+    "photo1": "https://encryd-tbn0.gstatic.com/images?q=tbn:ANd9GcRuioTbukjUTvSn94VFQ-_UmEJZgcEzilcVeB6Oi_I06g&s=10",
+    "name1": "Iserlohn",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaD-SrBqFumZ9J9T3lafxKT3Ambzv9fZfd-HLp0bUPXQ&s=10",
+    "name2": "ETB Miners",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "17H00",
     "date": "25/08/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgO0vojK8AfNc5rKSMUkg5aXn7xVhHrd0zDLdvKXSJA&s=10",
-    "name1": "Paulistano U20",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpu4-FMcwKHFxmuy2jf7-6ZeL0FVAnhXf_juj2OSrFRg&s=10",
-    "name2": "Sorocaba U20",
-    "champ": "Basket-ball. Championnat du Brésil. Ligue Paulista U20",
-    "heure": "20H00",
-    "date": "24/08/2026",
-    "pro": "Handicap: 2(33.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2Qc7UPPlsFDQMVVufLs4p-PtSA3SfJVhfqjl5ocaMw&s=10",
-    "name1": "Rio Clara U20",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOK0KpwXsPzMuoFEyTf05uKT8BKdElwI18CYbzdj-vjA&s=10",
-    "name2": "Franca U20",
-    "champ": "Basket-ball. Championnat du Brésil. Ligue Paulista U20",
-    "heure": "22H00",
-    "date": "24/08/2026",
-    "pro": "Handicap: 2(1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuioTbukjUTvSn94VFQ-_UmEJZgcEzilcVeB6Oi_I06g&s=10",
-    "name1": "Sao Jose U20",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1YPYEwPlKyWltcwvlQ3fganamlbVH0X8FXf9UlknzQ&s=10",
-    "name2": "Pinheiros U20",
-    "champ": "Basket-ball. Championnat du Brésil. Ligue Paulista U20",
-    "heure": "22H00",
-    "date": "24/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySlZlnVy2E3pAMaNSdumS8PwW7f4S8ROs689_JK7rTw&s=10",
+    "name1": "Union Rennes",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg9gVifCucU0a8VKQV7pecg2PDIEUXoDn2_RWdCsK-&s=10",
+    "name2": "CEP Lorient",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "18H00",
+    "date": "25/08/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfGCGLUaKyYjmbmxpNxHGyDFnTLmiUDe5Np6j15fThg&s=10",
-    "name1": "APR BBC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Kigali_Patriots_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Patriots Kigali",
-    "champ": "Basket-ball. Championnat de Rwanda",
-    "heure": "19H30",
-    "date": "24/08/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHo5KIQUCPtdBsjfxNgMWlktGnMcuaxveIgn8Gxi5smw&s=10",
+    "name1": "Olimpia Kings",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm_zj4D2Y7TSn44YtNpM4CT7luEac5AKn4F-4voJa8jjBtuD_P7cIbH8&s=10",
+    "name2": "Capiata Bulls",
+    "champ": "Basket-ball. Championnat du Paraguay",
+    "heure": "00H00",
+    "date": "26/08/2026",
+    "pro": "Total: (+154.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWri3EwublkoRPNTYyx4RyoAqsSe0qIbeHt-My4naV&s=10",
-    "name1": "REG",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQqOgHKkcSVJTyFaXqQnbCNt0m4YmN0aLjwOSfvo8kA&s=10",
-    "name2": "RSSB Tigers",
-    "champ": "Basket-ball. Championnat de Rwanda",
-    "heure": "14H30",
-    "date": "24/08/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b5/Rwanda_Energy_Group_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "REG (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.cimages?q=tbn:ANd9GcT9iiZ2WJ8zJD2XwxTrLmjPZhe-LnX-QUIEfI9GUGCZURLWMZhI3e7GDSw&s=10",
-    "name2": "The Hoops BBC (Femmes)",
-    "champ": "Basket-ball. Championnat de Rwanda. Femmes",
-    "heure": "17H00",
-    "date": "24/08/2026",
-    "pro": "Total: (+79)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoV6nu290KD072r5zWo1OOApV3qHSNcRPV5K9f9UZ6eA&s=10",
+    "name1": "Zhejiang Golden Bulls(Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV2RxJSMLZEAEoGS1zo7RddnaUH-ZLCejj-Qm_pcFcVw&s",
+    "name2": "Shandong Chishuihe Wine (Femmes)",
+    "champ": "Basket-ball. China. National Championship. Women",
+    "heure": "12H00",
+    "date": "25/08/2026",
+    "pro": "1X2: V2"
  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Lynx_logo.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Lynx du Minnesota (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/79/Golden_State_Valkyries_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Golden State Valkyries (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "00H00",
-    "date": "25/08/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOD3D2Sh7xBCRL_3JIcqPwsiRxk-5xQuwxcu_VrLMKEA&s=10",
+    "name1": "Correcamios UAT Victoria",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzwksNIFq_PnOU5ks5CO8cfrW0qdCfL084Zo-hvMbiA&s=10",
+    "name2": "Soles De Mexicali",
+    "champ": "Basket-ball. Mexique. LNBP",
+    "heure": "01H15",
+    "date": "26/08/2026",
+    "pro": "Hnadicap: 1(8.5)"
   }
 ]
