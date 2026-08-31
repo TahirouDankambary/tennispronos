@@ -1,82 +1,73 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTClgtYvjBT8jERt_HwKbJ11gHeY4oi5zdz0cx6x-HAZQ&s=10",
-    "name1": "Rigas Zelli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/e6/Derthona_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Derthon",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "16H00",
-    "date": "30/08/2026",
-    "pro": "Handicap: 2(-0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/960px-Flag_of_Austria.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Autriche",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk37xjqn3xDjENawYqoYBjWz9rFVZ7_ZQRq6je3Wma2A&s",
-    "name2": "Macédoine du Nord",
-    "champ": "Basket-ball. Championnat d'Europe FIBA",
-    "heure": "14H05",
-    "date": "30/08/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvX1XE7PMg1IHr-iF9CSDhO7fM77ob0pgbUtiL8Zv9Q&s",
-    "name1": "Roumanie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8-K6H9GplBMMuKftTozdDvjuZiIhhycjThirnO02Fg&s",
-    "name2": "Bulgarie",
-    "champ": "Basket-ball. Championnat d'Europe FIBA",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSod6BT9pVa3AF2g50B_rjtXlou2oPgvzwG7nw3Y6cdDA&s=10",
+    "name1": "Olomoucko",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTD0Q_6PGDXQhqik8JswMDQe0s-iptGrAyOproq-YQ&s=10",
+    "name2": "MBK Banik Handlova",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "30/08/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbiPM0QYxuYXw91OPQEkCCZDoBJ9zyUbFZ-HZWHbD7w&s=10",
-    "name1": "République Tchèque",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Norvège",
-    "champ": "Basket-ball. Championnat d'Europe FIBA",
-    "heure": "15H30",
-    "date": "30/08/2026",
-    "pro": "Total: (+160.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/330px-Flag_of_the_United_Kingdom.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Great Britain",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMBloTi2z861RgaJkoEpxuRRkEBtDNk0IUUhEDnLitQ&s=10",
-    "name2": "Slovaquie",
-    "champ": "Basket-ball. Championnat d'Europe FIBA",
-    "heure": "18H00",
-    "date": "30/08/2026",
+    "date": "31/08/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6a-Uq4YGMNYj65Iaw0S_0ctcwY4skOE6qY__xeqYMoA&s",
-    "name1": "Coto Cordoba",
-    "photo2": "https://r2.thesportsdb.com/images/media/team/badge/3qps9k1730631066.png",
-    "name2": "Caja 87 Baloncesto",
-    "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "18H00",
-    "date": "30/08/2026",
-    "pro": "Handicap: 2(7.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp_UJd1pBxLWI6uNEw8EXUE5065lleD6LKBUIhkXwrCg&s=10",
+    "name1": "Etats-Unis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langfr-250px-Flag_of_Colombia.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Colombie",
+    "champ": "Basket-ball. FIBA World Championship 2027 Qualification. Americas",
+    "heure": "23H00",
+    "date": "31/08/2026",
+    "pro": "Handicap: 2(29.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Atlanta_Dream_logo_2020.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Dream d'Atlanta (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4_OztRJ5GPkqQUppWPOLcwfubrmNf0BABSJSActfmA&s=10",
-    "name2": "Lynx du Minnesota (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "19H00",
-    "date": "30/08/2026",
-    "pro": "Total: (+172.5)"
- },
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Canada",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCPdniBHK9FuJbsafOg8BtC0tsi-cR4hcyIpalzREdkA&s=10",
+    "name2": "Argentine",
+    "champ": "Basket-ball. FIBA World Championship 2027 Qualification. Americas",
+    "heure": "23H10",
+    "date": "31/08/2026",
+    "pro": "Equipe gagne: V1"
+  },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LIipXONY-C6P_6qIwJMW6IPxn8dTiWEfr8JYIVyKlw&s=10",
-    "name1": "Storm de Seattle (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD1HLqPhgC4YybFt9ViuCh0MkW66IfseiRglL-Fk8TKA&s=10",
-    "name2": "Los Angeles Sparks (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "21H00",
-    "date": "30/08/2026",
-    "pro": "Handicap: 2(4)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHcx_e7zSzXLCiT06CaQTPOAaaXIeornT1Xp0BzkCxQ&s=10",
+    "name1": "Uruguay",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Porto Rico",
+    "champ": "Basket-ball. FIBA World Championship 2027 Qualification. Americas",
+    "heure": "23H10",
+    "date": "31/08/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-AMbnKkzZM0ouChEvKykvaBzvmOLx3bHVvgn1tqePQ&s=10",
+    "name1": "Bahamas",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyyzPusSFGO5D47bXb5W_Elrv6kTWvivh7WRKKuC_p1g&s=10",
+    "name2": "Panama",
+    "champ": "Basket-ball. FIBA World Championship 2027 Qualification. Americas",
+    "heure": "00H10",
+    "date": "01/09/2026",
+    "pro": "Total: (+93.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "République Dominicaine",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqt5ZYFQIOfORf6FIwr266AR_dWqFipgrm6iIrprO5Hw&s",
+    "name2": "Chile",
+    "champ": "Basket-ball. FIBA World Championship 2027 Qualification. Americas",
+    "heure": "01H00",
+    "date": "01/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tnbpYzeSFZm9lxNHCEQ2ZEkO__BPr9UW3im25y0CRQ&s=10",
+    "name1": "Mexique",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSMvlDwuDakNgO-Ogy50UxBtO4MWvtTBeOaiZWp2Mtw&s=10",
+    "name2": "Brésil",
+    "champ": "Basket-ball. FIBA World Championship 2027 Qualification. Americas",
+    "heure": "02H10",
+    "date": "01/09/2026",
+    "pro": "2X"
+ 
   }
 ]
