@@ -1,53 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw5VJoA44DrPRUcmzYovsPtC1a445ojOGuidoOggqsyA&s=10",
-    "name1": "Cordon (Femmes)",
-    "photo2": "https://encrypted-t.gstatic.com/images?q=tbn:ANd9GcQ6oOPsMixwn8Ll5S-lrDiu_sTMit-3FAx_ul9xCtiXAw&s=10",
-    "name2": "Yale (Femmes)",
-    "champ": "Basket-ball. Championnat d'Uruguay. Femmes",
-    "heure": "23H30",
-    "date": "02/09/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSod6BT9pVa3AF2g50B_rjtXlou2oPgvzwG7nw3Y6cdDA&s=10",
+    "name1": "Olomouko",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5RYq4me3vF1WO-P4ekwOkOWrNWgyCljO8fZqMkM487g&s",
+    "name2": "Spisska Ryteri",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "03/09/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA13-rTvC64zM9IcmxyhwqY6VkUBOLDJLo1YkY7GAZ2g&s=10",
+    "name1": "Polski Cukier Torun",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTFQq11HgT4mUQ8uCXfci2B95eM-d-H6kHYha3ZKurg&s",
+    "name2": "Czarni Slupsk",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "16H30",
+    "date": "03/09/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJLdXvrK1U_ZApe9WyZ-fQxgkqCVvGBMJbLFhOhBIcg&s=10",
+    "name1": "Zamora",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a9/Palencia_Baloncesto_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Palencia",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "18H00",
+    "date": "03/09/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlk3_ni5-ex4N4lK1u-T87zAHycKn0_frEWfnHGSUK0w&s=10",
-    "name1": "Defensor Sporting (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrO7kSzqANwytAVY4xGawUAZsH3OgR3KOamXdwBUK9Uw&s=10",
-    "name2": "Lagomar (Femmes)",
-    "champ": "Basket-ball. Championnat d'Uruguay. Femmes",
-    "heure": "16H00",
-    "date": "03/09/2026",
-    "pro": "Total: (+125.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/01/Club_Atletico_Tabare.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Atletico Tabare (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOYNJVkFk2ifXDHfnnS5fr77AWBwl49mCIN6ZWUkvZfQ&s",
-    "name2": "Urunday Universitario (Femmes)",
-    "champ": "Basket-ball. Championnat d'Uruguay. Femmes",
-    "heure": "00H10",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAYfSQ5F9_d3RdUAREakr7ad4HhaZ55_t1-BFZ-sYuSg&s=10",
+    "name1": "FIATC Joventut Badalona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Baxi_Manresa_logo.png/120px-Baxi_Manresa_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Manresa",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "18H30",
     "date": "03/09/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIDL3GjmSPvleNF5i3ypb6zExWJy_P520NVB0C8Qo9cDCrO-fxT9sVcPM&s=10",
-    "name1": "Puerto Montt",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NULTWhBPUjXhaisK3rxf5CyXiGipUmqHn-K9XjWaYQ&s",
-    "name2": "Colo Colo",
-    "champ": "Basket-ball. Championnat du Chili",
-    "heure": "01H30",
-    "date": "03/09/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8l3Uvl1eyAsC4dD1VWzccvzdkTB2go-UyMIZ1aWsOw&s=10",
-    "name1": "UR Kirgali",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VhqA0htjJEVFA1Bjim2FHHAr_Fvys1c1HktzLQft7g&s=10",
-    "name2": "Kepler",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjKTJjRBoZf_OrhSVB_iZIusw7JddQ3mFG0H0plaYWw&s=10",
+    "name1": "Atletico Stockolmo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xc8hN1gjPz-zgogmFXV7E756wspOjqhu_scff-rUYp1ZxXAvTDT3kkFd&s=10",
+    "name2": "CS Sayago",
     "champ": "Basket-ball. Championnat du Rwanda. Division 2",
-    "heure": "15H00",
-    "date": "02/09/2026",
-    "pro": "2X"
-  
+    "heure": "23H15",
+    "date": "03/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP12AYHbgBi8N5hJnqxdPVxTaUOuzMcwBkTpB7lnUkKg&s=10",
+    "name1": "Verdirrojo Montevideo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrO7kSzqANwytAVY4xGawUAZsH3OgR3KOamXdwBUK9Uw&s=10",
+    "name2": "Lagomar",
+    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
+    "heure": "18H15",
+    "date": "03/09/2026",
+    "pro": "Handicap: 2(8.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvH-RDf1OSywBX8rNfHvrwCYy7H23VSOS49HFlQ4aRozNDb0p0xwlOzLE&s=10",
+    "name1": "Deportivo Amanday",
+    "photo2": "https://lnb.com.br/wp-content/uploads/2025/09/Logo-Olimpia.webp",
+    "name2": "Olimpia Kings",
+    "champ": "Basket-ball. Championnat du Paraguay",
+    "heure": "23H30",
+    "date": "03/09/2026",
+    "pro": "Handicap: (8.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwPrGK3TmbSAwGijZl6PFKzg7jTcCN1F2QrOWmuPhRQ&s",
+    "name1": "Denizli",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ytVLTl5fry3RXjS-EXnqkmHEh3J4rYAOBer-tYKrzqyrl-nmT79NoME&s=10",
+    "name2": "Petkimpor",
+    "champ": "Basket-ball. Gloria Cup",
+    "heure": "14H00",
+    "date": "03/09/2026",
+    "pro": "Handicap: 2(8.5)"
+   
   }
 ]
