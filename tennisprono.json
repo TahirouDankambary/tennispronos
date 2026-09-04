@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSod6BT9pVa3AF2g50B_rjtXlou2oPgvzwG7nw3Y6cdDA&s=10",
-    "name1": "Olomouko",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5RYq4me3vF1WO-P4ekwOkOWrNWgyCljO8fZqMkM487g&s",
-    "name2": "Spisska Ryteri",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAogf03mzLoS8JiZp43jbpmQSHLtrJtrEgOlxFDD9iQ&s",
+    "name1": "BBC Bayrreuth",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCIbZQVQGi72BTBj6UC3ngx00iUSk1-3WnAecqBmEsw&s",
+    "name2": "Nurnberger",
     "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "03/09/2026",
-    "pro": "2X"
+    "heure": "15H00",
+    "date": "04/09/2026",
+    "pro": "Handicap: 2(7.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA13-rTvC64zM9IcmxyhwqY6VkUBOLDJLo1YkY7GAZ2g&s=10",
-    "name1": "Polski Cukier Torun",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTFQq11HgT4mUQ8uCXfci2B95eM-d-H6kHYha3ZKurg&s",
-    "name2": "Czarni Slupsk",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DyMn06VI48aXl1BfNi0P8K43-ToiIvfYcK7eLxnfjg&s",
+    "name1": "Ormanspor",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjybxy9k5PYWYBY2sOTStErZsRT0gAR9uAvYKQZ6S7kw&s=10",
+    "name2": "Mersin Buyuksehir Beleliyesi",
     "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "16H30",
-    "date": "03/09/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJLdXvrK1U_ZApe9WyZ-fQxgkqCVvGBMJbLFhOhBIcg&s=10",
-    "name1": "Zamora",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a9/Palencia_Baloncesto_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Palencia",
-    "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "18H00",
-    "date": "03/09/2026",
+    "heure": "15H00",
+    "date": "04/09/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAYfSQ5F9_d3RdUAREakr7ad4HhaZ55_t1-BFZ-sYuSg&s=10",
-    "name1": "FIATC Joventut Badalona",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Baxi_Manresa_logo.png/120px-Baxi_Manresa_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name2": "Manresa",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRzWv7FKZxOUM53xbBNWvKBx3m6OyZTnGd3vZo22u1Q&s",
+    "name1": "Zastal Zielona Gora",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgoE7slDQ6Ja7uIXhPfL9HCJ-gk4iLTXzEBBPfuQBzeA&s=10",
+    "name2": "BK Decin",
     "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "18H30",
-    "date": "03/09/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjKTJjRBoZf_OrhSVB_iZIusw7JddQ3mFG0H0plaYWw&s=10",
-    "name1": "Atletico Stockolmo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xc8hN1gjPz-zgogmFXV7E756wspOjqhu_scff-rUYp1ZxXAvTDT3kkFd&s=10",
-    "name2": "CS Sayago",
-    "champ": "Basket-ball. Championnat du Rwanda. Division 2",
-    "heure": "23H15",
-    "date": "03/09/2026",
+    "heure": "15H30",
+    "date": "04/09/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP12AYHbgBi8N5hJnqxdPVxTaUOuzMcwBkTpB7lnUkKg&s=10",
-    "name1": "Verdirrojo Montevideo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrO7kSzqANwytAVY4xGawUAZsH3OgR3KOamXdwBUK9Uw&s=10",
-    "name2": "Lagomar",
-    "champ": "Basket-ball. Championnat d'Uruguay. 2ème Division",
-    "heure": "18H15",
-    "date": "03/09/2026",
-    "pro": "Handicap: 2(8.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFzjHNO_r2eCgKHxJuiuyaMhcNS7rHvJq4E96qwEUaQ&s=10",
+    "name1": "Taltech",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCkyFGAM_4EPd8I9kL_9y8clWdYjTciGCDvE8Kj0h6w&s=10",
+    "name2": "Keila Basket",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "04/09/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvH-RDf1OSywBX8rNfHvrwCYy7H23VSOS49HFlQ4aRozNDb0p0xwlOzLE&s=10",
-    "name1": "Deportivo Amanday",
-    "photo2": "https://lnb.com.br/wp-content/uploads/2025/09/Logo-Olimpia.webp",
-    "name2": "Olimpia Kings",
-    "champ": "Basket-ball. Championnat du Paraguay",
-    "heure": "23H30",
-    "date": "03/09/2026",
-    "pro": "Handicap: (8.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBofFvapO8DyUfKTdSAi1rZ97wl7MeYOuaPpZLE8vkKQ&s=10",
+    "name1": "Crvena Zvezda",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFLngChedC47SekAX9Rz7jTlePAw6Ar7BiAtgF0uiG9Q&s",
+    "name2": "Olimpia Milano",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "04/09/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwPrGK3TmbSAwGijZl6PFKzg7jTcCN1F2QrOWmuPhRQ&s",
-    "name1": "Denizli",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ytVLTl5fry3RXjS-EXnqkmHEh3J4rYAOBer-tYKrzqyrl-nmT79NoME&s=10",
-    "name2": "Petkimpor",
-    "champ": "Basket-ball. Gloria Cup",
-    "heure": "14H00",
-    "date": "03/09/2026",
-    "pro": "Handicap: 2(8.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqB_roZcHPofwW7cSzPlFdhjX_tuJaDL-aIKRisz4PRQ&s=10",
+    "name1": "Siauliai",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz7qMDvz4my9FLYuCzYgbgoS86nbC9YhLUZjZvB5ISIQ&s=10",
+    "name2": "Tartu Ulikool",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "04/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQic7LHeeGd1San-Cu8QZ2YzEpXW_bJJFPHH2RjnH5vMA&s=10",
+    "name1": "Kormend",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5f92xxtTBbRQkJwEErpWdSMkaP6bXZ5fNyblC89c8A&s=10",
+    "name2": "Klosterneuburg Dukes",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "04/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpcxlvXX7mQ95l8EGCIT6kLylfdSF9aC9H5AnbX5OTOw&s=10",
+    "name1": "CSKA Moscou",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5BHQT4kyJonr0ohd8iPoByMDKIASwtyQCtp9wlN18CA&s=10",
+    "name2": "Parma Perm",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "04/09/2026",
+    "pro": "Equipe gagne: V1"
    
   }
 ]
