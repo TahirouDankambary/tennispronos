@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Niners_Chemnitz.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Niners Chemnitz",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE9QQ2TkhDdfIvb4prcaGymScevNsUIRV1GUukzsKag&s=10",
-    "name2": "Legia Varsovie",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLXZDeZti5tIja6otP8exJgACZBRxJHFk2FjWC6ZfHA&s",
+    "name1": "Valencia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrf_a903ZQVhQC6LJH_ppXbNmsmIWZENpN-iMHHfHpQ&s=10",
+    "name2": "Zaragoza 2002",
     "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "13H00",
-    "date": "06/09/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/SCM_Craiova_logo.png/250px-SCM_Craiova_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "SCM CSU Craiova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/46/FC_Arge%C8%99_Pite%C8%99ti_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Arges Pitesti",
-    "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "06/09/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27I0FLQg7bG1OBEK-Az4ZZsXc1N5A0XsJQLrZzbQ30A&s=10",
-    "name1": "Balkan Botevgrad",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkw_quQ0Ce4gQjVQ-JgFETsodKWVM9yJj5s9hGbUHVGzSdE-GPUnUwu08&s=10",
-    "name2": "KK TFT Skopje",
-    "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "06/09/2026",
+    "heure": "18H00",
+    "date": "07/09/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/63/Iraklis_BC_Official_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Iraklis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/el/8/86/Logo_AEK_Larnaca_Basketball.png?utm_source=el.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "AEK Larnaca",
-    "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "06/09/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Baxi_Manresa_logo.png/120px-Baxi_Manresa_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Marresa",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWx0ttgBO_2wp3M1lkEL-9EPoYNO_QvysDLB9eawowgg&s=10",
-    "name2": "Lleida",
-    "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "16H30",
-    "date": "06/09/2026",
-    "pro": "Handicap: 2(5.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_dinamo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Dinamo Sassari",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS1TTZNyXQZ8egkADVpOr-etANQifYf8yw2BSIBgcrA&s=10",
-    "name2": "Virtus Zegred",
-    "champ": "Basket-ball. Matchs amicaux des clubs",
-    "heure": "18H30",
-    "date": "06/09/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJHnANuxWyekorgfqxt1gmZJKAkhDYBuD6afU0bqMKQ&s",
-    "name1": "Porto Rico (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Belgique (Femmes)",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Hongrie (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Coréé du Sud (Femmes)",
     "champ": "Basket-ball. Coupe du Monde. Femmes",
-    "heure": "15H45",
-    "date": "06/09/2026",
+    "heure": "12H30",
+    "date": "07/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6jyPsr-umm2M_7NmfjsPiXU9WNX8zS55AxctVbayKA&s=10",
+    "name1": "Nigeria (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQOJihK56xAXbYqfYCLXQyPxUF0hd6ftE_vLIpgHje8w&s=10",
+    "name2": "France (Femmes)",
+    "champ": "Basket-ball. Coupe du Monde. Femmes",
+    "heure": "12H30",
+    "date": "07/09/2026",
+    "pro": "Handicap: 2(-15.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Allemagne (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6wfTnpBsSN8GkFysqVQjx9NB0IlH5NxRgcVpOawAdQ&s",
+    "name2": "Mali (Femmes)",
+    "champ": "Basket-ball. Coupe du Monde. Femmes",
+    "heure": "15H30",
+    "date": "07/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQZlOvAktqu8R0_DSWz3qvb-NGBaXd2Vb4cpL4dezFgA&s=10",
+    "name1": "Japon (Femmes)",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/250px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Espagne (Femmes)",
+    "champ": "Basket-ball. Coupe du Monde. Femmes",
+    "heure": "15H50",
+    "date": "07/09/2026",
     "pro": "Equipe gagne: V2"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxtzXLr-bqPp1TgGoKJikMdeDcjwlbMIMMmyMEIkopbQ&s=10",
     "name1": "Italie (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp_UJd1pBxLWI6uNEw8EXUE5065lleD6LKBUIhkXwrCg&s=10",
-    "name2": "Etats-Unis (Femmes)",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Chine (Femmes)",
     "champ": "Basket-ball. Coupe du Monde. Femmes",
     "heure": "18H45",
-    "date": "06/09/2026",
-    "pro": "Equipe gagne: V2"
+    "date": "07/09/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyvKnQ6ensZyUabi_k9wk_GpeigP7zX-rPMLZwvz0PJw&s=10",
+    "name1": "Bauru",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNYd-gXvvXaPwML8yhAT3iRUCKcCxC6_kUfTE91VVycw&s=10",
+    "name2": "Club Athletico",
+    "champ": "Basket-ball. Brésil. Championnat de Sao Paulo",
+    "heure": "21H00",
+    "date": "07/09/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWTMKgAEuo6IYvEyIUdwAOXChsJqETxY9VC5swHOkIgA&s",
+    "name1": "Sporting Alexandria (Women)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Al_Ahly.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "AL Ahly Cairo (Women)",
+    "champ": "Basket-bal. Championnat arabe des clubs. Femmes",
+    "heure": "16H00",
+    "date": "07/09/2026",
+    "pro": "Equipe gagne: V1"
    
   }
 ]
