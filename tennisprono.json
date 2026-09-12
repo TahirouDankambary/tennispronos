@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVF_iSkEdkmOOFa288RHYgxiY6y8wXHP1eZyByK7bMzQ&s=10",
-    "name1": "Alba Fehervar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXhx3nR6S0jOA7eHaljUGRZgEGaK0E87gXuEHYODL1uw&s=10",
-    "name2": "Oberwart Gunners",
-    "champ": "Basket-ball. Tournoi international des clubs",
-    "heure": "14H30",
-    "date": "11/09/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbOTfb2t115rR0LTeS8tHux89n-I4jHegMp-tvII9iQ&s=10",
+    "name1": "AMW Arka Gdynia",
+    "photo2": "https://www.gdynia.pl/cache/images/0x1024/95da3d36f7ace1e777f35ff3a6799097.jpg",
+    "name2": "Stal Ostrow Wielkopoiski",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "13H00",
+    "date": "12/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://thumb.wikimedia./wikipedia/fr/thumb/8/8b/Aris_Thessaloniki_F.C._%28logo%29.svg/langfr-250px-Aris_Thessaloniki_F.C._%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name1": "Oliveirense",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GrfGDT989k9SknvDVgGcDFdQtxccDX47o3EL7jgBNA&s=10",
+    "name2": "Vitoria Guimaraes",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "12/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO8c_tvq75kD9iPO1Hx0eAGZiEgIhfkAC5pp69K5FJhQ&s=10",
+    "name1": "NH Ostrava",
+    "photo2": "https://encrypted-n0.gstatic.com/images?q=tbn:ANd9GcRX9QVcsIqvc7GOw4sf6jzXxPyHO5gY3cMrG068xxB8bw&s=10",
+    "name2": "Politechnika Opolska",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "12/09/2026",
+    "pro": "Handicap: 1(-14.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp3LKokn-tosh0YNeJLvorEPbfE52lNfc7FWYAWQTU5Q&s=10",
+    "name1": "Astoria",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu95M6Xg0diC0vuj_-myVW3K6Sei_uR47l15NY9L5dNg&s=10",
+    "name2": "Starograd Gdansk",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "12/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1vgKKKxJudSID95nIvvQCA-o0054JwueuVutmFC_NoA&s=10",
+    "name1": "CD Povoa",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3JWmXaUYoAXRAGLG9BeyjwitGaffxAQH6qR1JvoS_g&s=10",
+    "name2": "Esgueira",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "12/09/2026",
+    "pro": "Handicap: 1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8xdzKbJQ1OdF-3-seeCJrXSthef2z4QnUMHJ8E-5PxQ&s=10",
+    "name1": "Maxima Roma",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZUYYQiF91zXXZaANGhi7KvjPrWFoTqlbUzZsf0-Ejzw&s=10",
+    "name2": "Hapoel Tel-Aviv",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "12/09/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Olimpia_Milano_-_2016.svg/1280px-Logo_Olimpia_Milano_-_2016.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Olimpia Milano",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVI1ePkYzspcVJIix-_4qMmOYlzPhlbkvxTQqSBWDmA&s",
+    "name2": "P.A.O.K",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "12/09/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/8/8b/Aris_Thessaloniki_F.C._%28logo%29.svg/langfr-250px-Aris_Thessaloniki_F.C._%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Aris Salonique",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_HDyDSx84lVW8XeiDTFYg1X2R9rmD2yZflvIxM8h8g&s",
-    "name2": "Maccabi Tel Aviv",
-    "champ": "Basket-ball. Tournoi international des clubs",
-    "heure": "15H00",
-    "date": "11/09/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0kDVSvdRspqXmArOtCsoIhi7pxxDwbLwl-e29-HhUuA&s",
-    "name1": "WTK Anwill Wloclawek",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX9QVcsIqvc7GOw4sf6jzXxPyHO5gY3cMrG068xxB8bw&s=10",
-    "name2": "HKK Siroki Brijeg",
-    "champ": "Basket-ball. Tournoi international des clubs",
-    "heure": "15H30",
-    "date": "11/09/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtyrY_whblgjPefQtHG_-_4ojJQqZGcoYrJ-b2RZlwQ&s=10",
-    "name1": "Saski Baskonia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fa/Alba_Berlin_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Alba Berlin",
-    "champ": "Basket-ball. Tournoi international des clubs",
-    "heure": "16H45",
-    "date": "10/09/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/53/Falco_KC_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Falco KC Szombathely",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2_RxkmsxLsREI_Sil4brIoGfJBTK1a5_VdZLhV2VwA&s=10",
-    "name2": "HBK Prievidza",
-    "champ": "Basket-ball. Tournoi international des clubs",
-    "heure": "17H15",
-    "date": "11/09/2026",
-    "pro": "Handicap: 2(5.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_Olympiacos_Basketball_-_2009.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Olimpia Le Piréé",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6vcGLzKSBZx6MgFg66askR_EyjTei-iEfFxYvyupO0g&s=10",
-    "name2": "Crvena Zvezda",
-    "champ": "Basket-ball. Tournoi international des clubs",
-    "heure": "18H00",
-    "date": "11/09/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDz0KTymbN9XrOHcG3yBR3OKvDdo9xVUDZnxw-ae8iyA&s=10",
-    "name1": "KK Split",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2thfkD50FP3CG5rVppPqpTrfKu_TChLaQz5I7S0fNxw&s",
-    "name2": "KK Dubrovnik",
-    "champ": "Basket-ball. Tournoi international des clubs",
-    "heure": "18H00",
-    "date": "11/09/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRitfj6h0msm7DjM96UMSN4eIpTx7ibCLJYnM4wrlFh-A&s",
-    "name1": "Krka",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRRkJ_JUpY5xmeS4euEask8AhHRKx-qJYyHRwiYifbA&s=10",
-    "name2": "Dinamo Zagreb",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXczh5zkeLlm8QWLfqc0NQxvz9tkrdWR1M4KAdHq37PA&s=10",
+    "name1": "Rytas Vilnuis",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yNhTjZNXSwPgHcp12ac-86tfYLtBc0nzM9I4s2BPOw&s=10",
+    "name2": "Esenler Erokspor",
     "champ": "Basket-bal. Matchs amicaux des clubs",
-    "heure": "17H00",
-    "date": "11/09/2026",
-    "pro": "Equipe gagne: V1"
+    "heure": "16H30",
+    "date": "12/09/2026",
+    "pro": "Handicap: 2(7.5)"
    
   }
 ]
