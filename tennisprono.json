@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF9GdhozEiNlcgqYwFvxN0ZjUC9tYN6Q8wZErPOpdfuQ&s=10",
-    "name1": "Manchester Basketball",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SZAcGtakzxwqwhxIVSb6BHuu6crpOA-_7iFiO1h6CA&s=10",
-    "name2": "Rio Breogan",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2QLu1jy-HIGfjknJopTLu-lxn3US448eYoO2nduD4Q&s=10",
+    "name1": "Salon Vilpas Vikings",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANcIt1J5C1TRGEyCsn075fFQX7XrswqZsN1rosSm3PQ&s=10",
+    "name2": "Bakken Bears",
     "champ": "Basket-ball. ligue des Champions FIBA",
-    "heure": "13H30",
-    "date": "17/09/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUF7qivpW1ib96MvKvEs1Mr2nNjr1x2uqEqklNUOwiDg&s=10",
-    "name1": "Promitheas Patras",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1-ZPeLMQUr9Mzs-uyBcZxNDSJmBUqpxc-em6eQuycA&s=10",
-    "name2": "Kerfez",
-    "champ": "Basket-ball. ligue des Champions FIBA",
-    "heure": "15H45",
-    "date": "17/09/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMnEypsD-weKup5KaVJ17Wky0w2T3-jIQVqZcY4yvumQ&s",
-    "name1": "S.L Benfica",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAya4wPkutmz6WhhTZOn268NbdTjStWILLbgP-XlA0IA&s=10",
-    "name2": "SC Rasta Vechta",
-    "champ": "Basket-ball. Ligue des Champions FIBA",
-    "heure": "18H00",
-    "date": "17/09/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/aa/Atlanta_Dream_logo_2020.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Dream d'Atlanta (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEk-3lGkPhIRHzpJV7bwQhtEjoPsMv5MZgiD4KWY5xQ&s=10",
-    "name2": "Sun du Connecticut (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "23H30",
-    "date": "17/09/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE05KvZmcL1YDlyO-JrFfY-ZCR4C3TGtI6H_LBwZ2lKg&s",
-    "name1": "Wings de Dallas (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrGFMXTeD_T0frWEMaF0lZakI--gUQpPk7S_Y-SvuY_g&s=10",
-    "name2": "Los Angeles Sparks (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "00H00",
+    "heure": "15H30",
     "date": "18/09/2026",
-    "pro": "Equipe gagne: V1"
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d8/Storm_de_Seattle_2021.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Storm de Seattle (Femmes)",
-    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbI1kGTqNPPYycqejhUmehq7iE-8L7mLx8oDKGlT75Q&s=10",
-    "name2": "Aces de las Vegas (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "02H00",
-    "date": "18/09/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn4cPFus1HtpTKu9FbQ1MXkpNN0YpLKHnvGnpLweZ-Q&s=10",
-    "name1": "UNICS",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87_k3sbBAG24tc58fIS3oOX7Ie19zG9zcQg8LOCfUYA&s=10",
-    "name2": "Zénith Saint-Pétersbourg",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtfKhGzUZNujWSKO6C4V9P7OgixIIh4kTfE-4OnzMTwA&s=10",
+    "name1": "CSKA Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/1/12/%D0%9B%D0%BE%D0%BA%D0%BE%D0%BC%D0%BE%D1%82%D0%B8%D0%B2-%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C_%D0%BB%D0%BE%D0%B3%D0%BE.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Lokomotiv Kuban",
     "champ": "Basket-ball. Super Coupe de la VTB United League",
     "heure": "17H00",
-    "date": "17/09/2026",
-    "pro": "Total: (+158.5)"
+    "date": "18/09/2026",
+    "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfO-iAGVCDI9abS491DUX0lgePXt2vR-8-gCh8wsRzZQ&s",
-    "name1": "CSKA Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fa/Igokea-logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "KK Lgokea",
-    "champ": "Basket-bal. Super Coupe de la VTB United League",
-    "heure": "17H00",
-    "date": "17/09/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87_k3sbBAG24tc58fIS3oOX7Ie19zG9zcQg8LOCfUYA&s=10",
+    "name1": "Zénith Saint-Pétersbourg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHegG6uE-3Mnvs1An8HAlkfxZ1gIBBOakK_pK5-ETMBQ&s=10",
+    "name2": "Anadolu Efes",
+    "champ": "Basket-ball. Super Coupe de la VTB United League",
+    "heure": "14H00",
+    "date": "18/09/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSafN3ClfMBjhuInptVQ5z_PAk4Yl1-GRGOuu939SOQ&s=10",
+    "name1": "Olympiakos Le Piréé",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6fU8vWtC7LrNmNBTGKN9Rf8lG-QxL103fB3NEiUsPVw&s=10",
+    "name2": "Fenerbahce",
+    "champ": "Basket-ball. Euroleague Super Cup",
+    "heure": "14H00",
+    "date": "18/09/2026",
+    "pro": "V1 ET TM (162.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_ig68ipUb0hykr0LVV_t0UxbysOvs1lGr62P_jGaJQ&s",
+    "name1": "Trabzonspor",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpWcfr5K0jEehSYNDrYOkdpRtppNFSzJW9w8R_3Pemng&s=10",
+    "name2": "Galatasaray",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "13H30",
+    "date": "18/09/2026",
+    "pro": "V1 ET TP (163.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLe0qz3C4-UEyvvFo6tj9Lup8sty21YarHYDKCBFfD_g&s=10",
+    "name1": "Beroe",
+    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOd4js6pm395aE1llmE1i23AzwYOGLDCkEeE_vxfxQA&s=10",
+    "name2": "Shumen Basket",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "18/09/2026",
+    "pro": "Handicap: 2(6.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-124-221_preview_rev_1.png?utm_source=sq.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Cibona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_KK_Split_2024.png?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "KK Split",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "18/09/2026",
     "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tartu_basketball_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Tartu Ulikool",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGY4ztq3mKvUcYE2PCElw6He1hyzp38p-7fyaybAqXMCCxnkJrmDShOp3C&s=10",
+    "name2": "Viimsi Kesklinn",
+    "champ": "Basket-bal. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "18/09/2026",
+    "pro": "1X"
    
   }
 ]
