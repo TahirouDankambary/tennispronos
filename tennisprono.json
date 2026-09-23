@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKz889TmMn3ZI5fZ5lvPMnd7ygD60pB8Bsxyk2zBUKBw&s=10",
-    "name1": "Iraklis",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWf2e-TiuJauQAVDcSi6RvkeKo2NIzgLn18-UKewofYg&s=10",
-    "name2": "Mykonoy",
-    "champ": "Basket-ball. Tournoi international des clubs",
-    "heure": "17H00",
-    "date": "22/09/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6fU8vWtC7LrNmNBTGKN9Rf8lG-QxL103fB3NEiUsPVw&s=10",
-    "name1": "Fenerbahce",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9M8zhpSgZGjtJWJM6OKaUpQlu2N1kklOhLSYNzItcrQ&s=10",
-    "name2": "Besiktas",
-    "champ": "Basket-ball. Supercoupe de Turquie",
-    "heure": "17H00",
-    "date": "22/09/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi0UIXSWnvIuKKw7mWZpqRRhNYY8zlr3hApgJFdc-lMA&s=10",
-    "name1": "SESI -SP Franca",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Club_Athletico_Paulistano_logo.svg/1280px-Club_Athletico_Paulistano_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Club Athletico Paulistano",
-    "champ": "Basket-ball. Brésil. Championat de Sao Paulo",
-    "heure": "23H00",
-    "date": "22/09/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/e/e4/WA_Boufarik_basketball_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "WO Boufarik",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpAhU-C4yLxyLZeLpHWCbrk56XR6BQf9w6l7x-3Kikxg&s",
-    "name2": "USM Blida",
-    "champ": "Basket-ball. Championnat d'Algérie",
-    "heure": "17H00",
-    "date": "22/09/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/b8/CD_Las_%C3%81nimas.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Las Animas",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6jRxclp_BEmfKLI1eqHtb7sLMgnGeG3X41CwPoIquw&s=10",
-    "name2": "Colo Colo",
-    "champ": "Basket-ball. Championnat du Chili",
-    "heure": "23H00",
-    "date": "22/09/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrO8LvIv4dO01USwFicRGcMvezqUiQmcfivLCT3UeOioUDn0FgQSVuR34&s=10",
-    "name1": "Club Deportes Castro",
-    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXiffSu0Ib2AQHQag_nJH3l9Yj-0u2Dh-Jmo_rCaZFXGlPnl2nIVUjc8&s=10",
-    "name2": "Club Deportes Espanol de Talca",
-    "champ": "Basket-ball. Championnat du Chili",
-    "heure": "23H30",
-    "date": "22/09/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmaCxMdU9dpEusIGpY-DzV-EA-66-xpci689Ro_8M46g&s",
-    "name1": "Mystics de Washington (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEk-3lGkPhIRHzpJV7bwQhtEjoPsMv5MZgiD4KWY5xQ&s=10",
-    "name2": "Sun du Connecticut (Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "23H30",
-    "date": "22/09/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwirxcod2GKU0tE3y6VtS_n1phlam5yUXcNoqN7fKdDw&s=10",
-    "name1": "Fever de l'Indiana (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4_OztRJ5GPkqQUppWPOLcwfubrmNf0BABSJSActfmA&s=10",
-    "name2": "Lynx du Minnesota (Femmes)",
-    "champ": "Basket-bal. WNBA",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/5/5c/Apollon_Limassol.svg?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Apollon Limassol",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEXUU195dFLseNRsYlxueh6iZhmc1uUTeZ30W6ovY-g&s=10",
+    "name2": "Anorthosis Famagusta",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "14H00",
     "date": "23/09/2026",
-    "pro": "Total: (+182.6)"
+    "pro": "Handicap: 1(3.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a5/Digenis_Morfou.gif?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Digenis Akritas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/c2/APOEL_%28Sports_Club%29_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "APOEL",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "23/09/2026",
+    "pro": "Handicap: 1(5.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VCObt98H6dt9jCB0W-Az0xvJlpRmy0jHPbIX0mcMNA&s=10",
+    "name1": "Botev 2012",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/09/Levski_sofia_1990-1992.JPG?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Levski",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "23/09/2026",
+    "pro": "Handicap: 2(7.5)"
+  },
+  {
+    "photo1": "https://imagecache.365scores.com/image/upload/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png/v5/Competitors/15174",
+    "name1": "Hapoel Migdal HaEmek",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnx7QqSJMEUO5oelh1UdYYswOdv8y5ooEmMNGk8XaYfw&s=10",
+    "name2": "Maccabi Kiryat Motzkin",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "23/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnXLC7RlaoW4OFXHWUUC9smVQ1UzxKJxa0vmO807vorw&s=10",
+    "name1": "AEL Limassol",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT41qnLzHRcsbBiSoRhGc5UZ0TzJufZVO2yTuFCq94yA&s=10",
+    "name2": "Enosis Neon Paralismi",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "23/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS6drPMDZrNPdfxwDo-MBKNJejOnKIgHrsCLCvjg2ukw&s=10",
+    "name1": "Maccabi Kiryat-Gat",
+    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZ5DjJwDJLbvi2tOgJ-KKhOhnmJBFJ0GhRHXByZ8dMA&s=10",
+    "name2": "Otef Darom",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "23/09/2026",
+    "pro": "Total: (+80.5)"
+  },
+  {
+    "photo1": "https://r2.thesportsdb.com/images/media/team/badge/lnguyp1759569049.png",
+    "name1": "Maccabi Ra'anana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b4/A.S._Ramat_Hasharon_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "AS Ramat Hasharon",
+    "champ": "Basket-ball. Matchs amicaux des clubs",
+    "heure": "15H45",
+    "date": "23/09/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://r2.thesportsdb.com/images/media/team/badge/8bmkls1767857567.png",
+    "name1": "Maccabi Petah Tikva",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZrS8x6u5nqxPpuIK02P8R1bIh0T-blbOPcE_eK3Hz_g&s=10",
+    "name2": "Elitzur Netanya",
+    "champ": "Basket-bal. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "23/09/2026",
+    "pro": "Equipe gagne: V2"
    
   }
 ]
