@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FWvjvJreu3qidoDtDrP0DeSWcFO8lTXcHlI0gJQMbw&s",
-    "name1": "Bahcesehir Koleji",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzvJR8NLJFqaWUyLHC1vhWQZ2Z_5Z56jxr9Dy87i83A&s",
-    "name2": "Roma SPQR",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "16H00",
-    "date": "30/09/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/3840px-Virtus_Bologna_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Virtus Granarole Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_Olympiacos_Basketball_-_2009.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Olympia Le Piréé",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H30",
+    "date": "01/10/2026",
+    "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/RigasZelli.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Rigas Zelli",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Paris",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXJiMbjjXynscmyacpTiY5HvvdjaiXhTjFHM54k6wWPoYjMMLCcMleBF0&s=10",
-    "name2": "Derthona",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "16H00",
-    "date": "30/09/2026",
-    "pro": "2X"
+    "name2": "Zalgiris",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H45",
+    "date": "01/10/2026",
+    "pro": "Handicap: 1(4.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurAAWsw-nAsLfOgtpGECa2qKxYT9sZjph5B3TjdVIGw&s",
-    "name1": "Panevezys Lietkabelis",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmjGNX-f4xTL9GhP-0ip2JSaTeuFeP8oShWnUci8fwQ&s",
-    "name2": "KK Bosna",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "16H30",
-    "date": "30/09/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB1PhTvv89EJvIHn_CU4wgVh-NQhYzJDFwSCq2DGdL4X-GLpzKZ1jlhyo&s=10",
+    "name1": "Levharti Chomutov (Femmes)",
+    "photo2": "https://pro.ccmbf.fr/Medias/logos/logo_ccbf/logocbf.png",
+    "name2": "C'Chartres (Femmes)",
+    "champ": "Basket-ball. EuroCoupe. Femmes",
+    "heure": "17H00",
+    "date": "01/10/2026",
+    "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVI1ePkYzspcVJIix-_4qMmOYlzPhlbkvxTQqSBWDmA&s",
-    "name1": "P.A.O.K.",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWSzC2Jr0yD994smQbAcD-obcWDRHMo8hnoEWCEzBmB53TF0dbWw5F0YQ&s=10",
-    "name2": "Manresa",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "16H30",
-    "date": "30/09/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0Ex2Mta2zNQw7Zn_Ir16Btg4oMGPHENKagqzLxjDiG-Ix9HlueYU2TQ&s=10",
+    "name1": "Saarlouis Royals (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPcIhwxepk5Oy5sagKbbWTzZsJ23tAAh5DYOLsM_1kVDUTQqUpTQO8Bo&s=10",
+    "name2": "Raven Geneve (Women)",
+    "champ": "Basket-ball. EuroCoupe. Femmes",
+    "heure": "17H00",
+    "date": "01/10/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjqWyb_tLXmeSqnay1Q6CpOyi0nV6O45_b11FoQFtIg&s=10",
-    "name1": "Ratiopharm Ulm ",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_oLcGnLk5fg3GQQCAcJjHcuwqVL-mXCYNth1s333wyg&s",
-    "name2": "Balkan Botevgrad",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "17H00",
-    "date": "30/09/2026",
-    "pro": "Hnadicap: 1(-10.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8d6DuawC5b7mL8pncqCMfEOJ64jGn9Mc-XE7sC-I4A&s=10",
+    "name1": "Uni Ferrol (Femmes) ",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLe0qz3C4-UEyvvFo6tj9Lup8sty21YarHYDKCBFfD_g&s=10",
+    "name2": "Beroe Stara Zagora (Femmes)",
+    "champ": "Basket-ball. EuroCoupe. femmes",
+    "heure": "18H15",
+    "date": "01/10/2026",
+    "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTex_n3Wnp1x8k49oduehDY1s8-i2iIz8z_6Gn6fFKX9g&s=10",
-    "name1": "Slask Wroclaw",
-    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR18xYxFqVpboZP521uqJWwF2BzK2KfLuIk71p_zV6bew&s",
-    "name2": "Buducnost Odgorica",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "17H00",
-    "date": "30/09/2026",
-    "pro": "1X2: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_C1UxS_kPNlRs3GmgIqjTKpAGKEVE-86TBZnm80whQ&s=10",
-    "name1": "Napoli Basket",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpycfOpTNaoPwvqrfh4qa4O8I_CIqyY38211QyedWhqQ&s=10",
-    "name2": "JL Bourg",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "18H00",
-    "date": "30/09/2026",
-    "pro": "V1 ET TM (170.5) - NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4e991dbnuWrDEB81d1Kdhq3-JebGodfSRycKJYdyNQ&s",
-    "name1": "Burgos",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgv0zLx3im6np4SICfryajQ022-ycg9VGBkOycuEfg4w&s=10",
-    "name2": "Cedevita Olimpija",
-    "champ": "Basket-bal. EuroCoupe",
-    "heure": "18H300",
-    "date": "30/09/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuD78dh4UAWLB1iBUR1Yje1JOqvOPp0gQ2NQqd4uJoFg&s=10",
+    "name1": "Temp-SUMZ",
+    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbeXo96nxcTRf-ODS6YxMCunqFyjqY0q_AUp5VNmvFQ&s=10https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbeXo96nxcTRf-ODS6YxMCunqFyjqY0q_AUp5VNmvFQ&s=10",
+    "name2": "Novosibirk",
+    "champ": "Basket-ball. Championnat de Russie. Superligue",
+    "heure": "13H00",
+    "date": "01/10/2026",
     "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq-OJ-2B33_A8d59LFEJI8G6Ad7ycKdmwN0bXs55iRyg&s=10",
+    "name1": "Dinamo Ufa",
+    "photo2": "https://encrtbn0.gstatic.com/images?q=tbn:ANd9GcQpycfOpTNaoPwvqrfh4qa4O8I_CIqyY38211QyedWhqQ&s=10",
+    "name2": "Barnaul Altai Krai",
+    "champ": "Basket-ball. Championnat de Russie. Superligue",
+    "heure": "14H15",
+    "date": "01/10/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL8n5D5ouFk9oRJBqF0_bgPk7lzAWklY7yIN_LtJK4eA&s=10",
+    "name1": "Dynamo Grozny",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgi10K6L6fHPSNxxOmEzmmGuVsrB6m6xD6HKlJIm3s8w&s",
+    "name2": "Kupol-Rodniki",
+    "champ": "Basket-bal. Championnat de Russie. Superligue",
+    "heure": "16H00",
+    "date": "01/10/2026",
+    "pro": "Equipe gagne: V1"
    
   }
 ]
