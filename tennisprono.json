@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK9CtprJIFLQh2wGYTKeDlCDYFS_f3HE93geH5mABv9Q&s=10",
-    "name1": "Avenir Basket Berk Rang du Fliers",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTOviPpp6r4RP4IpHRJeTz2MpdiMvfUsNY05j6uZxVw&s=10",
-    "name2": "Orchies",
-    "champ": "Basket-ball. Coupe de France",
-    "heure": "18H00",
-    "date": "06/10/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://uploadmedia.org/wikipedia/commons/3/36/KK_Zadar_%28official%2C_no_outline%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Lyonso",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-KvYXvAqEfToJQ-rVfb2KqaZXb3jHpPRPlwwxNkWjQ&s=10",
-    "name2": "Besancon Avenir Comtois",
-    "champ": "Basket-ball. Coupe de France",
-    "heure": "18H00",
-    "date": "06/10/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvlOwkfcAGEeXHpggDTrPvpVCA6h82PZyNuwxN_gLnlw&s",
-    "name1": "Poitiers 86",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4j-P_JdVVoc2Ps6ZTeYj0RJym1UxbrO4rI4HrEwtRw&s=10",
-    "name2": "Orleans Loiret",
-    "champ": "Basket-ball. Coupe de France",
-    "heure": "18H00",
-    "date": "06/10/2026",
-    "pro": "V1 ET TP (163.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQltRNOx0hFBD2SZxXejVlfsZghgcXvisDmMEIOUZK9qQ&s=10",
-    "name1": "Hyeres-Toulon Var",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcbYokt3g8ZPAIIRWONImbw3ih7W0Ekjqz-ycFiwQA6Q&s",
-    "name2": "Fos Ouest Provence",
-    "champ": "Basket-ball. Coupe de France",
-    "heure": "18H00",
-    "date": "06/10/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySlZlnVy2E3pAMaNSdumS8PwW7f4S8ROs689_JK7rTw&s=10",
-    "name1": "Union Rennes",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91Bn62vrmb_ZfQYw4jTjVru2ffYeZ_sT2ADmYDpKIGQ&s=10",
-    "name2": "Pays de Fougères",
-    "champ": "Basket-ball. Coupe de France",
-    "heure": "18H00",
-    "date": "06/10/2026",
-    "pro": "V2 ET TP (151.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm680xiMACMOj5bc3eNADWz5Hw5GnWobu4JcxdmZFfBA&s",
-    "name1": "Hapoel Holon",
-    "photo2": ":https://thumb.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/500px-Logo_Cholet_Basket_2019.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Cholet",
-    "champ": "Basket-ball. Ligue des Champions FIBA",
-    "heure": "15H45",
-    "date": "06/10/2026",
-    "pro": "V1 ET TP (157.5)- NON"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-124-221_preview_rev_1.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Cibona",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4q50fwATOiGR21x4MBJDmFxS9TwesDLFJfsqtwlH2Qg&s=10",
-    "name2": "Galatasaray",
-    "champ": "Basket-ball. Ligue des Champions FIBA",
-    "heure": "16H30",
-    "date": "06/10/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27I0FLQg7bG1OBEK-Az4ZZsXc1N5A0XsJQLrZzbQ30A&s=10",
+    "name1": "Balkan Botevgrad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bah%C3%A7e%C5%9Fehir_Koleji_Spor_Kul%C3%BCb%C3%BC_logo.png/1280px-Bah%C3%A7e%C5%9Fehir_Koleji_Spor_Kul%C3%BCb%C3%BC_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Bahcesehir Koleji",
+    "champ": "Basket-ball. EuroCoupe",
+    "heure": "16H00",
+    "date": "07/10/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbV8B4Ysq2S3_6bn1DMQIs7qtcXG5Chl3ZFp86hK-yXA&s",
-    "name1": "Péristéri",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImjTmfTJcn5nIsLAxT7d_6zryaDw6MKkwygjDuqqxgA&s=10",
-    "name2": "Brose Bamberg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/8b/Aris_Thessaloniki_F.C._%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Aris Salonique",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ee/San_Pablo_Burgos.svg/1280px-San_Pablo_Burgos.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Burgos",
+    "champ": "Basket-ball. EuroCoupe",
+    "heure": "17H00",
+    "date": "07/10/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Niners_Chemnitz.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Niners Chemnitz",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVAmNolP_NgSw3UaZfnQYX8-20tTdbEyUI28Z6sH1jQ&s",
+    "name2": "Neptunas",
+    "champ": "Basket-ball. EuroCoupe",
+    "heure": "17H00",
+    "date": "07/10/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://play-lh.googleusercontent.com/_edWXlSy3wd8B79EQo4OxCLZ0KFK33TA-GThiqch0RGyP0Ag6COQrhlKSY114gZ7rePiY3YdyrwdOVV_u3Uu=w240-h480-rw",
+    "name1": "Derthona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5e/Logo_Le_Mans_Sarthe_Basket_-_2025.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Le Mans Sarthe",
+    "champ": "Basket-ball. EuroCoupe",
+    "heure": "17H30",
+    "date": "07/10/2026",
+    "pro": "V1 ET TP (171.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2ROVy2I6Mcg5lR4FNpGc1pwR25zQek_mL6_JUV_idA&s=10",
+    "name1": "Roma SPQR",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurAAWsw-nAsLfOgtpGECa2qKxYT9sZjph5B3TjdVIGw&s",
+    "name2": "Panevezys Lietkabelis",
+    "champ": "Basket-ball. EuroCoupe",
+    "heure": "18H00",
+    "date": "07/10/2026",
+    "pro": "Hnadicap: 2(16.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWSzC2Jr0yD994smQbAcD-obcWDRHMo8hnoEWCEzBmB53TF0dbWw5F0YQ&s=10",
+    "name1": "Manresa",
+    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjqWyb_tLXmeSqnay1Q6CpOyi0nV6O45_b11FoQFtIg&s=10",
+    "name2": "Ratiopharm Ulm",
+    "champ": "Basket-ball. EuroCoupe",
+    "heure": "18H30",
+    "date": "07/10/2026",
+    "pro": "V1 ET TP (175.5)- NON"
+  },
+  {
+    "photo1": "vhttps://upload.wikimedia.org/wikipedia/fr/4/41/Logo_Paris_Basketball_-_2024.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Paris",
+    "photo2": "https://media.ol.fr/uploads/assets/asvel_logo_ab17c1ece0.png",
+    "name2": "ASVEL Lyon-Villeurbanne",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H45",
+    "date": "07/10/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu26RmbbC_autqfqwERhnZGi5-cbI-sY9jttfkG6RW7w&s",
+    "name1": "Aek Athens",
+    "photo2": "https://scoutbasketball.com/img/teams/images/Salon-Vilpas-Vikings_1721774160.png",
+    "name2": "Salon Vilpas Viking",
     "champ": "Basket-bal. Ligue des Champions FIBA",
-    "heure": "16H30",
-    "date": "06/10/2026",
-    "pro": "V1 ET TM (166.5)- NON"
+    "heure": "16H00",
+    "date": "07/10/2026",
+    "pro": "1X"
    
   }
 ]
