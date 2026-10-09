@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt70JhNEDzXYW7wRYX5JDARvDzRKildTTKgO4aI6caKw&s",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvtBUowTP19mnHK5StTXi-sshpoM4PHN6vs7ElVptOHA&s=10",
-    "name2": "Olimpia Milano",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "16H00",
-    "date": "08/10/2026",
-    "pro": "Handicap: 2(12.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6OkVWU0K3_G0g_Rc3E8kn32GTXfBbQFObRKbRxTBK0g&s=10",
-    "name1": "Bayern Munich",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdoBKuKIvUPg23LUY9Yfp_xn0uDvIc_kHSLHXUoT87Q&s",
-    "name2": "Virtus Ganarolo Bologna",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "18H00",
-    "date": "08/10/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDbIkkP3FJcq7QGgF5uP6eNeoNBprEv0WmXmKUA7CDn3vrQdKgnNBl0gww&s=10",
-    "name1": "Panathinaikos",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/960px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Fenerbahce",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSafN3ClfMBjhuInptVQ5z_PAk4Yl1-GRGOuu939SOQ&s=10",
+    "name1": "Olympia Le Piréé",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHegG6uE-3Mnvs1An8HAlkfxZ1gIBBOakK_pK5-ETMBQ&s=10",
+    "name2": "Anadolu Efes",
     "champ": "Basket-ball. Euroligue",
     "heure": "18H15",
-    "date": "08/10/2026",
-    "pro": "V1 ET TM (161.5)- NON"
+    "date": "09/10/2026",
+    "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBKYStvWjKr1x_pFRgU9I4hMeP4ACZHJDhe2KYWxqew&s=10",
-    "name1": "Valencia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/ea/Hapoel_Tel_Aviv.gif?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Hapoel Tel-Aviv",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtyrY_whblgjPefQtHG_-_4ojJQqZGcoYrJ-b2RZlwQ&s=10",
+    "name1": "Saski Baskonia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9M8zhpSgZGjtJWJM6OKaUpQlu2N1kklOhLSYNzItcrQ&s=10",
+    "name2": "Besiktas",
     "champ": "Basket-ball. Euroligue",
     "heure": "18H30",
-    "date": "08/10/2026",
-    "pro": "V1 ET TM (181.5)- NON"
+    "date": "09/10/2026",
+    "pro": "V1 ET TM (177.5)- NON"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdGRbk_ZfxXNiIXdJjiJ5g-oqFiDe429g7zU2VDd__A&s=10",
-    "name1": "Real Madrid Baloncesto",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHwMLnZ_suFgh09aorls2Tg_1SY_hyq87Vtf86ab__g&s",
-    "name2": "KK Partizan",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "18H45",
-    "date": "08/10/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQ4LkKaM2gD5zBaR_SyGFAviq9mbjO_I4uMKP0ZCoNw&s",
+    "name1": "JDA Dijon Bourgogne",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZzI92WPv2uhskk4dUsv_xdj3ZXQaMUL7gFBxRj19KrA&s",
+    "name2": "Limoges CSP",
+    "champ": "Basket-ball. Championnat de France",
+    "heure": "18H00",
+    "date": "09/10/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6f/Cavs_de_Cleveland_logo_2003.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Cleveland",
-    "photo2": ":https://thumb.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1280px-Celtics_de_Boston_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Celtics de Boston",
-    "champ": "Basket-ball. NBA. Matchs de Pré-Saison",
-    "heure": "23H00",
-    "date": "08/10/2026",
-    "pro": "V1 ET TP (216.5)- NON"
+    "photo1": "https://encd-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBKYStvWjKr1x_pFRgU9I4hMeP4ACZHJDhe2KYWxqew&s=10",
+    "name1": "Widad el Eulma",
+    "photo2": "https://upload.wiki.org/wikipedia/fr/e/ea/Hapoel_Tel_Aviv.gif?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "CRB Dar El-Beida",
+    "champ": "Basket-ball. Championnat d'Algérie",
+    "heure": "15H00",
+    "date": "0ç/10/2026",
+    "pro": "Handicap: 2(10.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM481gKY1-0BYMAeDUCGyoKoZPoS84KLkvz4nTqme6MQ&s",
-    "name1": "Heat de Miami",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZr-ur18skAwEugrfwcO6HpAuHPgGbo4u-9sKbvce8g&s",
-    "name2": "Pelicans de La Nouvelles-Orléans",
-    "champ": "Basket-ball. NBA. Matchs de Pré-Saison",
-    "heure": "23H00",
-    "date": "08/10/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7zzJmFrX9ADUkkuK5ruOY9ZwIP2Y2yfZuvcIgWLlONwLDmNU0E9dgok&s=10",
+    "name1": "Tlemcen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_UXC4r9-a9nO9fZiR5sZqfAQJW6i3m3Q2FYVDLdKLcFOgXrdcrwFCxGP&s=10",
+    "name2": "CR Beni Saf",
+    "champ": "Basket-ball. Championnat d'Algérie",
+    "heure": "15H00",
+    "date": "09/10/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRsg5eWcw6xrPBZnKyYFCHqdxMSrV3WHdPM5JMDVM3Q&s",
-    "name1": "Knicks de New York",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_Washington_Wizards_-_2015.svg/langfr-250px-Logo_Washington_Wizards_-_2015.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name2": "Wizards de Washington",
-    "champ": "Basket-bal. NBA. Matchs de Pré-Saison",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtU1t3fKfHHTbIGV_wWOZ_sxPVOzHWJ23m_kaXu1xdsw&s",
+    "name1": "Hussein Dey",
+    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizKwg-peE5l-KlMoC-lgaHiLoV09NRSaHxs1_UDLR9hZP8eYPqPdkcpVG&s=10",
+    "name2": "Chabab Mordjan Oran",
+    "champ": "Basket-ball. Championnat d'Algérie",
+    "heure": "15H30",
+    "date": "09/10/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpGhPCWa49svHlCRpO9gkgmW3LoAzanrIMiyzxeb75g&s=10",
+    "name1": "Bulls de Chicago",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclAtzKRY752b1m3lUMWDqGD-0cj50_apViX3ZSbKkbg&s",
+    "name2": "Grizzlies de Memphis",
+    "champ": "Basket-ball. NBA. Matchs de Pré-Saison",
+    "heure": "00H00",
+    "date": "10/10/2026",
+    "pro": "V2 ET TP (236.5) - NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUbTyjoSwffmBgDinbJ2cWg7UmmzI_gt5rz8yyVcUrQ&s=10",
+    "name1": "Liberty de New York (FEmmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Z_SHGi9kknRsuY6oljHNQmY4xad1RnBwy75UOT3MBQ&s=10",
+    "name2": "Dram d'Atlanta (Femmes)",
+    "champ": "Basket-bal. WNBA",
     "heure": "23H30",
-    "date": "08/10/2026",
-    "pro": "1X"
+    "date": "09/10/2026",
+    "pro": "V1 ET TP (172.5) - NON"
    
   }
 ]
