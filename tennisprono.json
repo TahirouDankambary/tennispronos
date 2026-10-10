@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSafN3ClfMBjhuInptVQ5z_PAk4Yl1-GRGOuu939SOQ&s=10",
-    "name1": "Olympia Le Piréé",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHegG6uE-3Mnvs1An8HAlkfxZ1gIBBOakK_pK5-ETMBQ&s=10",
-    "name2": "Anadolu Efes",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "18H15",
-    "date": "09/10/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtyrY_whblgjPefQtHG_-_4ojJQqZGcoYrJ-b2RZlwQ&s=10",
-    "name1": "Saski Baskonia",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9M8zhpSgZGjtJWJM6OKaUpQlu2N1kklOhLSYNzItcrQ&s=10",
-    "name2": "Besiktas",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "18H30",
-    "date": "09/10/2026",
-    "pro": "V1 ET TM (177.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQ4LkKaM2gD5zBaR_SyGFAviq9mbjO_I4uMKP0ZCoNw&s",
-    "name1": "JDA Dijon Bourgogne",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZzI92WPv2uhskk4dUsv_xdj3ZXQaMUL7gFBxRj19KrA&s",
-    "name2": "Limoges CSP",
-    "champ": "Basket-ball. Championnat de France",
-    "heure": "18H00",
-    "date": "09/10/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encd-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBKYStvWjKr1x_pFRgU9I4hMeP4ACZHJDhe2KYWxqew&s=10",
-    "name1": "Widad el Eulma",
-    "photo2": "https://upload.wiki.org/wikipedia/fr/e/ea/Hapoel_Tel_Aviv.gif?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "CRB Dar El-Beida",
-    "champ": "Basket-ball. Championnat d'Algérie",
-    "heure": "15H00",
-    "date": "0ç/10/2026",
-    "pro": "Handicap: 2(10.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7zzJmFrX9ADUkkuK5ruOY9ZwIP2Y2yfZuvcIgWLlONwLDmNU0E9dgok&s=10",
-    "name1": "Tlemcen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_UXC4r9-a9nO9fZiR5sZqfAQJW6i3m3Q2FYVDLdKLcFOgXrdcrwFCxGP&s=10",
-    "name2": "CR Beni Saf",
-    "champ": "Basket-ball. Championnat d'Algérie",
-    "heure": "15H00",
-    "date": "09/10/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtU1t3fKfHHTbIGV_wWOZ_sxPVOzHWJ23m_kaXu1xdsw&s",
-    "name1": "Hussein Dey",
-    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizKwg-peE5l-KlMoC-lgaHiLoV09NRSaHxs1_UDLR9hZP8eYPqPdkcpVG&s=10",
-    "name2": "Chabab Mordjan Oran",
-    "champ": "Basket-ball. Championnat d'Algérie",
-    "heure": "15H30",
-    "date": "09/10/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpGhPCWa49svHlCRpO9gkgmW3LoAzanrIMiyzxeb75g&s=10",
-    "name1": "Bulls de Chicago",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclAtzKRY752b1m3lUMWDqGD-0cj50_apViX3ZSbKkbg&s",
-    "name2": "Grizzlies de Memphis",
-    "champ": "Basket-ball. NBA. Matchs de Pré-Saison",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Niners_Chemnitz.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Niners Chemnitz",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Bayern Munich",
+    "champ": "Basket-ball. Championnat d'Allemagne",
+    "heure": "14H00",
     "date": "10/10/2026",
-    "pro": "V2 ET TP (236.5) - NON"
+    "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUbTyjoSwffmBgDinbJ2cWg7UmmzI_gt5rz8yyVcUrQ&s=10",
-    "name1": "Liberty de New York (FEmmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Z_SHGi9kknRsuY6oljHNQmY4xad1RnBwy75UOT3MBQ&s=10",
-    "name2": "Dram d'Atlanta (Femmes)",
-    "champ": "Basket-bal. WNBA",
-    "heure": "23H30",
-    "date": "09/10/2026",
-    "pro": "V1 ET TP (172.5) - NON"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-bAIP9POHBOTx7DeAMAde6kbG6YgSX4bMoC9ddv8TIg&s=10",
+    "name1": "Rostok Seawolves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Soliver_wuerzburg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Wurzburg",
+    "champ": "Basket-ball. Championnat d'Allemagne",
+    "heure": "16H30",
+    "date": "10/10/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/19/Gladiators_Trier_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Gladiators Trier",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvIntGOnpmeQY8SuunPyxvzlvEonGJNhtql5-UtoDQPA&s=10",
+    "name2": "Alba Berlin",
+    "champ": "Basket-ball. Championnat d'Allemagne",
+    "heure": "18H00",
+    "date": "10/10/2026",
+    "pro": "V2 ET TP (178.5)- NON"
+  },
+  {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/AS_Karditsa_%28logo%29.svg/3840px-AS_Karditsa_%28logo%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Karditsa",
+    "photo2": "https://www.thesportsdb.com/images/media/team/badge/hoj29f1791116199.png",
+    "name2": "Vikos",
+    "champ": "Basket-ball. Championnat de Grèce",
+    "heure": "14H00",
+    "date": "10/10/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/8b/Aris_Thessaloniki_F.C._%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Aris Salonique",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpV6ydXL0A21ybumFDdPQF2qXGWCJ8iZKfKsXiVv2VQ&s=10",
+    "name2": "AEK Athens",
+    "champ": "Basket-ball. Championnat de Grèce",
+    "heure": "14H30",
+    "date": "10/10/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKDNCxX-67QGyObUV7imMaoavfo6A8neNcer2j88KIg&s",
+    "name1": "Promitheas Patras",
+    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWUKzNtwDT7jqaAh1L3ZM2V7nccUiAntFIpN7wKckiQ&s",
+    "name2": "Panathinaikos",
+    "champ": "Basket-ball. Championnat de Grèce",
+    "heure": "16H00",
+    "date": "10/10/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/97/B%C3%A1squet_Coru%C3%B1a.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Coruna",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrf_a903ZQVhQC6LJH_ppXbNmsmIWZENpN-iMHHfHpQ&s=10",
+    "name2": "Zaragoza 2002",
+    "champ": "Basket-ball. Espagne. Liga ACB",
+    "heure": "16H00",
+    "date": "10/10/2026",
+    "pro": "V2 ET TM (182.5) - NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj1BZy3EqVJ_GRU2TPmDqGJeULUcITEYIjQAnt3P9HA&s",
+    "name1": "Unicaja Malaga",
+    "photo2": "https://www.bca.ad/wp-content/uploads/2026/10/comunicat_oficial_2627-560x560.png",
+    "name2": "Morabanc Andorra",
+    "champ": "Basket-bal. Espagne. Liga ACB",
+    "heure": "17H30",
+    "date": "10/10/2026",
+    "pro": "Equipe gagne: V1"
    
   }
 ]
