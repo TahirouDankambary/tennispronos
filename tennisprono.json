@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4q50fwATOiGR21x4MBJDmFxS9TwesDLFJfsqtwlH2Qg&s=10",
-    "name1": "Galatasaray",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPVFr8yq7sCTgaA-VD6zMq6e0t6fKHBg0BGB3LRjR2Q&s=10",
-    "name2": "Bursaspor",
-    "champ": "Basket-ball. Turquie. Superligue",
-    "heure": "16H00",
-    "date": "12/10/2026",
-    "pro": "V2 ET TP (164.5)- NON"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR92KDtnLuvmnWu6zs33eUOa33dpKlLlj34jOEAizTSIw&s=10",
+    "name1": "ASVEL Lyon-Villeurbanne",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTys1SmPg-Dg37VdQUzK84MWE5rd3aqwgFdyqx77Oz9Mg&s",
+    "name2": "Crvena Zvezda",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H00",
+    "date": "13/10/2026",
+    "pro": "V2 ET TP (165.5)- NON"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Dynamo_big.gif?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Dynamo Moscou (Femmes)",
-    "photo2": "https://basket-enisey.ru/_templates2025/2/page/img/top-logo.png",
-    "name2": "Enisey (Femmes)",
-    "champ": "Basket-ball. Russie. Première Ligue. Femmes",
-    "heure": "13H00",
-    "date": "12/10/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ob4zpRADlpNepeQm-yrGICc1q6CPf6AfPtRt0wI6ZA&s=10",
+    "name1": "Barcelone",
+    "photo2": "https://thumbs.dreamstime.com/b/logo-maccabi-tel-aviv-basketball-collection-du-meilleur-club-sportif-de-association-229691220.jpg",
+    "name2": "Maccabi Tel Aviv",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H30",
+    "date": "13/10/2026",
+    "pro": "V2 ET TP (167.5)- NON"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f1/Orenburg.gif?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Nadezhda Orenburg (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijTzuknUSv6M71TA7WpK5SyGGpcYTYKS8GEpP3X79PQ&s=10",
-    "name2": "Neftyanik Titan (Femmes)",
-    "champ": "Basket-ball. Russie. Première Ligue. Femmes",
-    "heure": "14H00",
-    "date": "12/10/2026",
-    "pro": "1X"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Olimpia_Milano_-_2016.svg/langfr-250px-Logo_Olimpia_Milano_-_2016.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Real Madrid Baloncesto",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H30",
+    "date": "13/10/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFpgm1Gl5piZ3X-iVaBhsOM619iDjpe2nb16uw-15og&s=10",
-    "name1": "UGMK (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rbA4g471nsrYzymqOTCi5umuzfc314D--ob4b4H88Q&s",
-    "name2": "Dynamo Novossibirsk",
-    "champ": "Basket-ball. Russie. Première Ligue. Femmes",
-    "heure": "14H00",
-    "date": "12/10/2026",
-    "pro": "Handicap: 2(38.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQil1NXDZeDhClFbg_dtw-VwJE9vGOLo8flAQwlqHO-Kw&s=10",
-    "name1": "MBA-MGUSIT (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIwL4t18IH8U8MRJW0rjCkTFedRTk1P6S_veYYfDsgg&s=10",
-    "name2": "Sparta K (Women)",
-    "champ": "Basket-ball. Russie. Première Ligue. Femmes",
-    "heure": "16H30",
-    "date": "12/10/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgi10K6L6fHPSNxxOmEzmmGuVsrB6m6xD6HKlJIm3s8w&s",
-    "name1": "Kupol-Rodniki",
-    "photo2": ":https://encbn0.gstatic.com/images?q=tbn:ANd9GcRKBKYStvWjKr1x_pFRgU9I4hMeP4ACZHJDhe2KYWxqew&s=10",
-    "name2": "CBK",
-    "champ": "Basket-ball. Championnat de Russie. Superligue",
-    "heure": "15H00",
-    "date": "12/10/2026",
-    "pro": "V1 ET TM (165.5) - NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2edinIBefJo_agFlW1xEpkr6EwtxkF45xX5u4Zworjg&s=10",
-    "name1": "Tambov",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/8/80/Logo_du_Metallourg_Magnitogorsk.png/250px-Logo_du_Metallourg_Magnitogorsk.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name2": "Metalurg Magnitogorsk",
-    "champ": "Basket-ball. Championnat de Russie. Superligue",
-    "heure": "16H00",
-    "date": "12/10/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHwMLnZ_suFgh09aorls2Tg_1SY_hyq87Vtf86ab__g&s",
+    "name1": "KK Partizan",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWUKzNtwDT7jqaAh1L3ZM2V7nccUiAntFIpN7wKckiQ&s",
+    "name2": "Panathinaikos",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H30",
+    "date": "13/10/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/8b/BC_Khimki_2016_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Khimki",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuD78dh4UAWLB1iBUR1Yje1JOqvOPp0gQ2NQqd4uJoFg&s=10",
-    "name2": "Temp-SUMZ",
-    "champ": "Basket-bal. Championnat de Russie. Superligue",
-    "heure": "16HO0",
-    "date": "12/10/2026",
-    "pro": "1X"
+    "photo1": "https://i.pinimg.com/736x/78/06/e8/7806e8c5eade34cee9c37c54bb958ac2.jpg",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_Olympiacos_Basketball_-_2009.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Olympiakos Le Piréé",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H00",
+    "date": "13/10/2026",
+    "pro": "Handicap: 2(3)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvIntGOnpmeQY8SuunPyxvzlvEonGJNhtql5-UtoDQPA&s=10",
+    "name1": "Alba Berlin",
+    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZG3mQLZ1ZjZvrMUH9fj5K8H_jKgf_PThh-GTHD5Z1g&s",
+    "name2": "KK Igokea",
+    "champ": "Basket-ball. Ligue des Champions FIBA",
+    "heure": "18H00",
+    "date": "13/10/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7FBdMEPN6hIq9EEVK198yezvrcsPOdTtWHxVXl8hkg&s",
+    "name1": "OpenjobMetis Varese",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/bc/Peristeri_BC_Official_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Peristéri",
+    "champ": "Basket-ball. Ligue des Champions FIBA",
+    "heure": "18H00",
+    "date": "13/10/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshDTARjI8UXT4NTlI9_4DBg1K4e_vQedWhxKrlNge8A&s=10",
+    "name1": "JSF Nanterre",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/4d/Rytas_Vilnius_logo_2023.svg/1280px-Rytas_Vilnius_logo_2023.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Rystas Vilnius",
+    "champ": "Basket-bal. Ligue des Champions FIBA",
+    "heure": "18HO0",
+    "date": "13/10/2026",
+    "pro": "V2 ET TP (167.5)- NON"
    
   }
 ]
