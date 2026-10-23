@@ -1,73 +1,73 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt70JhNEDzXYW7wRYX5JDARvDzRKildTTKgO4aI6caKw&s",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdGRbk_ZfxXNiIXdJjiJ5g-oqFiDe429g7zU2VDd__A&s=10",
-    "name2": "Real Madrid Baloncesto",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR69_uXa5cHkMDsELLWO5YtH1ohIC0Uhq0d7ZcXJkmFXA&s=10",
+    "name1": "Zalgiris",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR92KDtnLuvmnWu6zs33eUOa33dpKlLlj34jOEAizTSIw&s=10",
+    "name2": "ASVEL Lyon-Villeurbanne",
     "champ": "Basket-ball. Euroligue",
-    "heure": "18H05",
-    "date": "22/10/2026",
-    "pro": "V1 ET TM (181.5) - NON"
+    "heure": "17H00",
+    "date": "23/10/2026",
+    "pro": "Equipes gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWUKzNtwDT7jqaAh1L3ZM2V7nccUiAntFIpN7wKckiQ&s",
-    "name1": "Panathinaikos",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtyrY_whblgjPefQtHG_-_4ojJQqZGcoYrJ-b2RZlwQ&s=10",
-    "name2": "Saski Baskonia",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSafN3ClfMBjhuInptVQ5z_PAk4Yl1-GRGOuu939SOQ&s=10",
+    "name1": "Olympiakos Le Piréé",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6fU8vWtC7LrNmNBTGKN9Rf8lG-QxL103fB3NEiUsPVw&s=10",
+    "name2": "Fenerbahce",
     "champ": "Basket-ball. Euroligue",
     "heure": "18H15",
-    "date": "22/10/2026",
-    "pro": "Total: (+168.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfET_um4By4T_6f8CWxjY4dVhYOs29Szl1MOaj4c2uOw&s",
-    "name1": "Olimpia Milano",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ob4zpRADlpNepeQm-yrGICc1q6CPf6AfPtRt0wI6ZA&s=10",
-    "name2": "Barcelone",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "18H30",
-    "date": "22/10/2026",
-    "pro": "V1 ET TM (174.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHwMLnZ_suFgh09aorls2Tg_1SY_hyq87Vtf86ab__g&s",
-    "name1": "KK Partizan",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6vcGLzKSBZx6MgFg66askR_EyjTei-iEfFxYvyupO0g&s=10",
-    "name2": "Crvena Zvezda",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "18H45",
-    "date": "22/10/2026",
-    "pro": "V1 ET TM (162.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_e4KrmEIhHWHZm0hQbQMcExbUUuJjX6IpmzxUQe2_Vg&s=10",
-    "name1": "Dynamon Grozny",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L_fo8M4dnadaQxPkO29DDUaouvoJnwxc_rzhKZZwLA&s=10",
-    "name2": "Khimki",
-    "champ": "Basket-ball. Russie. Superligue",
-    "heure": "16H00",
-    "date": "22/10/2026",
-    "pro": "V1 ET TM (158.5)- NON"
-  },
-  {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/9/9e/Thunder_d%27Oklahoma_City.svg/langfr-250px-Thunder_d%27Oklahoma_City.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Oklahoma City Thunder",
-    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBvhCNXFi-6KX3LRMWi-665fqn6WnhZWwun4zHkRWXQ&s",
-    "name2": "Denver Nuggets",
-    "champ": "Basket-ball. NBA",
-    "heure": "01H30",
     "date": "23/10/2026",
-    "pro": "Equipe gagne: V1"
+    "pro": "V1 ET TP (169.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2t6AMn4qz4r5QX2IqaBOgB5u8jzCrygnQFBoQ2JoLJw&s=10",
+    "name1": "Saint Quentin",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/JDA_Dijon_Basket.png/1280px-JDA_Dijon_Basket.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "JDA Dijon Bourgogne",
+    "champ": "Basket-ball. Championnat de France",
+    "heure": "18H00",
+    "date": "23/10/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQis7LTimQ0KhzSCNQtsgVgNjnqHH2HcvFU6YcKhf5idg&s",
+    "name1": "Bucks de Milwaukee",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQds62aQOFNh8u-mhMn1L8k7hcXNwxwo-uGNLW4wH_jXA&s",
+    "name2": "Bulls de Chicago",
+    "champ": "Basket-ball. NBA",
+    "heure": "20H00",
+    "date": "23/10/2026",
+    "pro": "V1 ET TM (239.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4aXDdSopgA6AeLLaMa5v_rCnT0yhl8j08M3jdWxgDzg&s=10",
+    "name1": "Celtics de Boston",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KKuTN1csuUbovlm0MfZ7EK_dYHYdVe0CL0Zu1yhJDA&s=10",
+    "name2": "Knicks de New York",
+    "champ": "Basket-ball. NBA",
+    "heure": "23H00",
+    "date": "23/10/2026",
+    "pro": "Handicap: 2(12.5)"
+  },
+  {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_Washington_Wizards_-_2015.svg/langfr-250px-Logo_Washington_Wizards_-_2015.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name1": "Wizards de WAshington",
+    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxGcE_4kTxyET3kBZihtj5Fwm_r2jU_fBKAud7MaiWw&s",
+    "name2": "Raptors de Toronto",
+    "champ": "Basket-ball. NBA",
+    "heure": "23H00",
+    "date": "23/10/2026",
+    "pro": "V1 ET TP (236.5)- NON"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKLwkB6mih9_HMxY5FyY_vHAN5cSwVrtnhRqYchdOVQ&s=10",
-    "name1": "76 ers de Philadelphie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj13Cv4m82Yg1AGn84f01MDj2MFYsKpBAyuMqLFGDMhw&s=10",
-    "name2": "Cleveland",
+    "name1": "Magic d'Orlando",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtJWxKVuv9cjfMbmzUu7bAqdXSeySl17vX_pyLlQ6ug&s=10",
+    "name2": "Timberwolves du Minnesota",
     "champ": "Basket-ball. NBA",
     "heure": "23H00",
-    "date": "22/10/2026",
-    "pro": "Handicap: 2(13.5)"
+    "date": "23/10/2026",
+    "pro": "V1 ET TP (233.5)- NON"
    
   }
 ]
