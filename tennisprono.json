@@ -1,83 +1,73 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27I0FLQg7bG1OBEK-Az4ZZsXc1N5A0XsJQLrZzbQ30A&s=10",
-    "name1": "Balkan Botevgrad",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZp7DXQHFg93gwh-YPORWmEbusXltc0yjE6ZwbK-ovAg&s",
-    "name2": "P.A.O.K",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "17H00",
-    "date": "10/11/2026",
+    "photo1": "https://cdn.bebasket.fr/resources/images/team/bc-batumi-2010-logo-2026-1f1bd981-cf36-6c94-967e-f170181dbd92.png",
+    "name1": "Batumi",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFBKtEbwqAQCDl3hk1ackkNCKRj70d8LWC8VHbWT8jYA&s=10",
+    "name2": "Gladiators Trier",
+    "champ": "Basket-ball. Coupe d'Europe FIBA",
+    "heure": "16H00",
+    "date": "11/11/2026",
     "pro": "Equipe gagne: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/22/BC_Nept%C5%ABnas_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Neptunas",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYdN1DHbK3ZB58iLhAv0ZzjsHPzT7OniaB9H-jE70lA&s=10",
-    "name2": "Slask Worclaw",
-    "champ": "Basket-ball. EuroCoupe",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Eo898_rYnnoCv4cHW0pyIkeKv2-vhLg0GZjC7vFtbw&s",
+    "name1": "Nefchi Ik",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TKZY2HzAhP0ydNaezQ3d1OtK9u--ReQetJQV6ECznw&s=10",
+    "name2": "Mykonoy",
+    "champ": "Basket-ball. Coupe d'Europe FIBA",
+    "heure": "16H00",
+    "date": "11/11/2026",
+    "pro": "Equipe gagne: V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9FO4tKFwajbq5gQg7JIDLT-pT1Dy4ghlYbq7ZEHRIrw&s=10",
+    "name1": "Dinamo Bucuresti",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/40/B%C3%A0squet_Girona_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Gérone",
+    "champ": "Basket-ball. Coupe d'Europe FIBA",
     "heure": "17H00",
-    "date": "10/11/2026",
-    "pro": "V2 ET TP (170.5)- NON"
+    "date": "11/11/2026",
+    "pro": "V2 ET TP (168.5)- NON"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfT3t1TB8cLF4JL_ClYJtAh9GjzbNxzwOq7ckfB0Gyg&s=10",
-    "name1": "JL Bourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCiTzF929MllB2xJ4qkwY64pN4QmJH1assp5xId4T4Aw&s",
-    "name2": "Buducnost Podgorica",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "18H30",
-    "date": "10/11/2026",
-    "pro": "V1 ET TP (173.5)- NON"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/BC_Lokomotiv_Plovdiv_logo.png/250px-BC_Lokomotiv_Plovdiv_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name1": "Lokomotiv Plovdiv",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR5nNMiGaZMMdCeG1DW7avsAv8TOZmNqVz3pwpfpyb&s=10",
+    "name2": "VEF Riga",
+    "champ": "Basket-ball. Coupe d'Europe FIBA",
+    "heure": "17H00",
+    "date": "11/11/2026",
+    "pro": "V1 ET TP (170.5)- NON"
   },
   {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/5/5d/Aquila_Basket_Trento.svg/langfr-250px-Aquila_Basket_Trento.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Aquila Trento",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySk9GgCK219V4KT_YdwR1aM4EINSuBxEmwTE_vniYoPU--6RIxGZQan4&s=10",
-    "name2": "Tofas",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KKuTN1csuUbovlm0MfZ7EK_dYHYdVe0CL0Zu1yhJDA&s=10",
+    "name1": "Knicks de New York",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj13Cv4m82Yg1AGn84f01MDj2MFYsKpBAyuMqLFGDMhw&s=10",
+    "name2": "Cleveland",
     "champ": "Basket-ball. EuroCoupe",
-    "heure": "19H00",
-    "date": "10/11/2026",
-    "pro": "Handicap: 2(2.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESLG5RncltZW1lEw6Hx6M6c7CiYm3naO_NczA19XU7g&s=10",
-    "name1": "London Lions",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHwPsIXuCGHrFN-X4mjoc4graSsbgAgxK2jPVoiHTv4g&s",
-    "name2": "Rayer Maschile Venezia",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "19H30",
-    "date": "10/11/2026",
-    "pro": "V1 ET TM (161.5)- NON"
+    "heure": "00H00",
+    "date": "12/11/2026",
+    "pro": "V1 ET TP (220.5)- NON"
     },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/83/Logo_U-BT_Cluj-Napoca.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "U-BT Cluj-Napoca",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiYxsJwP8g-q7IDcjFmFZS0o7dkJezsQrsGxq885hxQ&s=10",
-    "name2": "Turk Telekom",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "17H00",
-    "date": "10/11/2026",
-    "pro": "V1 ET TP (167.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_6ZZF3uYqMQ4jO4k0IO0ONav8UyMn7eKApuISWjPgMg&s=10",
-    "name1": "Manresa",
-    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZR4tXPRkX9XPPY_v_L-SaIeXGiPm-OFk9Gc1DjTU&s=10",
-    "name2": "KK Bosna",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "19H30",
-    "date": "10/11/2026",
-    "pro": "Equipe gagne: V1"
-   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKLwkB6mih9_HMxY5FyY_vHAN5cSwVrtnhRqYchdOVQ&s=10",
-    "name1": "76ers de Philadelphie",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxGcE_4kTxyET3kBZihtj5Fwm_r2jU_fBKAud7MaiWw&s",
+    "name1": "Raptors de Toronto",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrMIDcZDbpjyn_9Bx70GwvInVPr_tFDWIpLXfpjuqbOw&s",
     "name2": "Celtics de Boston",
+    "champ": "Basket-ball. EuroCoupe",
+    "heure": "00H00",
+    "date": "12/11/2026",
+    "pro": "Handicap: 2(-2.5)"
+   },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqmTSTZMZhm-yZkSQWTnCsJXBOnKAshL5EQK4Xo9eow&s",
+    "name1": "Pelicans de La Nouvelle-Orleans",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntNkWw9ghA8VSRkT8KtFI-nqdvZMsU4yyd_Dh2W_W5A&s=10",
+    "name2": "Brooklyn Nets",
     "champ": "Basket-ball. NBA",
     "heure": "01H00",
-    "date": "11/11/2026",
-    "pro": "V1 ET TP (215.5) - NON"
+    "date": "12/11/2026",
+    "pro": "V1 ET TM (226.5) - NON"
   
   }
 ]
