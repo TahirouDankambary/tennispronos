@@ -1,73 +1,73 @@
 [
   {
-    "photo1": "https://cdn.bebasket.fr/resources/images/team/bc-batumi-2010-logo-2026-1f1bd981-cf36-6c94-967e-f170181dbd92.png",
-    "name1": "Batumi",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFBKtEbwqAQCDl3hk1ackkNCKRj70d8LWC8VHbWT8jYA&s=10",
-    "name2": "Gladiators Trier",
-    "champ": "Basket-ball. Coupe d'Europe FIBA",
-    "heure": "16H00",
-    "date": "11/11/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Eo898_rYnnoCv4cHW0pyIkeKv2-vhLg0GZjC7vFtbw&s",
-    "name1": "Nefchi Ik",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TKZY2HzAhP0ydNaezQ3d1OtK9u--ReQetJQV6ECznw&s=10",
-    "name2": "Mykonoy",
-    "champ": "Basket-ball. Coupe d'Europe FIBA",
-    "heure": "16H00",
-    "date": "11/11/2026",
-    "pro": "Equipe gagne: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9FO4tKFwajbq5gQg7JIDLT-pT1Dy4ghlYbq7ZEHRIrw&s=10",
-    "name1": "Dinamo Bucuresti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/40/B%C3%A0squet_Girona_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Gérone",
-    "champ": "Basket-ball. Coupe d'Europe FIBA",
-    "heure": "17H00",
-    "date": "11/11/2026",
-    "pro": "V2 ET TP (168.5)- NON"
-  },
-  {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/BC_Lokomotiv_Plovdiv_logo.png/250px-BC_Lokomotiv_Plovdiv_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Lokomotiv Plovdiv",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR5nNMiGaZMMdCeG1DW7avsAv8TOZmNqVz3pwpfpyb&s=10",
-    "name2": "VEF Riga",
-    "champ": "Basket-ball. Coupe d'Europe FIBA",
-    "heure": "17H00",
-    "date": "11/11/2026",
-    "pro": "V1 ET TP (170.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KKuTN1csuUbovlm0MfZ7EK_dYHYdVe0CL0Zu1yhJDA&s=10",
-    "name1": "Knicks de New York",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj13Cv4m82Yg1AGn84f01MDj2MFYsKpBAyuMqLFGDMhw&s=10",
-    "name2": "Cleveland",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBKYStvWjKr1x_pFRgU9I4hMeP4ACZHJDhe2KYWxqew&s=10",
+    "name1": "Valencia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3ec7vEjuP2pAsvbmKjSxzDSeosnYeMYaN5I0WGopvA&s",
+    "name2": "Bayern Munich",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H30",
     "date": "12/11/2026",
-    "pro": "V1 ET TP (220.5)- NON"
+    "pro": "Total: (+179.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeftcqDSrbQ2Wd2yZyWH5370tSfCF3kJJH5kb7K0z9Hg&s=10",
+    "name1": "Olimpia Milano",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR69_uXa5cHkMDsELLWO5YtH1ohIC0Uhq0d7ZcXJkmFXA&s=10",
+    "name2": "Zalgiris",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H30",
+    "date": "12/11/2026",
+    "pro": "Total: (+160.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdGRbk_ZfxXNiIXdJjiJ5g-oqFiDe429g7zU2VDd__A&s=10",
+    "name1": "Real Madrid Baloncesto",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6vcGLzKSBZx6MgFg66askR_EyjTei-iEfFxYvyupO0g&s=10",
+    "name2": "Czvena Zvezda",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "20H00",
+    "date": "12/11/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/Fraport_Skyliners_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Skyliners Frankfurt",
+    "photo2": "https://www.ansa.it/webimages/news_base/2026/7/30/c29000473a83a354fe495cdccc7c0922.jpg",
+    "name2": "Maxima Roma",
+    "champ": "Basket-ball. EuroCoupe",
+    "heure": "19H00",
+    "date": "12/11/2026",
+    "pro": "V1 ET TP (168.5)- NON"
+  },
+  {
+    "photo1": "https://assets.fiba.basketball/image/upload/w_200/f_auto/q_auto/.logoflag--dark--organisation_68796?buster=20760",
+    "name1": "Gence",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yNhTjZNXSwPgHcp12ac-86tfYLtBc0nzM9I4s2BPOw&s=10",
+    "name2": "Esenler Erokspor",
+    "champ": "Basket-ball. Coupe d'Europe FIBA",
+    "heure": "15H00",
+    "date": "12/11/2026",
+    "pro": "Equipe gagne: V2"
     },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxGcE_4kTxyET3kBZihtj5Fwm_r2jU_fBKAud7MaiWw&s",
-    "name1": "Raptors de Toronto",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrMIDcZDbpjyn_9Bx70GwvInVPr_tFDWIpLXfpjuqbOw&s",
-    "name2": "Celtics de Boston",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_Washington_Wizards_-_2015.svg/langfr-250px-Logo_Washington_Wizards_-_2015.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name1": "Wizads de Washington",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNAz3rq3pjGqgTUAIUXWHqW_POEZHCBdR4fhxBB4UK4A&s=10",
+    "name2": "Pistons de Détroit",
     "champ": "Basket-ball. EuroCoupe",
     "heure": "00H00",
-    "date": "12/11/2026",
-    "pro": "Handicap: 2(-2.5)"
+    "date": "13/11/2026",
+    "pro": "Equipe gagne: V2"
    },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqmTSTZMZhm-yZkSQWTnCsJXBOnKAshL5EQK4Xo9eow&s",
-    "name1": "Pelicans de La Nouvelle-Orleans",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntNkWw9ghA8VSRkT8KtFI-nqdvZMsU4yyd_Dh2W_W5A&s=10",
-    "name2": "Brooklyn Nets",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-XrXUd4HOYWLRoEMmLJkBs4AZ93n2NkP3oj8-eAF_g&s",
+    "name1": "76ers de Philadelphie",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxGcE_4kTxyET3kBZihtj5Fwm_r2jU_fBKAud7MaiWw&s",
+    "name2": "Raptors de Toronto",
     "champ": "Basket-ball. NBA",
-    "heure": "01H00",
-    "date": "12/11/2026",
-    "pro": "V1 ET TM (226.5) - NON"
+    "heure": "00H00",
+    "date": "13/11/2026",
+    "pro": "Total: (+216.5)"
   
   }
 ]
