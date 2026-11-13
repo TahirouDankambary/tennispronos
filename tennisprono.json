@@ -1,73 +1,82 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBKYStvWjKr1x_pFRgU9I4hMeP4ACZHJDhe2KYWxqew&s=10",
-    "name1": "Valencia",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3ec7vEjuP2pAsvbmKjSxzDSeosnYeMYaN5I0WGopvA&s",
-    "name2": "Bayern Munich",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "19H30",
-    "date": "12/11/2026",
-    "pro": "Total: (+179.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeftcqDSrbQ2Wd2yZyWH5370tSfCF3kJJH5kb7K0z9Hg&s=10",
-    "name1": "Olimpia Milano",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR69_uXa5cHkMDsELLWO5YtH1ohIC0Uhq0d7ZcXJkmFXA&s=10",
-    "name2": "Zalgiris",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "19H30",
-    "date": "12/11/2026",
-    "pro": "Total: (+160.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdGRbk_ZfxXNiIXdJjiJ5g-oqFiDe429g7zU2VDd__A&s=10",
-    "name1": "Real Madrid Baloncesto",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6vcGLzKSBZx6MgFg66askR_EyjTei-iEfFxYvyupO0g&s=10",
-    "name2": "Czvena Zvezda",
-    "champ": "Basket-ball. Euroligue",
-    "heure": "20H00",
-    "date": "12/11/2026",
-    "pro": "Equipe gagne: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d5/Fraport_Skyliners_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Skyliners Frankfurt",
-    "photo2": "https://www.ansa.it/webimages/news_base/2026/7/30/c29000473a83a354fe495cdccc7c0922.jpg",
-    "name2": "Maxima Roma",
-    "champ": "Basket-ball. EuroCoupe",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8bCnffZFuS03OTx71NIAZi-RWRkm4-YXOqY_3XJfZA&s=10",
+    "name1": "Phoenix Hagen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQSBtKrKDlLGVHjQlT_cuIC47qGDCSbxEVi3FpQDCYg&s",
+    "name2": "MHP Riesen Ludwigsburg",
+    "champ": "Basket-ball. Championnat d'Allemagne",
     "heure": "19H00",
-    "date": "12/11/2026",
-    "pro": "V1 ET TP (168.5)- NON"
+    "date": "13/11/2026",
+    "pro": "V1 ET TP (167.5)- NON"
   },
   {
-    "photo1": "https://assets.fiba.basketball/image/upload/w_200/f_auto/q_auto/.logoflag--dark--organisation_68796?buster=20760",
-    "name1": "Gence",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yNhTjZNXSwPgHcp12ac-86tfYLtBc0nzM9I4s2BPOw&s=10",
-    "name2": "Esenler Erokspor",
-    "champ": "Basket-ball. Coupe d'Europe FIBA",
-    "heure": "15H00",
-    "date": "12/11/2026",
-    "pro": "Equipe gagne: V2"
-    },
-  {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_Washington_Wizards_-_2015.svg/langfr-250px-Logo_Washington_Wizards_-_2015.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Wizads de Washington",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNAz3rq3pjGqgTUAIUXWHqW_POEZHCBdR4fhxBB4UK4A&s=10",
-    "name2": "Pistons de Détroit",
-    "champ": "Basket-ball. EuroCoupe",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mEnD40kMaHuJ79jGDd3eToqz0KwCc068TN_4APMhKg&s=10",
+    "name1": "Elan Bearnais Pau-Lacq-Orthez",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCFp-YVonvtUpPHgpO0T1Hui0Czv_j45ZKXC0d71hfA&s=10",
+    "name2": "Strasbourg IG",
+    "champ": "Basket-ball. Championnat de France",
+    "heure": "19H00",
     "date": "13/11/2026",
-    "pro": "Equipe gagne: V2"
-   },
+    "pro": "V1 ET TM (170.5)- NON"
+  },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-XrXUd4HOYWLRoEMmLJkBs4AZ93n2NkP3oj8-eAF_g&s",
-    "name1": "76ers de Philadelphie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxGcE_4kTxyET3kBZihtj5Fwm_r2jU_fBKAud7MaiWw&s",
-    "name2": "Raptors de Toronto",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWUKzNtwDT7jqaAh1L3ZM2V7nccUiAntFIpN7wKckiQ&s",
+    "name1": "Panathinaikos",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3Vlj6Rb--5eZBIxWujun7z2qS9FtfqayJDInYaWzeQ&s=10",
+    "name2": "Barcelone",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H15",
+    "date": "13/11/2026",
+    "pro": "Total: (+167.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5C6BJpnDzE7yL07sGPTnOQoXaBw0kWSa6ezD_tIB_w&s=10",
+    "name1": "ASVEL Lyon-Villeurbanne",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9M8zhpSgZGjtJWJM6OKaUpQlu2N1kklOhLSYNzItcrQ&s=10",
+    "name2": "Besiktas",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H30",
+    "date": "13/11/2026",
+    "pro": "V1 ET TM (173.5)- NON"
+  },
+  {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/3/33/Pacers_de_l%27Indiana_2017.svg/langfr-250px-Pacers_de_l%27Indiana_2017.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name1": "Pacers de L'Indiana",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrSbcER4BQ4fxCEUfifyavpWgwV2WRfAegw8dz0eiMA&s",
+    "name2": "Knicks de New York",
     "champ": "Basket-ball. NBA",
     "heure": "00H00",
-    "date": "13/11/2026",
-    "pro": "Total: (+216.5)"
-  
+    "date": "14/11/2026",
+    "pro": "V1 ET TP (210.5)- NON"
+    },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDPg7wZwgx6UVsq6x3ZWonaoSMdaiQEWqY9_M7YRSgdw&s",
+    "name1": "Magic d'Orlando",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQis7LTimQ0KhzSCNQtsgVgNjnqHH2HcvFU6YcKhf5idg&s",
+    "name2": "Bucks de Milwaukee",
+    "champ": "Basket-ball. NBA",
+    "heure": "00H00",
+    "date": "14/11/2026",
+    "pro": "Equipe gagne: V1"
+   },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5k2zgMSx4-Vb56C_E7milqTmJlwf4xMh3c7tXaglIZQ&s",
+    "name1": "Heat de Miami",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj13Cv4m82Yg1AGn84f01MDj2MFYsKpBAyuMqLFGDMhw&s=10",
+    "name2": "Cleveland",
+    "champ": "Basket-ball. NBA",
+    "heure": "01H00",
+    "date": "14/11/2026",
+    "pro": "V1 ET TM (234.5)- NON"
+   },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqmTSTZMZhm-yZkSQWTnCsJXBOnKAshL5EQK4Xo9eow&s",
+    "name1": "Pelicans de La Nouvelle-Orléans",
+    "photo2": "https://a.espncdn.com/guid/af5d4942-aeb5-2d07-2a8a-f70b54617e51/logos/primary_logo_on_black_color.png",
+    "name2": "Grizzlies de Memphis",
+    "champ": "Basket-ball. NBA",
+    "heure": "01H00",
+    "date": "14/11/2026",
+    "pro": "V1 ET TP (230.5)- NON"
   }
 ]
