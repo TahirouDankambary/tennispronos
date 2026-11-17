@@ -1,73 +1,73 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6OkVWU0K3_G0g_Rc3E8kn32GTXfBbQFObRKbRxTBK0g&s=10",
-    "name1": "Bayern Munich",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0S7iD7CFGzDxLByY45VKyzW52y84yWfxqgJ_NBZOqVQ&s=10",
-    "name2": "Syntainics MBC",
-    "champ": "Basket-ball. Championnat d'Allemagne",
-    "heure": "15H30",
-    "date": "15/11/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv1-cuVXvylmJACEOLo3eHSIh9fbEJTljxtx0B3peU-A&s=10",
+    "name1": "Dubaï",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/ae/Logo_Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Anadolu Efes",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "16H00",
+    "date": "17/11/2026",
+    "pro": "Handicap: 2(16.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYOn_j9m36eJJqGykENtIFDfA9Vm1haZahoWQHVAyXQ&s=10",
-    "name1": "Niners Chemnitz",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEVwq9qHR86gEvAaFzzinINaopVK6rGLYlzHCVygVMQ&s=10",
-    "name2": "Loewen Brauschweig",
-    "champ": "Basket-ball. Championnat d'Allemagne",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWkhVmxm4blhYtSIeovCdVj8iIs0HFudCtreLBBd6whw&s=10",
+    "name1": "Maccabi Tel Aviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_Olympiacos_Basketball_-_2009.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Olympiakos Le Pirée",
+    "champ": "Basket-ball. Euroligue",
     "heure": "17H00",
-    "date": "15/11/2026",
+    "date": "17/11/2026",
+    "pro": "Handicap: 2(2.5)"
+  },
+  {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1280px-Logo_%C5%BDalgiris_Kaunas.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Zalgiris",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/FC_Bayern_M%C3%BCnchen_%28Basketball%29_Logo.svg/1280px-FC_Bayern_M%C3%BCnchen_%28Basketball%29_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Bayern Munich",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H00",
+    "date": "17/11/2026",
+    "pro": "Total: (+161.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6fU8vWtC7LrNmNBTGKN9Rf8lG-QxL103fB3NEiUsPVw&s=10",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "ASVEL Lyon",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H00",
+    "date": "17/11/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5BHQT4kyJonr0ohd8iPoByMDKIASwtyQCtp9wlN18CA&s=10",
-    "name1": "Parma Perm",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijMvrGBwbyhxFrvl-BdqbFAZ0pny9a5v_Cv47yHiaFw&s",
-    "name2": "Zénith Saint-Pétersbourg",
-    "champ": "Basket-ball. VTB United Ligue",
-    "heure": "12H00",
-    "date": "15/11/2026",
-    "pro": "V1 ET TP (157.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-XrXUd4HOYWLRoEMmLJkBs4AZ93n2NkP3oj8-eAF_g&s",
-    "name1": "76ers de Philadelphie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd43n1GbCmlUOxnOzy0sEV4VXBkx0W83kcL1cdFzjBXw&s",
-    "name2": "Pacers de l'Indiana",
-    "champ": "Basket-ball. NBA",
-    "heure": "18H00",
-    "date": "15/11/2026",
-    "pro": "V2 ET TM (226.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiunusDxLXLY3SUiTc4TjZJoE_IErEFaCfgMLNlLH0kg&s",
-    "name1": "Suns de Phoenix",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfjvwTqbf8fbO35IvKk-VmFtT_t9Eg6BpYKW3X8QS_7g&s=10",
-    "name2": "Los Angeles Lakers",
-    "champ": "Basket-ball. NBA",
-    "heure": "21H000",
-    "date": "15/11/2026",
-    "pro": "V1 ET TP (224.5)- NON"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_NX9BiWL73lv9Bypv4qVqHrMFWidnWfjGcM8KD79CA&s=10",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bc/Paris_Basketball_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Paris",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H30",
+    "date": "17/11/2026",
+    "pro": "V1 ET TP (188.5) - NON"
     },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4NuajguY-DYp8SfKzizMHjFkkO3rMYqp8mIk3AXF-xw&s=10",
-    "name1": "Clippers de Los Angeles",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlY4HMia0gJSOT7esspcm9kAdHUXHSd0Bkbz4ZfgoMg&s=10",
-    "name2": "Charlotte Hornets",
-    "champ": "Basket-ball. NBA",
-    "heure": "21H30",
-    "date": "15/11/2026",
-    "pro": "V1 ET TP (213.5)- NON"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Saski_Baskonia.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Saski Baskonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/64/Hapoel_Tel_Aviv.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Hapoel Tel Aviv",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H30",
+    "date": "17/11/2026",
+    "pro": "Total: (+174.5)"
    },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrMIDcZDbpjyn_9Bx70GwvInVPr_tFDWIpLXfpjuqbOw&s",
-    "name1": "Celtics de Boston",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmImJLHSVMBe483Vo87WZmsiCmM4S455z4gNEoIprDkw&s=10",
-    "name2": "Mavericks de Dallas",
-    "champ": "Basket-ball. NBA",
-    "heure": "23H00",
-    "date": "15/11/2026",
-    "pro": "Equipe gagne: V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/48/Logo_Olimpia_Milano_-_2016.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Olimpia Milano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/52/Logo_%C3%89toile_Rouge_Belgrade_Basketball.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Crvena Zvezda",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "19H30",
+    "date": "17/11/2026",
+    "pro": "Handicap: 2(8.5)"
    },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxGcE_4kTxyET3kBZihtj5Fwm_r2jU_fBKAud7MaiWw&s",
@@ -75,8 +75,28 @@
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KKuTN1csuUbovlm0MfZ7EK_dYHYdVe0CL0Zu1yhJDA&s=10",
     "name2": "Knicks de New York",
     "champ": "Basket-ball. NBA",
-    "heure": "23H00",
-    "date": "15/11/2026",
-    "pro": "V1 ET TM (215.5)- NON"
+    "heure": "00H30",
+    "date": "18/11/2026",
+    "pro": "V1 ET TM (218.5) - NON"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxxwKFG8fFHVMHuTcO5GW00obPWVoU4P-NPclzSDIQAg&s=10",
+    "name1": "Timberwolves",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_Portland_Trail_Blazers_-_2017.svg/1280px-Logo_Portland_Trail_Blazers_-_2017.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Portland Trail Blazers",
+    "champ": "Basket-ball. NBA",
+    "heure": "01H00",
+    "date": "18/11/2026",
+    "pro": "Total: (+222.5)"
+  },
+    {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/a/a2/San_Antonio_Spurs.svg/1280px-San_Antonio_Spurs.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "San Antonio Spurs",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/langfr-250px-Logo_of_the_Detroit_Pistons.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Pistons de Détroit",
+    "champ": "Basket-ball. NBA",
+    "heure": "01H00",
+    "date": "18/11/2026",
+    "pro": "Equipe gagne: V1"
   }
 ]
