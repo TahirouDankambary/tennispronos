@@ -1,92 +1,82 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-XrXUd4HOYWLRoEMmLJkBs4AZ93n2NkP3oj8-eAF_g&s",
-    "name1": "76ers de Philadelphie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ40EB4vGwn1MYubiCgc7mNTVXOARkrExxlKSfKr3rRwA&s=10",
-    "name2": "Porland Trail Blazers",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9M8zhpSgZGjtJWJM6OKaUpQlu2N1kklOhLSYNzItcrQ&s=10",
+    "name1": "Baiktas",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiuggiMd8anxU-SDJKLIEsDj8TqTE0-7puGYfJi27DyQ&s=10",
+    "name2": "Paris",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "17H00",
     "date": "24/11/2026",
-    "pro": "V2 ET TM (229.5) - NON"
+    "pro": "V1 ET TP (182.5) - NON"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlY4HMia0gJSOT7esspcm9kAdHUXHSd0Bkbz4ZfgoMg&s=10",
-    "name1": "Charlotte Hornets",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM7dr9pStF5yNbwpjdESW4NmxYFZum-_wnbz0e97iLAA&s=10",
-    "name2": "Grizzlies de Memphis",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H00",
-    "date": "24/11/2026",
-    "pro": "V2 ET TP (218.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd43n1GbCmlUOxnOzy0sEV4VXBkx0W83kcL1cdFzjBXw&s",
-    "name1": "Pacers de l'Indiana",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1280px-Oklahoma_City_Thunder.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Oklahoma Ciy Thunder",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H30",
-    "date": "24/11/2026",
-    "pro": "V1 ET TM (221.5)- NON"
-  },
-  {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1280px-Minnesota_Timberwolves_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Timberwolves du Minnesota",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntNkWw9ghA8VSRkT8KtFI-nqdvZMsU4yyd_Dh2W_W5A&s=10",
-    "name2": "Brooklyn Nets",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H30",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTys1SmPg-Dg37VdQUzK84MWE5rd3aqwgFdyqx77Oz9Mg&s",
+    "name1": "Crvena Zvezda",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbTosEIP8ssT8Vc8hRIUDebiaHLxy5Zo1xZVjC1ASt8g&s=10",
+    "name2": "Virtus Ganarolo Bologna",
+    "champ": "Basket-ball. Euroligue",
+    "heure": "18H00",
     "date": "24/11/2026",
     "pro": "Equipe gagne: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxGcE_4kTxyET3kBZihtj5Fwm_r2jU_fBKAud7MaiWw&s",
-    "name1": "Raptors de Toronto",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQis7LTimQ0KhzSCNQtsgVgNjnqHH2HcvFU6YcKhf5idg&s",
-    "name2": "Bucks de Milwaukee",
-    "champ": "Basket-ball. NBA",
-    "heure": "00H30",
-    "date": "24/11/2026",
-    "pro": "Equipe gagne: V1"
-    },
-  {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/e/e2/New_Orleans_Pelicans_2023.png/250px-New_Orleans_Pelicans_2023.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Pelicans de La Nouvelle-Orléans",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiunusDxLXLY3SUiTc4TjZJoE_IErEFaCfgMLNlLH0kg&s",
-    "name2": "Suns de Phoenix",
-      "champ": "Basket-ball. NBA",
-    "heure": "01H00",
-    "date": "24/11/2026",
-    "pro": "V1 ET TP (231.5)- NON"
-   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpGhPCWa49svHlCRpO9gkgmW3LoAzanrIMiyzxeb75g&s=10",
-    "name1": "Bulls de Chicago",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj13Cv4m82Yg1AGn84f01MDj2MFYsKpBAyuMqLFGDMhw&s=10",
-    "name2": "Cleveland",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJBCH6kBcynFcQYysDK1FZXkugdRsqYMoFeWr9NfNTKQ&s=10",
+    "name1": "Wizards de Washington",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuaIbdKDsTN9jPlglhiP10xzyD_d_Jda52zQF8Mif2A&s",
+    "name2": "Celtics de Boston",
     "champ": "Basket-ball. NBA",
     "heure": "01H00",
-    "date": "24/11/2026",
-    "pro": "V2 ET TP (242.5)- NON"
-   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgGV0pr7KnsmOoQdrIJe7o2T5a0FJEWrul-Vptck2jg&s=10",
-    "name1": "Rockets de Houston",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4NuajguY-DYp8SfKzizMHjFkkO3rMYqp8mIk3AXF-xw&s=10",
-    "name2": "Clippers de Los Angeles",
-    "champ": "Basket-ball. NBA",
-    "heure": "01H30",
-    "date":"24/11/2026",
-    "pro": "Equipe gagne: V1"
+    "date": "25/11/2026",
+    "pro": "Equipe gagne: V2"
   },
-    {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/langfr-250px-Los_Angeles_Lakers_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Los Angeles Lakers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Jazz de l'Utah",
+  {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/3/35/Nuggets_de_Denver_2018.png/250px-Nuggets_de_Denver_2018.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name1": "Denver Nuggets",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/langfr-250px-Mavericks_de_Dallas_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Mavericks de Dallas",
     "champ": "Basket-ball. NBA",
     "heure": "03H00",
+    "date": "25/11/2026",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZrS8x6u5nqxPpuIK02P8R1bIh0T-blbOPcE_eK3Hz_g&s=10",
+    "name1": "Elitzur Netanya",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1XdVAlPmhktYYAMIAZy13dxoXoIc_75i_sxV9fZZhEQ&s=10",
+    "name2": "Hapoel Haifa",
+    "champ": "Basket-ball. Israel. Loigue nationale",
+    "heure": "16H15",
     "date": "24/11/2026",
+    "pro": "1X"
+    },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7IzKmmeLf_1XiZbn1SlYrUjI7qb3BMq8uKmTW0J7ts37P8uqCfn7nEg&s=10",
+    "name1": "Bochas Sport Club de Colonia Caroya",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnVE7BkvjcWPGhUHysx96rhj5RCz-ZFrTjtZu_uS7h4g&s=10",
+    "name2": "El Ceibo",
+      "champ": "Basket-ball. Argenine. 2ème divison",
+    "heure": "00H00",
+    "date": "25/11/2026",
+    "pro": "Handicap: 2(2.5)"
+   },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwQvrhgigI96Oz_NMn7hBk8iKaeM65J8f9ZFhBcjpfjQ&s=10",
+    "name1": "Cicilista Juninense",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4PFZKWQMdEORPTtbPF9J05leC_Q-M3b3Kysp5Y0s91A&s=10",
+    "name2": "Union de Mardel Plata",
+    "champ": "Basket-ball. Argenine. 2ème divison",
+    "heure": "00H00",
+    "date": "25/11/2026",
+    "pro": "Equipe gagne: V1"
+   },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoATQJUQKgT9THSU65--dDRcKYdqVo8flMqV-I6yn6yQ&s=10",
+    "name1": "Maccabi Rehovot",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS6drPMDZrNPdfxwDo-MBKNJejOnKIgHrsCLCvjg2ukw&s=10",
+    "name2": "Maccabi Kiryat-Gat",
+    "champ": "Basket-ball. Israel. Ligue nationale",
+    "heure": "16H30",
+    "date":"24/11/2026",
     "pro": "Equipe gagne: V1"
 
   }
